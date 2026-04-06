@@ -27,6 +27,12 @@ jobs:
       - name: Run bot script
         run: python bot_stock.py
 
+      - name: Send Discord Notification
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python discord_notify.py
+        continue-on-error: true
+
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action Bot"
