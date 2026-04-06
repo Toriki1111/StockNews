@@ -2,10 +2,8 @@ name: Daily Multi-Sector Bot
 
 on:
   schedule:
-    # 22:47 UTC tương đương 05:47 AM giờ Việt Nam
-    # Chạy tất cả các ngày trong tuần (0-6) để giữ GitHub luôn xanh
     - cron: '47 22 * * *'
-  workflow_dispatch: # Vẫn giữ nút này để bạn có thể bấm chạy tay bất cứ lúc nào
+  workflow_dispatch:
   repository_dispatch:
     types: [trigger-event]
 
@@ -34,6 +32,5 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           git add autocommit.txt
-          # Commit ngay cả khi dữ liệu cũ để duy trì đóng góp (Contribution)
           git commit -m "daily: market update log [skip ci]" || echo "No changes"
           git push
