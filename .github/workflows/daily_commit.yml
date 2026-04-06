@@ -1,4 +1,4 @@
-name: Daily Multi-Sector Bot
+name: US stock report
 
 on:
   schedule:
