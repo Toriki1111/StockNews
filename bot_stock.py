@@ -1,50 +1,54 @@
-from vnstock import Vnstock 
+import yfinance as yf
 from datetime import datetime
 import time
 
-# Danh sách các mã họ P bạn quan tâm
-STOCKS = ["BSR", "PVT", "PVC"]
+# Danh sách 3 mã dầu khí lớn nhất sàn Mỹ
+STOCKS = ["XOM", "CVX", "COP"]
 
-def get_market_data():
+def get_us_stock_data():
     now = datetime.now().strftime('%d/%m/%Y %H:%M:%S')
-    content = f"### 📊 Market Update - {now}\n\n"
-    content += "| Ticker | Price (VND) | Source | Status |\n"
-    content += "| :--- | :--- | :--- | :--- |\n"
+    content = f"### 🌎 Global Oil Market Update (US) - {now}\n\n"
+    content += "| Ticker | Company | Price (USD) | Change (%) | Status |\n"
+    content += "| :--- | :--- | :--- | :--- | :--- |\n"
     
-    print(f"Starting bot at {now}...")
+    print(f"Starting US Stock bot at {now}...")
     
     for symbol in STOCKS:
         try:
             print(f"Fetching data for {symbol}...")
-            # Sử dụng thư viện vnstock mới nhất
-            stock = Vnstock().stock(symbol=symbol, source='VND')
+            # Truy vấn dữ liệu từ Yahoo Finance
+            ticker = yf.Ticker(symbol)
             
-            # Lấy dữ liệu lịch sử gần nhất
-            df = stock.quote.history(start='2026-04-01', end='2026-04-06')
+            # Lấy thông tin giá nhanh (Fast Info)
+            info = ticker.fast_info
+            current_price = info['last_price']
+            prev_close = info['previous_close']
             
-            if not df.empty:
-                # Lấy giá đóng cửa dòng cuối cùng và nhân 1000
-                last_price = df.iloc[-1]['close'] * 1000
-                content += f"| **{symbol}** | {last_price:,.0f} | VNDIRECT | ✅ |\n"
-            else:
-                content += f"| **{symbol}** | N/A | No Data | ❓ |\n"
+            # Tính toán % thay đổi
+            change_pc = ((current_price - prev_close) / prev_close) * 100
             
-            time.sleep(1) # Nghỉ 1s giữa các mã
+            # Chọn icon theo biến động
+            icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
+            
+            content += f"| **{symbol}** | {symbol} Corp | ${current_price:.2f} | {change_pc:+.2f}% | {icon} |\n"
+            
+            # Nghỉ 1s để đảm bảo không bị API giới hạn
+            time.sleep(1)
             
         except Exception as e:
             print(f"Error fetching {symbol}: {e}")
-            content += f"| **{symbol}** | Error | {str(e)[:20]}... | ⚠️ |\n"
+            content += f"| **{symbol}** | Error | N/A | N/A | ⚠️ |\n"
             
     return content
 
 if __name__ == "__main__":
-    # Lấy dữ liệu
-    report_content = get_market_data()
+    # 1. Lấy dữ liệu chứng khoán Mỹ
+    report_content = get_us_stock_data()
     
-    # Ghi vào file log
+    # 2. Ghi vào file autocommit.txt
     try:
         with open("autocommit.txt", "a", encoding="utf-8") as f:
             f.write(report_content + "\n---\n")
-        print("Update successful!")
+        print("Successfully updated autocommit.txt with US data!")
     except Exception as e:
-        print(f"File error: {e}")
+        print(f"File writing error: {e}")
