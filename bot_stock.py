@@ -44,11 +44,11 @@ def get_multi_sector_data():
 if __name__ == "__main__":
     new_report = get_multi_sector_data()
     file_name = "autocommit.txt"
-
+    temp_file = "latest_news.tmp"
     # BƯỚC QUAN TRỌNG: Tạo file tạm cho Discord
     with open(temp_file, "w", encoding="utf-8") as tmp:
         tmp.write(new_report)
-        
+
     # Đọc dữ liệu cũ và giới hạn số dòng
     old_content = ""
     if os.path.exists(file_name):
