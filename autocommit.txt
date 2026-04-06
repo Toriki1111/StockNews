@@ -22,3 +22,12 @@ Last update: Mon Apr  6 02:39:03 UTC 2026
 | **PVC** | Error | Supported sources: K... | ⚠️ |
 
 ---
+### 🌎 Global Oil Market Update (US) - 06/04/2026 03:37:32
+
+| Ticker | Company | Price (USD) | Change (%) | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **XOM** | XOM Corp | $160.69 | +0.75% | 🟢 |
+| **CVX** | CVX Corp | $198.97 | +1.41% | 🟢 |
+| **COP** | COP Corp | $130.52 | +2.34% | 🟢 |
+
+---
