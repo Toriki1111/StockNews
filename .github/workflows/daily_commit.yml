@@ -2,9 +2,9 @@ name: Daily Stock Bot
 
 on:
   schedule:
-    # Chạy vào 00:00 UTC (tức 07:00 sáng giờ Việt Nam) mỗi ngày
+    # Chạy vào 00:00 UTC (07:00 sáng VN) mỗi ngày
     - cron: '0 0 * * *'
-  workflow_dispatch: # Cho phép bạn bấm nút "Run workflow" thủ công để test
+  workflow_dispatch: # Cho phép bấm nút chạy tay để test
 
 jobs:
   build:
@@ -17,24 +17,22 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' # Dùng bản 3.10 để ổn định nhất với vnstock3
+          python-version: '3.10'
 
-      # Bước này cực kỳ quan trọng, cài đặt các "đồ nghề" cho Bot
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests vnstock3 pandas
+          # Cài vnstock (mới) và ipython để tránh lỗi hiển thị của thư viện
+          pip install requests vnstock pandas ipython
 
-      # Chạy file Python để lấy giá chứng khoán BSR, PVT, PVC
       - name: Run bot script
         run: python bot_stock.py
 
-      # Tự động Commit và Push lên GitHub để "nhuộm xanh" profile
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           git add autocommit.txt
-          # Chỉ commit nếu có thay đổi trong file txt, tránh lỗi khi không có gì mới
+          # Commit nếu có thay đổi, tránh lỗi khi file ko đổi
           git commit -m "daily: update stock log [skip ci]" || echo "No changes to commit"
           git push
