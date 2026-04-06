@@ -1,8 +1,9 @@
 import yfinance as yf
 from datetime import datetime
 import time
+import os
 
-# Dictionary mapping Sectors to their "Big Three" leaders
+# Danh sách theo dõi các ngành trọng điểm
 WATCHLIST = {
     "Defense": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
@@ -33,7 +34,7 @@ def get_multi_sector_data():
                 
                 content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {icon} |\n"
                 
-                time.sleep(1) 
+                time.sleep(1) # Tránh bị chặn bởi API
             except Exception as e:
                 print(f"Error fetching {symbol}: {e}")
                 content += f"| {sector} | **{symbol}** | Error | N/A | ⚠️ |\n"
@@ -41,7 +42,19 @@ def get_multi_sector_data():
     return content
 
 if __name__ == "__main__":
-    report = get_multi_sector_data()
-    with open("autocommit.txt", "a", encoding="utf-8") as file:
-        file.write(report + "\n---\n")
-    print("Market update complete!")
+    new_report = get_multi_sector_data()
+    file_name = "autocommit.txt"
+    
+    # Đọc dữ liệu cũ và giới hạn số dòng
+    old_content = ""
+    if os.path.exists(file_name):
+        with open(file_name, "r", encoding="utf-8") as file:
+            # Đọc tối đa 1000 dòng cuối cùng để file không quá nặng
+            lines = file.readlines()
+            old_content = "".join(lines[:1000]) 
+
+    # Ghi đè file: [Dữ liệu mới] + [Dữ liệu cũ đã cắt bớt]
+    with open(file_name, "w", encoding="utf-8") as file:
+        file.write(new_report + "\n" + "-"*40 + "\n\n" + old_content)
+        
+    print(f"Successfully updated {file_name}. Log rotated to keep it lightweight.")
