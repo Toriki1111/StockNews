@@ -1,8 +1,8 @@
-from vnstock3 import Vnstock
+from vnstock import Vnstock 
 from datetime import datetime
 import time
 
-# Danh sách các mã họ P bạn đang theo dõi
+# Danh sách các mã họ P bạn quan tâm
 STOCKS = ["BSR", "PVT", "PVC"]
 
 def get_market_data():
@@ -16,21 +16,20 @@ def get_market_data():
     for symbol in STOCKS:
         try:
             print(f"Fetching data for {symbol}...")
-            # Sử dụng Vnstock để lấy dữ liệu từ nguồn VND (VNDIRECT)
+            # Sử dụng thư viện vnstock mới nhất
             stock = Vnstock().stock(symbol=symbol, source='VND')
             
-            # Lấy bảng giá lịch sử gần nhất (5 ngày gần đây để đảm bảo có dữ liệu)
+            # Lấy dữ liệu lịch sử gần nhất
             df = stock.quote.history(start='2026-04-01', end='2026-04-06')
             
             if not df.empty:
-                # iloc[-1] lấy dòng cuối cùng (phiên gần nhất)
+                # Lấy giá đóng cửa dòng cuối cùng và nhân 1000
                 last_price = df.iloc[-1]['close'] * 1000
                 content += f"| **{symbol}** | {last_price:,.0f} | VNDIRECT | ✅ |\n"
             else:
                 content += f"| **{symbol}** | N/A | No Data | ❓ |\n"
             
-            # Nghỉ 1 giây giữa các lần gọi để tránh bị nghi ngờ là bot spam
-            time.sleep(1)
+            time.sleep(1) # Nghỉ 1s giữa các mã
             
         except Exception as e:
             print(f"Error fetching {symbol}: {e}")
@@ -39,14 +38,13 @@ def get_market_data():
     return content
 
 if __name__ == "__main__":
-    # 1. Lấy dữ liệu chứng khoán
+    # Lấy dữ liệu
     report_content = get_market_data()
     
-    # 2. Ghi vào file nhật ký autocommit.txt
-    # Chế độ 'a' (append) giúp bạn giữ lại lịch sử các ngày trước đó
+    # Ghi vào file log
     try:
         with open("autocommit.txt", "a", encoding="utf-8") as f:
             f.write(report_content + "\n---\n")
-        print("Successfully updated autocommit.txt")
+        print("Update successful!")
     except Exception as e:
-        print(f"File writing error: {e}")
+        print(f"File error: {e}")
