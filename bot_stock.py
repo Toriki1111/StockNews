@@ -4,11 +4,11 @@ import time
 
 # Dictionary mapping Sectors to their "Big Three" leaders
 WATCHLIST = {
+    "Defense": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
     "Tech": ["AAPL", "MSFT", "GOOGL"],
     "Finance": ["JPM", "BAC", "GS"],
-    "Precious Metals": ["GC=F", "SI=F", "GOLD"],
-    "Defense": ["LMT", "RTX", "NOC"] # Lockheed Martin, Raytheon, Northrop Grumman
+    "Precious Metals": ["GC=F", "SI=F", "GOLD"]
 }
 
 def get_multi_sector_data():
@@ -21,7 +21,6 @@ def get_multi_sector_data():
         print(f"Processing Sector: {sector}")
         for symbol in tickers:
             try:
-                # Fetch data from Yahoo Finance
                 ticker = yf.Ticker(symbol)
                 info = ticker.fast_info
                 
@@ -29,10 +28,7 @@ def get_multi_sector_data():
                 prev_close = info['previous_close']
                 change_pc = ((current_price - prev_close) / prev_close) * 100
                 
-                # Visual indicator
                 icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
-                
-                # Clean up symbol names for display
                 display_symbol = symbol.replace("=F", "")
                 
                 content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {icon} |\n"
@@ -48,4 +44,4 @@ if __name__ == "__main__":
     report = get_multi_sector_data()
     with open("autocommit.txt", "a", encoding="utf-8") as file:
         file.write(report + "\n---\n")
-    print("Market update with Defense sector complete!")
+    print("Market update complete!")
