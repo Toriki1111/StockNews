@@ -1,8 +1,8 @@
 name: US stock report
 
 on:
-  schedule:
-    - cron: '47 22 * * *'
+ # schedule:
+   # - cron: '47 22 * * *'
   workflow_dispatch:
   repository_dispatch:
     types: [trigger-event]
