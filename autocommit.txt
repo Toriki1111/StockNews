@@ -13,3 +13,12 @@ Last update: Mon Apr  6 02:39:03 UTC 2026
 | Error | Connection Issue | - | ⚠️ |
 
 ---
+### 📊 Market Update - 06/04/2026 03:33:52
+
+| Ticker | Price (VND) | Source | Status |
+| :--- | :--- | :--- | :--- |
+| **BSR** | Error | Supported sources: K... | ⚠️ |
+| **PVT** | Error | Supported sources: K... | ⚠️ |
+| **PVC** | Error | Supported sources: K... | ⚠️ |
+
+---
