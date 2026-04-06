@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Thêm quyền này để đảm bảo Bot có thể đẩy code lên lại repo
+    # added this make sure bot push 
     permissions:
       contents: write
 
