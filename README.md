@@ -24,7 +24,7 @@ This is an automated bot designed to maintain GitHub contribution activity while
 - `autocommit.txt`: The destination file where daily logs are appended.
 
 ## ⚙️ How it Works
-1. The workflow is triggered automatically every day at **00:00 UTC** (07:00 AM ICT).
+1. The workflow is triggered automatically every day at **30:00 UTC** (10:00 AM ICT).
 2. The Python script runs and generates a summary for the tracked stock symbols.
 3. GitHub Actions commits the changes to the repository using a dedicated `GITHUB_TOKEN`.
 4. The contribution activity is updated instantly on the user profile.
