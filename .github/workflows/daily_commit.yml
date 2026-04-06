@@ -19,6 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
+             pip install requests vnstock3
 
       - name: Run bot script
         run: python bot_stock.py
