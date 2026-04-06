@@ -6,3 +6,10 @@ Last update: Mon Apr  6 02:39:03 UTC 2026
 | Error | Failed to fetch data: HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v2/hosts/quotes/symbols?symbols=BSR,PVT,PVC (Caused by NewConnectionError("HTTPSConnection(host='finfo-api.vndirect.com.vn', port=443): Failed to establish a new connection: [Errno 110] Connection timed out")) | - |
 
 ---
+### 📊 Stock Report - 06/04/2026 03:22:18
+
+| Ticker | Price (VND) | Change (%) | Status |
+| :--- | :--- | :--- | :--- |
+| Error | Connection Issue | - | ⚠️ |
+
+---
