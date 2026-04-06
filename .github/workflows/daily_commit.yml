@@ -1,10 +1,9 @@
-name: Daily Auto Commit
+name: Daily Stock Bot
 
 on:
   schedule:
-    # Chạy vào 00:00 UTC mỗi ngày (khoảng 7:00 sáng giờ Việt Nam)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Cho phép bạn bấm nút chạy thử thủ công
+    - cron: '0 0 * * *' # 7h sáng VN
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,14 +12,21 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Update file
-        run: |
-          echo "Last update: $(date)" > autocommit.txt
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run bot script
+        run: python bot_stock.py
 
       - name: Commit and Push
         run: |
           git config --global user.name "Toriki1111"
           git config --global user.email "tranhungphu105@gmail.com"
-          git add autocommit.txt
-          git commit -m "chore: daily auto commit [skip ci]" || echo "No changes to commit"
+          git add .
+          git commit -m "update: daily stock log [skip ci]" || echo "No changes"
           git push
