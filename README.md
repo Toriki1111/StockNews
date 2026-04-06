@@ -2,14 +2,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Automation](https://img.shields.io/badge/Automation-GitHub_Actions-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Trigger](https://img.shields.io/badge/External_Trigger-Cron--job.org-orange)
 
-An automated tool designed to track "The Big Three" market leaders across major global sectors. This project monitors market trends and maintains daily GitHub contribution activity through automated logging.
+An automated tool designed to track "The Big Three" market leaders across major global sectors. This project monitors market trends and maintains consistent GitHub contribution activity through automated logging.
 
 ## 🚀 Key Features
-- **Fully Automated:** Powered by GitHub Actions to run on a daily schedule (00:00 UTC).
-- **Multi-Sector Monitoring:** Tracks the top 3 entities in Defense, Energy, Tech, Finance, and Precious Metals.
-- **Real-time Data:** Fetches live market metrics and price fluctuations via the Yahoo Finance API.
+- **Reliable Automation:** Triggered via `repository_dispatch` using **cron-job.org** to ensure 100% uptime and daily commits.
+- **Multi-Sector Monitoring:** Tracks top 3 entities in Defense, Energy, Tech, Finance, and Precious Metals.
+- **Real-time Data:** Fetches live market metrics and price fluctuations via the `yfinance` API.
 - **Persistence:** Automatically appends detailed reports to `autocommit.txt` with timestamped entries.
 
 ## 🏢 Watchlist Overview
@@ -24,10 +24,15 @@ An automated tool designed to track "The Big Three" market leaders across major 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.10
 - **Library:** `yfinance` (Yahoo Finance API), `pandas`
-- **Automation:** GitHub Actions (CI/CD)
+- **Infrastructure:** GitHub Actions (CI/CD)
+- **External Scheduler:** Cron-job.org (via REST API)
 
 ## 📝 Workflow Logic
-1. **Trigger:** GitHub Actions initiates the workflow based on the defined `cron` schedule.
-2. **Data Fetching:** The `bot_stock.py` script queries the Yahoo Finance API for current market data.
-3. **Processing:** Data is formatted into Markdown tables with visual status indicators (🟢/🔴).
-4. **Auto-Commit:** The system stages, commits, and pushes the updated log back to the repository.
+1. **External Trigger:** Cron-job.org sends a POST request to the GitHub API every morning.
+2. **Action Initiation:** The `repository_dispatch` event triggers the `daily_commit.yml` workflow.
+3. **Data Fetching:** The Python script queries live market data for all sectors in the watchlist.
+4. **Processing:** Data is formatted into Markdown tables with status indicators (🟢/🔴).
+5. **Auto-Commit:** The system stages, commits, and pushes the updated log to maintain the repository's activity streak.
+
+---
+*Automated Market Intelligence Tool*
