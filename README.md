@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![Market Data](https://img.shields.io/badge/Data-Yahoo_Finance-7B0099?logo=yahoo&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Cloud_Native-success)
+![Cron-Job.org](https://img.shields.io/badge/Cron--Job.org-Trigger-orange?logo=clockify&logoColor=white)
 
 **Automatic US Market Stock** is a professional-grade automated data pipeline. It monitors, processes, and archives global financial indicators (US Equities, Energy, and Precious Metals) 24/7 without requiring a dedicated server.
 
