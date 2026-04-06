@@ -18,8 +18,7 @@ def send_to_discord():
         report_content = f.read()
 
     payload = {
-        "username": "Market Guardian Bot",
-        "avatar_url": "https://cdn-icons-png.flaticon.com/512/1553/1553155.png",
+        "content": "🔔 **Cập nhật thị trường mới nhất đây!**",
         "embeds": [{
             "title": "📊 Daily Global Market Report",
             "description": report_content,
