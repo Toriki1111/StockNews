@@ -1,38 +1,65 @@
-# 📈 Global Multi-Sector Market Tracker
+# 📈 Automatic US Market Stock
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Automation](https://img.shields.io/badge/Automation-GitHub_Actions-green)
-![Trigger](https://img.shields.io/badge/External_Trigger-Cron--job.org-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+![Market Data](https://img.shields.io/badge/Data-Yahoo_Finance-7B0099?logo=yahoo&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Cloud_Native-success)
 
-An automated tool designed to track "The Big Three" market leaders across major global sectors. This project monitors market trends and maintains consistent GitHub contribution activity through automated logging.
-
-## 🚀 Key Features
-- **Reliable Automation:** Triggered via `repository_dispatch` using **cron-job.org** to ensure 100% uptime and daily commits.
-- **Multi-Sector Monitoring:** Tracks top 3 entities in Defense, Energy, Tech, Finance, and Precious Metals.
-- **Real-time Data:** Fetches live market metrics and price fluctuations via the `yfinance` API.
-- **Persistence:** Automatically appends detailed reports to `autocommit.txt` with timestamped entries.
-
-## 🏢 Watchlist Overview
-| Sector | Market Leaders |
-| :--- | :--- |
-| **Defense** | Lockheed Martin (LMT), Raytheon (RTX), Northrop Grumman (NOC) |
-| **Energy** | ExxonMobil (XOM), Chevron (CVX), ConocoPhillips (COP) |
-| **Tech** | Apple (AAPL), Microsoft (MSFT), Alphabet (GOOGL) |
-| **Finance** | JPMorgan (JPM), Bank of America (BAC), Goldman Sachs (GS) |
-| **Precious Metals** | Gold (GC=F), Silver (SI=F), Barrick Gold (GOLD) |
-
-## 🛠️ Tech Stack
-- **Language:** Python 3.10
-- **Library:** `yfinance` (Yahoo Finance API), `pandas`
-- **Infrastructure:** GitHub Actions (CI/CD)
-- **External Scheduler:** Cron-job.org (via REST API)
-
-## 📝 Workflow Logic
-1. **External Trigger:** Cron-job.org sends a POST request to the GitHub API every morning.
-2. **Action Initiation:** The `repository_dispatch` event triggers the `daily_commit.yml` workflow.
-3. **Data Fetching:** The Python script queries live market data for all sectors in the watchlist.
-4. **Processing:** Data is formatted into Markdown tables with status indicators (🟢/🔴).
-5. **Auto-Commit:** The system stages, commits, and pushes the updated log to maintain the repository's activity streak.
+**Automatic US Market Stock** is a professional-grade automated data pipeline. It monitors, processes, and archives global financial indicators (US Equities, Energy, and Precious Metals) 24/7 without requiring a dedicated server.
 
 ---
-*Automated Market Intelligence Tool*
+
+## 🚀 Key Features
+
+* **Autonomous Operation:** Fully managed via GitHub Actions and triggered by Cron-job.org for 100% uptime.
+* **Data Archiving & Logging:** Automatically maintains `autocommit.txt`, a self-rotating ledger of the last 1,000 market updates.
+* **ICT Timezone (GMT+7):** Synchronized with Vietnam Standard Time for accurate local reporting.
+* **GitHub Activity Boost:** Generates daily automated commits ("Green Grass") to showcase active repository maintenance.
+
+---
+
+## 💡 Flexible Output Options
+
+This system is designed to be versatile. Users can choose how they want to receive or store their data:
+
+1.  **Logging Mode (Default):** The system fetches data and saves it directly to `autocommit.txt` in the repository. Perfect for building a historical dataset.
+2.  **Notification Mode (Optional):** Integrate with **Discord Webhooks** to receive real-time visual reports on your server. 
+    * *Note: If you don't want Discord notifications, simply do not add the `DISCORD_WEBHOOK_URL` secret, and the system will continue to log data silently.*
+
+---
+
+## 📊 Monitored Assets
+
+The pipeline tracks strategic tickers for a global market overview:
+* **Tech:** AAPL, MSFT, GOOGL.
+* **Energy:** XOM, CVX, COP.
+* **Defense:** LMT, RTX, NOC.
+* **Finance:** JPM, BAC, GS.
+* **Safe Havens(Gold,Silver,...):** Gold (GC=F), Silver (SI=F).
+(U can modify code of this part if want to add somthing )
+---
+
+## 🛠️ Technical Architecture
+
+| Layer | Technology |
+| :--- | :--- |
+| **Language** | Python 3.10 |
+| **API** | Yahoo Finance (`yfinance`) |
+| **Orchestration** | GitHub Actions (CI/CD) |
+| **Trigger** | Repository Dispatch (via Cron-job.org) |
+| **Storage** | Flat-file Logging (`autocommit.txt`) |
+
+---
+
+## ⚙️ Quick Setup
+
+1.  **Fork** this repository.
+2.  **Enable Actions**: Go to the **Actions** tab and enable workflows.
+3.  **Permissions**: Go to **Settings > Actions > General** and select **"Read and write permissions"**.
+4.  **(Optional) Discord**: Add your webhook URL to GitHub Secrets as `DISCORD_WEBHOOK_URL`.
+5.  **Trigger**: Link your repository dispatch endpoint with Cron-job.org.
+
+---
+
+## 🛡️ License
+Distributed under the MIT License.
