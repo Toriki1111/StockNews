@@ -1,39 +1,43 @@
 import requests
 from datetime import datetime
 
-# Danh sách các mã bạn quan tâm (Họ P)
 stocks = ["BSR", "PVT", "PVC"]
 
 def get_live_stock():
+    # Sử dụng API của SSI (iBoard) - thường thân thiện hơn với các dải IP cloud
+    url = "https://wgateway-iboard.ssi.com.vn/api/v1/Board/stock/list"
+    payload = {"stockSymbols": stocks}
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        'Content-Type': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
-    # Sử dụng API của VNDIRECT (khá ổn định và không cần key phức tạp)
-    url = f"https://finfo-api.vndirect.com.vn/v2/hosts/quotes/symbols?symbols={','.join(stocks)}"
     
-    content = f"## 📈 Stock Log - {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n\n"
-    content += "| Ticker | Price (VND) | Change (%) |\n|---|---|---|\n"
+    now = datetime.now().strftime('%d/%m/%Y %H:%M:%S')
+    content = f"### 📊 Stock Report - {now}\n\n"
+    content += "| Ticker | Price (VND) | Change (%) | Status |\n| :--- | :--- | :--- | :--- |\n"
     
     try:
-        response = requests.get(url, headers=headers)
-        data = response.json()['data']
+        # Gửi request POST đến SSI
+        response = requests.post(url, json=payload, headers=headers, timeout=15)
+        response.raise_for_status()
+        data = response.json().get('data', [])
         
         for item in data:
-            symbol = item['symbol']
-            price = item['lastPrice'] * 1000 # Convert to VND
-            change = item['changePc']
+            symbol = item.get('ss') # Ticker
+            price = item.get('l', 0) * 1000 # Last price
+            change_pc = item.get('cp', 0) # Change percentage
             
-            # Thêm icon cho trực quan
-            icon = "🔴" if change < 0 else "🟢"
-            content += f"| **{symbol}** | {price:,.0f} | {icon} {change}% |\n"
+            icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
+            content += f"| **{symbol}** | {price:,.0f} | {change_pc}% | {icon} |\n"
             
     except Exception as e:
-        content += f"| Error | Failed to fetch data: {str(e)} | - |\n"
-    
+        # Nếu vẫn lỗi, bot vẫn sẽ ghi log để "nhuộm xanh" GitHub nhưng báo lỗi data
+        content += f"| Error | Connection issue (SSI) | - | ⚠️ |\n"
+        print(f"Log: {str(e)}")
+        
     return content
 
 if __name__ == "__main__":
-    stock_data = get_live_stock()
-    # Lưu vào file autocommit.txt (chế độ "a" để cộng dồn hoặc "w" để ghi đè mỗi ngày)
+    report = get_live_stock()
     with open("autocommit.txt", "a", encoding="utf-8") as f:
-        f.write(stock_data + "\n---\n")
+        f.write(report + "\n---\n")
