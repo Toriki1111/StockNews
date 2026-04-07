@@ -12,9 +12,7 @@ WATCHLIST = {
     "Precious Metals": ["GC=F", "SI=F", "GOLD"]
 }
 
-def get_multi_sector_data():
-    now_utc = datetime.utcnow()
-    now_vn = now_utc + timedelta(hours=7)
+
     
     timestamp = now_vn.strftime('%d/%m/%Y %H:%M:%S')
     content = f"### 📊 Global Market Update - {timestamp}\n\n"
