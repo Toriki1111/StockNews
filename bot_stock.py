@@ -7,7 +7,7 @@ import os
 WATCHLIST = {
     "Defense": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
-    "Tech": ["AAPL", "MSFT", "GOOGL"],
+    "Tech": ["TSLA", "AAPL", "MSFT", "GOOGL"],
     "Finance": ["JPM", "BAC", "GS"],
     "Precious Metals": ["GC=F", "SI=F", "GOLD"]
 }
