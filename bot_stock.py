@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import time
 import os
 
-# Danh sách theo dõi các ngành trọng điểm
+# List of sectors and their corresponding stock tickers
 WATCHLIST = {
     "Defense": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
@@ -60,7 +60,7 @@ if __name__ == "__main__":
             lines = file.readlines()
             old_content = "".join(lines[:1000]) 
 
-    # Ghi đè file: [Dữ liệu mới] + [Dữ liệu cũ đã cắt bớt]
+    # Over write file : [Dữ liệu mới] + [Dữ liệu cũ đã cắt bớt]
     with open(file_name, "w", encoding="utf-8") as file:
         file.write(new_report + "\n" + "-"*40 + "\n\n" + old_content)
         
