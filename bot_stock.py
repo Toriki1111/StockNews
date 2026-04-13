@@ -37,7 +37,7 @@ def get_multi_sector_data():
                 
                 content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {icon} |\n"
                 
-                time.sleep(1) # Tránh bị chặn bởi API
+                time.sleep(1) #prevent getting block API
             except Exception as e:
                 print(f"Error fetching {symbol}: {e}")
                 content += f"| {sector} | **{symbol}** | Error | N/A | ⚠️ |\n"
@@ -48,7 +48,7 @@ if __name__ == "__main__":
     new_report = get_multi_sector_data()
     file_name = "autocommit.txt"
     temp_file = "latest_news.tmp"
-    # BƯỚC QUAN TRỌNG: Tạo file tạm cho Discord
+    # Important: create file for discord
     with open(temp_file, "w", encoding="utf-8") as tmp:
         tmp.write(new_report)
 
@@ -56,7 +56,7 @@ if __name__ == "__main__":
     old_content = ""
     if os.path.exists(file_name):
         with open(file_name, "r", encoding="utf-8") as file:
-            # Đọc tối đa 1000 dòng cuối cùng để file không quá nặng
+            # Read maximum 1000 lines in log
             lines = file.readlines()
             old_content = "".join(lines[:1000]) 
 
