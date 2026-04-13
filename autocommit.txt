@@ -1,3 +1,26 @@
+### 📊 Global Market Update - 14/04/2026 05:47:34
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| Defense | **LMT** | $619.69 | +0.50% | 🟢 |
+| Defense | **RTX** | $201.41 | -0.64% | 🔴 |
+| Defense | **NOC** | $681.31 | +0.85% | 🟢 |
+| Energy | **XOM** | $152.64 | +0.10% | 🟢 |
+| Energy | **CVX** | $191.78 | +1.77% | 🟢 |
+| Energy | **COP** | $123.62 | +0.70% | 🟢 |
+| Tech | **TSLA** | $352.42 | +0.32% | 🟢 |
+| Tech | **AAPL** | $259.20 | -0.69% | 🔴 |
+| Tech | **MSFT** | $384.37 | +3.41% | 🟢 |
+| Tech | **GOOGL** | $321.31 | +1.10% | 🟢 |
+| Finance | **JPM** | $313.68 | +1.20% | 🟢 |
+| Finance | **BAC** | $53.35 | +1.43% | 🟢 |
+| Finance | **GS** | $890.79 | -2.28% | 🔴 |
+| Precious Metals | **GC** | $4,771.60 | +0.63% | 🟢 |
+| Precious Metals | **SI** | $75.82 | +1.81% | 🟢 |
+| Precious Metals | **GOLD** | $43.96 | -0.07% | 🔴 |
+
+----------------------------------------
+
 ### 📊 Global Market Update - 13/04/2026 05:47:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
