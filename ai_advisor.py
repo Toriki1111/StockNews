@@ -14,7 +14,7 @@ def get_ai_advice(market_data):
         # 2. KHẮC PHỤC LỖI 404: Tạo model và ép dùng API v1
         # Chúng ta dùng cấu hình từ thư viện core để đảm bảo không bị nhảy version
         model = genai.GenerativeModel(
-            model_name='gemini-1.5-flash'
+            model_name='gemini-1.5-flash-latest'
         )
         
         prompt = f"Summarize this US stock market data in 3-4 professional English sentences: {market_data}"
