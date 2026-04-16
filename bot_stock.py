@@ -1,5 +1,6 @@
 import yfinance as yf
 import pandas as pd
+from ai_advisor import get_ai_advice
 from datetime import datetime, timedelta
 from analyzer import add_indicators, get_signal
 import time
@@ -61,11 +62,16 @@ def get_multi_sector_data():
 
 if __name__ == "__main__":
     new_report = get_multi_sector_data()
+
+    #IMPORTANT: If you dont want to use AI advice, delete the line below and change full_content_with_ai to full_content_with_ai = new_report in the 2nd code below
+    ai_advice = get_ai_advice(new_report)
+    full_content_with_ai = new_report + "\n" + ai_advice 
+
     file_name = "autocommit.txt"
     temp_file = "latest_news.tmp"
-    # Important: create file for discord
+    # Important: create file for discord to read, then we can safely rotate logs without worrying about file locks or read/write conflicts
     with open(temp_file, "w", encoding="utf-8") as tmp:
-        tmp.write(new_report)
+        tmp.write(full_content_with_ai)
 
     # Read old datas and limit lines
     old_content = ""
@@ -77,7 +83,7 @@ if __name__ == "__main__":
 
     # Over write file : [Dữ liệu mới] + [Dữ liệu cũ đã cắt bớt]
     with open(file_name, "w", encoding="utf-8") as file:
-        file.write(new_report + "\n" + "-"*40 + "\n\n" + old_content)
+        file.write(full_content_with_ai + "\n" + "-"*40 + "\n\n" + old_content)
         
     print(f"Successfully updated {file_name}. Log rotated to keep it lightweight.")
 
