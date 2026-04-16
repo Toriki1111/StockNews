@@ -1,0 +1,22 @@
+### 📊 USA Market Update - 17/04/2026 00:16:44
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $603.50 | -1.24% | Ổn định 🔴 |
+| Military | **RTX** | $194.42 | -2.00% | Ổn định 🔴 |
+| Military | **NOC** | $671.18 | -1.09% | Ổn định 🔴 |
+| Energy | **XOM** | $152.73 | +2.50% | Ổn định 🟢 |
+| Energy | **CVX** | $188.15 | +1.75% | Ổn định 🟢 |
+| Energy | **COP** | $121.75 | +2.38% | Ổn định 🟢 |
+| Tech | **TSLA** | $388.08 | -0.99% | Ổn định 🔴 |
+| Tech | **AAPL** | $263.34 | -1.16% | Ổn định 🔴 |
+| Tech | **MSFT** | $417.89 | +1.62% | ⚠️ Quá mua 🟢 |
+| Tech | **GOOGL** | $336.22 | -0.27% | ⚠️ Quá mua 🔴 |
+| Finance | **JPM** | $307.39 | +0.48% | Ổn định 🟢 |
+| Finance | **BAC** | $53.58 | -1.35% | Ổn định 🔴 |
+| Finance | **GS** | $904.73 | +0.58% | Ổn định 🟢 |
+| Precious Metals | **GC** | $4,812.80 | +0.27% | Ổn định 🟢 |
+| Precious Metals | **SI** | $78.69 | -1.00% | Ổn định 🔴 |
+| Precious Metals | **GOLD** | $46.87 | +4.18% | Ổn định 🟢 |
+
+----------------------------------------
+
