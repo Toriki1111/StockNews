@@ -4,7 +4,8 @@ from analyzer import add_indicators, get_signal
 import time
 import os
 
-yf.pdr_override()
+import yfinance.shared as shared
+shared._column_name_map = {}
 # List of sectors and their corresponding stock tickers
 WATCHLIST = {
     "Defense": ["LMT", "RTX", "NOC"],
