@@ -1,4 +1,4 @@
-google-genai
+anthropic
 yfinance
 pandas
 requests
