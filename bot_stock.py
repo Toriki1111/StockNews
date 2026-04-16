@@ -30,7 +30,9 @@ def get_multi_sector_data():
             try:
                 # Thay vì dùng fast_info, ta tải bảng dữ liệu 1 tháng
                 df = yf.download(symbol, period="60d", interval="1d", progress=False)
-                
+                if isinstance(df.columns, pd.MultiIndex):
+                    df.columns = df.columns.get_level_values(0)
+                    
                 if not df.empty:
                     # Gửi bảng này qua file analyzer để tính toán
                     df = add_indicators(df)
