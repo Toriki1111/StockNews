@@ -11,7 +11,7 @@ def get_ai_advice(market_data):
 
     # 2. Đường dẫn chuẩn của Google (Ép dùng v1 - Stable)
     # Chúng ta gọi thẳng vào endpoint mà không qua SDK nào cả
-    url = f"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={api_key}"
     
     # 3. Cấu hình Header
     headers = {
