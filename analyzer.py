@@ -23,11 +23,11 @@ def add_indicators(df):
 def get_signal(row):
     # check if RSI is NaN (e.g., not enough data to calculate)
     if pd.isna(row.get('RSI')):
-        return "Tích lũy"
+        return "Grinding"
         
     rsi_val = row['RSI']
     if rsi_val > 70:
-        return "⚠️ Quá mua"
+        return "⚠️ Overbought!"
     elif rsi_val < 30:
-        return "✅ Quá bán"
-    return "Ổn định"
+        return "✅ Oversale"
+    return "Stable"
