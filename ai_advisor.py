@@ -3,53 +3,40 @@ import os
 import json
 
 def get_ai_advice(market_data):
-    # 1. Lấy API Key từ GitHub Secrets
     api_key = os.getenv("AI_KEY")
-    
     if not api_key:
-        return "\n*(Note: AI_KEY not found in environment)*\n"
+        return "\n*(Note: AI_KEY not found)*\n"
 
-    # 2. Đường dẫn chuẩn của Google (Ép dùng v1 - Stable)
-    # Chúng ta gọi thẳng vào endpoint mà không qua SDK nào cả
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={api_key}"
+    # PHƯƠNG ÁN 2026: Dùng Gemini 2.0 Flash (Model mặc định mới của Google)
+    # Lưu ý: Model 2.0 dùng endpoint v1alpha hoặc v1beta tùy vùng, mình sẽ dùng v1beta
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
     
-    # 3. Cấu hình Header
-    headers = {
-        "Content-Type": "application/json"
-    }
+    headers = {"Content-Type": "application/json"}
     
-    # 4. Cấu hình Body dữ liệu (JSON Payload) theo đúng chuẩn Google yêu cầu
     payload = {
-        "contents": [
-            {
-                "parts": [
-                    {
-                        "text": f"You are a professional financial analyst. Based on this market data, provide a concise summary (3-4 sentences) and highlight 2 interesting tickers in English:\n\n{market_data}"
-                    }
-                ]
-            }
-        ],
-        "generationConfig": {
-            "temperature": 0.7,
-            "maxOutputTokens": 500
-        }
+        "contents": [{
+            "parts": [{
+                "text": f"Professional financial summary in English (3 sentences) for this data: {market_data}"
+            }]
+        }]
     }
 
     try:
-        # 5. Gửi yêu cầu đi
-        response = requests.post(url, headers=headers, data=json.dumps(payload))
+        response = requests.post(url, headers=headers, data=json.dumps(payload), timeout=15)
         
-        # Kiểm tra nếu phản hồi lỗi
+        # Nếu vẫn 404, chúng ta sẽ gọi API để xem chính xác Phu được dùng model nào
+        if response.status_code == 404:
+            list_url = f"https://generativelanguage.googleapis.com/v1beta/models?key={api_key}"
+            list_res = requests.get(list_url).json()
+            models = [m['name'] for m in list_res.get('models', [])]
+            return f"\n*(Lỗi 404: Model 2.0 không tìm thấy. Các model bạn có quyền dùng là: {', '.join(models)})*\n"
+
         if response.status_code != 200:
-            return f"\n*(API Error: {response.status_code} - {response.text})*\n"
-        
-        # 6. Bóc tách dữ liệu JSON trả về
+            return f"\n*(API Error: {response.status_code})*\n"
+
         result = response.json()
-        
-        # Dữ liệu của Gemini nằm ở: candidates -> content -> parts -> text
         advice_text = result['candidates'][0]['content']['parts'][0]['text']
-        
-        return f"\n---\n### 🤖 AI Financial Advisor (Direct REST API):\n\n{advice_text}\n\n*Analysis powered by Gemini 1.5 Flash*"
+        return f"\n---\n### 🤖 AI Financial Advisor (Gemini 2.0):\n\n{advice_text}"
 
     except Exception as e:
         return f"\n*(Connection Error: {str(e)})*\n"
