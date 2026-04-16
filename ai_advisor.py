@@ -1,36 +1,26 @@
-import google.generativeai as genai
+from google import genai
 import os
 
 def get_ai_advice(market_data):
     api_key = os.getenv("AI_KEY")
     
     if not api_key:
-        return "\n*(Note: AI_KEY not found in environment variables)*\n"
+        return "\n*(Note: AI_KEY not found)*\n"
 
     try:
-        # Cấu hình API Key
-        genai.configure(api_key=api_key)
+        # Unified SDK sử dụng Client object
+        client = genai.Client(api_key=api_key)
         
-        # Khởi tạo model - dùng tên chuẩn
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        # Cú pháp mới: models.generate_content
+        response = client.models.generate_content(
+            model='gemini-1.5-flash',
+            contents=f"Please analyze this US market data in English: {market_data}"
+        )
         
-        prompt = f"""
-        You are a senior financial analyst. Analyze this market data:
-        {market_data}
-        
-        Requirements:
-        - Language: English.
-        - Summary: 3-4 sentences.
-        - Highlights: 2 stocks.
-        """
-        
-        # Gọi API
-        response = model.generate_content(prompt)
-        
-        advice_content = f"\n---\n### 🤖 AI Financial Advisor Analysis:\n\n"
+        advice_content = f"\n---\n### 🤖 AI Financial Advisor (New SDK):\n\n"
         advice_content += response.text
-        advice_content += "\n\n*Disclaimer: For educational purposes only.*"
+        advice_content += "\n\n*Disclaimer: Technical analysis for educational purposes only.*"
         
         return advice_content
     except Exception as e:
-        return f"\n*(AI Error: {str(e)})*\n"
+        return f"\n*(AI Migration Error: {str(e)})*\n"
