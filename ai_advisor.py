@@ -1,28 +1,24 @@
-import anthropic
+import google.generativeai as genai
 import os
 
 def get_ai_advice(market_data):
-    # Lấy Key của Claude (đã dán vào Secret AI_KEY)
+    # Lấy Key Phu vừa mới tạo ngày hôm nay dán vào GitHub Secret nhé
     api_key = os.getenv("AI_KEY")
     
     if not api_key:
-        return "\n*(Note: Claude API Key not found)*\n"
+        return "\n*(Note: AI_KEY not found)*\n"
 
     try:
-        client = anthropic.Anthropic(api_key=api_key)
+        # Cấu hình kiểu cũ nhưng cực kỳ chắc chắn
+        genai.configure(api_key=api_key)
         
-        # Gọi model Claude 3.5 Sonnet hoặc Claude 3 Haiku
-        message = client.messages.create(
-            model="claude-3-haiku-20240307", # Bản Haiku chạy rất nhanh và rẻ
-            max_tokens=500,
-            messages=[
-                {
-                    "role": "user", 
-                    "content": f"Analyze this US stock data in professional English: {market_data}"
-                }
-            ]
-        )
+        # Gọi model 1.5-flash
+        model = genai.GenerativeModel('gemini-1.5-flash')
         
-        return f"\n---\n### 🤖 Claude AI Advisor:\n\n{message.content[0].text}"
+        prompt = f"Analyze this market data in 3-4 professional English sentences: {market_data}"
+        
+        response = model.generate_content(prompt)
+        
+        return f"\n---\n### 🤖 AI Financial Advisor:\n\n{response.text}\n\n*Free Tier Analysis*"
     except Exception as e:
-        return f"\n*(Claude Error: {str(e)})*\n"
+        return f"\n*(Gemini Error: {str(e)})*\n"
