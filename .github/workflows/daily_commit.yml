@@ -27,7 +27,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests yfinance pandas
-          pip install yfinance pandas pandas_ta
+          pip install https://github.com/twopirllc/pandas-ta/archive/master.zip
 
       - name: Run bot script
         run: python bot_stock.py
