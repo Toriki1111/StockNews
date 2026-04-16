@@ -28,7 +28,7 @@ def get_multi_sector_data():
         print(f"Processing Sector: {sector}")
         for symbol in tickers:
             try:
-                # Thay vì dùng fast_info, ta tải bảng dữ liệu 1 tháng
+                # Thay vì dùng fast_info, ta tải bảng dữ liệu 60 days
                 df = yf.download(symbol, period="60d", interval="1d", progress=False)
                 if isinstance(df.columns, pd.MultiIndex):
                     df.columns = df.columns.get_level_values(0)
