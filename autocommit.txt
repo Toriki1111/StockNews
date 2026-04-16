@@ -14,7 +14,7 @@
 | Tech | **GOOGL** | $337.76 | +0.19% | ⚠️ Quá mua 🟢 |
 | Finance | **JPM** | $308.06 | +0.70% | Ổn định 🟢 |
 | Finance | **BAC** | $53.71 | -1.12% | Ổn định 🔴 |
-| Finance | **GS** | $904.67 | +0.58% | Ổn định 🟢 |
+| Finance | **GS** | $904.67 | +0.58% | Ổn định 🟢 | 
 | Precious Metals | **GC** | $4,810.90 | +0.23% | Ổn định 🟢 |
 | Precious Metals | **SI** | $78.59 | -1.13% | Ổn định 🔴 |
 | Precious Metals | **GOLD** | $46.94 | +4.34% | Ổn định 🟢 |
