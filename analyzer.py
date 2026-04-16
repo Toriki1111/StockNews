@@ -4,10 +4,10 @@ def add_indicators(df):
     if df.empty:
         return df
     
-    # Đảm bảo dữ liệu là số
+    # Make sure 'Close' column exists
     close = df['Close']
     
-    # 1. Tự tính RSI (Công thức chuẩn)
+    # 1. calculate RSI
     delta = close.diff()
     gain = (delta.where(delta > 0, 0)).ewm(alpha=1/14, adjust=False).mean()
     loss = (-delta.where(delta < 0, 0)).ewm(alpha=1/14, adjust=False).mean()
@@ -21,7 +21,7 @@ def add_indicators(df):
     return df
 
 def get_signal(row):
-    # Kiểm tra nếu RSI là NaN
+    # check if RSI is NaN (e.g., not enough data to calculate)
     if pd.isna(row.get('RSI')):
         return "Tích lũy"
         

@@ -20,7 +20,7 @@ def send_to_discord():
     payload = {
         "content": "🔔 **Cập nhật thị trường mới nhất đây!**",
         "embeds": [{
-            "title": "📊 Daily Global Market Report",
+            "title": "📊 DAILY USA MARKET REPORT",
             "description": report_content,
             "color": 5814783,
             "timestamp": datetime.utcnow().isoformat(),

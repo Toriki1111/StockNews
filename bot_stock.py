@@ -9,7 +9,7 @@ import yfinance.shared as shared
 shared._column_name_map = {}
 # List of sectors and their corresponding stock tickers
 WATCHLIST = {
-    "Defense": ["LMT", "RTX", "NOC"],
+    "Military": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
     "Tech": ["TSLA", "AAPL", "MSFT", "GOOGL"],
     "Finance": ["JPM", "BAC", "GS"],
@@ -21,7 +21,7 @@ def get_multi_sector_data():
     now_vn = now_utc + timedelta(hours=7)
     
     timestamp = now_vn.strftime('%d/%m/%Y %H:%M:%S')
-    content = f"### 📊 Global Market Update - {timestamp}\n\n"
+    content = f"### 📊 USA Market Update - {timestamp}\n\n"
     content += "| Sector | Ticker | Price (USD) | Change (%) | Status |\n"
     
     for sector, tickers in WATCHLIST.items():
@@ -34,22 +34,22 @@ def get_multi_sector_data():
                     df.columns = df.columns.get_level_values(0)
                     
                 if not df.empty:
-                    # Gửi bảng này qua file analyzer để tính toán
+                    # sending this to file analyzer to calculate indicators and get signal
                     df = add_indicators(df)
                     latest = df.iloc[-1] # Dòng mới nhất
                     prev = df.iloc[-2]   # Dòng ngày hôm trước
                     
                     current_price = latest['Close']
-                    # Tính % thay đổi dựa trên giá đóng cửa hôm trước
+                    # calculating percentage change from previous close to current price
                     change_pc = ((current_price - prev['Close']) / prev['Close']) * 100
                     
-                    # Lấy status từ hàm get_signal bạn đã viết
+                    # Get signal from analyzer based on indicators
                     status_signal = get_signal(latest)
                     
                     icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
                     display_symbol = symbol.replace("=F", "")
                     
-                    # Thêm status_signal vào cột cuối cùng của bảng
+                    # Format the content for Discord
                     content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {status_signal} {icon} |\n"
                 
                 time.sleep(1)
