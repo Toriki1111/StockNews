@@ -18,7 +18,7 @@ def send_to_discord():
         report_content = f.read()
 
     payload = {
-        "content": "🔔 **Cập nhật thị trường mới nhất đây!**",
+        "content": "🔔 **UPDATED NEWEST US STOCK!**",
         "embeds": [{
             "title": "📊 DAILY USA MARKET REPORT",
             "description": report_content,
