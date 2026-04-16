@@ -23,7 +23,6 @@ def get_multi_sector_data():
     timestamp = now_vn.strftime('%d/%m/%Y %H:%M:%S')
     content = f"### 📊 Global Market Update - {timestamp}\n\n"
     content += "| Sector | Ticker | Price (USD) | Change (%) | Status |\n"
-    content += "| :--- | :--- | :--- | :--- | :--- |\n"
     
     for sector, tickers in WATCHLIST.items():
         print(f"Processing Sector: {sector}")
