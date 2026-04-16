@@ -17,10 +17,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-        
-      - name: Install dependencies
-        run: |
-          pip install yfinance pandas pandas_ta
           
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -31,6 +27,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests yfinance pandas
+          pip install yfinance pandas pandas_ta
 
       - name: Run bot script
         run: python bot_stock.py
