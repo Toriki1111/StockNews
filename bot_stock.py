@@ -1,5 +1,6 @@
 import yfinance as yf
 from datetime import datetime, timedelta
+from analyzer import add_indicators, get_signal
 import time
 import os
 
@@ -25,22 +26,32 @@ def get_multi_sector_data():
         print(f"Processing Sector: {sector}")
         for symbol in tickers:
             try:
-                ticker = yf.Ticker(symbol)
-                info = ticker.fast_info
+                # Thay vì dùng fast_info, ta tải bảng dữ liệu 1 tháng
+                df = yf.download(symbol, period="1mo", interval="1d", progress=False)
                 
-                current_price = info['last_price']
-                prev_close = info['previous_close']
-                change_pc = ((current_price - prev_close) / prev_close) * 100
+                if not df.empty:
+                    # Gửi bảng này qua file analyzer để tính toán
+                    df = add_indicators(df)
+                    latest = df.iloc[-1] # Dòng mới nhất
+                    prev = df.iloc[-2]   # Dòng ngày hôm trước
+                    
+                    current_price = latest['Close']
+                    # Tính % thay đổi dựa trên giá đóng cửa hôm trước
+                    change_pc = ((current_price - prev['Close']) / prev['Close']) * 100
+                    
+                    # Lấy status từ hàm get_signal bạn đã viết
+                    status_signal = get_signal(latest)
+                    
+                    icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
+                    display_symbol = symbol.replace("=F", "")
+                    
+                    # Thêm status_signal vào cột cuối cùng của bảng
+                    content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {status_signal} {icon} |\n"
                 
-                icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
-                display_symbol = symbol.replace("=F", "")
-                
-                content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {icon} |\n"
-                
-                time.sleep(1) #prevent getting block API
+                time.sleep(1)
             except Exception as e:
-                print(f"Error fetching {symbol}: {e}")
-                content += f"| {sector} | **{symbol}** | Error | N/A | ⚠️ |\n"
+                print(f"Error processing {symbol}: {e}")
+                content += f"| {sector} | **{symbol}** | Error fetching data |\n"
                 
     return content
 
@@ -65,3 +76,4 @@ if __name__ == "__main__":
         file.write(new_report + "\n" + "-"*40 + "\n\n" + old_content)
         
     print(f"Successfully updated {file_name}. Log rotated to keep it lightweight.")
+
