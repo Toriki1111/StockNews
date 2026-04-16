@@ -9,8 +9,8 @@ def add_indicators(df):
     
     # 1. Tự tính RSI (Công thức chuẩn)
     delta = close.diff()
-    gain = (delta.where(delta > 0, 0)).rolling(window=14).mean()
-    loss = (-delta.where(delta < 0, 0)).rolling(window=14).mean()
+    gain = (delta.where(delta > 0, 0)).ewm(alpha=1/14, adjust=False).mean()
+    loss = (-delta.where(delta < 0, 0)).ewm(alpha=1/14, adjust=False).mean()
     
     rs = gain / loss
     df['RSI'] = 100 - (100 / (1 + rs))
