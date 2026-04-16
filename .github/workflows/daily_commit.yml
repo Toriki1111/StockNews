@@ -33,8 +33,10 @@ jobs:
 
       - name: Send Discord Notification
         env:
+          AI_KEY: ${{ secrets.AI_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python discord_notify.py
+             python bot_stock.py
         continue-on-error: true
 
       - name: Commit and Push
