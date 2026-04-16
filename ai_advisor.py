@@ -1,4 +1,4 @@
-from google import genai
+import google.generativeai as genai
 import os
 
 def get_ai_advice(market_data):
@@ -8,30 +8,24 @@ def get_ai_advice(market_data):
         return "\n*(Note: AI_KEY not found in environment variables)*\n"
 
     try:
-        # Khởi tạo Client theo chuẩn SDK 2026
-        client = genai.Client(api_key=api_key)
+        # Cấu hình API Key
+        genai.configure(api_key=api_key)
+        
+        # Khởi tạo model - dùng tên chuẩn
+        model = genai.GenerativeModel('gemini-1.5-flash')
         
         prompt = f"""
-        You are a senior financial analyst. Process this market data with a step-by-step reasoning approach:
-        
-        DATA:
+        You are a senior financial analyst. Analyze this market data:
         {market_data}
         
-        INSTRUCTIONS:
-        1. Macro Analysis: Identify the strongest and weakest sectors.
-        2. Technical Focus: Spot any tickers with RSI signals.
-        3. Strategic Advice: Provide a concise English summary.
-        
-        OUTPUT REQUIREMENT:
+        Requirements:
         - Language: English.
-        - Tone: Sharp and professional.
+        - Summary: 3-4 sentences.
+        - Highlights: 2 stocks.
         """
         
-        # Sửa lỗi 404 bằng cách gọi model chuẩn
-        response = client.models.generate_content(
-            model='gemini-1.5-flash', # Lưu ý: Không cần thêm tiền tố 'models/'
-            contents=prompt
-        )
+        # Gọi API
+        response = model.generate_content(prompt)
         
         advice_content = f"\n---\n### 🤖 AI Financial Advisor Analysis:\n\n"
         advice_content += response.text
@@ -39,4 +33,4 @@ def get_ai_advice(market_data):
         
         return advice_content
     except Exception as e:
-        return f"\n*(AI Error: {e})*\n"
+        return f"\n*(AI Error: {str(e)})*\n"
