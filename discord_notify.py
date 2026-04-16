@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 def send_to_discord():
-    webhook_url = os.getenv("DISCORD_WEBHOOK_URL")
+    webhook_url = os.getenv("DISCORD_WEBHOOK_URL") #github SECRETS
     temp_file = "latest_news.tmp"
     
     if not webhook_url:
