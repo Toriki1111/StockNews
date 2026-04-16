@@ -67,7 +67,7 @@ if __name__ == "__main__":
     with open(temp_file, "w", encoding="utf-8") as tmp:
         tmp.write(new_report)
 
-    # Đọc dữ liệu cũ và giới hạn số dòng
+    # Read old datas and limit lines
     old_content = ""
     if os.path.exists(file_name):
         with open(file_name, "r", encoding="utf-8") as file:
