@@ -67,7 +67,7 @@ if __name__ == "__main__":
     ai_advice = get_ai_advice(new_report)
     full_content_with_ai = new_report + "\n" + ai_advice 
 
-    file_name = "autocommit.txt"
+    file_name = "daily_stock.txt"
     temp_file = "latest_news.tmp"
     # Important: create file for discord to read, then we can safely rotate logs without worrying about file locks or read/write conflicts
     with open(temp_file, "w", encoding="utf-8") as tmp:
