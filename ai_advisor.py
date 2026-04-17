@@ -28,7 +28,7 @@ def get_ai_advice(market_data):
 
         result = response.json()
         advice_text = result['candidates'][0]['content']['parts'][0]['text']
-        return f"\n---\n### 🤖 AI Financial Advisor:\n\n{advice_text}"
+        return f"\n---\n### AI Financial Advisor:\n\n{advice_text}"
 
     except Exception as e:
         return f"\n*(Connection Error: {str(e)})*\n"
