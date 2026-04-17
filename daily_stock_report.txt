@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 18/04/2026 02:01:03
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $593.33 | -2.33% | Stable 🔴 |
+| Military | **RTX** | $197.10 | +0.64% | Stable 🟢 |
+| Military | **NOC** | $666.43 | -0.94% | Stable 🔴 |
+| Energy | **XOM** | $146.47 | -3.63% | Stable 🔴 |
+| Energy | **CVX** | $183.71 | -2.36% | Stable 🔴 |
+| Energy | **COP** | $116.04 | -4.55% | Stable 🔴 |
+| Tech | **TSLA** | $401.63 | +3.27% | Stable 🟢 |
+| Tech | **AAPL** | $270.00 | +2.51% | Stable 🟢 |
+| Tech | **MSFT** | $421.78 | +0.36% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $341.78 | +1.71% | ⚠️ Overbought! 🟢 |
+| Finance | **JPM** | $311.43 | +0.48% | Stable 🟢 |
+| Finance | **BAC** | $54.01 | +0.93% | Stable 🟢 |
+| Finance | **GS** | $923.55 | +2.62% | Stable 🟢 |
+| Precious Metals | **GC** | $4,879.90 | +1.97% | Stable 🟢 |
+| Precious Metals | **SI** | $81.79 | +4.04% | Stable 🟢 |
+| Precious Metals | **GOLD** | $48.67 | +4.36% | Stable 🟢 |
+
+
+*(AI Error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 18/04/2026 01:01:04
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@
 | :--- | :--- | :--- | :--- | :--- |
 | Defense | **LMT** | $622.79 | +0.51% | 🟢 |
 | Defense | **RTX** | $196.21 | +0.87% | 🟢 |
-| Defense | **NOC** | $702.50 | +0.36% | 🟢 |
-| Energy | **XOM** | $160.69 | +0.75% | 🟢 |
-| Energy | **CVX** | $198.97 | +1.41% | 🟢 |
-| Energy | **COP** | $130.52 | +2.34% | 🟢 |
-| Tech | **AAPL** | $255.92 | +0.37% | 🟢 |
-| Tech | **MSFT** | $373.46 | +0.95% | 🟢 |
-| Tech | **GOOGL** | $295.77 | -0.65% | 🔴 |
-| Finance | **JPM** | $294.60 | -0.39% | 🔴 |
-| Finance | **BAC** | $49.38 | +0.22% | 🟢 |
-| Finance | **GS** | $863.04 | +0.17% | 🟢 |
-| Precious Metals | **GC** | $4,687.40 | +0.45% | 🟢 |
-| Precious Metals | **SI** | $72.54 | +0.60% | 🟢 |
-| Precious Metals | **GOLD** | $41.27 | -1.66% | 🔴 |
-
-----------------------------------------
-
-Last update: Mon Apr  6 02:39:03 UTC 2026
-## 📈 Stock Log - 06/04/2026 03:15:50
-
-| Ticker | Price (VND) | Change (%) |
-|---|---|---|
-| Error | Failed to fetch data: HTTPSConnectionPool(host='finfo-api.vndirect.com.vn', port=443): Max retries exceeded with url: /v2/hosts/quotes/symbols?symbols=BSR,PVT,PVC (Caused by NewConnectionError("HTTPSConnection(host='finfo-api.vndirect.com.vn', port=443): Failed to establish a new connection: [Errno 110] Connection timed out")) | - |
-
----
-### 📊 Stock Report - 06/04/2026 03:22:18
-
-| Ticker | Price (VND) | Change (%) | Status |
-| :--- | :--- | :--- | :--- |
-| Error | Connection Issue | - | ⚠️ |
-
----
-### 📊 Market Update - 06/04/2026 03:33:52
