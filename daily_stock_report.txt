@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 18/04/2026 13:01:06
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $592.19 | -2.52% | Stable 🔴 |
+| Military | **RTX** | $196.42 | +0.29% | Stable 🟢 |
+| Military | **NOC** | $665.26 | -1.12% | Stable 🔴 |
+| Energy | **XOM** | $146.44 | -3.65% | Stable 🔴 |
+| Energy | **CVX** | $183.99 | -2.21% | Stable 🔴 |
+| Energy | **COP** | $116.04 | -4.55% | Stable 🔴 |
+| Tech | **TSLA** | $400.62 | +3.01% | Stable 🟢 |
+| Tech | **AAPL** | $270.23 | +2.59% | Stable 🟢 |
+| Tech | **MSFT** | $422.79 | +0.60% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $341.68 | +1.68% | ⚠️ Overbought! 🟢 |
+| Finance | **JPM** | $310.29 | +0.11% | Stable 🟢 |
+| Finance | **BAC** | $53.91 | +0.75% | Stable 🟢 |
+| Finance | **GS** | $925.95 | +2.88% | Stable 🟢 |
+| Precious Metals | **GC** | $4,857.60 | +1.51% | Stable 🟢 |
+| Precious Metals | **SI** | $81.74 | +3.98% | Stable 🟢 |
+| Precious Metals | **GOLD** | $48.18 | +3.30% | Stable 🟢 |
+
+
+*(AI Error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 18/04/2026 12:01:02
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@
 | Tech | **TSLA** | $364.20 | +3.09% | 🟢 |
 | Tech | **AAPL** | $258.83 | -0.20% | 🔴 |
 | Tech | **MSFT** | $393.11 | +1.67% | 🟢 |
-| Tech | **GOOGL** | $332.91 | +3.60% | 🟢 |
-| Finance | **JPM** | $311.12 | -0.61% | 🔴 |
-| Finance | **BAC** | $53.35 | -0.09% | 🔴 |
-| Finance | **GS** | $909.63 | +2.00% | 🟢 |
-| Precious Metals | **GC** | $4,863.60 | +1.49% | 🟢 |
-| Precious Metals | **SI** | $79.56 | +3.23% | 🟢 |
-| Precious Metals | **GOLD** | $44.51 | +0.75% | 🟢 |
-
-----------------------------------------
-
-### 📊 Global Market Update - 14/04/2026 05:47:34
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| Defense | **LMT** | $619.69 | +0.50% | 🟢 |
-| Defense | **RTX** | $201.41 | -0.64% | 🔴 |
-| Defense | **NOC** | $681.31 | +0.85% | 🟢 |
-| Energy | **XOM** | $152.64 | +0.10% | 🟢 |
-| Energy | **CVX** | $191.78 | +1.77% | 🟢 |
-| Energy | **COP** | $123.62 | +0.70% | 🟢 |
-| Tech | **TSLA** | $352.42 | +0.32% | 🟢 |
-| Tech | **AAPL** | $259.20 | -0.69% | 🔴 |
-| Tech | **MSFT** | $384.37 | +3.41% | 🟢 |
-| Tech | **GOOGL** | $321.31 | +1.10% | 🟢 |
-| Finance | **JPM** | $313.68 | +1.20% | 🟢 |
-| Finance | **BAC** | $53.35 | +1.43% | 🟢 |
-| Finance | **GS** | $890.79 | -2.28% | 🔴 |
-| Precious Metals | **GC** | $4,771.60 | +0.63% | 🟢 |
-| Precious Metals | **SI** | $75.82 | +1.81% | 🟢 |
-| Precious Metals | **GOLD** | $43.96 | -0.07% | 🔴 |
-
-----------------------------------------
