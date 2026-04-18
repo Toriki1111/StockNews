@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 18/04/2026 16:01:01
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $592.19 | -2.52% | Stable 🔴 |
+| Military | **RTX** | $196.42 | +0.29% | Stable 🟢 |
+| Military | **NOC** | $665.26 | -1.12% | Stable 🔴 |
+| Energy | **XOM** | $146.44 | -3.65% | Stable 🔴 |
+| Energy | **CVX** | $183.99 | -2.21% | Stable 🔴 |
+| Energy | **COP** | $116.04 | -4.55% | Stable 🔴 |
+| Tech | **TSLA** | $400.62 | +3.01% | Stable 🟢 |
+| Tech | **AAPL** | $270.23 | +2.59% | Stable 🟢 |
+| Tech | **MSFT** | $422.79 | +0.60% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $341.68 | +1.68% | ⚠️ Overbought! 🟢 |
+| Finance | **JPM** | $310.29 | +0.11% | Stable 🟢 |
+| Finance | **BAC** | $53.91 | +0.75% | Stable 🟢 |
+| Finance | **GS** | $925.95 | +2.88% | Stable 🟢 |
+| Precious Metals | **GC** | $4,857.60 | +1.51% | Stable 🟢 |
+| Precious Metals | **SI** | $81.74 | +3.98% | Stable 🟢 |
+| Precious Metals | **GOLD** | $48.18 | +3.30% | Stable 🟢 |
+
+
+*(AI Error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 18/04/2026 15:01:00
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@
 | Defense | **NOC** | $671.22 | -1.09% | Ổn định 🔴 |
 | Energy | **XOM** | $152.23 | +2.16% | Ổn định 🟢 |
 | Energy | **CVX** | $187.79 | +1.56% | Ổn định 🟢 |
-| Energy | **COP** | $121.40 | +2.09% | Ổn định 🟢 |
-| Tech | **TSLA** | $388.60 | -0.85% | Ổn định 🔴 |
-| Tech | **AAPL** | $263.46 | -1.11% | Ổn định 🔴 |
-| Tech | **MSFT** | $419.21 | +1.94% | ⚠️ Quá mua 🟢 |
-| Tech | **GOOGL** | $337.46 | +0.10% | ⚠️ Quá mua 🟢 |
-| Finance | **JPM** | $308.08 | +0.70% | Ổn định 🟢 |
-| Finance | **BAC** | $53.74 | -1.07% | Ổn định 🔴 |
-| Finance | **GS** | $903.95 | +0.50% | Ổn định 🟢 |
-| Precious Metals | **GC** | $4,809.70 | +0.20% | Ổn định 🟢 |
-| Precious Metals | **SI** | $78.64 | -1.08% | Ổn định 🔴 |
-| Precious Metals | **GOLD** | $46.92 | +4.29% | Ổn định 🟢 |
-
-----------------------------------------
-
-### 📊 Global Market Update - 16/04/2026 23:52:06
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| Defense | **LMT** | $602.71 | -1.37% | Ổn định 🔴 |
-| Defense | **RTX** | $194.27 | -2.08% | Ổn định 🔴 |
-| Defense | **NOC** | $671.24 | -1.08% | Ổn định 🔴 |
-| Energy | **XOM** | $152.17 | +2.12% | Ổn định 🟢 |
-| Energy | **CVX** | $187.76 | +1.54% | Ổn định 🟢 |
-| Energy | **COP** | $121.48 | +2.15% | Ổn định 🟢 |
-| Tech | **TSLA** | $389.50 | -0.63% | Ổn định 🔴 |
-| Tech | **AAPL** | $263.85 | -0.97% | Ổn định 🔴 |
-| Tech | **MSFT** | $419.70 | +2.06% | ⚠️ Quá mua 🟢 |
-| Tech | **GOOGL** | $337.76 | +0.19% | ⚠️ Quá mua 🟢 |
-| Finance | **JPM** | $308.06 | +0.70% | Ổn định 🟢 |
-| Finance | **BAC** | $53.71 | -1.12% | Ổn định 🔴 |
-| Finance | **GS** | $904.67 | +0.58% | Ổn định 🟢 | 
-| Precious Metals | **GC** | $4,810.90 | +0.23% | Ổn định 🟢 |
