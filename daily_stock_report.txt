@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 30/04/2026 05:01:10
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $509.81 | -0.48% | ✅ Oversale 🔴 |
+| Military | **RTX** | $172.79 | -1.65% | ✅ Oversale 🔴 |
+| Military | **NOC** | $572.41 | -0.94% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $154.67 | +2.73% | Stable 🟢 |
+| Energy | **CVX** | $192.22 | +2.05% | Stable 🟢 |
+| Energy | **COP** | $128.25 | +3.16% | Stable 🟢 |
+| Tech | **TSLA** | $372.80 | -0.86% | Stable 🔴 |
+| Tech | **AAPL** | $270.17 | -0.20% | Stable 🔴 |
+| Tech | **MSFT** | $424.46 | -1.12% | Stable 🔴 |
+| Tech | **GOOGL** | $349.94 | +0.05% | ⚠️ Overbought! 🟢 |
+| Finance | **JPM** | $309.25 | -0.71% | Stable 🔴 |
+| Finance | **BAC** | $52.88 | +0.42% | Stable 🟢 |
+| Finance | **GS** | $905.60 | -2.26% | Stable 🔴 |
+| Precious Metals | **GC** | $4,557.30 | -0.74% | Stable 🔴 |
+| Precious Metals | **SI** | $71.79 | -1.94% | Stable 🔴 |
+| Precious Metals | **GOLD** | $45.17 | -1.20% | Stable 🔴 |
+
+
+*(AI Error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 30/04/2026 04:01:08
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -991,38 +1023,6 @@
 ----------------------------------------
 
 ### 📊 USA Market Update - 28/04/2026 20:01:07
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $513.35 | -0.02% | ✅ Oversale 🔴 |
-| Military | **RTX** | $173.38 | -0.50% | ✅ Oversale 🔴 |
-| Military | **NOC** | $575.28 | +0.03% | ✅ Oversale 🟢 |
-| Energy | **XOM** | $148.19 | -0.48% | Stable 🔴 |
-| Energy | **CVX** | $184.78 | -0.23% | Stable 🔴 |
-| Energy | **COP** | $121.68 | -0.07% | Stable 🔴 |
-| Tech | **TSLA** | $378.67 | +0.63% | Stable 🟢 |
-| Tech | **AAPL** | $267.61 | -1.27% | Stable 🔴 |
-| Tech | **MSFT** | $424.82 | +0.05% | Stable 🟢 |
-| Tech | **GOOGL** | $350.34 | +1.72% | ⚠️ Overbought! 🟢 |
-| Finance | **JPM** | $311.63 | +1.09% | Stable 🟢 |
-| Finance | **BAC** | $52.63 | +1.11% | Stable 🟢 |
-| Finance | **GS** | $937.81 | +1.18% | Stable 🟢 |
-| Precious Metals | **GC** | $4,609.60 | -1.41% | Stable 🔴 |
-| Precious Metals | **SI** | $74.13 | -1.16% | Stable 🔴 |
-| Precious Metals | **GOLD** | $47.21 | +0.43% | Stable 🟢 |
-
-
-*(AI Error 404: {
-  "error": {
-    "code": 404,
-    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
-    "status": "NOT_FOUND"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 28/04/2026 19:01:07
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $513.35 | -0.02% | ✅ Oversale 🔴 |
