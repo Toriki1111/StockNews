@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 23/05/2026 09:01:01
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $533.24 | +2.00% | Stable 🟢 |
+| Military | **RTX** | $177.01 | +0.59% | Stable 🟢 |
+| Military | **NOC** | $555.58 | +0.73% | Stable 🟢 |
+| Energy | **XOM** | $154.92 | -0.24% | Stable 🔴 |
+| Energy | **CVX** | $191.43 | +0.22% | Stable 🟢 |
+| Energy | **COP** | $120.46 | -0.07% | Stable 🔴 |
+| Tech | **TSLA** | $426.01 | +1.95% | Stable 🟢 |
+| Tech | **AAPL** | $308.82 | +1.26% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $418.57 | -0.12% | Stable 🔴 |
+| Tech | **GOOGL** | $382.97 | -1.21% | Stable 🔴 |
+| Finance | **JPM** | $306.38 | +1.12% | Stable 🟢 |
+| Finance | **BAC** | $51.80 | +0.60% | Stable 🟢 |
+| Finance | **GS** | $996.73 | +0.87% | Stable 🟢 |
+| Precious Metals | **GC** | $4,510.50 | -0.65% | Stable 🔴 |
+| Precious Metals | **SI** | $75.92 | -0.65% | Stable 🔴 |
+| Precious Metals | **GOLD** | $43.40 | +3.88% | Stable 🟢 |
+
+
+*(AI Error 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 23/05/2026 08:00:58
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@
 | Military | **NOC** | $554.06 | +0.34% | Stable 🟢 |
 | Energy | **XOM** | $153.66 | -1.68% | Stable 🔴 |
 | Energy | **CVX** | $189.24 | -1.09% | Stable 🔴 |
-| Energy | **COP** | $119.99 | -1.94% | Stable 🔴 |
-| Tech | **TSLA** | $423.32 | +1.45% | Stable 🟢 |
-| Tech | **AAPL** | $305.05 | +0.93% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $419.22 | -0.44% | Stable 🔴 |
-| Tech | **GOOGL** | $391.93 | +0.78% | Stable 🟢 |
-| Finance | **JPM** | $303.38 | +0.46% | Stable 🟢 |
-| Finance | **BAC** | $51.31 | +0.15% | Stable 🟢 |
-| Finance | **GS** | $987.72 | +0.57% | Stable 🟢 |
-| Precious Metals | **GC** | $4,557.30 | +0.57% | Stable 🟢 |
-| Precious Metals | **SI** | $77.39 | +2.02% | Stable 🟢 |
-| Precious Metals | **GOLD** | $41.51 | +1.22% | Stable 🟢 |
-
-
-*(AI Error 404: {
-  "error": {
-    "code": 404,
-    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
-    "status": "NOT_FOUND"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 22/05/2026 00:01:07
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $528.45 | +1.12% | Stable 🟢 |
-| Military | **RTX** | $174.98 | +0.07% | Stable 🟢 |
-| Military | **NOC** | $554.94 | +0.50% | Stable 🟢 |
-| Energy | **XOM** | $156.39 | +0.07% | Stable 🟢 |
-| Energy | **CVX** | $192.23 | +0.47% | Stable 🟢 |
