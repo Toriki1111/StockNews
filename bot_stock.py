@@ -6,26 +6,21 @@ import time
 import os
 import requests
 
-# QUAY LẠI DANH SÁCH MÃ GỐC CỦA BẠN (DÙNG ĐUÔI =F THOẢI MÁI)
 WATCHLIST = {
     "Military": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
     "Tech": ["TSLA", "AAPL", "MSFT", "GOOGL"],
     "Finance": ["JPM", "BAC", "GS"],
-    "Precious Metals": ["GC=F", "SI=F", "GOLD"]  # Dùng lại mã Vàng/Bạc phái sinh nguyên bản của bạn
+    "Precious Metals": ["GC=F", "SI=F", "GOLD"]
 }
 
 def fetch_yahoo_direct(symbol):
-    """
-    Tải dữ liệu trực tiếp từ Yahoo bằng lệnh requests có gắn User-Agent giả lập trình duyệt.
-    Vượt qua tường lửa GitHub Actions mà không cần dùng yfinance hay API Key.
-    """
     try:
-        # Giả lập như đang mở bằng trình duyệt Chrome trên máy tính để tránh bị Yahoo chặn 401
+        # Giả lập như đang mở bằng trình duyệt Chrome trên máy tính để tránh bị Yahoo bann 401
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
-        # Lấy dữ liệu lịch sử trong vòng 1 tháng gần đây
+        # store 1 month of data for AI analyze
         url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1mo&interval=1d"
         response = requests.get(url, headers=headers, timeout=10)
         
@@ -35,7 +30,6 @@ def fetch_yahoo_direct(symbol):
         data = response.json()
         result = data['chart']['result'][0]
         
-        # Bóc tách các mảng dữ liệu JSON của Yahoo
         timestamps = result['timestamp']
         indicators = result['indicators']['quote'][0]
         
@@ -47,7 +41,7 @@ def fetch_yahoo_direct(symbol):
             'Volume': indicators['volume']
         }, index=pd.to_datetime(timestamps, unit='s'))
         
-        # Loại bỏ các dòng trống nếu có và trả về bảng sạch
+        # rid of empty space give out clean board
         return df.dropna().tail(60)
     except:
         return pd.DataFrame()
@@ -63,11 +57,9 @@ def get_multi_sector_data():
         print(f"Processing Sector: {sector}")
         for symbol in tickers:
             try:
-                # Gọi hàm lấy data Yahoo mượt mà vượt tường lửa
                 df = fetch_yahoo_direct(symbol)
                     
                 if not df.empty and 'Close' in df.columns:
-                    # Truyền dữ liệu vào file analyzer.py gốc để tính toán chỉ báo
                     df = add_indicators(df)
                     latest = df.iloc[-1] 
                     prev = df.iloc[-2]   
@@ -82,7 +74,7 @@ def get_multi_sector_data():
                 else:
                     content += f"| {sector} | **{symbol}** | Data Error | 0.00% | Stable 🟡 |\n"
                 
-                time.sleep(1) # Nghỉ 1 giây để tránh bị Yahoo quét tần suất gọi
+                time.sleep(1) #delay
                 
             except Exception as e:
                 print(f"❌ Lỗi xử lý mã {symbol}: {e}")
