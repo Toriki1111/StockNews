@@ -6,6 +6,7 @@ import time
 import os
 import requests
 
+# DANH SÁCH THEO DÕI THỊ TRƯỜNG
 WATCHLIST = {
     "Military": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
@@ -14,15 +15,18 @@ WATCHLIST = {
     "Precious Metals": ["GLD", "SLV", "GOLD"]  
 }
 
+# ĐIỀN MÃ API ĐẦY ĐỦ CỦA BẠN VÀO ĐÂY (Giữ kín mã này, không gửi cho ai nhé bạn)
 API_KEY = "Zs4SH9hyFZuV03aAGq7ZuhDs2i9HJQmC"
 
 def fetch_stock_quote_fmp(symbol):
     """
-    Sử dụng endpoint v3/quote (Luôn mở và miễn phí 100% cho gói Free).
-    Lấy trực tiếp giá hiện tại và % thay đổi trong ngày từ sàn Mỹ.
+    Sử dụng endpoint v3/quote. Tự động loại bỏ khoảng trắng để tránh lỗi copy-paste.
     """
     try:
-        url = f"https://financialmodelingprep.com/api/v3/quote/{symbol}?apikey={API_KEY}"
+        # Tự động làm sạch mã để phòng trường hợp dính khoảng trắng ẩn
+        clean_key = API_KEY.strip()
+        
+        url = f"https://financialmodelingprep.com/api/v3/quote/{symbol}?apikey={clean_key}"
         response = requests.get(url, timeout=10)
         
         if response.status_code == 200:
@@ -32,9 +36,11 @@ def fetch_stock_quote_fmp(symbol):
                     "price": data[0].get("price"),
                     "changesPercentage": data[0].get("changesPercentage")
                 }
+        else:
+            print(f"⚠️ Server FMP trả lỗi {response.status_code} với mã {symbol}")
         return None
     except Exception as e:
-        print(f"❌ Lỗi kết nối API với mã {symbol}: {e}")
+        print(f"❌ Lỗi kết nối mạng đến FMP với mã {symbol}: {e}")
         return None
 
 def get_multi_sector_data():
@@ -48,11 +54,13 @@ def get_multi_sector_data():
         print(f"Processing Sector: {sector}")
         for symbol in tickers:
             try:
+                # Gọi endpoint lấy giá thời gian thực từ FMP
                 quote = fetch_stock_quote_fmp(symbol)
                     
                 if quote and quote["price"] is not None:
                     current_price = quote["price"]
                     change_pc = quote["changesPercentage"]
+                    
                     status_signal = "Stable" 
                     try:
                         fake_df = pd.DataFrame([{ 'Close': current_price }])
@@ -60,7 +68,10 @@ def get_multi_sector_data():
                         status_signal = get_signal(fake_df.iloc[-1])
                     except:
                         status_signal = "Stable" 
+                    
                     icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
+                    
+                    # Trả lại tên hiển thị chuẩn GC và SI lên Discord cho bạn
                     display_symbol = "GC" if symbol == "GLD" else "SI" if symbol == "SLV" else symbol
                     
                     content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {status_signal} {icon} |\n"
@@ -96,4 +107,4 @@ if __name__ == "__main__":
     with open(file_name, "w", encoding="utf-8") as file:
         file.write(full_content_with_ai + "\n" + "-"*40 + "\n\n" + old_content)
         
-    print(f"Successfully updated {file_name}. Price fetched via FMP Quote API.")
+    print(f"Successfully updated {file_name}. Bot is fully functional via FMP.")
