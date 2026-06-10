@@ -6,41 +6,51 @@ import time
 import os
 import requests
 
-# DANH SÁCH THEO DÕI CHUẨN CỔ PHIẾU MỸ (MỞ KHÓA 100% CHO GÓI FMP FREE)
+# QUAY LẠI DANH SÁCH MÃ GỐC CỦA BẠN (DÙNG ĐUÔI =F THOẢI MÁI)
 WATCHLIST = {
     "Military": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
     "Tech": ["TSLA", "AAPL", "MSFT", "GOOGL"],
     "Finance": ["JPM", "BAC", "GS"],
-    "Precious Metals": ["GOLD", "PAAS", "NEM"]  
-    # GOLD thay cho Vàng phái sinh, PAAS thay cho Bạc phái sinh để không bị FMP chặn gói Free
+    "Precious Metals": ["GC=F", "SI=F", "GOLD"]  # Dùng lại mã Vàng/Bạc phái sinh nguyên bản của bạn
 }
 
-# ĐIỀN MÃ API ĐẦY ĐỦ CỦA BẠN VÀO ĐÂY (Giữ kín mã này, không gửi cho ai nhé bạn)
-API_KEY = "Zs4SH9hyFZuV03aAGq7ZuhDs2i9HJQmC"
-
-def fetch_stock_quote_fmp(symbol):
+def fetch_yahoo_direct(symbol):
     """
-    Sử dụng endpoint v3/quote. Tự động loại bỏ khoảng trắng để tránh lỗi copy-paste.
+    Tải dữ liệu trực tiếp từ Yahoo bằng lệnh requests có gắn User-Agent giả lập trình duyệt.
+    Vượt qua tường lửa GitHub Actions mà không cần dùng yfinance hay API Key.
     """
     try:
-        clean_key = API_KEY.strip()
-        url = f"https://financialmodelingprep.com/api/v3/quote/{symbol}?apikey={clean_key}"
-        response = requests.get(url, timeout=10)
+        # Giả lập như đang mở bằng trình duyệt Chrome trên máy tính để tránh bị Yahoo chặn 401
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
+        # Lấy dữ liệu lịch sử trong vòng 1 tháng gần đây
+        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1mo&interval=1d"
+        response = requests.get(url, headers=headers, timeout=10)
         
-        if response.status_code == 200:
-            data = response.json()
-            if data and len(data) > 0:
-                return {
-                    "price": data[0].get("price"),
-                    "changesPercentage": data[0].get("changesPercentage")
-                }
-        else:
-            print(f"⚠️ Server FMP trả lỗi {response.status_code} với mã {symbol}")
-        return None
-    except Exception as e:
-        print(f"❌ Lỗi kết nối mạng đến FMP với mã {symbol}: {e}")
-        return None
+        if response.status_code != 200:
+            return pd.DataFrame()
+            
+        data = response.json()
+        result = data['chart']['result'][0]
+        
+        # Bóc tách các mảng dữ liệu JSON của Yahoo
+        timestamps = result['timestamp']
+        indicators = result['indicators']['quote'][0]
+        
+        df = pd.DataFrame({
+            'Open': indicators['open'],
+            'High': indicators['high'],
+            'Low': indicators['low'],
+            'Close': indicators['close'],
+            'Volume': indicators['volume']
+        }, index=pd.to_datetime(timestamps, unit='s'))
+        
+        # Loại bỏ các dòng trống nếu có và trả về bảng sạch
+        return df.dropna().tail(60)
+    except:
+        return pd.DataFrame()
 
 def get_multi_sector_data():
     now_vn = datetime.utcnow() + timedelta(hours=7)
@@ -53,41 +63,35 @@ def get_multi_sector_data():
         print(f"Processing Sector: {sector}")
         for symbol in tickers:
             try:
-                # Gọi endpoint lấy giá thời gian thực từ FMP
-                quote = fetch_stock_quote_fmp(symbol)
+                # Gọi hàm lấy data Yahoo mượt mà vượt tường lửa
+                df = fetch_yahoo_direct(symbol)
                     
-                if quote and quote["price"] is not None:
-                    current_price = quote["price"]
-                    change_pc = quote["changesPercentage"]
+                if not df.empty and 'Close' in df.columns:
+                    # Truyền dữ liệu vào file analyzer.py gốc để tính toán chỉ báo
+                    df = add_indicators(df)
+                    latest = df.iloc[-1] 
+                    prev = df.iloc[-2]   
                     
-                    status_signal = "Stable" 
-                    try:
-                        fake_df = pd.DataFrame([{ 'Close': current_price }])
-                        fake_df = add_indicators(fake_df)
-                        status_signal = get_signal(fake_df.iloc[-1])
-                    except:
-                        status_signal = "Stable" 
+                    current_price = latest['Close']
+                    change_pc = ((current_price - prev['Close']) / prev['Close']) * 100
                     
+                    status_signal = get_signal(latest)
                     icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
                     
-                    # SỬA LỖI LOGIC: Đổi tên hiển thị trên bảng Discord về chuẩn tên GC và SI cho bạn
-                    display_symbol = "GC" if symbol == "GOLD" else "SI" if symbol == "PAAS" else symbol
-                    
-                    content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {status_signal} {icon} |\n"
+                    content += f"| {sector} | **{symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {status_signal} {icon} |\n"
                 else:
-                    content += f"| {sector} | **{symbol}** | API Connection Error | 0.00% | Stable 🟡 |\n"
+                    content += f"| {sector} | **{symbol}** | Data Error | 0.00% | Stable 🟡 |\n"
                 
-                time.sleep(0.2)
+                time.sleep(1) # Nghỉ 1 giây để tránh bị Yahoo quét tần suất gọi
                 
             except Exception as e:
-                print(f"❌ Lỗi xử lý logic mã {symbol}: {e}")
+                print(f"❌ Lỗi xử lý mã {symbol}: {e}")
                 content += f"| {sector} | **{symbol}** | Logic Error | 0.00% | Stable 🟡 |\n"
                 
     return content
 
 if __name__ == "__main__":
     new_report = get_multi_sector_data()
-    
     ai_advice = get_ai_advice(new_report)
     full_content_with_ai = new_report + "\n" + ai_advice 
 
@@ -106,4 +110,4 @@ if __name__ == "__main__":
     with open(file_name, "w", encoding="utf-8") as file:
         file.write(full_content_with_ai + "\n" + "-"*40 + "\n\n" + old_content)
         
-    print(f"Successfully updated {file_name}. Bot is fully functional via FMP.")
+    print(f"Successfully updated {file_name}. Log updated via direct Yahoo alternative.")
