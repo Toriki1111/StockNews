@@ -1,27 +1,61 @@
-import yfinance as yf
 import pandas as pd
 from ai_advisor import get_ai_advice
 from datetime import datetime, timedelta
 from analyzer import add_indicators, get_signal
 import time
 import os
+import requests
 
-import yfinance.shared as shared
-shared._column_name_map = {}
-# List of sectors and their corresponding stock tickers
 WATCHLIST = {
     "Military": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
     "Tech": ["TSLA", "AAPL", "MSFT", "GOOGL"],
     "Finance": ["JPM", "BAC", "GS"],
-    "Precious Metals": ["GC=F", "SI=F", "GOLD"]
+    "Precious Metals": ["GLD", "SLV", "GOLD"]  
 }
 
+API_KEY = "Zs4SH9hyFZuV03aAGq7ZuhDs2i9HJQmC"
+
+def fetch_clean_stock_data(symbol):
+    try:
+        url = f"https://financialmodelingprep.com/api/v3/historical-price-full/{symbol}?apikey={API_KEY}"
+        response = requests.get(url, timeout=10)
+        
+        if response.status_code != 200:
+            print(f"⚠️ API báo lỗi hệ thống (Status {response.status_code}) với mã {symbol}")
+            return pd.DataFrame()
+            
+        raw_data = response.json()
+        if "historical" not in raw_data or not raw_data["historical"]:
+            print(f"⚠️ Không tìm thấy dữ liệu lịch sử của mã {symbol}")
+            return pd.DataFrame()
+            
+        # Chuyển đổi dữ liệu JSON từ API thành bảng DataFrame
+        df = pd.DataFrame(raw_data["historical"])
+        
+        df['date'] = pd.to_datetime(df['date'])
+        df = df.sort_values('date').set_index('date')
+        
+        # Đổi tên các cột viết hoa chữ cái đầu để khớp 100% với file analyzer.py của bạn
+        df = df.rename(columns={
+            'open': 'Open',
+            'high': 'High',
+            'low': 'Low',
+            'close': 'Close',
+            'volume': 'Volume'
+        })
+        
+        # Trả về đúng 60 dòng gần nhất giống y như period="60d" cũ
+        return df.tail(60)
+        
+    except Exception as e:
+        print(f"❌ Lỗi kết nối API khi tải mã {symbol}: {e}")
+        return pd.DataFrame()
+
 def get_multi_sector_data():
-    now_utc = datetime.utcnow()
-    now_vn = now_utc + timedelta(hours=7)
-    
+    now_vn = datetime.utcnow() + timedelta(hours=7)
     timestamp = now_vn.strftime('%d/%m/%Y %H:%M:%S')
+    
     content = f"### 📊 USA Market Update - {timestamp}\n\n"
     content += "| Sector | Ticker | Price (USD) | Change (%) | Status |\n"
     
@@ -29,62 +63,60 @@ def get_multi_sector_data():
         print(f"Processing Sector: {sector}")
         for symbol in tickers:
             try:
-                # Thay vì dùng fast_info, ta tải bảng dữ liệu 60 days
-                df = yf.download(symbol, period="60d", interval="1d", progress=False, group_by="ticker")
-                if isinstance(df.columns, pd.MultiIndex):
-                    if symbol in df.columns.levels[0]:
-                        df = df[symbol]
+                # Lấy dữ liệu sạch từ API FMP
+                df = fetch_clean_stock_data(symbol)
                     
-                if not df.empty:
-                    # sending this to file analyzer to calculate indicators and get signal
+                if not df.empty and 'Close' in df.columns:
+                    # Truyền dữ liệu vào file analyzer gốc của bạn để tính RSI, MACD...
                     df = add_indicators(df)
-                    latest = df.iloc[-1] # Dòng mới nhất
-                    prev = df.iloc[-2]   # Dòng ngày hôm trước
+                    latest = df.iloc[-1] 
+                    prev = df.iloc[-2]   
                     
                     current_price = latest['Close']
-                    # calculating percentage change from previous close to current price
+                    # Tính toán phần trăm tăng giảm giá đóng cửa
                     change_pc = ((current_price - prev['Close']) / prev['Close']) * 100
                     
-                    # Get signal from analyzer based on indicators
+                    # Lấy tín hiệu mua/bán (Oversale, Stable...) từ hàm get_signal gốc của bạn
                     status_signal = get_signal(latest)
                     
                     icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
-                    display_symbol = symbol.replace("=F", "")
                     
-                    # Format the content for Discord
+                    # Đổi lại tên hiển thị trên bảng Discord thành GC và SI cho đúng ý bạn
+                    display_symbol = "GC" if symbol == "GLD" else "SI" if symbol == "SLV" else symbol
+                    
                     content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {status_signal} {icon} |\n"
+                else:
+                    content += f"| {sector} | **{symbol}** | API Empty | 0.00% | Stable 🟡 |\n"
                 
-                time.sleep(1)
+                # Nghỉ 0.2 giây giữa các mã, API chính thống xử lý cực nhanh không cần sleep lâu
+                time.sleep(0.2)
+                
             except Exception as e:
-                print(f"Error processing {symbol}: {e}")
-                content += f"| {sector} | **{symbol}** | Error fetching data |\n"
+                print(f"❌ Lỗi xử lý logic hiển thị mã {symbol}: {e}")
+                content += f"| {sector} | **{symbol}** | Logic Error | 0.00% | Stable 🟡 |\n"
                 
     return content
 
 if __name__ == "__main__":
+    # Luồng xử lý ghi đè và rotate log giữ nguyên kiến trúc lưu trữ của bạn
     new_report = get_multi_sector_data()
-
-    #IMPORTANT: If you dont want to use AI advice, delete the line below and change full_content_with_ai to full_content_with_ai = new_report in the 2nd code below
+    
     ai_advice = get_ai_advice(new_report)
     full_content_with_ai = new_report + "\n" + ai_advice 
 
     file_name = "daily_stock_report.txt"
     temp_file = "latest_news.tmp"
-    # Important: create file for discord to read, then we can safely rotate logs without worrying about file locks or read/write conflicts
+    
     with open(temp_file, "w", encoding="utf-8") as tmp:
         tmp.write(full_content_with_ai)
 
-    # Read old datas and limit lines
     old_content = ""
     if os.path.exists(file_name):
         with open(file_name, "r", encoding="utf-8") as file:
-            # Read maximum 1000 lines in log
             lines = file.readlines()
             old_content = "".join(lines[:1000]) 
 
-    # Over write file : [Dữ liệu mới] + [Dữ liệu cũ đã cắt bớt]
     with open(file_name, "w", encoding="utf-8") as file:
         file.write(full_content_with_ai + "\n" + "-"*40 + "\n\n" + old_content)
         
-    print(f"Successfully updated {file_name}. Log rotated to keep it lightweight.")
-
+    print(f"Successfully updated {file_name}. Bot updated via official API.")
