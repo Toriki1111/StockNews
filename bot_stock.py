@@ -6,13 +6,12 @@ import time
 import os
 import requests
 
-# DANH SÁCH THEO DÕI THỊ TRƯỜNG
 WATCHLIST = {
     "Military": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
     "Tech": ["TSLA", "AAPL", "MSFT", "GOOGL"],
     "Finance": ["JPM", "BAC", "GS"],
-    "Precious Metals": ["GLD", "SLV", "GOLD"]  
+    "Precious Metals": ["GOLD", "PAAS", "NEM"]
 }
 
 # ĐIỀN MÃ API ĐẦY ĐỦ CỦA BẠN VÀO ĐÂY (Giữ kín mã này, không gửi cho ai nhé bạn)
