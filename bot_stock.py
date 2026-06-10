@@ -30,9 +30,10 @@ def get_multi_sector_data():
         for symbol in tickers:
             try:
                 # Thay vì dùng fast_info, ta tải bảng dữ liệu 60 days
-                df = yf.download(symbol, period="60d", interval="1d", progress=False)
+                df = yf.download(symbol, period="60d", interval="1d", progress=False, group_by="ticker")
                 if isinstance(df.columns, pd.MultiIndex):
-                    df.columns = df.columns.get_level_values(0)
+                    if symbol in df.columns.levels[0]:
+                        df = df[symbol]
                     
                 if not df.empty:
                     # sending this to file analyzer to calculate indicators and get signal
