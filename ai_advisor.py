@@ -11,10 +11,22 @@ def get_ai_advice(market_data):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     
     headers = {"Content-Type": "application/json"}
-    payload = {
-        "contents": [{"parts": [{"text": f"Summarize this stock data in 3 professional sentences: {market_data}"}]}]
-    }
 
+    prompt_text = (
+        f"You are a professional International Financial Advisor. Analyze this market data: {market_data}\n\n"
+        f"Provide a concise, actionable report in English using exactly 3 bullet points (1-2 sentences per point):\n"
+        f"1. **Market Trend**: Identify where the money is flowing or exiting based on sector performance.\n"
+        f"2. **Key Tickers to Watch**: Highlight 1-2 specific symbols with notable technical signals (e.g., Oversold, Overbought, or major price surges/drops) and why.\n"
+        f"3. **Actionable Strategy**: Give clear, direct trading advice (e.g., Accumulate, Take Profit, Stop Loss, or Wait & Watch) for the upcoming session."
+    )
+
+    payload = {
+        "contents": [{
+            "parts": [{
+                "text": prompt_text
+            }]
+        }]
+    }
     try:
         response = requests.post(url, headers=headers, data=json.dumps(payload), timeout=15)
         
