@@ -14,7 +14,7 @@ WATCHLIST = {
     "Precious Metals": ["GLD", "SLV", "GOLD"]  
 }
 
-API_KEY = "CHÈN_MÃ_API_CỦA_BẠN_VÀO_ĐÂY"
+API_KEY = "Zs4SH9hyFZuV03aAGq7ZuhDs2i9HJQmC"
 
 def fetch_stock_quote_fmp(symbol):
     """
