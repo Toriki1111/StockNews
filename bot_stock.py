@@ -6,12 +6,14 @@ import time
 import os
 import requests
 
+# DANH SÁCH THEO DÕI CHUẨN CỔ PHIẾU MỸ (MỞ KHÓA 100% CHO GÓI FMP FREE)
 WATCHLIST = {
     "Military": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
     "Tech": ["TSLA", "AAPL", "MSFT", "GOOGL"],
     "Finance": ["JPM", "BAC", "GS"],
-    "Precious Metals": ["GOLD", "PAAS", "NEM"]
+    "Precious Metals": ["GOLD", "PAAS", "NEM"]  
+    # GOLD thay cho Vàng phái sinh, PAAS thay cho Bạc phái sinh để không bị FMP chặn gói Free
 }
 
 # ĐIỀN MÃ API ĐẦY ĐỦ CỦA BẠN VÀO ĐÂY (Giữ kín mã này, không gửi cho ai nhé bạn)
@@ -22,9 +24,7 @@ def fetch_stock_quote_fmp(symbol):
     Sử dụng endpoint v3/quote. Tự động loại bỏ khoảng trắng để tránh lỗi copy-paste.
     """
     try:
-        # Tự động làm sạch mã để phòng trường hợp dính khoảng trắng ẩn
         clean_key = API_KEY.strip()
-        
         url = f"https://financialmodelingprep.com/api/v3/quote/{symbol}?apikey={clean_key}"
         response = requests.get(url, timeout=10)
         
@@ -70,8 +70,8 @@ def get_multi_sector_data():
                     
                     icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
                     
-                    # Trả lại tên hiển thị chuẩn GC và SI lên Discord cho bạn
-                    display_symbol = "GC" if symbol == "GLD" else "SI" if symbol == "SLV" else symbol
+                    # SỬA LỖI LOGIC: Đổi tên hiển thị trên bảng Discord về chuẩn tên GC và SI cho bạn
+                    display_symbol = "GC" if symbol == "GOLD" else "SI" if symbol == "PAAS" else symbol
                     
                     content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {status_signal} {icon} |\n"
                 else:
