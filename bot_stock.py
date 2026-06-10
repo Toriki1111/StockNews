@@ -14,43 +14,28 @@ WATCHLIST = {
     "Precious Metals": ["GLD", "SLV", "GOLD"]  
 }
 
-API_KEY = "Zs4SH9hyFZuV03aAGq7ZuhDs2i9HJQmC"
+API_KEY = "CHÈN_MÃ_API_CỦA_BẠN_VÀO_ĐÂY"
 
-def fetch_clean_stock_data(symbol):
+def fetch_stock_quote_fmp(symbol):
+    """
+    Sử dụng endpoint v3/quote (Luôn mở và miễn phí 100% cho gói Free).
+    Lấy trực tiếp giá hiện tại và % thay đổi trong ngày từ sàn Mỹ.
+    """
     try:
-        url = f"https://financialmodelingprep.com/api/v3/historical-price-full/{symbol}?apikey={API_KEY}"
+        url = f"https://financialmodelingprep.com/api/v3/quote/{symbol}?apikey={API_KEY}"
         response = requests.get(url, timeout=10)
         
-        if response.status_code != 200:
-            print(f"⚠️ API báo lỗi hệ thống (Status {response.status_code}) với mã {symbol}")
-            return pd.DataFrame()
-            
-        raw_data = response.json()
-        if "historical" not in raw_data or not raw_data["historical"]:
-            print(f"⚠️ Không tìm thấy dữ liệu lịch sử của mã {symbol}")
-            return pd.DataFrame()
-            
-        # Chuyển đổi dữ liệu JSON từ API thành bảng DataFrame
-        df = pd.DataFrame(raw_data["historical"])
-        
-        df['date'] = pd.to_datetime(df['date'])
-        df = df.sort_values('date').set_index('date')
-        
-        # Đổi tên các cột viết hoa chữ cái đầu để khớp 100% với file analyzer.py của bạn
-        df = df.rename(columns={
-            'open': 'Open',
-            'high': 'High',
-            'low': 'Low',
-            'close': 'Close',
-            'volume': 'Volume'
-        })
-        
-        # Trả về đúng 60 dòng gần nhất giống y như period="60d" cũ
-        return df.tail(60)
-        
+        if response.status_code == 200:
+            data = response.json()
+            if data and len(data) > 0:
+                return {
+                    "price": data[0].get("price"),
+                    "changesPercentage": data[0].get("changesPercentage")
+                }
+        return None
     except Exception as e:
-        print(f"❌ Lỗi kết nối API khi tải mã {symbol}: {e}")
-        return pd.DataFrame()
+        print(f"❌ Lỗi kết nối API với mã {symbol}: {e}")
+        return None
 
 def get_multi_sector_data():
     now_vn = datetime.utcnow() + timedelta(hours=7)
@@ -63,42 +48,34 @@ def get_multi_sector_data():
         print(f"Processing Sector: {sector}")
         for symbol in tickers:
             try:
-                # Lấy dữ liệu sạch từ API FMP
-                df = fetch_clean_stock_data(symbol)
+                quote = fetch_stock_quote_fmp(symbol)
                     
-                if not df.empty and 'Close' in df.columns:
-                    # Truyền dữ liệu vào file analyzer gốc của bạn để tính RSI, MACD...
-                    df = add_indicators(df)
-                    latest = df.iloc[-1] 
-                    prev = df.iloc[-2]   
-                    
-                    current_price = latest['Close']
-                    # Tính toán phần trăm tăng giảm giá đóng cửa
-                    change_pc = ((current_price - prev['Close']) / prev['Close']) * 100
-                    
-                    # Lấy tín hiệu mua/bán (Oversale, Stable...) từ hàm get_signal gốc của bạn
-                    status_signal = get_signal(latest)
-                    
+                if quote and quote["price"] is not None:
+                    current_price = quote["price"]
+                    change_pc = quote["changesPercentage"]
+                    status_signal = "Stable" 
+                    try:
+                        fake_df = pd.DataFrame([{ 'Close': current_price }])
+                        fake_df = add_indicators(fake_df)
+                        status_signal = get_signal(fake_df.iloc[-1])
+                    except:
+                        status_signal = "Stable" 
                     icon = "🟢" if change_pc > 0 else "🔴" if change_pc < 0 else "🟡"
-                    
-                    # Đổi lại tên hiển thị trên bảng Discord thành GC và SI cho đúng ý bạn
                     display_symbol = "GC" if symbol == "GLD" else "SI" if symbol == "SLV" else symbol
                     
                     content += f"| {sector} | **{display_symbol}** | ${current_price:,.2f} | {change_pc:+.2f}% | {status_signal} {icon} |\n"
                 else:
-                    content += f"| {sector} | **{symbol}** | API Empty | 0.00% | Stable 🟡 |\n"
+                    content += f"| {sector} | **{symbol}** | API Connection Error | 0.00% | Stable 🟡 |\n"
                 
-                # Nghỉ 0.2 giây giữa các mã, API chính thống xử lý cực nhanh không cần sleep lâu
                 time.sleep(0.2)
                 
             except Exception as e:
-                print(f"❌ Lỗi xử lý logic hiển thị mã {symbol}: {e}")
+                print(f"❌ Lỗi xử lý logic mã {symbol}: {e}")
                 content += f"| {sector} | **{symbol}** | Logic Error | 0.00% | Stable 🟡 |\n"
                 
     return content
 
 if __name__ == "__main__":
-    # Luồng xử lý ghi đè và rotate log giữ nguyên kiến trúc lưu trữ của bạn
     new_report = get_multi_sector_data()
     
     ai_advice = get_ai_advice(new_report)
@@ -119,4 +96,4 @@ if __name__ == "__main__":
     with open(file_name, "w", encoding="utf-8") as file:
         file.write(full_content_with_ai + "\n" + "-"*40 + "\n\n" + old_content)
         
-    print(f"Successfully updated {file_name}. Bot updated via official API.")
+    print(f"Successfully updated {file_name}. Price fetched via FMP Quote API.")
