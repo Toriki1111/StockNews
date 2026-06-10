@@ -14,7 +14,7 @@ WATCHLIST = {
     "Precious Metals": ["GLD", "SLV", "GOLD"]  
 }
 
-API_KEY = "Zs4SH9hyFZuV03aAGq7ZuhDs2i9HJQmC"
+API_KEY = "https://financialmodelingprep.com/stable/profile?symbol=AAPL&apikey=Zs4SH9hyFZuV03aAGq7ZuhDs2i9HJQmC"
 
 def fetch_stock_quote_fmp(symbol):
     """
