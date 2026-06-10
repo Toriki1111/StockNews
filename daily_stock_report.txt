@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 10/06/2026 17:30:18
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $520.07 | -0.70% | Stable 🔴 |
+| Military | **RTX** | $178.66 | -1.29% | Stable 🔴 |
+| Military | **NOC** | $540.81 | -0.66% | Stable 🔴 |
+| Energy | **XOM** | $151.75 | +1.22% | Stable 🟢 |
+| Energy | **CVX** | $189.24 | +1.03% | Stable 🟢 |
+| Energy | **COP** | $118.89 | +1.49% | Stable 🟢 |
+| Tech | **TSLA** | $408.95 | +4.59% | Stable 🟢 |
+| Tech | **AAPL** | $301.54 | -1.89% | Stable 🔴 |
+| Tech | **MSFT** | $411.74 | -1.18% | Stable 🔴 |
+| Tech | **GOOGL** | $363.31 | -1.42% | Stable 🔴 |
+| Finance | **JPM** | $311.11 | -0.40% | Stable 🔴 |
+| Finance | **BAC** | $53.63 | -0.37% | Stable 🔴 |
+| Finance | **GS** | $1,045.00 | +0.61% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,186.90 | -1.72% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $64.25 | -1.30% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $40.46 | +2.12% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise, actionable report:
+
+*   **Market Trend**: Money is clearly flowing into the Energy sector, with all major players showing positive gains. Conversely, the Military sector is experiencing broad exits, and significant tech heavyweights (AAPL, MSFT, GOOGL) are also under pressure despite a strong day for TSLA.
+*   **Key Tickers to Watch**: Gold and Silver futures (GC=F, SI=F) are prime tickers to watch, both explicitly marked "Oversale" after drops of -1.72% and -1.30%, indicating a potential technical rebound opportunity. Furthermore, TSLA exhibited a notable single-day surge of +4.59%, warranting attention for momentum plays or profit-taking.
+*   **Actionable Strategy**: For the upcoming session, consider initiating accumulation in oversold precious metal futures (GC=F, SI=F) to capture a potential bounce. Investors should also look to accumulate in the strong Energy sector, while exercising caution with Military sector holdings.
+----------------------------------------
+
 ### 📊 USA Market Update - 10/06/2026 17:15:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,30 +1029,3 @@ The market displayed a mixed performance today, with most sectors experiencing d
 | Finance | **GS** | $1,045.00 | +0.61% | Stable 🟢 |
 | Precious Metals | **GC** | $4,367.40 | +0.73% | Stable 🟢 |
 | Precious Metals | **SI** | $68.57 | +0.22% | Stable 🟢 |
-| Precious Metals | **GOLD** | $40.46 | +2.12% | Stable 🟢 |
-
-
-*(AI Error 404: {
-  "error": {
-    "code": 404,
-    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
-    "status": "NOT_FOUND"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 09/06/2026 19:01:15
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $520.07 | -0.70% | Stable 🔴 |
-| Military | **RTX** | $178.66 | -1.29% | Stable 🔴 |
-| Military | **NOC** | $540.81 | -0.66% | Stable 🔴 |
-| Energy | **XOM** | $151.75 | +1.22% | Stable 🟢 |
-| Energy | **CVX** | $189.24 | +1.03% | Stable 🟢 |
-| Energy | **COP** | $118.89 | +1.49% | Stable 🟢 |
-| Tech | **TSLA** | $408.95 | +4.59% | Stable 🟢 |
-| Tech | **AAPL** | $301.54 | -1.89% | Stable 🔴 |
-| Tech | **MSFT** | $411.74 | -1.18% | Stable 🔴 |
-| Tech | **GOOGL** | $363.31 | -1.36% | Stable 🔴 |
