@@ -8,8 +8,7 @@ def get_ai_advice(market_data):
     if not api_key:
         return "\n*(Note: AI_KEY not found)*\n"
 
-    # Dùng Gemini 1.5 Flash cho nhẹ và tiết kiệm quota
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     
     headers = {"Content-Type": "application/json"}
     payload = {
@@ -19,7 +18,6 @@ def get_ai_advice(market_data):
     try:
         response = requests.post(url, headers=headers, data=json.dumps(payload), timeout=15)
         
-        # Xử lý lỗi 429 - Quá tải
         if response.status_code == 429:
             return "\n*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*\n"
             
