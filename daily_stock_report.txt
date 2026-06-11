@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 12/06/2026 02:01:18
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $549.27 | +4.62% | Stable 🟢 |
+| Military | **RTX** | $183.76 | +3.58% | Stable 🟢 |
+| Military | **NOC** | $558.89 | +3.09% | Stable 🟢 |
+| Energy | **XOM** | $148.34 | -1.52% | Stable 🔴 |
+| Energy | **CVX** | $188.06 | -0.92% | Stable 🔴 |
+| Energy | **COP** | $117.23 | -2.24% | Stable 🔴 |
+| Tech | **TSLA** | $393.69 | +3.17% | Stable 🟢 |
+| Tech | **AAPL** | $295.36 | +1.30% | Stable 🟢 |
+| Tech | **MSFT** | $387.40 | -2.51% | Stable 🔴 |
+| Tech | **GOOGL** | $355.23 | -0.32% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $314.07 | +1.59% | Stable 🟢 |
+| Finance | **BAC** | $55.24 | +1.29% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,027.29 | +2.60% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,190.20 | +2.00% | ✅ Oversale 🟢 |
+| Precious Metals | **SI=F** | $66.43 | +2.83% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $42.53 | +4.35% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 12/06/2026 01:01:17
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1030,3 @@ Here's your concise market report:
 ### AI Financial Advisor:
 
 Here is an analysis of the USA market data:
-
-*   **Market Trend**: Capital is predominantly flowing into the Energy sector, with all major players showing positive gains. Conversely, the Military sector is experiencing broad outflows, and most Tech and Finance stocks are trending lower, with the exception of TSLA's significant surge and GS's modest gain.
-*   **Key Tickers to Watch**: Gold (GC=F) and Silver (SI=F) futures are flagged as "Oversale," indicating potential short-term undervaluation and a possible rebound opportunity. Tesla (TSLA) warrants attention for its substantial +4.59% price increase, suggesting strong bullish momentum.
-*   **Actionable Strategy**: Consider accumulating positions in GC=F and SI=F given their oversold status, anticipating a technical bounce. For TSLA, a "Take Profit" strategy might be prudent for existing holders after its significant rally, or a "Wait & Watch" for new entrants pending consolidation.
-----------------------------------------
-
-### 📊 USA Market Update - 10/06/2026 17:30:18
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $520.07 | -0.70% | Stable 🔴 |
-| Military | **RTX** | $178.66 | -1.29% | Stable 🔴 |
-| Military | **NOC** | $540.81 | -0.66% | Stable 🔴 |
-| Energy | **XOM** | $151.75 | +1.22% | Stable 🟢 |
-| Energy | **CVX** | $189.24 | +1.03% | Stable 🟢 |
-| Energy | **COP** | $118.89 | +1.49% | Stable 🟢 |
-| Tech | **TSLA** | $408.95 | +4.59% | Stable 🟢 |
-| Tech | **AAPL** | $301.54 | -1.89% | Stable 🔴 |
-| Tech | **MSFT** | $411.74 | -1.18% | Stable 🔴 |
-| Tech | **GOOGL** | $363.31 | -1.42% | Stable 🔴 |
-| Finance | **JPM** | $311.11 | -0.40% | Stable 🔴 |
-| Finance | **BAC** | $53.63 | -0.37% | Stable 🔴 |
-| Finance | **GS** | $1,045.00 | +0.61% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,186.90 | -1.72% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $64.25 | -1.30% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $40.46 | +2.12% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable report:
