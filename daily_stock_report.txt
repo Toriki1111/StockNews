@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 11/06/2026 20:01:19
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $525.02 | -0.96% | Stable 🔴 |
+| Military | **RTX** | $177.41 | -2.29% | Stable 🔴 |
+| Military | **NOC** | $542.14 | -1.19% | Stable 🔴 |
+| Energy | **XOM** | $150.62 | +1.15% | Stable 🟢 |
+| Energy | **CVX** | $189.80 | +1.63% | Stable 🟢 |
+| Energy | **COP** | $119.92 | +2.68% | Stable 🟢 |
+| Tech | **TSLA** | $381.59 | -3.80% | Stable 🔴 |
+| Tech | **AAPL** | $291.58 | +0.35% | Stable 🟢 |
+| Tech | **MSFT** | $397.36 | -1.50% | Stable 🔴 |
+| Tech | **GOOGL** | $356.38 | -2.16% | Stable 🔴 |
+| Finance | **JPM** | $309.14 | -1.14% | Stable 🔴 |
+| Finance | **BAC** | $54.54 | +0.22% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,001.29 | -2.98% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,095.00 | -0.32% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $63.41 | -1.84% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $40.76 | -2.70% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 11/06/2026 19:01:17
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,37 +1028,5 @@ The market displayed a mixed performance today, with most sectors experiencing d
 ----------------------------------------
 
 ### 📊 USA Market Update - 10/06/2026 16:05:43
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | API Connection Error | 0.00% | Stable 🟡 |
-| Military | **RTX** | API Connection Error | 0.00% | Stable 🟡 |
-| Military | **NOC** | API Connection Error | 0.00% | Stable 🟡 |
-| Energy | **XOM** | API Connection Error | 0.00% | Stable 🟡 |
-| Energy | **CVX** | API Connection Error | 0.00% | Stable 🟡 |
-| Energy | **COP** | API Connection Error | 0.00% | Stable 🟡 |
-| Tech | **TSLA** | API Connection Error | 0.00% | Stable 🟡 |
-| Tech | **AAPL** | API Connection Error | 0.00% | Stable 🟡 |
-| Tech | **MSFT** | API Connection Error | 0.00% | Stable 🟡 |
-| Tech | **GOOGL** | API Connection Error | 0.00% | Stable 🟡 |
-| Finance | **JPM** | API Connection Error | 0.00% | Stable 🟡 |
-| Finance | **BAC** | API Connection Error | 0.00% | Stable 🟡 |
-| Finance | **GS** | API Connection Error | 0.00% | Stable 🟡 |
-| Precious Metals | **GLD** | API Connection Error | 0.00% | Stable 🟡 |
-| Precious Metals | **SLV** | API Connection Error | 0.00% | Stable 🟡 |
-| Precious Metals | **GOLD** | API Connection Error | 0.00% | Stable 🟡 |
-
-
-*(AI Error 404: {
-  "error": {
-    "code": 404,
-    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
-    "status": "NOT_FOUND"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 10/06/2026 16:01:48
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
