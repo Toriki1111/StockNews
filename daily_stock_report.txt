@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 12/06/2026 01:01:17
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $546.28 | +4.05% | Stable 🟢 |
+| Military | **RTX** | $182.81 | +3.04% | Stable 🟢 |
+| Military | **NOC** | $556.98 | +2.74% | Stable 🟢 |
+| Energy | **XOM** | $148.23 | -1.59% | Stable 🔴 |
+| Energy | **CVX** | $187.72 | -1.10% | Stable 🔴 |
+| Energy | **COP** | $117.14 | -2.32% | Stable 🔴 |
+| Tech | **TSLA** | $393.30 | +3.07% | Stable 🟢 |
+| Tech | **AAPL** | $295.92 | +1.49% | Stable 🟢 |
+| Tech | **MSFT** | $388.53 | -2.22% | Stable 🔴 |
+| Tech | **GOOGL** | $352.59 | -1.06% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $314.00 | +1.57% | Stable 🟢 |
+| Finance | **BAC** | $55.22 | +1.24% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,024.67 | +2.34% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,174.20 | +1.61% | ✅ Oversale 🟢 |
+| Precious Metals | **SI=F** | $66.11 | +2.35% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $42.12 | +3.35% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the USA market data:
+
+*   **Market Trend**: Capital is clearly flowing into the Military, Finance, and Precious Metals sectors, which are showing broad-based gains. Conversely, the Energy sector is experiencing significant outflows, while the Tech sector presents a mixed picture with both strong performers (TSLA, AAPL) and notable declines (MSFT, GOOGL).
+*   **Key Tickers to Watch**: **GOOGL** is flagged as "Oversale" and down -1.06%, suggesting a potential tactical entry point for a short-term rebound. In contrast, **BAC** is marked "Overbought" after a 1.24% gain, indicating caution or a potential near-term consolidation.
+*   **Actionable Strategy**: Consider accumulating positions in oversold tech like **GOOGL** for a potential bounce, while setting a tight stop-loss or considering partial profit-taking for overbought financials like **BAC**. For the strong Military and Precious Metals sectors, maintain existing positions or accumulate on minor pullbacks, given their current momentum.
+----------------------------------------
+
 ### 📊 USA Market Update - 12/06/2026 00:01:20
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here is an analysis of the USA market data:
 ### AI Financial Advisor:
 
 Here is your concise, actionable report:
-
-*   **Market Trend**: Money is clearly flowing into the Energy sector, with all major players showing positive gains. Conversely, the Military sector is experiencing broad exits, and significant tech heavyweights (AAPL, MSFT, GOOGL) are also under pressure despite a strong day for TSLA.
-*   **Key Tickers to Watch**: Gold and Silver futures (GC=F, SI=F) are prime tickers to watch, both explicitly marked "Oversale" after drops of -1.72% and -1.30%, indicating a potential technical rebound opportunity. Furthermore, TSLA exhibited a notable single-day surge of +4.59%, warranting attention for momentum plays or profit-taking.
-*   **Actionable Strategy**: For the upcoming session, consider initiating accumulation in oversold precious metal futures (GC=F, SI=F) to capture a potential bounce. Investors should also look to accumulate in the strong Energy sector, while exercising caution with Military sector holdings.
-----------------------------------------
-
-### 📊 USA Market Update - 10/06/2026 17:15:30
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $520.07 | -0.70% | Stable 🔴 |
-| Military | **RTX** | $178.66 | -1.29% | Stable 🔴 |
-| Military | **NOC** | $540.81 | -0.66% | Stable 🔴 |
-| Energy | **XOM** | $151.75 | +1.22% | Stable 🟢 |
-| Energy | **CVX** | $189.24 | +1.03% | Stable 🟢 |
-| Energy | **COP** | $118.89 | +1.49% | Stable 🟢 |
-| Tech | **TSLA** | $408.95 | +4.59% | Stable 🟢 |
-| Tech | **AAPL** | $301.54 | -1.89% | Stable 🔴 |
-| Tech | **MSFT** | $411.74 | -1.18% | Stable 🔴 |
-| Tech | **GOOGL** | $363.31 | -1.42% | Stable 🔴 |
-| Finance | **JPM** | $311.11 | -0.40% | Stable 🔴 |
-| Finance | **BAC** | $53.63 | -0.37% | Stable 🔴 |
-| Finance | **GS** | $1,045.00 | +0.61% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,190.70 | -1.63% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $64.21 | -1.37% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $40.46 | +2.12% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-The USA market on October 6, 2026, displayed a mixed performance with distinct sector-specific trends. The Energy sector demonstrated uniform positive gains, while the Military sector consistently experienced declines across all listed companies. Notable individual movements included Tesla's (TSLA) significant 4.59% surge, contrasting with most other major tech stocks, and precious metals futures (GC=F, SI=F) being marked oversold despite a strong rise in GOLD.
