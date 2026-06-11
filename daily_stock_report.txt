@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 11/06/2026 12:01:14
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $530.13 | +1.93% | Stable 🟢 |
+| Military | **RTX** | $181.56 | +1.62% | Stable 🟢 |
+| Military | **NOC** | $548.67 | +1.45% | Stable 🟢 |
+| Energy | **XOM** | $148.91 | -1.87% | Stable 🔴 |
+| Energy | **CVX** | $186.76 | -1.31% | Stable 🔴 |
+| Energy | **COP** | $116.79 | -1.77% | Stable 🔴 |
+| Tech | **TSLA** | $396.68 | -3.00% | Stable 🔴 |
+| Tech | **AAPL** | $290.55 | -3.64% | Stable 🔴 |
+| Tech | **MSFT** | $403.41 | -2.02% | Stable 🔴 |
+| Tech | **GOOGL** | $364.26 | +0.26% | Stable 🟢 |
+| Finance | **JPM** | $312.70 | +0.51% | Stable 🟢 |
+| Finance | **BAC** | $54.42 | +1.47% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,032.01 | -1.24% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,101.70 | -0.16% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $64.04 | -0.87% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.89 | +3.53% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data for 11/06/2026:
+
+*   **Market Trend**: Capital is noticeably flowing into the Military sector, with all tickers showing positive momentum, and selectively into certain Finance stocks and physical Gold. Conversely, there's a broad outflow from the Energy sector and most Technology giants, signaling a shift away from these areas.
+*   **Key Tickers to Watch**: Monitor BAC, which is flagged as 'Overbought!' after a +1.47% gain, suggesting caution for long positions. Additionally, keep a close eye on Gold Futures (GC=F), which are signaling 'Oversale,' potentially indicating an attractive entry point for accumulation.
+*   **Actionable Strategy**: For BAC, consider taking partial profits or initiating a conservative short position given its overbought status. Conversely, for GC=F, an 'Accumulate' strategy may be appropriate, while a 'Wait & Watch' approach is advisable for the currently declining Energy and broad Tech sectors.
+----------------------------------------
+
 ### 📊 USA Market Update - 11/06/2026 11:01:16
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ The market displayed a mixed performance today, with most sectors experiencing d
 *(AI Error 404: {
   "error": {
     "code": 404,
-    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
-    "status": "NOT_FOUND"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 10/06/2026 15:01:22
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $nan | +nan% | Stable 🟡 |
-| Military | **RTX** | $nan | +nan% | Stable 🟡 |
-| Military | **NOC** | $nan | +nan% | Stable 🟡 |
-| Energy | **XOM** | $nan | +nan% | Stable 🟡 |
-| Energy | **CVX** | $nan | +nan% | Stable 🟡 |
-| Energy | **COP** | $nan | +nan% | Stable 🟡 |
-| Tech | **TSLA** | $nan | +nan% | Stable 🟡 |
-| Tech | **AAPL** | $nan | +nan% | Stable 🟡 |
-| Tech | **MSFT** | $nan | +nan% | Stable 🟡 |
-| Tech | **GOOGL** | $nan | +nan% | Stable 🟡 |
-| Finance | **JPM** | $nan | +nan% | Stable 🟡 |
-| Finance | **BAC** | $nan | +nan% | Stable 🟡 |
-| Finance | **GS** | $nan | +nan% | Stable 🟡 |
-| Precious Metals | **GC** | $4,212.80 | -1.11% | ✅ Oversale 🔴 |
-| Precious Metals | **SI** | $64.62 | -0.73% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $nan | +nan% | Stable 🟡 |
-
-
-*(AI Error 404: {
-  "error": {
