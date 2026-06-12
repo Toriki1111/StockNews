@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 12/06/2026 10:01:11
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $548.68 | +4.51% | Stable 🟢 |
+| Military | **RTX** | $184.21 | +3.83% | Stable 🟢 |
+| Military | **NOC** | $552.52 | +1.91% | Stable 🟢 |
+| Energy | **XOM** | $146.60 | -2.67% | Stable 🔴 |
+| Energy | **CVX** | $185.82 | -2.10% | Stable 🔴 |
+| Energy | **COP** | $115.36 | -3.80% | Stable 🔴 |
+| Tech | **TSLA** | $399.15 | +4.60% | Stable 🟢 |
+| Tech | **AAPL** | $295.63 | +1.39% | Stable 🟢 |
+| Tech | **MSFT** | $390.34 | -1.77% | Stable 🔴 |
+| Tech | **GOOGL** | $357.77 | +0.39% | Stable 🟢 |
+| Finance | **JPM** | $313.49 | +1.41% | Stable 🟢 |
+| Finance | **BAC** | $55.16 | +1.14% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,035.64 | +3.43% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,211.10 | +2.50% | ✅ Oversale 🟢 |
+| Precious Metals | **SI=F** | $67.15 | +3.96% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $43.29 | +6.21% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 12/06/2026 09:01:10
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is your concise market analysis:
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "status": "UNAVAILABLE"
   }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 11/06/2026 01:01:18
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $530.05 | -0.02% | Stable 🔴 |
-| Military | **RTX** | $179.21 | -1.29% | Stable 🔴 |
-| Military | **NOC** | $544.08 | -0.84% | Stable 🔴 |
-| Energy | **XOM** | $151.77 | +1.92% | Stable 🟢 |
-| Energy | **CVX** | $191.54 | +2.56% | Stable 🟢 |
-| Energy | **COP** | $120.74 | +3.38% | Stable 🟢 |
-| Tech | **TSLA** | $384.80 | -3.00% | Stable 🔴 |
-| Tech | **AAPL** | $294.05 | +1.20% | Stable 🟢 |
-| Tech | **MSFT** | $401.64 | -0.44% | Stable 🔴 |
-| Tech | **GOOGL** | $356.91 | -2.02% | Stable 🔴 |
-| Finance | **JPM** | $312.24 | -0.15% | Stable 🔴 |
-| Finance | **BAC** | $54.90 | +0.88% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,012.30 | -1.91% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,130.00 | -3.05% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $64.86 | -0.36% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $41.35 | -1.30% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Capital is strongly flowing into the Energy sector, with all listed tickers showing significant gains, while Precious Metals are experiencing substantial outflows, marked by universal declines and oversold signals. The broader Tech sector also shows weakness, particularly in TSLA and GOOGL, indicating selective profit-taking or sector rotation.
