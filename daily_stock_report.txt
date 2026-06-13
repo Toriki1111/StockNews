@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 13/06/2026 16:01:22
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
+| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
+| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
+| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
+| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
+| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
+| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
+| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
+| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
+| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
+| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,215.00 | +3.05% | Stable 🟢 |
+| Precious Metals | **SI=F** | $67.86 | +6.22% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $44.23 | +2.17% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market report:
+
+*   **Market Trend**: Capital is clearly rotating into safe-haven assets and commodities, evidenced by the strong performance in Precious Metals and Energy. Conversely, the Military sector is experiencing a downturn, suggesting a shift away from defense-related investments, while Tech remains mixed.
+*   **Key Tickers to Watch**: `SI=F` (Silver Futures) shows an exceptional +6.22% surge, marked as "Oversale" (indicating extreme buying pressure) and suggesting a potential overextension. Financial stocks `JPM` and `BAC` are explicitly flagged as "Overbought!" after significant gains of +2.31% and +1.56% respectively.
+*   **Actionable Strategy**: For `SI=F`, consider taking partial profits due to the extreme surge and potential for a correction. For `JPM` and `BAC`, investors should exercise caution and potentially trim positions or set tight stop-loss orders given their "Overbought" status; conversely, "Wait & Watch" for potential entry points into the Military sector after the current dip.
+----------------------------------------
+
 ### 📊 USA Market Update - 13/06/2026 15:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is your market update and actionable strategy:
 | Tech | **AAPL** | $295.63 | +1.39% | Stable 🟢 |
 | Tech | **MSFT** | $390.34 | -1.77% | Stable 🔴 |
 | Tech | **GOOGL** | $357.77 | +0.39% | Stable 🟢 |
-| Finance | **JPM** | $313.49 | +1.41% | Stable 🟢 |
-| Finance | **BAC** | $55.16 | +1.14% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,035.64 | +3.43% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,239.40 | +3.19% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.57 | +4.60% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $43.29 | +6.21% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is a concise, actionable report:
-
-1.  **Market Trend**: Capital is flowing into defensive sectors like Military and Precious Metals, showing strong momentum alongside Finance and specific Technology stocks, while the Energy sector experiences clear outflows.
-2.  **Key Tickers to Watch**: BAC is flagged as "Overbought" at a +1.14% gain, signaling potential caution, while SI=F shows a significant +4.60% surge marked with an "Oversale" indicator, suggesting strong buying pressure or a rebound from prior undervaluation.
-3.  **Actionable Strategy**: Consider setting tight stop-losses or taking partial profits on BAC due to its "Overbought" status. For SI=F, a "Wait & Watch" approach for consolidation after its sharp rise is prudent, or "Accumulate" on any dip for those bullish on precious metals.
-----------------------------------------
-
-### 📊 USA Market Update - 12/06/2026 06:01:10
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $548.68 | +4.51% | Stable 🟢 |
-| Military | **RTX** | $184.21 | +3.83% | Stable 🟢 |
-| Military | **NOC** | $552.52 | +1.91% | Stable 🟢 |
-| Energy | **XOM** | $146.60 | -2.67% | Stable 🔴 |
-| Energy | **CVX** | $185.82 | -2.10% | Stable 🔴 |
-| Energy | **COP** | $115.36 | -3.80% | Stable 🔴 |
-| Tech | **TSLA** | $399.15 | +4.60% | Stable 🟢 |
-| Tech | **AAPL** | $295.63 | +1.39% | Stable 🟢 |
-| Tech | **MSFT** | $390.34 | -1.77% | Stable 🔴 |
-| Tech | **GOOGL** | $357.77 | +0.39% | Stable 🟢 |
-| Finance | **JPM** | $313.49 | +1.41% | Stable 🟢 |
