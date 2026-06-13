@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 13/06/2026 17:01:26
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
+| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
+| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
+| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
+| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
+| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
+| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
+| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
+| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
+| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
+| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,215.00 | +3.05% | Stable 🟢 |
+| Precious Metals | **SI=F** | $67.86 | +6.22% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $44.23 | +2.17% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market update:
+
+*   **Market Trend**: Capital is actively shifting into the Finance and Precious Metals sectors, reflecting robust performance and potential inflation hedging. Energy and specific Technology stocks also show positive momentum, contrasting with a slight pullback in the Military sector.
+*   **Key Tickers to Watch**: Silver futures (SI=F) surged an exceptional 6.22% with an "Oversale" signal, indicating extreme buying pressure and potential for significant volatility. Concurrently, JPMorgan (JPM) and Bank of America (BAC) are marked "Overbought" after strong gains, signaling a potential for near-term price consolidation.
+*   **Actionable Strategy**: Consider accumulating precious metals on any dips for long-term portfolio diversification. For new entries into SI=F, "Wait & Watch" for stabilization, and for current holdings in overbought financials like JPM and BAC, "Take Profit" on a portion of your position or set tight stop-losses.
+----------------------------------------
+
 ### 📊 USA Market Update - 13/06/2026 16:01:22
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -986,37 +1017,6 @@ Here is your market update:
 ----------------------------------------
 
 ### 📊 USA Market Update - 12/06/2026 08:01:08
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $548.68 | +4.51% | Stable 🟢 |
-| Military | **RTX** | $184.21 | +3.83% | Stable 🟢 |
-| Military | **NOC** | $552.52 | +1.91% | Stable 🟢 |
-| Energy | **XOM** | $146.60 | -2.67% | Stable 🔴 |
-| Energy | **CVX** | $185.82 | -2.10% | Stable 🔴 |
-| Energy | **COP** | $115.36 | -3.80% | Stable 🔴 |
-| Tech | **TSLA** | $399.15 | +4.60% | Stable 🟢 |
-| Tech | **AAPL** | $295.63 | +1.39% | Stable 🟢 |
-| Tech | **MSFT** | $390.34 | -1.77% | Stable 🔴 |
-| Tech | **GOOGL** | $357.77 | +0.39% | Stable 🟢 |
-| Finance | **JPM** | $313.49 | +1.41% | Stable 🟢 |
-| Finance | **BAC** | $55.16 | +1.14% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,035.64 | +3.43% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,224.70 | +2.84% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.41 | +4.35% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $43.29 | +6.21% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update and actionable strategy:
-
-*   **Market Trend**: Capital is decisively flowing into the Military, Finance, and Precious Metals sectors, all showing broad-based gains. Conversely, the Energy sector is experiencing significant outflows, with all major players showing declines.
-*   **Key Tickers to Watch**: Bank of America (BAC) is flagged as "Overbought," indicating potential for a near-term pullback or consolidation after its recent gains. Silver Futures (SI=F), marked as "Oversale" but up significantly (+4.35%), suggests a strong rebound from a prior oversold condition, signaling robust bullish momentum.
-*   **Actionable Strategy**: Accumulate positions in the Military and Precious Metals sectors, particularly in strong performers like GOLD and SI=F, leveraging their current momentum. For BAC, consider setting a trailing stop-loss or partially taking profits given its "Overbought" status.
-----------------------------------------
-
-### 📊 USA Market Update - 12/06/2026 07:01:16
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $548.68 | +4.51% | Stable 🟢 |
