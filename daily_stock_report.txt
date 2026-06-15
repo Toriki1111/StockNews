@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 16/06/2026 04:01:27
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $530.36 | -1.85% | Stable 🔴 |
+| Military | **RTX** | $183.64 | +0.06% | Stable 🟢 |
+| Military | **NOC** | $544.73 | -1.02% | Stable 🔴 |
+| Energy | **XOM** | $140.92 | -4.14% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $180.40 | -3.64% | Stable 🔴 |
+| Energy | **COP** | $112.26 | -4.03% | Stable 🔴 |
+| Tech | **TSLA** | $411.15 | +1.16% | Stable 🟢 |
+| Tech | **AAPL** | $296.42 | +1.82% | Stable 🟢 |
+| Tech | **MSFT** | $399.76 | +2.31% | Stable 🟢 |
+| Tech | **GOOGL** | $369.35 | +2.69% | Stable 🟢 |
+| Finance | **JPM** | $319.40 | -0.41% | Stable 🔴 |
+| Finance | **BAC** | $55.87 | -0.27% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,076.17 | +1.26% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,330.80 | +2.75% | Stable 🟢 |
+| Precious Metals | **SI=F** | $70.01 | +3.18% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.66 | -1.29% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's a concise market analysis:
+
+1.  **Market Trend**: Capital is clearly flowing into the Technology sector, exhibiting strong upward momentum across major tickers. Conversely, there's a significant outflow from the Energy sector, with all listed stocks experiencing notable declines. Precious Metals futures are also seeing strong gains, suggesting a potential risk-off sentiment.
+2.  **Key Tickers to Watch**: **XOM** (Energy) is prominently marked as oversold (-4.14%), indicating potential for either a technical bounce or continued weakness. **BAC** (Finance) is flagged as overbought, signaling a possible short-term reversal or profit-taking opportunity.
+3.  **Actionable Strategy**: Accumulate positions in strong-performing Technology stocks on minor pullbacks. For Energy, monitor XOM for a potential entry only if stabilization occurs, otherwise, maintain a "Wait & Watch" stance on the sector. For BAC, consider taking partial profits or implement a tight stop-loss.
+----------------------------------------
+
 ### 📊 USA Market Update - 16/06/2026 03:01:24
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here is your market update:
 *   **Market Trend**: Capital is primarily flowing into Precious Metals and Finance, with both sectors showing strong gains, and Finance specifically exhibiting "Overbought" signals on key tickers. Energy also demonstrates positive momentum, while the Military sector consistently experiences capital outflow.
 *   **Key Tickers to Watch**: **JPM** and **BAC** are flagged as "Overbought!" following substantial gains of +2.31% and +1.56%, respectively, suggesting potential short-term profit-taking. Additionally, **SI=F** saw an exceptional +6.40% surge, indicating strong speculative interest or a significant shift in commodity sentiment.
 *   **Actionable Strategy**: Given the "Overbought" status, consider taking partial profits or implementing tight stop-loss orders on JPM and BAC. For the Military sector, a "Wait & Watch" approach is advisable, while the strong performance in Precious Metals and Energy suggests monitoring for continuation or strategic accumulation on pullbacks.
-----------------------------------------
-
-### 📊 USA Market Update - 14/06/2026 19:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
-| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
-| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
-| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
-| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
-| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
-| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
-| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
-| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
-| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
-| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,238.80 | +3.63% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.97 | +6.40% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.23 | +2.17% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Capital is primarily rotating into the Energy, Finance, and Precious Metals sectors, reflecting a potential flight to safety or inflation hedge, while defense stocks are experiencing clear outflows. Tech shows mixed signals, but with a slight positive bias overall.
-2.  **Key Tickers to Watch**: Financial giants JPM and BAC are flagged as "Overbought," indicating potential for a near-term pullback. Meanwhile, Silver futures (SI=F) saw a substantial 6.40% surge, signaling robust bullish momentum within the precious metals space.
-3.  **Actionable Strategy**: Consider taking partial profits or setting tighter stop-loss orders on overbought financial positions like JPM and BAC to manage risk. For Precious Metals, maintain exposure but prepare for potential volatility following the sharp upward movement, potentially looking for consolidation before adding further.
