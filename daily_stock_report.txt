@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 16/06/2026 01:01:27
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $534.97 | -0.99% | Stable 🔴 |
+| Military | **RTX** | $186.37 | +1.54% | Stable 🟢 |
+| Military | **NOC** | $544.41 | -1.08% | Stable 🔴 |
+| Energy | **XOM** | $141.28 | -3.90% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $180.60 | -3.54% | Stable 🔴 |
+| Energy | **COP** | $112.60 | -3.74% | Stable 🔴 |
+| Tech | **TSLA** | $411.02 | +1.13% | Stable 🟢 |
+| Tech | **AAPL** | $295.55 | +1.52% | Stable 🟢 |
+| Tech | **MSFT** | $399.01 | +2.12% | Stable 🟢 |
+| Tech | **GOOGL** | $371.83 | +3.38% | Stable 🟢 |
+| Finance | **JPM** | $320.49 | -0.07% | ⚠️ Overbought! 🔴 |
+| Finance | **BAC** | $56.13 | +0.20% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,080.95 | +1.71% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,342.60 | +3.03% | Stable 🟢 |
+| Precious Metals | **SI=F** | $70.06 | +3.24% | Stable 🟢 |
+| Precious Metals | **GOLD** | $44.16 | -0.15% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+1.  **Market Trend**: Money is flowing strongly into the Technology and Precious Metals sectors, with all listed tech companies showing robust gains and gold/silver futures rising significantly. Conversely, the Energy sector is experiencing a broad downturn, suggesting a sector rotation out of traditional energy plays.
+2.  **Key Tickers to Watch**: **XOM** is a critical watch due to its "Oversale" status and nearly 4% decline, potentially signaling a short-term buying opportunity for a bounce. Additionally, **JPM** is marked "Overbought!", indicating a heightened risk of a near-term pullback despite its minimal daily change.
+3.  **Actionable Strategy**: Initiate accumulation for oversold energy assets like XOM, looking for a technical rebound in the upcoming session. For positions in overbought financials such as JPM, consider taking partial profits or implementing tight trailing stop-loss orders to protect capital.
+----------------------------------------
+
 ### 📊 USA Market Update - 16/06/2026 00:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -997,36 +1028,4 @@ Here's an analysis of the USA market data:
 *   **Market Trend**: Capital is strongly flowing into Precious Metals, Finance, and Energy sectors, with most Tech names also showing positive momentum. Conversely, the Military sector is experiencing broad outflows across all observed tickers.
 *   **Key Tickers to Watch**: Financial giants JPM and BAC are flagged as "Overbought!" after strong gains, signaling a potential near-term pullback. Additionally, silver futures (SI=F) recorded a significant +6.40% surge, indicating robust demand in the precious metals market.
 *   **Actionable Strategy**: Consider taking partial profits or setting tight stop-loss orders on overbought financial positions like JPM and BAC. For new entries into the significantly appreciated Precious Metals sector, a "Wait & Watch" approach for consolidation or minor pullbacks is advised.
-----------------------------------------
-
-### 📊 USA Market Update - 14/06/2026 16:01:17
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
-| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
-| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
-| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
-| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
-| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
-| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
-| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
-| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
-| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
-| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,238.80 | +3.63% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.97 | +6.40% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.23 | +2.17% | Stable 🟢 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
 ----------------------------------------
