@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 16/06/2026 16:01:28
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
+| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
+| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
+| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
+| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
+| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
+| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
+| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
+| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
+| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
+| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,363.40 | +0.82% | Stable 🟢 |
+| Precious Metals | **SI=F** | $70.47 | +0.58% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.66 | -1.29% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market update:
+
+*   **Market Trend**: Capital is aggressively flowing into the Finance and Energy sectors, showing strong positive momentum across most constituents. Conversely, the Military sector is experiencing consistent outflows, indicating a sector-specific downturn.
+*   **Key Tickers to Watch**: JPM and BAC are explicitly flagged as "Overbought!", indicating they may be due for a short-term retracement or consolidation after significant gains. Goldman Sachs (GS) also surged, reinforcing the strong day for financials.
+*   **Actionable Strategy**: For existing financial holdings in JPM and BAC, consider taking partial profits given their "Overbought" status. Maintain a "Wait & Watch" stance on the Energy sector for further confirmation, and generally avoid new positions in the declining Military sector.
+----------------------------------------
+
 ### 📊 USA Market Update - 16/06/2026 15:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is an analysis of the USA market data:
 
 ----------------------------------------
 
-### 📊 USA Market Update - 15/06/2026 07:01:23
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
-| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
-| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
-| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
-| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
-| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
-| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
-| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
-| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
-| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
-| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,312.90 | +2.32% | Stable 🟢 |
-| Precious Metals | **SI=F** | $70.29 | +3.58% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.23 | +2.17% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Capital is clearly rotating into the Energy, Finance, and Precious Metals sectors, all showing strong positive momentum, while funds are exiting the Military sector. Tech performance is mixed but generally positive, with a notable dip in AAPL.
-2.  **Key Tickers to Watch**: JPM and BAC are flagged as "Overbought!" following significant gains of +2.31% and +1.56% respectively, indicating potential short-term correction risk. Additionally, Silver (SI=F) surged +3.58%, highlighting strong investor appetite for precious metals.
-3.  **Actionable Strategy**: For existing positions in JPM and BAC, consider taking partial profits or implementing tight stop-loss orders due to their overbought status. For the robust Precious Metals and Energy sectors, maintain a "Wait & Watch" approach to monitor for consolidation before initiating new long positions.
-----------------------------------------
-
-### 📊 USA Market Update - 15/06/2026 06:01:22
