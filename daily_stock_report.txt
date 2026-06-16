@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 16/06/2026 18:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
+| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
+| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
+| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
+| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
+| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
+| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
+| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
+| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
+| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
+| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,368.80 | +0.94% | Stable 🟢 |
+| Precious Metals | **SI=F** | $70.58 | +0.74% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.66 | -1.29% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Money is clearly flowing into the Energy and Finance sectors, both showing broad positive momentum across their respective components. Conversely, the Military sector is experiencing a general pullback, while Technology and Precious Metals present a mixed picture.
+*   **Key Tickers to Watch**: JPM and BAC are explicitly marked as "Overbought!", signaling potential short-term exhaustion or profit-taking opportunities for existing long positions. Additionally, LMT and AAPL both exhibit notable -1.52% declines, indicating sector-specific weakness.
+*   **Actionable Strategy**: Consider taking profit or setting tight stop-loss orders on overbought Financial sector positions like JPM and BAC. For the upcoming session, maintain a "Wait & Watch" approach for the Military sector, while monitoring the strong Energy sector for potential accumulation on any minor dips.
+----------------------------------------
+
 ### 📊 USA Market Update - 16/06/2026 17:01:38
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is your market analysis:
 
 ----------------------------------------
 
-### 📊 USA Market Update - 15/06/2026 09:01:15
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
-| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
-| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
-| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
-| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
-| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
-| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
-| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
-| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
-| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
-| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,338.20 | +2.92% | Stable 🟢 |
-| Precious Metals | **SI=F** | $70.36 | +3.68% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.23 | +2.17% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the USA market data:
-
-1.  **Market Trend**: Capital is actively rotating into Finance, Energy, and Precious Metals sectors, evidenced by robust positive movements across most tickers. Conversely, the Military sector is experiencing outflows with all represented stocks showing negative performance, while Technology shows mixed signals but leans positive overall.
-2.  **Key Tickers to Watch**: JPM and BAC are notable as they are flagged "⚠️ Overbought!" after significant gains, signaling potential short-term correction risk. Additionally, SI=F (Silver Futures) posted the strongest individual surge, indicating robust demand for precious metals.
-3.  **Actionable Strategy**: For positions in JPM and BAC, consider a "Take Profit" or "Wait & Watch" strategy due to their overbought status, potentially setting tight stop-losses if holding. Investors should consider accumulating in the Energy sector for continued upward momentum and closely monitor Precious Metals for sustained strength.
-----------------------------------------
-
-### 📊 USA Market Update - 15/06/2026 08:01:16
