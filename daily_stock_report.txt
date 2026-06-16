@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 16/06/2026 10:01:18
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $530.36 | -1.85% | Stable 🔴 |
+| Military | **RTX** | $183.64 | +0.06% | Stable 🟢 |
+| Military | **NOC** | $544.73 | -1.02% | Stable 🔴 |
+| Energy | **XOM** | $140.92 | -4.14% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $180.40 | -3.64% | Stable 🔴 |
+| Energy | **COP** | $112.26 | -4.03% | Stable 🔴 |
+| Tech | **TSLA** | $411.15 | +1.16% | Stable 🟢 |
+| Tech | **AAPL** | $296.42 | +1.82% | Stable 🟢 |
+| Tech | **MSFT** | $399.76 | +2.31% | Stable 🟢 |
+| Tech | **GOOGL** | $369.35 | +2.69% | Stable 🟢 |
+| Finance | **JPM** | $319.40 | -0.41% | Stable 🔴 |
+| Finance | **BAC** | $55.87 | -0.27% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,076.17 | +1.26% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,334.20 | +2.83% | Stable 🟢 |
+| Precious Metals | **SI=F** | $69.50 | +2.42% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.66 | -1.29% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 16/06/2026 09:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is your concise market report:
 
 Here is your market update:
 
-1.  **Market Trend**: Capital is clearly flowing into safe-haven assets like Precious Metals, showing significant gains with Silver futures surging over 6%, and into the Financial and Energy sectors. Conversely, the Military sector is experiencing outflows, with all tickers in the red, while the Tech sector presents a mixed performance.
-2.  **Key Tickers to Watch**: Financial stocks JPM (+2.31%) and BAC (+1.56%) are flagged as "Overbought," suggesting they may be due for a near-term consolidation or pullback. Simultaneously, Silver futures (SI=F) with an impressive +6.40% gain warrants close attention as a strong indicator of market sentiment and demand for defensive assets.
-3.  **Actionable Strategy**: For JPM and BAC, consider taking partial profits or tightening stop-loss orders given their "Overbought" status; new entries should await a more favorable technical setup. Maintain a "Wait & Watch" approach on Precious Metals to assess if the strong upward momentum is sustainable, while selectively exploring opportunities in the robust Energy sector.
-----------------------------------------
-
-### 📊 USA Market Update - 15/06/2026 01:01:30
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
-| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
-| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
-| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
-| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
-| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
-| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
-| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
-| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
-| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
-| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,238.80 | +3.63% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.97 | +6.40% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.23 | +2.17% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable report:
-
-*   **Market Trend**: Capital is strongly flowing into Precious Metals and the Finance sector, with positive momentum also observed in Energy. Conversely, the Military sector is experiencing outflows, suggesting a shift away from defense-related assets.
