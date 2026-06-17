@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 18/06/2026 04:01:32
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $532.32 | -0.68% | Stable 🔴 |
+| Military | **RTX** | $192.58 | +3.11% | ⚠️ Overbought! 🟢 |
+| Military | **NOC** | $550.15 | -0.19% | Stable 🔴 |
+| Energy | **XOM** | $140.74 | -0.79% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $177.58 | -1.40% | ✅ Oversale 🔴 |
+| Energy | **COP** | $111.21 | -0.12% | Stable 🔴 |
+| Tech | **TSLA** | $396.38 | -2.05% | Stable 🔴 |
+| Tech | **AAPL** | $295.95 | -1.10% | Stable 🔴 |
+| Tech | **MSFT** | $378.91 | -3.79% | Stable 🔴 |
+| Tech | **GOOGL** | $363.79 | -2.53% | Stable 🔴 |
+| Finance | **JPM** | $333.46 | +0.70% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $56.53 | -0.55% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,099.14 | +0.78% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,276.10 | -1.27% | Stable 🔴 |
+| Precious Metals | **SI=F** | $67.95 | -2.79% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.71 | -2.33% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+*   **Market Trend**: Capital is broadly exiting the Tech and Precious Metals sectors, evidenced by significant price drops across the board. While the Energy sector is also down, two major players are now flagged as oversold, suggesting potential for a bounce, while specific tickers in Military and Finance are showing strong positive momentum, reaching overbought levels.
+*   **Key Tickers to Watch**: Raytheon Technologies (**RTX**) at $192.58 (+3.11%) and JPMorgan Chase (**JPM**) at $333.46 (+0.70%) are both highlighted as "Overbought," signaling strong recent demand but potential for a near-term correction. Conversely, **XOM** ($140.74, -0.79%) and **CVX** ($177.58, -1.40%) are flagged as "Oversale," indicating potential value opportunities.
+*   **Actionable Strategy**: Consider *accumulating* positions in oversold Energy companies like XOM and CVX, anticipating a technical rebound from current levels. For RTX and JPM, which are overbought, *take profit* on recent gains or *tighten stop-loss orders* to protect capital, as a pullback may be imminent. Avoid new long positions in Tech and Precious Metals for now; maintain a "Wait & Watch" approach for these sectors.
+----------------------------------------
+
 ### 📊 USA Market Update - 18/06/2026 03:01:22
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -994,37 +1025,6 @@ Here's an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 16/06/2026 18:01:31
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
-| Military | **RTX** | $183.53 | -0.37% | Stable 🔴 |
-| Military | **NOC** | $550.33 | -0.40% | Stable 🔴 |
-| Energy | **XOM** | $147.01 | +0.28% | Stable 🟢 |
-| Energy | **CVX** | $187.22 | +0.75% | Stable 🟢 |
-| Energy | **COP** | $116.98 | +1.40% | Stable 🟢 |
-| Tech | **TSLA** | $406.43 | +1.82% | Stable 🟢 |
-| Tech | **AAPL** | $291.13 | -1.52% | Stable 🔴 |
-| Tech | **MSFT** | $390.74 | +0.10% | Stable 🟢 |
-| Tech | **GOOGL** | $359.68 | +0.53% | Stable 🟢 |
-| Finance | **JPM** | $320.72 | +2.31% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $56.02 | +1.56% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,062.75 | +2.62% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,368.80 | +0.94% | Stable 🟢 |
-| Precious Metals | **SI=F** | $70.58 | +0.74% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.66 | -1.29% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Money is clearly flowing into the Energy and Finance sectors, both showing broad positive momentum across their respective components. Conversely, the Military sector is experiencing a general pullback, while Technology and Precious Metals present a mixed picture.
-*   **Key Tickers to Watch**: JPM and BAC are explicitly marked as "Overbought!", signaling potential short-term exhaustion or profit-taking opportunities for existing long positions. Additionally, LMT and AAPL both exhibit notable -1.52% declines, indicating sector-specific weakness.
-*   **Actionable Strategy**: Consider taking profit or setting tight stop-loss orders on overbought Financial sector positions like JPM and BAC. For the upcoming session, maintain a "Wait & Watch" approach for the Military sector, while monitoring the strong Energy sector for potential accumulation on any minor dips.
-----------------------------------------
-
-### 📊 USA Market Update - 16/06/2026 17:01:38
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $540.33 | -1.52% | Stable 🔴 |
