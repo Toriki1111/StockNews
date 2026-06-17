@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 17/06/2026 10:01:17
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $535.95 | +1.05% | Stable 🟢 |
+| Military | **RTX** | $186.77 | +1.70% | Stable 🟢 |
+| Military | **NOC** | $551.21 | +1.19% | Stable 🟢 |
+| Energy | **XOM** | $141.86 | +0.67% | Stable 🟢 |
+| Energy | **CVX** | $180.11 | -0.16% | Stable 🔴 |
+| Energy | **COP** | $111.34 | -0.82% | Stable 🔴 |
+| Tech | **TSLA** | $404.66 | -1.58% | Stable 🔴 |
+| Tech | **AAPL** | $299.24 | +0.95% | Stable 🟢 |
+| Tech | **MSFT** | $393.83 | -1.48% | Stable 🔴 |
+| Tech | **GOOGL** | $373.25 | +1.06% | Stable 🟢 |
+| Finance | **JPM** | $331.14 | +3.68% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $56.84 | +1.74% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,090.67 | +1.35% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,354.30 | +0.61% | Stable 🟢 |
+| Precious Metals | **SI=F** | $70.36 | +0.41% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.73 | +0.16% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 17/06/2026 09:01:28
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is your market analysis:
   }
 }
 )*
-
-----------------------------------------
-
-### 📊 USA Market Update - 16/06/2026 01:01:27
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $534.97 | -0.99% | Stable 🔴 |
-| Military | **RTX** | $186.37 | +1.54% | Stable 🟢 |
-| Military | **NOC** | $544.41 | -1.08% | Stable 🔴 |
-| Energy | **XOM** | $141.28 | -3.90% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $180.60 | -3.54% | Stable 🔴 |
-| Energy | **COP** | $112.60 | -3.74% | Stable 🔴 |
-| Tech | **TSLA** | $411.02 | +1.13% | Stable 🟢 |
-| Tech | **AAPL** | $295.55 | +1.52% | Stable 🟢 |
-| Tech | **MSFT** | $399.01 | +2.12% | Stable 🟢 |
-| Tech | **GOOGL** | $371.83 | +3.38% | Stable 🟢 |
-| Finance | **JPM** | $320.49 | -0.07% | ⚠️ Overbought! 🔴 |
-| Finance | **BAC** | $56.13 | +0.20% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,080.95 | +1.71% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,342.60 | +3.03% | Stable 🟢 |
-| Precious Metals | **SI=F** | $70.06 | +3.24% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.16 | -0.15% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Money is flowing strongly into the Technology and Precious Metals sectors, with all listed tech companies showing robust gains and gold/silver futures rising significantly. Conversely, the Energy sector is experiencing a broad downturn, suggesting a sector rotation out of traditional energy plays.
-2.  **Key Tickers to Watch**: **XOM** is a critical watch due to its "Oversale" status and nearly 4% decline, potentially signaling a short-term buying opportunity for a bounce. Additionally, **JPM** is marked "Overbought!", indicating a heightened risk of a near-term pullback despite its minimal daily change.
-3.  **Actionable Strategy**: Initiate accumulation for oversold energy assets like XOM, looking for a technical rebound in the upcoming session. For positions in overbought financials such as JPM, consider taking partial profits or implementing tight trailing stop-loss orders to protect capital.
