@@ -6,11 +6,13 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [trigger-event]
-
+    
+env:
+ FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # added this make sure bot push 
     permissions:
       contents: write
 
@@ -33,6 +35,7 @@ jobs:
         env:
           AI_KEY: ${{ secrets.AI_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          
         run: |
           python bot_stock.py
           python discord_notify.py
@@ -43,6 +46,5 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           git add daily_stock_report.txt
-          # Thêm ngày giờ vào commit message để Git luôn thấy sự khác biệt
           git commit -m "daily: market update $(date +'%Y-%m-%d %H:%M:%S') [skip ci]" || echo "No changes"
           git push
