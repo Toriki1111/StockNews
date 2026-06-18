@@ -32,7 +32,6 @@ def get_ai_advice(market_data):
         
         if response.status_code == 429:
             return "\n*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*\n"
-            
         if response.status_code != 200:
             return f"\n*(AI Error {response.status_code}: {response.text})*\n"
 
