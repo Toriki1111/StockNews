@@ -34,9 +34,6 @@ def get_ai_advice(market_data):
             return "\n*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*\n"
         if response.status_code != 200:
             return f"\n*(AI Error {response.status_code}: {response.text})*\n"
-        if response.status_code == 503:
-            time.sleep(120)
-            return get_ai_advise()
             
         result = response.json()
         advice_text = result['candidates'][0]['content']['parts'][0]['text']
