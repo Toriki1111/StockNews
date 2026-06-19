@@ -11,7 +11,7 @@ def add_indicators(df):
     loss = (-delta.where(delta < 0, 0)).ewm(alpha=1/14, adjust=False).mean()
     rs = gain / loss
     df['RSI'] = 100 - (100 / (1 + rs))
-    # 2. calculate EMA 20
+    # calculate EMA 20
     df['EMA_20'] = close.ewm(span=20, adjust=False).mean()
     return df
 
