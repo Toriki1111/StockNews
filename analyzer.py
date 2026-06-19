@@ -7,7 +7,6 @@ def add_indicators(df):
     # Make sure 'Close' column exists
     close = df['Close']
     
-    # 1. calculate RSI
     delta = close.diff()
     gain = (delta.where(delta > 0, 0)).ewm(alpha=1/14, adjust=False).mean()
     loss = (-delta.where(delta < 0, 0)).ewm(alpha=1/14, adjust=False).mean()
@@ -15,7 +14,7 @@ def add_indicators(df):
     rs = gain / loss
     df['RSI'] = 100 - (100 / (1 + rs))
     
-    # 2. Tự tính EMA 20
+    # 2. calculate EMA 20
     df['EMA_20'] = close.ewm(span=20, adjust=False).mean()
     
     return df
