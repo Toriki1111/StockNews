@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 19/06/2026 12:01:19
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
+| Military | **RTX** | $185.60 | -3.62% | Stable 🔴 |
+| Military | **NOC** | $521.50 | -5.21% | Stable 🔴 |
+| Energy | **XOM** | $137.81 | -2.08% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $173.63 | -2.22% | ✅ Oversale 🔴 |
+| Energy | **COP** | $107.74 | -3.12% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $400.49 | +1.04% | Stable 🟢 |
+| Tech | **AAPL** | $298.01 | +0.70% | Stable 🟢 |
+| Tech | **MSFT** | $379.40 | +0.13% | Stable 🟢 |
+| Tech | **GOOGL** | $368.03 | +1.17% | Stable 🟢 |
+| Finance | **JPM** | $325.22 | -2.47% | Stable 🔴 |
+| Finance | **BAC** | $56.20 | -0.58% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,096.56 | -0.23% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,151.70 | -1.71% | Stable 🔴 |
+| Precious Metals | **SI=F** | $63.78 | -3.74% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.25 | -1.08% | Stable 🔴 |
+
+
+*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 19/06/2026 11:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,36 +1021,5 @@ Here is your market update:
 1.  **Market Trend**: The market is experiencing a broad sell-off, particularly in Technology, Energy, and Precious Metals sectors, indicating significant capital outflow and widespread bearish sentiment. Conversely, the Military and Finance sectors show mixed performance, with specific tickers demonstrating strong upward momentum against the general market decline.
 2.  **Key Tickers to Watch**: Raytheon Technologies (RTX) is highlighted as "Overbought" following a substantial +3.11% increase, signaling potential for a near-term pullback. Conversely, Exxon Mobil (XOM) and Chevron (CVX) are marked as "Oversale," which could present a tactical buying opportunity for a rebound, especially given their sector-wide decline.
 3.  **Actionable Strategy**: For RTX, it is advisable to consider a take-profit strategy or implement a tight stop-loss to secure gains. For XOM and CVX, initiate a "Wait & Watch" approach for confirmation of a price reversal before accumulating, given the broader market's negative trend.
-----------------------------------------
-
-### 📊 USA Market Update - 18/06/2026 04:01:32
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $532.32 | -0.68% | Stable 🔴 |
-| Military | **RTX** | $192.58 | +3.11% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $550.15 | -0.19% | Stable 🔴 |
-| Energy | **XOM** | $140.74 | -0.79% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $177.58 | -1.40% | ✅ Oversale 🔴 |
-| Energy | **COP** | $111.21 | -0.12% | Stable 🔴 |
-| Tech | **TSLA** | $396.38 | -2.05% | Stable 🔴 |
-| Tech | **AAPL** | $295.95 | -1.10% | Stable 🔴 |
-| Tech | **MSFT** | $378.91 | -3.79% | Stable 🔴 |
-| Tech | **GOOGL** | $363.79 | -2.53% | Stable 🔴 |
-| Finance | **JPM** | $333.46 | +0.70% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $56.53 | -0.55% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,099.14 | +0.78% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,276.10 | -1.27% | Stable 🔴 |
-| Precious Metals | **SI=F** | $67.95 | -2.79% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.71 | -2.33% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-*   **Market Trend**: Capital is broadly exiting the Tech and Precious Metals sectors, evidenced by significant price drops across the board. While the Energy sector is also down, two major players are now flagged as oversold, suggesting potential for a bounce, while specific tickers in Military and Finance are showing strong positive momentum, reaching overbought levels.
-*   **Key Tickers to Watch**: Raytheon Technologies (**RTX**) at $192.58 (+3.11%) and JPMorgan Chase (**JPM**) at $333.46 (+0.70%) are both highlighted as "Overbought," signaling strong recent demand but potential for a near-term correction. Conversely, **XOM** ($140.74, -0.79%) and **CVX** ($177.58, -1.40%) are flagged as "Oversale," indicating potential value opportunities.
-*   **Actionable Strategy**: Consider *accumulating* positions in oversold Energy companies like XOM and CVX, anticipating a technical rebound from current levels. For RTX and JPM, which are overbought, *take profit* on recent gains or *tighten stop-loss orders* to protect capital, as a pullback may be imminent. Avoid new long positions in Tech and Precious Metals for now; maintain a "Wait & Watch" approach for these sectors.
 ----------------------------------------
 
