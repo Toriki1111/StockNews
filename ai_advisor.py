@@ -35,6 +35,7 @@ def get_ai_advice(market_data):
         if response.status_code != 200:
             return f"\n*(AI Error {response.status_code}: {response.text})*\n"
         if response.status_code == 503:
+            time.sleep(120)
             return get_ai_advise()
             
         result = response.json()
