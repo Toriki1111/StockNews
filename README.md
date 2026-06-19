@@ -14,7 +14,7 @@
 ## 🚀 Key Features
 
 * **Autonomous Operation:** Fully managed via GitHub Actions and triggered by Cron-job.org for 100% uptime.
-* **Data Archiving & Logging:** Automatically maintains `autocommit.txt`, a self-rotating ledger of the last 1,000 market updates.
+* **Data Archiving & Logging:** Automatically maintains `daily_stock_report.txt`, a self-rotating ledger of the last 1,000 market updates.
 * **ICT Timezone (GMT+7):** Synchronized with Vietnam Standard Time for accurate local reporting.
 * **GitHub Activity Boost:** Generates daily automated commits ("Green Grass") to showcase active repository maintenance.
 
@@ -24,7 +24,7 @@
 
 This system is designed to be versatile. Users can choose how they want to receive or store their data:
 
-1.  **Logging Mode (Default):** The system fetches data and saves it directly to `autocommit.txt` in the repository. Perfect for building a historical dataset.
+1.  **Logging Mode (Default):** The system fetches data and saves it directly to `daily_stock_report.txt` in the repository. Perfect for building a historical dataset.
 2.  **Notification Mode (Optional):** Integrate with **Discord Webhooks** to receive real-time visual reports on your server. 
     * *Note: If you don't want Discord notifications, simply do not add the `DISCORD_WEBHOOK_URL` secret, and the system will continue to log data silently.*
 
@@ -33,11 +33,11 @@ This system is designed to be versatile. Users can choose how they want to recei
 ## 📊 Monitored Assets
 
 The pipeline tracks strategic tickers for a global market overview:
-* **Tech:** AAPL, MSFT, GOOGL.
-* **Energy:** XOM, CVX, COP.
-* **Defense:** LMT, RTX, NOC.
-* **Finance:** JPM, BAC, GS.
-* **Safe Havens(Gold,Silver,...):** Gold (GC=F), Silver (SI=F).
+* **Tech:** AAPL, MSFT, GOOGL,etc....
+* **Energy:** XOM, CVX, COP,etc...
+* **Defense:** LMT, RTX, NOC,etc...
+* **Finance:** JPM, BAC, GS,etc...
+* **Safe Havens(Gold,Silver,...):** Gold (GC=F), Silver (SI=F),etc...
 (U can modify code of this part if want to add somthing )
 ---
 
@@ -49,7 +49,7 @@ The pipeline tracks strategic tickers for a global market overview:
 | **API** | Yahoo Finance (`yfinance`) |
 | **Orchestration** | GitHub Actions (CI/CD) |
 | **Trigger** | Repository Dispatch (via Cron-job.org) |
-| **Storage** | Flat-file Logging (`autocommit.txt`) |
+| **Storage** | Flat-file Logging (`daily_stock_report.txt`) |
 
 ---
 
