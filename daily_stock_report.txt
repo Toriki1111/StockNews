@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 20/06/2026 20:01:18
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
+| Military | **RTX** | $185.60 | -3.62% | Stable 🔴 |
+| Military | **NOC** | $521.50 | -5.21% | Stable 🔴 |
+| Energy | **XOM** | $137.81 | -2.08% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $173.63 | -2.22% | ✅ Oversale 🔴 |
+| Energy | **COP** | $107.74 | -3.12% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $400.49 | +1.04% | Stable 🟢 |
+| Tech | **AAPL** | $298.01 | +0.70% | Stable 🟢 |
+| Tech | **MSFT** | $379.40 | +0.13% | Stable 🟢 |
+| Tech | **GOOGL** | $368.03 | +1.17% | Stable 🟢 |
+| Finance | **JPM** | $325.22 | -2.47% | Stable 🔴 |
+| Finance | **BAC** | $56.20 | -0.58% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,096.56 | -0.23% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,172.90 | -1.21% | Stable 🔴 |
+| Precious Metals | **SI=F** | $64.91 | -2.03% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.25 | -1.08% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market report:
+
+*   **Market Trend**: Capital is actively shifting, exiting defensive sectors like Military, Energy, Finance, and Precious Metals, all showing significant declines. Conversely, the Technology sector demonstrates strong resilience, attracting capital with broad positive performance.
+*   **Key Tickers to Watch**: The Energy sector, particularly **COP** and **XOM**, is flagged as "Oversale" after notable drops, signaling potential bounce opportunities. Conversely, **BAC**, despite a minor dip, remains "Overbought!", indicating possible exhaustion of bullish momentum and warranting close attention for a reversal.
+*   **Actionable Strategy**: Initiate a "Wait & Watch" approach for the Military and Precious Metals sectors until clear support emerges. For "Oversale" Energy stocks like COP, a "Buy the Dip" strategy could be considered if fundamental outlooks remain strong. For BAC, "Take Profit" or "Set Stop Loss" orders are prudent given its "Overbought" status and current slight decline.
+----------------------------------------
+
 ### 📊 USA Market Update - 20/06/2026 19:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -997,35 +1028,4 @@ Here's an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 19/06/2026 11:01:30
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $532.32 | -0.68% | Stable 🔴 |
-| Military | **RTX** | $192.58 | +3.11% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $550.15 | -0.19% | Stable 🔴 |
-| Energy | **XOM** | $140.74 | -0.79% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $177.58 | -1.40% | ✅ Oversale 🔴 |
-| Energy | **COP** | $111.21 | -0.12% | Stable 🔴 |
-| Tech | **TSLA** | $396.38 | -2.05% | Stable 🔴 |
-| Tech | **AAPL** | $295.95 | -1.10% | Stable 🔴 |
-| Tech | **MSFT** | $378.91 | -3.79% | Stable 🔴 |
-| Tech | **GOOGL** | $363.79 | -2.53% | Stable 🔴 |
-| Finance | **JPM** | $333.46 | +0.70% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $56.53 | -0.55% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,099.14 | +0.78% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,176.30 | -1.13% | Stable 🔴 |
-| Precious Metals | **SI=F** | $64.27 | -3.00% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.71 | -2.33% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's your concise market report:
-
-1.  **Market Trend**: Capital is exiting Tech, Energy, and Precious Metals sectors, all experiencing notable declines, with Energy stocks showing oversold conditions. Conversely, selective strength is observed in parts of the Military and Finance sectors, with some assets flagged as overbought.
-2.  **Key Tickers to Watch**: **RTX** stands out with a significant surge (+3.11%) and an "Overbought!" status, indicating potential for a near-term pullback. **XOM** and **CVX** are technically "Oversale," presenting potential accumulation points if a sector rebound materializes.
-3.  **Actionable Strategy**: For overbought assets like RTX and JPM, consider tightening stop-loss orders or taking partial profits. For oversold Energy tickers like XOM and CVX, adopt a "Wait & Watch" approach for confirmation of a rebound before considering accumulation, and generally avoid new positions in the broadly declining Tech and Precious Metals sectors.
-----------------------------------------
-
-### 📊 USA Market Update - 19/06/2026 10:12:13
 
