@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 20/06/2026 21:01:19
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
+| Military | **RTX** | $185.60 | -3.62% | Stable 🔴 |
+| Military | **NOC** | $521.50 | -5.21% | Stable 🔴 |
+| Energy | **XOM** | $137.81 | -2.08% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $173.63 | -2.22% | ✅ Oversale 🔴 |
+| Energy | **COP** | $107.74 | -3.12% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $400.49 | +1.04% | Stable 🟢 |
+| Tech | **AAPL** | $298.01 | +0.70% | Stable 🟢 |
+| Tech | **MSFT** | $379.40 | +0.13% | Stable 🟢 |
+| Tech | **GOOGL** | $368.03 | +1.17% | Stable 🟢 |
+| Finance | **JPM** | $325.22 | -2.47% | Stable 🔴 |
+| Finance | **BAC** | $56.20 | -0.58% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,096.56 | -0.23% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,172.90 | -1.21% | Stable 🔴 |
+| Precious Metals | **SI=F** | $64.91 | -2.03% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.25 | -1.08% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+1.  **Market Trend**: Capital is actively rotating into the Technology sector, which shows broad gains across major tickers, while traditional and defensive sectors such as Military, Energy, Finance, and Precious Metals are experiencing significant outflows. This indicates a clear shift towards growth-oriented assets.
+2.  **Key Tickers to Watch**: The Energy sector's XOM and CVX are notably "Oversale" after significant drops, presenting potential value or bounce opportunities. Conversely, BAC is flagged as "Overbought" despite a slight downturn, signaling a heightened risk of correction or profit-taking.
+3.  **Actionable Strategy**: Consider accumulating positions in the oversold Energy stocks like XOM or CVX, anticipating a potential short-term rebound. For BAC, it is advisable to consider taking partial profits or implementing a tight stop-loss to protect against potential downside.
+----------------------------------------
+
 ### 📊 USA Market Update - 20/06/2026 20:01:18
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here's an analysis of the USA market data:
 Here's an analysis of the USA market data:
 
 *   **Market Trend**: There is a clear outflow of capital from the Tech, Energy, and Precious Metals sectors, reflected in broad price declines and oversold signals. Conversely, selective strength is observed in the Military sector (RTX) and Finance (JPM, GS).
-*   **Key Tickers to Watch**: RTX (Military) is notably overbought with a significant +3.11% surge, indicating strong momentum that might precede a short-term correction. In contrast, XOM (Energy) is oversold after a -0.79% drop, potentially presenting a value entry for long-term investors.
-*   **Actionable Strategy**: For overbought assets like RTX and JPM, consider taking partial profits or implementing tight trailing stop-losses to protect gains. "Wait & Watch" for confirmation on oversold Energy stocks like XOM and CVX before initiating new long positions, or consider gradual accumulation if aligned with long-term investment goals.
-----------------------------------------
-
-### 📊 USA Market Update - 19/06/2026 12:01:19
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
-| Military | **RTX** | $185.60 | -3.62% | Stable 🔴 |
-| Military | **NOC** | $521.50 | -5.21% | Stable 🔴 |
-| Energy | **XOM** | $137.81 | -2.08% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $173.63 | -2.22% | ✅ Oversale 🔴 |
-| Energy | **COP** | $107.74 | -3.12% | ✅ Oversale 🔴 |
-| Tech | **TSLA** | $400.49 | +1.04% | Stable 🟢 |
-| Tech | **AAPL** | $298.01 | +0.70% | Stable 🟢 |
-| Tech | **MSFT** | $379.40 | +0.13% | Stable 🟢 |
-| Tech | **GOOGL** | $368.03 | +1.17% | Stable 🟢 |
-| Finance | **JPM** | $325.22 | -2.47% | Stable 🔴 |
-| Finance | **BAC** | $56.20 | -0.58% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,096.56 | -0.23% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,151.70 | -1.71% | Stable 🔴 |
-| Precious Metals | **SI=F** | $63.78 | -3.74% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.25 | -1.08% | Stable 🔴 |
-
-
-*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 19/06/2026 11:01:30
-
