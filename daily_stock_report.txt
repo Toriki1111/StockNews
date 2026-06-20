@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 20/06/2026 16:01:24
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
+| Military | **RTX** | $185.60 | -3.62% | Stable 🔴 |
+| Military | **NOC** | $521.50 | -5.21% | Stable 🔴 |
+| Energy | **XOM** | $137.81 | -2.08% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $173.63 | -2.22% | ✅ Oversale 🔴 |
+| Energy | **COP** | $107.74 | -3.12% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $400.49 | +1.04% | Stable 🟢 |
+| Tech | **AAPL** | $298.01 | +0.70% | Stable 🟢 |
+| Tech | **MSFT** | $379.40 | +0.13% | Stable 🟢 |
+| Tech | **GOOGL** | $368.03 | +1.17% | Stable 🟢 |
+| Finance | **JPM** | $325.22 | -2.47% | Stable 🔴 |
+| Finance | **BAC** | $56.20 | -0.58% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,096.56 | -0.23% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,172.90 | -1.21% | Stable 🔴 |
+| Precious Metals | **SI=F** | $64.91 | -2.03% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.25 | -1.08% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Money is actively flowing into the Technology sector, which shows broad positive momentum. Conversely, significant capital is exiting the Military, Energy, Finance, and Precious Metals sectors, with Energy stocks notably entering oversold territory.
+*   **Key Tickers to Watch**: Pay close attention to **XOM** (ExxonMobil) and other Energy sector stocks (CVX, COP) as they are marked "Oversale," potentially signaling attractive entry points. Also, monitor **BAC** (Bank of America), which is flagged "Overbought" despite a slight daily dip, suggesting it may be due for a correction.
+*   **Actionable Strategy**: Consider accumulating positions in the Energy sector for a potential rebound given the oversold conditions. For BAC, exercise caution and potentially look to take profits or initiate a stop-loss strategy given its "Overbought" status.
+----------------------------------------
+
 ### 📊 USA Market Update - 20/06/2026 15:01:20
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here's an analysis of the USA market data:
 ### 📊 USA Market Update - 19/06/2026 08:01:18
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
-| Military | **RTX** | $185.60 | -3.62% | Stable 🔴 |
-| Military | **NOC** | $521.50 | -5.21% | Stable 🔴 |
-| Energy | **XOM** | $137.81 | -2.08% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $173.63 | -2.22% | ✅ Oversale 🔴 |
-| Energy | **COP** | $107.74 | -3.12% | ✅ Oversale 🔴 |
-| Tech | **TSLA** | $400.49 | +1.04% | Stable 🟢 |
-| Tech | **AAPL** | $298.01 | +0.70% | Stable 🟢 |
-| Tech | **MSFT** | $379.40 | +0.13% | Stable 🟢 |
-| Tech | **GOOGL** | $368.03 | +1.17% | Stable 🟢 |
-| Finance | **JPM** | $325.22 | -2.47% | Stable 🔴 |
-| Finance | **BAC** | $56.20 | -0.58% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,096.56 | -0.23% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,209.00 | -3.44% | Stable 🔴 |
-| Precious Metals | **SI=F** | $65.49 | -7.36% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.25 | -1.08% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Capital is rotating out of cyclical and defensive sectors such as Military, Energy, Finance, and Precious Metals, with all showing negative performance. Conversely, the Technology sector is demonstrating strength, attracting inflows and showing positive momentum across the board.
-2.  **Key Tickers to Watch**: Bank of America (BAC) is flagged as "Overbought," suggesting potential downside risk or a coming correction. ConocoPhillips (COP) in the Energy sector is marked "Oversale" after a -3.12% drop, potentially indicating a short-term rebound opportunity or an attractive entry point.
-3.  **Actionable Strategy**: For current positions, maintain exposure to Tech stocks but prepare to take partial profits or set a tight stop-loss on BAC. For new capital, consider accumulating select Energy stocks like COP on their oversold conditions, while exercising caution with Precious Metals given their significant declines.
-----------------------------------------
-
-### 📊 USA Market Update - 19/06/2026 07:01:23
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
