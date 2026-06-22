@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 22/06/2026 11:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
+| Military | **RTX** | $185.60 | -3.62% | Stable 🔴 |
+| Military | **NOC** | $521.50 | -5.21% | Stable 🔴 |
+| Energy | **XOM** | $137.81 | -2.08% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $173.63 | -2.22% | ✅ Oversale 🔴 |
+| Energy | **COP** | $107.74 | -3.12% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $400.49 | +1.04% | Stable 🟢 |
+| Tech | **AAPL** | $298.01 | +0.70% | Stable 🟢 |
+| Tech | **MSFT** | $379.40 | +0.13% | Stable 🟢 |
+| Tech | **GOOGL** | $368.03 | +1.17% | Stable 🟢 |
+| Finance | **JPM** | $325.22 | -2.47% | Stable 🔴 |
+| Finance | **BAC** | $56.20 | -0.58% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,096.56 | -0.23% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,224.10 | -3.09% | Stable 🔴 |
+| Precious Metals | **SI=F** | $66.25 | -6.28% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.25 | -1.08% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market report:
+
+1.  **Market Trend**: Capital is decisively shifting towards the Technology sector, which shows broad positive performance. Conversely, there's a strong outflow from defensive assets (Precious Metals), traditional industrial sectors (Military), and Energy, with Financials also experiencing declines.
+2.  **Key Tickers to Watch**: The Energy sector's XOM and CVX are flagged as "Oversale" after significant drops, indicating potential short-term rebound opportunities. BAC in the Finance sector is marked "Overbought" despite a slight dip, suggesting a potential correction or profit-taking phase for its recent strength.
+3.  **Actionable Strategy**: Consider accumulating positions in the Energy sector (e.g., XOM, CVX) given their "Oversale" status and recent declines, aiming for a technical bounce. For BAC, adopt a "Wait & Watch" approach or "Take Profit" if currently long, as its "Overbought" signal points to potential downside risk.
+----------------------------------------
+
 ### 📊 USA Market Update - 22/06/2026 10:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1029,3 @@ Here is your market analysis:
 
 1.  **Market Trend**: Capital is clearly rotating out of defensive sectors like Military, Energy, and Precious Metals, which are experiencing significant declines, and flowing into the Technology sector, which shows consistent positive performance.
 2.  **Key Tickers to Watch**: The Energy sector (XOM, CVX, COP) stands out with "Oversale" signals after significant drops, indicating potential entry points, while BAC is flagged as "Overbought" despite a minor dip, suggesting increased risk.
-3.  **Actionable Strategy**: For the upcoming session, consider accumulating positions in the Oversale Energy tickers for a potential rebound, and exercise caution with BAC by setting tight stop-loss orders or taking partial profits.
-----------------------------------------
-
-### 📊 USA Market Update - 21/06/2026 01:01:26
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
-| Military | **RTX** | $185.60 | -3.62% | Stable 🔴 |
-| Military | **NOC** | $521.50 | -5.21% | Stable 🔴 |
-| Energy | **XOM** | $137.81 | -2.08% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $173.63 | -2.22% | ✅ Oversale 🔴 |
-| Energy | **COP** | $107.74 | -3.12% | ✅ Oversale 🔴 |
-| Tech | **TSLA** | $400.49 | +1.04% | Stable 🟢 |
-| Tech | **AAPL** | $298.01 | +0.70% | Stable 🟢 |
-| Tech | **MSFT** | $379.40 | +0.13% | Stable 🟢 |
-| Tech | **GOOGL** | $368.03 | +1.17% | Stable 🟢 |
-| Finance | **JPM** | $325.22 | -2.47% | Stable 🔴 |
-| Finance | **BAC** | $56.20 | -0.58% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,096.56 | -0.23% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,172.90 | -1.21% | Stable 🔴 |
-| Precious Metals | **SI=F** | $64.91 | -2.03% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.25 | -1.08% | Stable 🔴 |
-
-
----
