@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 23/06/2026 09:01:24
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $493.60 | -3.40% | Stable 🔴 |
+| Military | **RTX** | $181.83 | -2.03% | Stable 🔴 |
+| Military | **NOC** | $507.33 | -2.72% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $138.47 | +0.48% | ✅ Oversale 🟢 |
+| Energy | **CVX** | $175.06 | +0.82% | Stable 🟢 |
+| Energy | **COP** | $109.70 | +1.82% | Stable 🟢 |
+| Tech | **TSLA** | $405.05 | +1.14% | Stable 🟢 |
+| Tech | **AAPL** | $297.01 | -0.34% | Stable 🔴 |
+| Tech | **MSFT** | $367.34 | -3.18% | ✅ Oversale 🔴 |
+| Tech | **GOOGL** | $349.68 | -4.99% | Stable 🔴 |
+| Finance | **JPM** | $331.48 | +1.92% | Stable 🟢 |
+| Finance | **BAC** | $57.37 | +2.08% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,106.37 | +0.89% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,171.40 | -1.25% | Stable 🔴 |
+| Precious Metals | **SI=F** | $64.00 | -3.40% | Stable 🔴 |
+| Precious Metals | **GOLD** | $41.81 | -1.04% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's your market analysis:
+
+*   **Market Trend**: Capital is clearly flowing into the Energy and Finance sectors, both exhibiting strong positive momentum. Conversely, funds are exiting the Military and broader Tech sectors, which are experiencing widespread declines, alongside Precious Metals.
+*   **Key Tickers to Watch**: **MSFT** is a key ticker to watch, flagged as significantly oversold with a notable -3.18% drop, suggesting a potential rebound. On the other hand, **BAC** is highlighted as overbought following a strong +2.08% surge, indicating it may be due for a pullback.
+*   **Actionable Strategy**: Consider accumulating positions in oversold technology names like **MSFT** for potential bounce-backs, while exercising caution with **BAC** by either taking profit or waiting for a dip before new entry. Maintain a "Wait & Watch" approach on Military and Precious Metals given their current downward trend.
+----------------------------------------
+
 ### 📊 USA Market Update - 23/06/2026 08:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,36 +1027,5 @@ Here is your market update:
 ----------------------------------------
 
 ### 📊 USA Market Update - 22/06/2026 00:01:18
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $510.95 | -4.01% | Stable 🔴 |
-| Military | **RTX** | $185.60 | -3.62% | Stable 🔴 |
-| Military | **NOC** | $521.50 | -5.21% | Stable 🔴 |
-| Energy | **XOM** | $137.81 | -2.08% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $173.63 | -2.22% | ✅ Oversale 🔴 |
-| Energy | **COP** | $107.74 | -3.12% | ✅ Oversale 🔴 |
-| Tech | **TSLA** | $400.49 | +1.04% | Stable 🟢 |
-| Tech | **AAPL** | $298.01 | +0.70% | Stable 🟢 |
-| Tech | **MSFT** | $379.40 | +0.13% | Stable 🟢 |
-| Tech | **GOOGL** | $368.03 | +1.17% | Stable 🟢 |
-| Finance | **JPM** | $325.22 | -2.47% | Stable 🔴 |
-| Finance | **BAC** | $56.20 | -0.58% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,096.56 | -0.23% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,172.90 | -1.21% | Stable 🔴 |
-| Precious Metals | **SI=F** | $64.91 | -2.03% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.25 | -1.08% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Capital is clearly flowing into the Technology sector, exhibiting positive momentum across all tracked tickers. Conversely, money is exiting the Military, Energy, Finance, and Precious Metals sectors, indicating broad risk aversion or profit-taking in these areas.
-2.  **Key Tickers to Watch**: **COP** stands out as "Oversale," suggesting it might be undervalued after its decline and could present a contrarian buying opportunity. **BAC** is marked "Overbought!" despite a minor dip, indicating potential for a more significant pullback or a good opportunity for profit-taking.
-3.  **Actionable Strategy**: For the Technology sector, maintain existing long positions and consider accumulating on any minor dips. For Energy stocks like **COP** that are "Oversale," consider cautious accumulation for long-term value. For **BAC**, consider taking profits or implementing a tight stop-loss given its "Overbought" status.
-----------------------------------------
-
-### 📊 USA Market Update - 21/06/2026 23:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
