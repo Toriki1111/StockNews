@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 24/06/2026 22:01:30
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $495.16 | -1.69% | Stable 🔴 |
+| Military | **RTX** | $185.93 | -0.24% | Stable 🔴 |
+| Military | **NOC** | $506.39 | -1.33% | Stable 🔴 |
+| Energy | **XOM** | $136.04 | -2.64% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $171.32 | -2.65% | ✅ Oversale 🔴 |
+| Energy | **COP** | $106.60 | -3.06% | Stable 🔴 |
+| Tech | **TSLA** | $383.20 | +0.42% | Stable 🟢 |
+| Tech | **AAPL** | $297.14 | +0.97% | Stable 🟢 |
+| Tech | **MSFT** | $375.40 | +0.39% | Stable 🟢 |
+| Tech | **GOOGL** | $352.78 | +1.92% | Stable 🟢 |
+| Finance | **JPM** | $332.70 | -0.43% | Stable 🔴 |
+| Finance | **BAC** | $57.67 | -0.41% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,081.51 | -1.18% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,027.50 | -2.48% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $59.03 | -4.81% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.73 | -1.53% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 24/06/2026 21:01:34
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -993,37 +1025,6 @@ Here is your concise market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 23/06/2026 12:01:26
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $493.60 | -3.40% | Stable 🔴 |
-| Military | **RTX** | $181.83 | -2.03% | Stable 🔴 |
-| Military | **NOC** | $507.33 | -2.72% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $138.47 | +0.48% | ✅ Oversale 🟢 |
-| Energy | **CVX** | $175.06 | +0.82% | Stable 🟢 |
-| Energy | **COP** | $109.70 | +1.82% | Stable 🟢 |
-| Tech | **TSLA** | $405.05 | +1.14% | Stable 🟢 |
-| Tech | **AAPL** | $297.01 | -0.34% | Stable 🔴 |
-| Tech | **MSFT** | $367.34 | -3.18% | ✅ Oversale 🔴 |
-| Tech | **GOOGL** | $349.68 | -4.99% | Stable 🔴 |
-| Finance | **JPM** | $331.48 | +1.92% | Stable 🟢 |
-| Finance | **BAC** | $57.37 | +2.08% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,106.37 | +0.89% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,155.30 | -0.64% | Stable 🔴 |
-| Precious Metals | **SI=F** | $62.97 | -3.91% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $41.81 | -1.04% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is a concise, actionable report:
-
-*   **Market Trend**: Capital is actively flowing into the Finance and Energy sectors, indicating robust investor confidence, while the Military, Technology, and Precious Metals sectors are experiencing significant outflows.
-*   **Key Tickers to Watch**: Bank of America (BAC) stands out as "Overbought" following a strong +2.08% gain, signaling potential for a short-term correction. Conversely, Microsoft (MSFT) is marked "Oversale" after a -3.18% decline, potentially offering an entry point.
-*   **Actionable Strategy**: For BAC, consider taking partial profits or implementing tight stop-loss orders. For oversold assets like MSFT, NOC, and SI=F, consider initiating strategic accumulation positions while exercising caution and monitoring for broader market stabilization in the tech and military sectors.
-----------------------------------------
-
-### 📊 USA Market Update - 23/06/2026 11:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $493.60 | -3.40% | Stable 🔴 |
