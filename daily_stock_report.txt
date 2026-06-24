@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 24/06/2026 12:01:23
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $503.67 | +2.04% | Stable 🟢 |
+| Military | **RTX** | $186.39 | +2.51% | Stable 🟢 |
+| Military | **NOC** | $513.22 | +1.16% | Stable 🟢 |
+| Energy | **XOM** | $139.73 | +0.91% | Stable 🟢 |
+| Energy | **CVX** | $175.98 | +0.53% | Stable 🟢 |
+| Energy | **COP** | $109.97 | +0.25% | Stable 🟢 |
+| Tech | **TSLA** | $381.61 | -5.79% | Stable 🔴 |
+| Tech | **AAPL** | $294.30 | -0.91% | Stable 🔴 |
+| Tech | **MSFT** | $373.94 | +1.80% | Stable 🟢 |
+| Tech | **GOOGL** | $346.13 | -1.02% | Stable 🔴 |
+| Finance | **JPM** | $334.14 | +0.80% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $57.91 | +0.94% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,094.44 | -1.08% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,080.30 | -1.20% | Stable 🔴 |
+| Precious Metals | **SI=F** | $61.10 | -1.48% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $42.38 | +1.36% | Stable 🟢 |
+
+
+*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 24/06/2026 11:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1023,3 @@ Here is an analysis of the USA market data:
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $492.23 | -3.66% | Stable 🔴 |
-| Military | **RTX** | $182.27 | -1.79% | Stable 🔴 |
-| Military | **NOC** | $506.65 | -2.85% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $138.51 | +0.50% | ✅ Oversale 🟢 |
-| Energy | **CVX** | $174.99 | +0.79% | Stable 🟢 |
-| Energy | **COP** | $109.36 | +1.50% | Stable 🟢 |
-| Tech | **TSLA** | $406.39 | +1.47% | Stable 🟢 |
-| Tech | **AAPL** | $299.13 | +0.38% | Stable 🟢 |
-| Tech | **MSFT** | $369.51 | -2.61% | ✅ Oversale 🔴 |
-| Tech | **GOOGL** | $347.50 | -5.58% | Stable 🔴 |
-| Finance | **JPM** | $331.71 | +2.00% | Stable 🟢 |
-| Finance | **BAC** | $57.28 | +1.93% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,098.40 | +0.17% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,209.30 | -0.35% | Stable 🔴 |
-| Precious Metals | **SI=F** | $65.56 | -1.06% | Stable 🔴 |
-| Precious Metals | **GOLD** | $41.72 | -1.25% | Stable 🔴 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 23/06/2026 01:01:31
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
