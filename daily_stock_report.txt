@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 25/06/2026 02:01:27
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $496.43 | -1.44% | Stable 🔴 |
+| Military | **RTX** | $186.63 | +0.13% | Stable 🟢 |
+| Military | **NOC** | $509.03 | -0.82% | Stable 🔴 |
+| Energy | **XOM** | $136.42 | -2.37% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $171.93 | -2.30% | ✅ Oversale 🔴 |
+| Energy | **COP** | $107.00 | -2.70% | Stable 🔴 |
+| Tech | **TSLA** | $373.76 | -2.06% | Stable 🔴 |
+| Tech | **AAPL** | $294.86 | +0.19% | Stable 🟢 |
+| Tech | **MSFT** | $368.54 | -1.45% | Stable 🔴 |
+| Tech | **GOOGL** | $342.09 | -1.17% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $333.33 | -0.24% | Stable 🔴 |
+| Finance | **BAC** | $57.78 | -0.23% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,075.97 | -1.69% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,995.90 | -3.24% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $56.72 | -8.55% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.04 | -3.16% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 25/06/2026 01:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1030,3 @@ Here is your concise market analysis:
 
 ----------------------------------------
 
-### 📊 USA Market Update - 23/06/2026 16:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $493.60 | -3.40% | Stable 🔴 |
-| Military | **RTX** | $181.83 | -2.03% | Stable 🔴 |
-| Military | **NOC** | $507.33 | -2.72% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $138.47 | +0.48% | ✅ Oversale 🟢 |
-| Energy | **CVX** | $175.06 | +0.82% | Stable 🟢 |
-| Energy | **COP** | $109.70 | +1.82% | Stable 🟢 |
-| Tech | **TSLA** | $405.05 | +1.14% | Stable 🟢 |
-| Tech | **AAPL** | $297.01 | -0.34% | Stable 🔴 |
-| Tech | **MSFT** | $367.34 | -3.18% | ✅ Oversale 🔴 |
-| Tech | **GOOGL** | $349.68 | -4.99% | Stable 🔴 |
-| Finance | **JPM** | $331.48 | +1.92% | Stable 🟢 |
-| Finance | **BAC** | $57.37 | +2.08% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,106.37 | +0.89% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,122.10 | -1.43% | Stable 🔴 |
-| Precious Metals | **SI=F** | $62.12 | -5.20% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $41.81 | -1.04% | Stable 🔴 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
