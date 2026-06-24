@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 24/06/2026 07:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $503.67 | +2.04% | Stable 🟢 |
+| Military | **RTX** | $186.39 | +2.51% | Stable 🟢 |
+| Military | **NOC** | $513.22 | +1.16% | Stable 🟢 |
+| Energy | **XOM** | $139.73 | +0.91% | Stable 🟢 |
+| Energy | **CVX** | $175.98 | +0.53% | Stable 🟢 |
+| Energy | **COP** | $109.97 | +0.25% | Stable 🟢 |
+| Tech | **TSLA** | $381.61 | -5.79% | Stable 🔴 |
+| Tech | **AAPL** | $294.30 | -0.91% | Stable 🔴 |
+| Tech | **MSFT** | $373.94 | +1.80% | Stable 🟢 |
+| Tech | **GOOGL** | $346.13 | -1.02% | Stable 🔴 |
+| Finance | **JPM** | $334.14 | +0.80% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $57.91 | +0.94% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,094.44 | -1.08% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,115.90 | -1.58% | Stable 🔴 |
+| Precious Metals | **SI=F** | $61.46 | -6.21% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $42.38 | +1.36% | Stable 🟢 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 24/06/2026 06:01:31
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1023,3 @@ Here is your market update:
 
 1.  **Market Trend**: Money is clearly flowing into the Finance sector with strong across-the-board gains, while the Military sector is experiencing broad declines. The Tech sector is mixed, notably showing significant weakness in GOOGL.
 2.  **Key Tickers to Watch**: Monitor **GOOGL** closely after its substantial -6.31% drop, as this could signal either a buying opportunity for long-term investors or further downside pressure. Additionally, **BAC**'s +2.32% surge has led to an "Overbought" signal, suggesting potential profit-taking ahead.
-3.  **Actionable Strategy**: Consider accumulating positions in "Oversale" flagged stocks such as NOC (Military) and MSFT (Tech) for potential value plays. For BAC, consider taking partial profits or tightening stop-loss orders due to its overbought status, while adopting a "Wait & Watch" approach for GOOGL to observe stabilization.
-----------------------------------------
-
-### 📊 USA Market Update - 22/06/2026 21:01:34
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $496.45 | -2.84% | Stable 🔴 |
-| Military | **RTX** | $182.73 | -1.55% | Stable 🔴 |
-| Military | **NOC** | $507.41 | -2.70% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $137.48 | -0.24% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $173.83 | +0.12% | ✅ Oversale 🟢 |
-| Energy | **COP** | $108.83 | +1.01% | Stable 🟢 |
-| Tech | **TSLA** | $408.43 | +1.98% | Stable 🟢 |
-| Tech | **AAPL** | $301.88 | +1.30% | Stable 🟢 |
-| Tech | **MSFT** | $380.70 | +0.34% | Stable 🟢 |
-| Tech | **GOOGL** | $353.77 | -3.87% | Stable 🔴 |
-| Finance | **JPM** | $327.13 | +0.59% | Stable 🟢 |
-| Finance | **BAC** | $57.24 | +1.86% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,097.69 | +0.10% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,220.30 | -0.09% | Stable 🔴 |
-| Precious Metals | **SI=F** | $66.69 | +0.66% | Stable 🟢 |
-| Precious Metals | **GOLD** | $42.03 | -0.53% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Capital is notably flowing out of the Military sector, evidenced by widespread declines and 'Oversale' signals, while the Finance sector is attracting significant investment, with some tickers entering 'Overbought' territory. Tech performance is mixed, showing selective strength in some major players offset by a sharp decline in others.
-2.  **Key Tickers to Watch**: Northrop Grumman (NOC) stands out as 'Oversale' after a -2.70% decline, potentially presenting an attractive entry point for a short-term bounce. Conversely, Bank of America (BAC) is clearly 'Overbought' following a +1.86% surge, indicating increased risk of a near-term correction.
