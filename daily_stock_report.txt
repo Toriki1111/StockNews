@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 25/06/2026 11:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $491.64 | -2.39% | Stable 🔴 |
+| Military | **RTX** | $185.06 | -0.71% | Stable 🔴 |
+| Military | **NOC** | $503.01 | -1.99% | Stable 🔴 |
+| Energy | **XOM** | $136.90 | -2.03% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $171.45 | -2.57% | ✅ Oversale 🔴 |
+| Energy | **COP** | $106.92 | -2.77% | Stable 🔴 |
+| Tech | **TSLA** | $375.53 | -1.59% | Stable 🔴 |
+| Tech | **AAPL** | $293.08 | -0.41% | Stable 🔴 |
+| Tech | **MSFT** | $365.46 | -2.27% | ✅ Oversale 🔴 |
+| Tech | **GOOGL** | $345.29 | -0.24% | Stable 🔴 |
+| Finance | **JPM** | $333.45 | -0.21% | Stable 🔴 |
+| Finance | **BAC** | $57.73 | -0.31% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,076.91 | -1.60% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,990.30 | -3.38% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $58.05 | -6.40% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.32 | -2.50% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+1.  **Market Trend**: The data indicates a broad market downturn across all tracked sectors, with precious metals experiencing the most significant declines, signaling a widespread risk-off sentiment or substantial profit-taking across the board.
+2.  **Key Tickers to Watch**: Silver futures (SI=F) are notably oversold with a -6.40% drop, potentially presenting a short-term rebound opportunity; conversely, Bank of America (BAC) remains in an overbought status despite a slight dip, suggesting vulnerability to a correction.
+3.  **Actionable Strategy**: For oversold assets like SI=F, MSFT, XOM, and CVX, consider initiating cautious "Accumulate" positions for a potential rebound with tight stop-loss orders; for BAC, a "Take Profit" or "Wait & Watch" approach is prudent due to its overbought status.
+----------------------------------------
+
 ### 📊 USA Market Update - 25/06/2026 10:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here is your concise, actionable market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 24/06/2026 02:01:32
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $500.89 | +1.48% | Stable 🟢 |
-| Military | **RTX** | $185.12 | +1.81% | Stable 🟢 |
-| Military | **NOC** | $513.91 | +1.30% | Stable 🟢 |
-| Energy | **XOM** | $140.05 | +1.14% | Stable 🟢 |
-| Energy | **CVX** | $175.87 | +0.46% | Stable 🟢 |
-| Energy | **COP** | $109.88 | +0.16% | Stable 🟢 |
-| Tech | **TSLA** | $380.60 | -6.04% | Stable 🔴 |
-| Tech | **AAPL** | $297.46 | +0.15% | Stable 🟢 |
-| Tech | **MSFT** | $372.91 | +1.52% | Stable 🟢 |
-| Tech | **GOOGL** | $346.54 | -0.90% | Stable 🔴 |
-| Finance | **JPM** | $334.65 | +0.96% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $57.88 | +0.88% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,098.83 | -0.68% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,135.00 | -1.12% | Stable 🔴 |
-| Precious Metals | **SI=F** | $61.53 | -6.11% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $42.35 | +1.29% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is a concise, actionable report:
-
-1.  **Market Trend**: Funds are predominantly flowing into the Military and Energy sectors, which exhibit broad-based positive momentum. Conversely, significant capital is exiting specific Tech stocks like TSLA and GOOGL, alongside key Precious Metals futures, indicating a shift away from these segments.
-2.  **Key Tickers to Watch**: Silver futures (SI=F) are explicitly oversold with a sharp -6.11% decline, presenting a potential bounce opportunity for nimble traders. Conversely, JPMorgan (JPM) is flagged as "Overbought," signaling a need for caution or potential profit-taking.
-3.  **Actionable Strategy**: Accumulate positions in the consistently strong Military and Energy sectors, leveraging their upward trend. For SI=F, consider a speculative entry with a tight stop-loss given the oversold condition, while for TSLA's significant drop, adopt a "Wait & Watch" approach for stabilization.
-----------------------------------------
-
-### 📊 USA Market Update - 24/06/2026 01:01:30
