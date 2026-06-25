@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 25/06/2026 21:01:30
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $507.00 | +3.12% | Stable 🟢 |
+| Military | **RTX** | $188.24 | +1.72% | Stable 🟢 |
+| Military | **NOC** | $510.44 | +1.48% | Stable 🟢 |
+| Energy | **XOM** | $137.24 | +0.25% | Stable 🟢 |
+| Energy | **CVX** | $171.20 | -0.14% | ✅ Oversale 🔴 |
+| Energy | **COP** | $106.69 | -0.22% | Stable 🔴 |
+| Tech | **TSLA** | $373.15 | -0.63% | Stable 🔴 |
+| Tech | **AAPL** | $279.16 | -4.75% | ✅ Oversale 🔴 |
+| Tech | **MSFT** | $357.25 | -2.25% | ✅ Oversale 🔴 |
+| Tech | **GOOGL** | $339.94 | -1.55% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $338.24 | +1.44% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $58.48 | +1.29% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,078.64 | +0.16% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,033.30 | +1.08% | Stable 🟢 |
+| Precious Metals | **SI=F** | $57.56 | -0.84% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.01 | -0.75% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis and actionable strategy:
+
+1.  **Market Trend**: Capital is clearly flowing into the Military and Finance sectors, showing strong positive momentum, with several tickers reaching overbought conditions. Conversely, the Technology sector is experiencing significant outflows, with key stocks like Apple and Microsoft notably oversold.
+2.  **Key Tickers to Watch**: AAPL (Tech) is a standout, deeply oversold with a -4.75% drop, presenting a potential value entry for long-term investors or a rebound play. JPM (Finance) is marked as overbought, indicating it may be due for a correction or profit-taking.
+3.  **Actionable Strategy**: Consider accumulating deeply oversold tech giants such as AAPL, MSFT, and GOOGL for a potential rebound. For overbought financial positions like JPM and BAC, it would be prudent to "Take Profit" or "Wait & Watch" for a pullback before initiating new long positions.
+----------------------------------------
+
 ### 📊 USA Market Update - 25/06/2026 20:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1029,3 @@ Here is your concise market analysis:
 
 
 ---
-### AI Financial Advisor:
-
-Here is your concise, actionable market report:
-
-1.  **Market Trend**: Money is actively flowing into the Military and Energy sectors, demonstrating robust positive performance. Conversely, there's a noticeable exit from key Tech names like Tesla, Apple, and Google, indicating sector-specific headwinds.
-2.  **Key Tickers to Watch**: Monitor Tesla (TSLA) closely due to its significant -5.79% decline, signaling strong selling pressure. Additionally, keep a close eye on Silver futures (SI=F) which is flagged as oversold, potentially setting up for a short-term rebound.
-3.  **Actionable Strategy**: Consider taking partial profits on overbought Financials like JPM and BAC. For SI=F (Silver futures), cautiously initiate a small accumulation given its oversold status, while maintaining a "wait and watch" stance on TSLA until price action stabilizes.
-----------------------------------------
-
-### 📊 USA Market Update - 24/06/2026 12:01:23
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $503.67 | +2.04% | Stable 🟢 |
-| Military | **RTX** | $186.39 | +2.51% | Stable 🟢 |
-| Military | **NOC** | $513.22 | +1.16% | Stable 🟢 |
-| Energy | **XOM** | $139.73 | +0.91% | Stable 🟢 |
-| Energy | **CVX** | $175.98 | +0.53% | Stable 🟢 |
-| Energy | **COP** | $109.97 | +0.25% | Stable 🟢 |
-| Tech | **TSLA** | $381.61 | -5.79% | Stable 🔴 |
-| Tech | **AAPL** | $294.30 | -0.91% | Stable 🔴 |
-| Tech | **MSFT** | $373.94 | +1.80% | Stable 🟢 |
-| Tech | **GOOGL** | $346.13 | -1.02% | Stable 🔴 |
-| Finance | **JPM** | $334.14 | +0.80% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $57.91 | +0.94% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,094.44 | -1.08% | Stable 🔴 |
