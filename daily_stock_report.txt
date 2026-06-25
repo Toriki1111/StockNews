@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 25/06/2026 08:01:23
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $491.64 | -2.39% | Stable 🔴 |
+| Military | **RTX** | $185.06 | -0.71% | Stable 🔴 |
+| Military | **NOC** | $503.01 | -1.99% | Stable 🔴 |
+| Energy | **XOM** | $136.90 | -2.03% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $171.45 | -2.57% | ✅ Oversale 🔴 |
+| Energy | **COP** | $106.92 | -2.77% | Stable 🔴 |
+| Tech | **TSLA** | $375.53 | -1.59% | Stable 🔴 |
+| Tech | **AAPL** | $293.08 | -0.41% | Stable 🔴 |
+| Tech | **MSFT** | $365.46 | -2.27% | ✅ Oversale 🔴 |
+| Tech | **GOOGL** | $345.29 | -0.24% | Stable 🔴 |
+| Finance | **JPM** | $333.45 | -0.21% | Stable 🔴 |
+| Finance | **BAC** | $57.73 | -0.31% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,076.91 | -1.60% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,004.10 | -3.05% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $57.41 | -7.43% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.32 | -2.50% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+1.  **Market Trend**: Money is broadly exiting the market, with significant outflows across all sectors, particularly notable in Precious Metals (-3.05% to -7.43%) and Energy (-2.03% to -2.77%). Tech and Military sectors are also experiencing declines, while Finance shows relative stability amidst the downturn.
+2.  **Key Tickers to Watch**: **SI=F** (Silver Futures) is down a significant -7.43% and flagged as Oversale, indicating extreme negative sentiment and potential for a short-term bounce. Additionally, **MSFT** (Microsoft) is marked as Oversale with a -2.27% drop, presenting a potential accumulation opportunity for a fundamentally strong tech company at a discount.
+3.  **Actionable Strategy**: Consider accumulating speculative positions in deeply oversold assets like **SI=F** for a potential short-term rebound, while also looking to build long-term positions in quality growth stocks such as **MSFT** given its current oversold status. For **BAC**, consider taking profits or setting a tight stop-loss given its "Overbought" status amidst a declining market.
+----------------------------------------
+
 ### 📊 USA Market Update - 25/06/2026 07:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is a concise, actionable report:
 
 ----------------------------------------
 
-### 📊 USA Market Update - 23/06/2026 23:01:43
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $502.14 | +1.73% | Stable 🟢 |
-| Military | **RTX** | $184.25 | +1.33% | Stable 🟢 |
-| Military | **NOC** | $515.40 | +1.59% | Stable 🟢 |
-| Energy | **XOM** | $139.91 | +1.04% | Stable 🟢 |
-| Energy | **CVX** | $175.84 | +0.45% | Stable 🟢 |
-| Energy | **COP** | $110.51 | +0.74% | Stable 🟢 |
-| Tech | **TSLA** | $384.01 | -5.19% | Stable 🔴 |
-| Tech | **AAPL** | $298.10 | +0.37% | Stable 🟢 |
-| Tech | **MSFT** | $373.19 | +1.59% | Stable 🟢 |
-| Tech | **GOOGL** | $346.73 | -0.85% | Stable 🔴 |
-| Finance | **JPM** | $334.22 | +0.83% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $57.78 | +0.71% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,097.25 | -0.82% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,154.90 | -0.65% | Stable 🔴 |
-| Precious Metals | **SI=F** | $62.21 | -5.07% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $42.13 | +0.78% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the provided market data:
-
-*   **Market Trend**: Capital is clearly gravitating towards the resilient Military and robust Energy sectors, both showing broad positive momentum. Conversely, significant outflows are observed in Precious Metals, particularly Silver futures, and notable weakness is evident within portions of the Tech sector.
-*   **Key Tickers to Watch**: Silver futures (SI=F) are explicitly marked "Oversale" following a sharp -5.07% decline, presenting a potential speculative entry point for a rebound. Tesla (TSLA) also warrants close attention after a substantial -5.19% drop, indicating strong selling pressure and potential continued volatility.
-*   **Actionable Strategy**: Consider accumulating positions in resilient Military and Energy stocks on any minor dips, maintaining exposure to these strong sectors. For SI=F, a "Wait & Watch" approach is recommended for confirmation of a reversal before considering a speculative long entry; for TSLA, implement tight stop-losses if currently holding, or defer new positions until stabilization.
-----------------------------------------
-
-### 📊 USA Market Update - 23/06/2026 21:01:25
