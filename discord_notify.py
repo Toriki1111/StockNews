@@ -31,6 +31,7 @@ def send_to_discord():
     response = requests.post(webhook_url, json=payload)
     if response.status_code == 204:
         print("✅ Discord Notification Sent!")
+        print("@stock_notify")
     else:
         print(f"❌ Failed: {response.status_code}")
 
