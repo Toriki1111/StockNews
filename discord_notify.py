@@ -2,7 +2,7 @@ import requests
 import os
 from datetime import datetime
 
-ROLE_Stock = "1520029320847036547"
+ROLE_Stock = "1520029320847036547" #ID of the role in discord not important if you tend not to change @mention 
 
 PING_Mention_Stock = f"<@&{ROLE_Stock}>"
 
