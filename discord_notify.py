@@ -2,6 +2,10 @@ import requests
 import os
 from datetime import datetime
 
+ROLE_Stock = "1520029320847036547"
+
+PING_Mention_Stock = f"<@&{ROLE_Stock}>"
+
 def send_to_discord():
     webhook_url = os.getenv("DISCORD_WEBHOOK_URL") #github SECRETS
     temp_file = "latest_news.tmp"
@@ -18,7 +22,7 @@ def send_to_discord():
         report_content = f.read()
 
     payload = {
-        "content": "@stock_notify 🔔 **UPDATED NEWEST US STOCK!**",
+        "content": f"{PING_Mention_Stock} 🔔 **UPDATED NEWEST US STOCK!**",
         "embeds": [{
             "title": "📊 DAILY USA MARKET REPORT",
             "description": report_content,
