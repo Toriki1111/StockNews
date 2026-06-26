@@ -18,7 +18,7 @@ def send_to_discord():
         report_content = f.read()
 
     payload = {
-        "content": "🔔 **UPDATED NEWEST US STOCK!**",
+        "content": "@stock_notify 🔔 **UPDATED NEWEST US STOCK!**",
         "embeds": [{
             "title": "📊 DAILY USA MARKET REPORT",
             "description": report_content,
@@ -31,7 +31,6 @@ def send_to_discord():
     response = requests.post(webhook_url, json=payload)
     if response.status_code == 204:
         print("✅ Discord Notification Sent!")
-        print("@stock_notify")
     else:
         print(f"❌ Failed: {response.status_code}")
 
