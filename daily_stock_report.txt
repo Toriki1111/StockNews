@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 26/06/2026 14:01:18
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $505.02 | +2.72% | Stable 🟢 |
+| Military | **RTX** | $186.59 | +0.83% | Stable 🟢 |
+| Military | **NOC** | $499.33 | -0.73% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $137.55 | +0.47% | Stable 🟢 |
+| Energy | **CVX** | $172.24 | +0.46% | Stable 🟢 |
+| Energy | **COP** | $106.41 | -0.48% | Stable 🔴 |
+| Tech | **TSLA** | $375.12 | -0.11% | Stable 🔴 |
+| Tech | **AAPL** | $275.15 | -6.12% | ✅ Oversale 🔴 |
+| Tech | **MSFT** | $352.83 | -3.46% | ✅ Oversale 🔴 |
+| Tech | **GOOGL** | $343.71 | -0.46% | Stable 🔴 |
+| Finance | **JPM** | $335.12 | +0.50% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $58.19 | +0.80% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,065.09 | -1.10% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,039.40 | +0.22% | Stable 🟢 |
+| Precious Metals | **SI=F** | $57.83 | -0.88% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.45 | +0.31% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise, actionable market report:
+
+*   **Market Trend**: Capital is decisively shifting towards the Military and Finance sectors, evident in positive movements and overbought signals. Conversely, the Technology sector is experiencing significant outflows, with key players showing substantial declines and oversale conditions.
+*   **Key Tickers to Watch**: **AAPL** (-6.12%, Oversale) presents a potential accumulation opportunity following a sharp decline and oversale signal in the tech sector. Meanwhile, **JPM** (+0.50%, Overbought) in finance should be closely watched for potential profit-taking due to its overbought status.
+*   **Actionable Strategy**: For oversold tech giants like AAPL, consider a cautious accumulation strategy, setting stop-loss orders below recent lows. For overbought financials such as JPM, investors should consider taking partial profits or implementing tight trailing stop-loss orders to protect gains.
+----------------------------------------
+
 ### 📊 USA Market Update - 26/06/2026 13:01:16
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here's an analysis of the USA market data:
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $491.64 | -2.39% | Stable 🔴 |
-| Military | **RTX** | $185.06 | -0.71% | Stable 🔴 |
-| Military | **NOC** | $503.01 | -1.99% | Stable 🔴 |
-| Energy | **XOM** | $136.90 | -2.03% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $171.45 | -2.57% | ✅ Oversale 🔴 |
-| Energy | **COP** | $106.92 | -2.77% | Stable 🔴 |
-| Tech | **TSLA** | $375.53 | -1.59% | Stable 🔴 |
-| Tech | **AAPL** | $293.08 | -0.41% | Stable 🔴 |
-| Tech | **MSFT** | $365.46 | -2.27% | ✅ Oversale 🔴 |
-| Tech | **GOOGL** | $345.29 | -0.24% | Stable 🔴 |
-| Finance | **JPM** | $333.45 | -0.21% | Stable 🔴 |
-| Finance | **BAC** | $57.73 | -0.31% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,076.91 | -1.60% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,016.40 | -2.75% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $57.49 | -7.31% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $41.32 | -2.50% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update:
-
-*   **Market Trend**: The USA market is experiencing a broad-based downturn, with capital exiting across nearly all sectors including Military, Energy, Tech, Finance, and Precious Metals, signaling a prevailing risk-off sentiment.
-*   **Key Tickers to Watch**: **SI=F (Silver Futures)** is significantly oversold with a substantial -7.31% decline, indicating extreme selling pressure that may precede a technical bounce. **BAC (Bank of America)** is flagged as overbought despite a minor dip, suggesting potential consolidation or profit-taking.
-*   **Actionable Strategy**: For assets designated "Oversale" such as **SI=F** and **MSFT**, consider a cautious "Accumulate" strategy on further dips, targeting a technical rebound. For **BAC**, given its "Overbought" status, a "Wait & Watch" approach is prudent, or consider setting a "Stop Loss" if holding existing long positions.
-----------------------------------------
-
-### 📊 USA Market Update - 25/06/2026 04:01:26
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $491.64 | -2.39% | Stable 🔴 |
-| Military | **RTX** | $185.06 | -0.71% | Stable 🔴 |
