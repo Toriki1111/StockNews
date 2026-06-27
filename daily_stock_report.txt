@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 27/06/2026 18:01:20
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $507.40 | +0.47% | Stable 🟢 |
+| Military | **RTX** | $187.99 | +0.75% | Stable 🟢 |
+| Military | **NOC** | $500.03 | +0.14% | ✅ Oversale 🟢 |
+| Energy | **XOM** | $136.54 | -0.73% | Stable 🔴 |
+| Energy | **CVX** | $171.06 | -0.69% | Stable 🔴 |
+| Energy | **COP** | $105.96 | -0.42% | Stable 🔴 |
+| Tech | **TSLA** | $379.71 | +1.22% | Stable 🟢 |
+| Tech | **AAPL** | $283.78 | +3.14% | Stable 🟢 |
+| Tech | **MSFT** | $372.97 | +5.71% | Stable 🟢 |
+| Tech | **GOOGL** | $337.39 | -1.84% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $329.05 | -1.81% | Stable 🔴 |
+| Finance | **BAC** | $57.88 | -0.53% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,019.61 | -4.27% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,078.70 | +1.20% | Stable 🟢 |
+| Precious Metals | **SI=F** | $59.22 | +1.49% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $41.92 | +1.13% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Capital is clearly rotating into defensive sectors like Military and Precious Metals, alongside strong momentum in key large-cap Technology stocks such as Apple and Microsoft. Conversely, there is a distinct outflow from the Energy and Financial sectors, which saw broad-based declines across the board.
+*   **Key Tickers to Watch**: Monitor **GOOGL** closely as its "Oversale" status following a -1.84% drop suggests a potential rebound opportunity. Be cautious with **BAC**, flagged as "Overbought" despite a minor dip, indicating it may be ripe for a correction or profit-taking.
+*   **Actionable Strategy**: Accumulate select oversold assets like GOOGL and SI=F (Silver Futures) given their signals within generally strong or resilient sectors. Consider reducing exposure or tightening stop-loss orders on overbought financials like BAC and underperforming energy stocks to mitigate potential downside.
+----------------------------------------
+
 ### 📊 USA Market Update - 27/06/2026 17:01:24
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -990,37 +1021,6 @@ Here is your concise, actionable market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 26/06/2026 11:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $505.02 | +2.72% | Stable 🟢 |
-| Military | **RTX** | $186.59 | +0.83% | Stable 🟢 |
-| Military | **NOC** | $499.33 | -0.73% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $137.55 | +0.47% | Stable 🟢 |
-| Energy | **CVX** | $172.24 | +0.46% | Stable 🟢 |
-| Energy | **COP** | $106.41 | -0.48% | Stable 🔴 |
-| Tech | **TSLA** | $375.12 | -0.11% | Stable 🔴 |
-| Tech | **AAPL** | $275.15 | -6.12% | ✅ Oversale 🔴 |
-| Tech | **MSFT** | $352.83 | -3.46% | ✅ Oversale 🔴 |
-| Tech | **GOOGL** | $343.71 | -0.46% | Stable 🔴 |
-| Finance | **JPM** | $335.12 | +0.50% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $58.19 | +0.80% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,065.09 | -1.10% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,030.50 | +1.01% | Stable 🟢 |
-| Precious Metals | **SI=F** | $58.35 | +0.51% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $41.45 | +0.31% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's a concise analysis and actionable strategy:
-
-*   **Market Trend**: Capital is visibly rotating towards defensive sectors, with strong performance in Military and Precious Metals. Conversely, the Technology sector is experiencing a significant downturn, indicating a broad exit by investors.
-*   **Key Tickers to Watch**: **AAPL** (-6.12%) and **MSFT** (-3.46%) are notable "Oversale" tech giants, potentially ripe for a rebound or long-term accumulation. Conversely, **JPM** (+0.50%) and **BAC** (+0.80%) are "Overbought" in Finance, suggesting caution and potential for profit-taking.
-*   **Actionable Strategy**: For long-term investors, consider gradually accumulating oversold quality tech stocks like AAPL and MSFT. In the Finance sector, a "Take Profit" approach is advised for JPM and BAC, while maintaining positions in strong Military and Precious Metals assets.
-----------------------------------------
-
-### 📊 USA Market Update - 26/06/2026 10:01:17
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $505.02 | +2.72% | Stable 🟢 |
