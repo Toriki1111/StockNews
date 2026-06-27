@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 28/06/2026 01:01:27
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $507.40 | +0.47% | Stable 🟢 |
+| Military | **RTX** | $187.99 | +0.75% | Stable 🟢 |
+| Military | **NOC** | $500.03 | +0.14% | ✅ Oversale 🟢 |
+| Energy | **XOM** | $136.54 | -0.73% | Stable 🔴 |
+| Energy | **CVX** | $171.06 | -0.69% | Stable 🔴 |
+| Energy | **COP** | $105.96 | -0.42% | Stable 🔴 |
+| Tech | **TSLA** | $379.71 | +1.22% | Stable 🟢 |
+| Tech | **AAPL** | $283.78 | +3.14% | Stable 🟢 |
+| Tech | **MSFT** | $372.97 | +5.71% | Stable 🟢 |
+| Tech | **GOOGL** | $337.39 | -1.84% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $329.05 | -1.81% | Stable 🔴 |
+| Finance | **BAC** | $57.88 | -0.53% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,019.61 | -4.27% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,078.70 | +1.20% | Stable 🟢 |
+| Precious Metals | **SI=F** | $59.22 | +1.49% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $41.92 | +1.13% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market report:
+
+1.  **Market Trend**: Capital is clearly rotating into the Technology, Military, and Precious Metals sectors, all showing strong positive momentum. Conversely, the Energy and Financial sectors are experiencing significant outflows and broad-based declines.
+2.  **Key Tickers to Watch**: **GOOGL** is noted as "Oversale" (-1.84%) amidst a surging tech sector, indicating a potential value opportunity. **BAC** carries a "⚠️ Overbought!" warning (-0.53%) within a weakening financial sector, signaling increased caution.
+3.  **Actionable Strategy**: Consider tactical accumulation in **GOOGL** given its oversold status in an otherwise strong tech environment. For **BAC**, given the "Overbought" signal and sector weakness, it's advisable to review positions, potentially taking partial profits or implementing a tight stop-loss.
+----------------------------------------
+
 ### 📊 USA Market Update - 28/06/2026 00:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -986,37 +1017,6 @@ Here is an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 26/06/2026 18:01:26
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $505.02 | +2.72% | Stable 🟢 |
-| Military | **RTX** | $186.59 | +0.83% | Stable 🟢 |
-| Military | **NOC** | $499.33 | -0.73% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $137.55 | +0.47% | Stable 🟢 |
-| Energy | **CVX** | $172.24 | +0.46% | Stable 🟢 |
-| Energy | **COP** | $106.41 | -0.48% | Stable 🔴 |
-| Tech | **TSLA** | $375.12 | -0.11% | Stable 🔴 |
-| Tech | **AAPL** | $275.15 | -6.12% | ✅ Oversale 🔴 |
-| Tech | **MSFT** | $352.83 | -3.46% | ✅ Oversale 🔴 |
-| Tech | **GOOGL** | $343.71 | -0.46% | Stable 🔴 |
-| Finance | **JPM** | $335.12 | +0.50% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $58.19 | +0.80% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,065.09 | -1.10% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,065.20 | +0.86% | Stable 🟢 |
-| Precious Metals | **SI=F** | $58.80 | +0.77% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $41.45 | +0.31% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the provided market data:
-
-1.  **Market Trend**: The Tech sector is experiencing significant selling pressure, with major players like Apple and Microsoft showing deep declines and oversold signals, indicating a clear outflow of capital. Conversely, funds are flowing into defensive assets such as the Military sector, which saw strong gains, and Precious Metals, reflecting a shift towards risk aversion.
-2.  **Key Tickers to Watch**: **AAPL** stands out with a substantial -6.12% drop and an "Oversale" status, signaling a potential technical rebound opportunity for investors. On the other hand, **JPM** is flagged as "Overbought" following a positive session, suggesting it might be due for a consolidation or profit-taking by current holders.
-3.  **Actionable Strategy**: Implement a "Wait & Watch" strategy for the broader market, but consider "Accumulate" orders for fundamentally strong, deeply oversold tech stocks like AAPL and MSFT in anticipation of a bounce. For overbought financial tickers such as JPM and BAC, investors should consider "Take Profit" actions or implement tighter "Stop Loss" orders.
-----------------------------------------
-
-### 📊 USA Market Update - 26/06/2026 17:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $505.02 | +2.72% | Stable 🟢 |
