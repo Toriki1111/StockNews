@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 29/06/2026 22:01:28
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $505.33 | -0.41% | Stable 🔴 |
+| Military | **RTX** | $188.25 | +0.14% | Stable 🟢 |
+| Military | **NOC** | $495.00 | -1.01% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $135.52 | -0.74% | Stable 🔴 |
+| Energy | **CVX** | $168.57 | -1.46% | ✅ Oversale 🔴 |
+| Energy | **COP** | $104.73 | -1.16% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $397.54 | +4.70% | Stable 🟢 |
+| Tech | **AAPL** | $282.02 | -0.62% | Stable 🔴 |
+| Tech | **MSFT** | $372.43 | -0.14% | Stable 🔴 |
+| Tech | **GOOGL** | $350.40 | +3.86% | Stable 🟢 |
+| Finance | **JPM** | $331.09 | +0.62% | Stable 🟢 |
+| Finance | **BAC** | $58.22 | +0.58% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,025.76 | +0.60% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,037.50 | -1.01% | Stable 🔴 |
+| Precious Metals | **SI=F** | $58.40 | -1.38% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $40.53 | -3.32% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 29/06/2026 21:01:28
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is your market update for the USA, 28/06/2026:
 | Energy | **COP** | $105.96 | -0.42% | Stable 🔴 |
 | Tech | **TSLA** | $379.71 | +1.22% | Stable 🟢 |
 | Tech | **AAPL** | $283.78 | +3.14% | Stable 🟢 |
-| Tech | **MSFT** | $372.97 | +5.71% | Stable 🟢 |
-| Tech | **GOOGL** | $337.39 | -1.84% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $329.05 | -1.81% | Stable 🔴 |
-| Finance | **BAC** | $57.88 | -0.53% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,019.61 | -4.27% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,096.30 | +1.63% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.67 | +2.27% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $41.92 | +1.13% | Stable 🟢 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 28/06/2026 12:01:29
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $505.02 | +2.72% | Stable 🟢 |
-| Military | **RTX** | $186.59 | +0.83% | Stable 🟢 |
-| Military | **NOC** | $499.33 | -0.73% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $137.55 | +0.47% | Stable 🟢 |
-| Energy | **CVX** | $172.24 | +0.46% | Stable 🟢 |
-| Energy | **COP** | $106.41 | -0.48% | Stable 🔴 |
-| Tech | **TSLA** | $375.12 | -0.11% | Stable 🔴 |
-| Tech | **AAPL** | $275.15 | -6.12% | ✅ Oversale 🔴 |
