@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 29/06/2026 17:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $507.40 | +0.47% | Stable 🟢 |
+| Military | **RTX** | $187.99 | +0.75% | Stable 🟢 |
+| Military | **NOC** | $500.03 | +0.14% | ✅ Oversale 🟢 |
+| Energy | **XOM** | $136.54 | -0.73% | Stable 🔴 |
+| Energy | **CVX** | $171.06 | -0.69% | Stable 🔴 |
+| Energy | **COP** | $105.96 | -0.42% | Stable 🔴 |
+| Tech | **TSLA** | $379.71 | +1.22% | Stable 🟢 |
+| Tech | **AAPL** | $283.78 | +3.14% | Stable 🟢 |
+| Tech | **MSFT** | $372.97 | +5.71% | Stable 🟢 |
+| Tech | **GOOGL** | $337.39 | -1.84% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $329.05 | -1.81% | Stable 🔴 |
+| Finance | **BAC** | $57.88 | -0.53% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,019.61 | -4.27% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,048.30 | -0.75% | Stable 🔴 |
+| Precious Metals | **SI=F** | $58.19 | -1.74% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.92 | +1.13% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+1.  **Market Trend**: Capital is clearly rotating into the Technology sector, highlighted by significant gains in large-cap stocks, and maintaining a steady flow into the Military sector. Conversely, the Energy, Finance, and most Precious Metals assets are experiencing outflows.
+2.  **Key Tickers to Watch**: Monitor **MSFT** (+5.71% surge), which shows exceptional bullish momentum, and **GOOGL** (Oversale with a -1.84% drop), presenting a potential short-term buying opportunity if underlying fundamentals remain solid.
+3.  **Actionable Strategy**: Consider taking partial profits on strong Technology performers like MSFT to rebalance your portfolio, while closely watching oversold tech like GOOGL for a potential accumulation entry. For other sectors, a "Wait & Watch" approach is prudent given mixed signals and outflows.
+----------------------------------------
+
 ### 📊 USA Market Update - 29/06/2026 16:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here's your concise market update:
 | Energy | **XOM** | $136.54 | -0.73% | Stable 🔴 |
 | Energy | **CVX** | $171.06 | -0.69% | Stable 🔴 |
 | Energy | **COP** | $105.96 | -0.42% | Stable 🔴 |
-| Tech | **TSLA** | $379.71 | +1.22% | Stable 🟢 |
-| Tech | **AAPL** | $283.78 | +3.14% | Stable 🟢 |
-| Tech | **MSFT** | $372.97 | +5.71% | Stable 🟢 |
-| Tech | **GOOGL** | $337.39 | -1.84% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $329.05 | -1.81% | Stable 🔴 |
-| Finance | **BAC** | $57.88 | -0.53% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,019.61 | -4.27% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,078.70 | +1.20% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.22 | +1.49% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $41.92 | +1.13% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's a concise market analysis report for the upcoming session:
-
-*   **Market Trend**: Capital is clearly shifting into Technology, Military, and Precious Metals sectors, evidenced by consistent positive movements. Conversely, Energy and Finance are experiencing outflows, with several major tickers showing significant declines.
-*   **Key Tickers to Watch**: Google (GOOGL) is flagged as oversold after a -1.84% drop, potentially indicating a buying opportunity for a rebound. Microsoft (MSFT) stands out with a significant +5.71% surge, signaling strong investor confidence and momentum.
-*   **Actionable Strategy**: Consider accumulating positions in oversold quality tech like GOOGL, and potentially adding to or holding strong performers in Tech and Precious Metals. Investors should exercise caution in the Overbought Finance sector (e.g., BAC) and avoid new positions in the declining Energy sector.
-----------------------------------------
-
-### 📊 USA Market Update - 28/06/2026 07:01:36
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $505.02 | +2.72% | Stable 🟢 |
-| Military | **RTX** | $186.59 | +0.83% | Stable 🟢 |
-| Military | **NOC** | $499.33 | -0.73% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $137.55 | +0.47% | Stable 🟢 |
-| Energy | **CVX** | $172.24 | +0.46% | Stable 🟢 |
-| Energy | **COP** | $106.41 | -0.48% | Stable 🔴 |
