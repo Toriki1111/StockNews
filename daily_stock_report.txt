@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 30/06/2026 19:01:28
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $502.07 | -1.05% | Stable 🔴 |
+| Military | **RTX** | $187.33 | -0.35% | Stable 🔴 |
+| Military | **NOC** | $496.02 | -0.80% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $136.06 | -0.35% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $168.47 | -1.51% | ✅ Oversale 🔴 |
+| Energy | **COP** | $104.20 | -1.66% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $411.84 | +8.46% | Stable 🟢 |
+| Tech | **AAPL** | $281.74 | -0.72% | Stable 🔴 |
+| Tech | **MSFT** | $368.57 | -1.18% | Stable 🔴 |
+| Tech | **GOOGL** | $353.65 | +4.82% | Stable 🟢 |
+| Finance | **JPM** | $329.39 | +0.10% | Stable 🟢 |
+| Finance | **BAC** | $57.88 | +0.00% | ⚠️ Overbought! 🟡 |
+| Finance | **GS** | $1,020.21 | +0.06% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,044.50 | +0.55% | Stable 🟢 |
+| Precious Metals | **SI=F** | $59.42 | +2.14% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $41.11 | -1.93% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+1.  **Market Trend**: Capital is exiting Military and Energy sectors, both showing broad declines and multiple oversold signals, while flowing into select Technology giants and Precious Metals, particularly silver. This suggests a rotation towards growth and perceived safe-haven assets amidst broader market caution.
+2.  **Key Tickers to Watch**: Bank of America (BAC) is flagged "Overbought," indicating potential for a near-term correction and profit-taking. Tesla (TSLA) warrants attention due to its substantial +8.46% surge, signaling strong bullish momentum but also potential for short-term volatility.
+3.  **Actionable Strategy**: For BAC, consider taking partial profits and setting a tight stop-loss due to its overbought status. For the oversold Energy and Military tickers (e.g., XOM, CVX, COP, NOC), a "Wait & Watch" approach is prudent for potential bounce plays, or consider gradual accumulation on dips for long-term investors.
+----------------------------------------
+
 ### 📊 USA Market Update - 30/06/2026 18:01:29
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -987,37 +1018,6 @@ Here is your concise market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 29/06/2026 10:01:23
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $507.40 | +0.47% | Stable 🟢 |
-| Military | **RTX** | $187.99 | +0.75% | Stable 🟢 |
-| Military | **NOC** | $500.03 | +0.14% | ✅ Oversale 🟢 |
-| Energy | **XOM** | $136.54 | -0.73% | Stable 🔴 |
-| Energy | **CVX** | $171.06 | -0.69% | Stable 🔴 |
-| Energy | **COP** | $105.96 | -0.42% | Stable 🔴 |
-| Tech | **TSLA** | $379.71 | +1.22% | Stable 🟢 |
-| Tech | **AAPL** | $283.78 | +3.14% | Stable 🟢 |
-| Tech | **MSFT** | $372.97 | +5.71% | Stable 🟢 |
-| Tech | **GOOGL** | $337.39 | -1.84% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $329.05 | -1.81% | Stable 🔴 |
-| Finance | **BAC** | $57.88 | -0.53% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,019.61 | -4.27% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,078.80 | +0.00% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.11 | -0.18% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $41.92 | +1.13% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Funds are clearly flowing into the Technology sector, highlighted by significant surges in MSFT (+5.71%) and AAPL (+3.14%), with Military stocks also showing steady gains. Conversely, there's a noticeable outflow from the Finance and Energy sectors, where all tracked tickers are in the red.
-2.  **Key Tickers to Watch**: GOOGL stands out as oversold with a -1.84% drop, potentially presenting a buying opportunity for a bounce. Conversely, BAC is flagged as overbought despite a small dip, indicating a potential reversal or increased selling pressure.
-3.  **Actionable Strategy**: Consider accumulating positions in oversold assets like GOOGL and SI=F, anticipating a potential rebound. For high-flying tech stocks like MSFT and AAPL, prudent investors might consider taking partial profits or setting stop-losses, while maintaining a "Wait & Watch" approach for the underperforming Energy and Finance sectors.
-----------------------------------------
-
-### 📊 USA Market Update - 29/06/2026 09:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $507.40 | +0.47% | Stable 🟢 |
