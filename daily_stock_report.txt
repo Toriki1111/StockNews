@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 01/07/2026 12:01:28
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $509.46 | +1.47% | Stable 🟢 |
+| Military | **RTX** | $189.73 | +1.28% | Stable 🟢 |
+| Military | **NOC** | $509.31 | +2.68% | Stable 🟢 |
+| Energy | **XOM** | $136.72 | +0.49% | Stable 🟢 |
+| Energy | **CVX** | $165.76 | -1.61% | ✅ Oversale 🔴 |
+| Energy | **COP** | $103.96 | -0.23% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $420.60 | +2.13% | Stable 🟢 |
+| Tech | **AAPL** | $289.36 | +2.70% | Stable 🟢 |
+| Tech | **MSFT** | $373.02 | +1.21% | Stable 🟢 |
+| Tech | **GOOGL** | $357.37 | +1.05% | Stable 🟢 |
+| Finance | **JPM** | $327.33 | -0.63% | Stable 🔴 |
+| Finance | **BAC** | $56.98 | -1.55% | Stable 🔴 |
+| Finance | **GS** | $1,011.37 | -0.87% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,993.90 | -0.72% | Stable 🔴 |
+| Precious Metals | **SI=F** | $58.29 | -2.00% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.61 | +1.22% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 01/07/2026 11:01:33
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1030,3 @@ Here is an analysis of the USA market data:
 | Tech | **TSLA** | $411.84 | +8.46% | Stable 🟢 |
 | Tech | **AAPL** | $281.74 | -0.72% | Stable 🔴 |
 | Tech | **MSFT** | $368.57 | -1.18% | Stable 🔴 |
-| Tech | **GOOGL** | $353.65 | +4.82% | Stable 🟢 |
-| Finance | **JPM** | $329.54 | +0.15% | Stable 🟢 |
-| Finance | **BAC** | $57.88 | -0.01% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,020.20 | +0.06% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,028.60 | -1.23% | Stable 🔴 |
-| Precious Metals | **SI=F** | $58.67 | -0.92% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $41.07 | -2.03% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-*   **Market Trend**: Money is actively flowing into select Technology names like TSLA and GOOGL, alongside modest positive movement in the Finance sector. Conversely, Military, Energy, and Precious Metals sectors are experiencing broad outflows and downward pressure, with several assets hitting oversold conditions.
-*   **Key Tickers to Watch**: **TSLA** exhibits significant bullish momentum with an +8.46% surge, while **BAC** is flagged as "Overbought!" despite a minimal price change, indicating potential for a near-term correction or profit-taking opportunity.
-*   **Actionable Strategy**: Consider accumulating long-term positions in oversold assets within the Energy (COP, CVX, XOM) and Military (NOC) sectors, and Precious Metals (SI=F), anticipating a potential rebound. For existing TSLA holdings, implement a trailing stop-loss to protect recent gains, and for BAC, monitor for reversal signals to potentially take profits or consider a short-term bearish play.
-----------------------------------------
-
-### 📊 USA Market Update - 30/06/2026 02:01:30
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $503.20 | -0.83% | Stable 🔴 |
-| Military | **RTX** | $187.68 | -0.16% | Stable 🔴 |
-| Military | **NOC** | $494.82 | -1.04% | ✅ Oversale 🔴 |
