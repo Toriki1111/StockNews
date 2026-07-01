@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 01/07/2026 16:01:36
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $509.46 | +1.47% | Stable 🟢 |
+| Military | **RTX** | $189.73 | +1.28% | Stable 🟢 |
+| Military | **NOC** | $509.31 | +2.68% | Stable 🟢 |
+| Energy | **XOM** | $136.72 | +0.49% | Stable 🟢 |
+| Energy | **CVX** | $165.76 | -1.61% | ✅ Oversale 🔴 |
+| Energy | **COP** | $103.96 | -0.23% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $420.60 | +2.13% | Stable 🟢 |
+| Tech | **AAPL** | $289.36 | +2.70% | Stable 🟢 |
+| Tech | **MSFT** | $373.02 | +1.21% | Stable 🟢 |
+| Tech | **GOOGL** | $357.37 | +1.05% | Stable 🟢 |
+| Finance | **JPM** | $327.33 | -0.63% | Stable 🔴 |
+| Finance | **BAC** | $56.98 | -1.55% | Stable 🔴 |
+| Finance | **GS** | $1,011.37 | -0.87% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,989.00 | -0.84% | Stable 🔴 |
+| Precious Metals | **SI=F** | $58.21 | -2.13% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.61 | +1.22% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+*   **Market Trend**: Capital is decisively flowing into the Technology and Military sectors, indicated by strong positive gains across all tickers. Conversely, the Finance sector is experiencing broad outflows, while Energy and Precious Metals show mixed performance with some notable oversold conditions.
+*   **Key Tickers to Watch**: Keep a close eye on **CVX** and **SI=F**, both flagged as "Oversale" after significant declines of -1.61% and -2.13% respectively; these could present potential value entry points if a fundamental rebound is expected.
+*   **Actionable Strategy**: Consider taking profit or tightening stop-losses on recent gains in the Technology and Military sectors. For **CVX** and **SI=F**, initiate a "Wait & Watch" approach for signs of stabilization before considering accumulation, while avoiding new entries in the weakening Finance sector.
+----------------------------------------
+
 ### 📊 USA Market Update - 01/07/2026 15:01:29
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -986,37 +1017,6 @@ Here is your market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 30/06/2026 07:01:31
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $502.07 | -1.05% | Stable 🔴 |
-| Military | **RTX** | $187.33 | -0.35% | Stable 🔴 |
-| Military | **NOC** | $496.02 | -0.80% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $136.06 | -0.35% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $168.47 | -1.51% | ✅ Oversale 🔴 |
-| Energy | **COP** | $104.20 | -1.66% | ✅ Oversale 🔴 |
-| Tech | **TSLA** | $411.84 | +8.46% | Stable 🟢 |
-| Tech | **AAPL** | $281.74 | -0.72% | Stable 🔴 |
-| Tech | **MSFT** | $368.57 | -1.18% | Stable 🔴 |
-| Tech | **GOOGL** | $353.65 | +4.82% | Stable 🟢 |
-| Finance | **JPM** | $329.39 | +0.10% | Stable 🟢 |
-| Finance | **BAC** | $57.88 | +0.00% | ⚠️ Overbought! 🟡 |
-| Finance | **GS** | $1,020.21 | +0.06% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,030.80 | -1.17% | Stable 🔴 |
-| Precious Metals | **SI=F** | $58.99 | -0.38% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $41.11 | -1.93% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the provided market data:
-
-*   **Market Trend**: Capital is clearly flowing into select high-growth technology names like TSLA and GOOGL, while traditional sectors such as Energy, Military, and Precious Metals are seeing outflows, with many showing "Oversale" conditions.
-*   **Key Tickers to Watch**: TSLA is a standout with an +8.46% surge, indicating strong bullish momentum. Conversely, Energy giants XOM and CVX, along with NOC in Military, are all flagged as "Oversale," presenting potential bounce opportunities.
-*   **Actionable Strategy**: For existing positions in surging tech like TSLA, consider taking partial profits or tightening stop losses. For oversold assets in Energy and Military, initiate a "Wait & Watch" to confirm a reversal before considering accumulation.
-----------------------------------------
-
-### 📊 USA Market Update - 30/06/2026 06:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $502.07 | -1.05% | Stable 🔴 |
