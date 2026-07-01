@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 01/07/2026 23:01:30
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $522.28 | +2.52% | Stable 🟢 |
+| Military | **RTX** | $191.68 | +1.03% | Stable 🟢 |
+| Military | **NOC** | $523.04 | +2.70% | Stable 🟢 |
+| Energy | **XOM** | $136.82 | +0.07% | Stable 🟢 |
+| Energy | **CVX** | $166.52 | +0.46% | ✅ Oversale 🟢 |
+| Energy | **COP** | $103.78 | -0.17% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $428.20 | +1.81% | Stable 🟢 |
+| Tech | **AAPL** | $295.24 | +2.03% | Stable 🟢 |
+| Tech | **MSFT** | $385.93 | +3.46% | Stable 🟢 |
+| Tech | **GOOGL** | $359.15 | +0.50% | Stable 🟢 |
+| Finance | **JPM** | $334.58 | +2.21% | Stable 🟢 |
+| Finance | **BAC** | $58.28 | +2.27% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,026.10 | +1.46% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,099.80 | +1.91% | Stable 🟢 |
+| Precious Metals | **SI=F** | $60.81 | +2.25% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.11 | +3.60% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+1.  **Market Trend**: Capital is primarily flowing into Technology, Military, and Precious Metals, reflecting a dual focus on growth potential and safe-haven/inflation hedging amidst a broadly positive market. Financials also show robust positive momentum, while Energy presents a mixed, but generally stable, picture.
+2.  **Key Tickers to Watch**: Bank of America (BAC) stands out as "Overbought" following a substantial +2.27% gain, signaling a potential near-term consolidation or pullback. Conversely, ConocoPhillips (COP) is flagged "Oversale" after a slight dip of -0.17%, which could present a tactical buying opportunity if a rebound materializes.
+3.  **Actionable Strategy**: For BAC, consider taking partial profits or implementing a trailing stop loss to protect gains given its overbought status. For COP, monitor closely for signs of a technical bounce, potentially accumulating on any further weakness. Maintain exposure to the strong-performing Technology and Precious Metals sectors, looking for minor pullbacks as entry or accumulation points.
+----------------------------------------
+
 ### 📊 USA Market Update - 01/07/2026 22:01:32
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -991,37 +1022,6 @@ Here's an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 30/06/2026 14:01:29
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $502.07 | -1.05% | Stable 🔴 |
-| Military | **RTX** | $187.33 | -0.35% | Stable 🔴 |
-| Military | **NOC** | $496.02 | -0.80% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $136.06 | -0.35% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $168.47 | -1.51% | ✅ Oversale 🔴 |
-| Energy | **COP** | $104.20 | -1.66% | ✅ Oversale 🔴 |
-| Tech | **TSLA** | $411.84 | +8.46% | Stable 🟢 |
-| Tech | **AAPL** | $281.74 | -0.72% | Stable 🔴 |
-| Tech | **MSFT** | $368.57 | -1.18% | Stable 🔴 |
-| Tech | **GOOGL** | $353.65 | +4.82% | Stable 🟢 |
-| Finance | **JPM** | $329.39 | +0.10% | Stable 🟢 |
-| Finance | **BAC** | $57.88 | +0.00% | ⚠️ Overbought! 🟡 |
-| Finance | **GS** | $1,020.21 | +0.06% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,043.70 | +0.53% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.54 | +2.35% | Stable 🟢 |
-| Precious Metals | **GOLD** | $41.11 | -1.93% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market report:
-
-*   **Market Trend**: Funds are exiting the Military and Energy sectors, both showing broad declines with several "Oversale" signals across key players. Conversely, there's notable inflow into select Tech giants (TSLA, GOOGL), Finance, and Precious Metals.
-*   **Key Tickers to Watch**: Monitor TSLA after its significant +8.46% surge, indicating strong bullish momentum, and BAC, which despite a flat day, is flagged as "Overbought," suggesting potential for a pullback or consolidation.
-*   **Actionable Strategy**: Consider accumulating positions in "Oversale" Energy stocks like CVX or COP due to their significant declines, while closely monitoring for profit-taking opportunities or implementing trailing stop-losses on recent Tech surges like TSLA.
-----------------------------------------
-
-### 📊 USA Market Update - 30/06/2026 13:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $502.07 | -1.05% | Stable 🔴 |
