@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 02/07/2026 02:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $519.05 | +1.88% | Stable 🟢 |
+| Military | **RTX** | $190.99 | +0.66% | Stable 🟢 |
+| Military | **NOC** | $519.64 | +2.03% | Stable 🟢 |
+| Energy | **XOM** | $136.39 | -0.24% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $166.04 | +0.17% | ✅ Oversale 🟢 |
+| Energy | **COP** | $103.50 | -0.44% | ✅ Oversale 🔴 |
+| Tech | **TSLA** | $425.15 | +1.08% | Stable 🟢 |
+| Tech | **AAPL** | $294.80 | +1.88% | Stable 🟢 |
+| Tech | **MSFT** | $386.83 | +3.70% | Stable 🟢 |
+| Tech | **GOOGL** | $360.10 | +0.76% | Stable 🟢 |
+| Finance | **JPM** | $334.00 | +2.04% | Stable 🟢 |
+| Finance | **BAC** | $58.38 | +2.45% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,023.29 | +1.18% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,073.00 | +1.25% | Stable 🟢 |
+| Precious Metals | **SI=F** | $60.17 | +1.17% | Stable 🟢 |
+| Precious Metals | **GOLD** | $42.65 | +2.50% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+1.  **Market Trend**: Money is predominantly flowing into Technology, Finance, and Military sectors, all showing strong positive momentum. Precious metals are also experiencing significant inflows, potentially signaling both inflation concerns and a broad risk-on sentiment, while the Energy sector appears to be oversold and presenting potential value.
+2.  **Key Tickers to Watch**: Bank of America (BAC) is marked "Overbought" following a substantial +2.45% surge, indicating it may be due for a consolidation or pullback. Conversely, ExxonMobil (XOM) is flagged as "Oversale" with a slight decline, potentially offering an attractive entry point for investors.
+3.  **Actionable Strategy**: For BAC, consider taking partial profits or setting a trailing stop-loss to protect gains given its overbought status. For XOM and other oversold energy stocks, begin to accumulate positions, looking for a rebound from current levels. Maintain existing positions in the strong-performing Tech and Military sectors but monitor for signs of overextension.
+----------------------------------------
+
 ### 📊 USA Market Update - 02/07/2026 01:01:36
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -991,37 +1022,6 @@ Here's an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 30/06/2026 17:01:38
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $502.07 | -1.05% | Stable 🔴 |
-| Military | **RTX** | $187.33 | -0.35% | Stable 🔴 |
-| Military | **NOC** | $496.02 | -0.80% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $136.06 | -0.35% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $168.47 | -1.51% | ✅ Oversale 🔴 |
-| Energy | **COP** | $104.20 | -1.66% | ✅ Oversale 🔴 |
-| Tech | **TSLA** | $411.84 | +8.46% | Stable 🟢 |
-| Tech | **AAPL** | $281.74 | -0.72% | Stable 🔴 |
-| Tech | **MSFT** | $368.57 | -1.18% | Stable 🔴 |
-| Tech | **GOOGL** | $353.65 | +4.82% | Stable 🟢 |
-| Finance | **JPM** | $329.39 | +0.10% | Stable 🟢 |
-| Finance | **BAC** | $57.88 | +0.00% | ⚠️ Overbought! 🟡 |
-| Finance | **GS** | $1,020.21 | +0.06% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,034.00 | +0.29% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.16 | +1.69% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $41.11 | -1.93% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-*   **Market Trend**: Capital is clearly rotating out of the Energy and Military sectors, with several stocks showing significant declines and "Oversale" signals. Conversely, there is strong momentum and money flowing into select Tech giants like TSLA and GOOGL, alongside a slight positive movement in the broader Finance sector.
-*   **Key Tickers to Watch**: **BAC** is highlighted as "Overbought," suggesting potential for consolidation or a pullback despite its flat performance today. In contrast, **SI=F** shows a robust +1.69% gain while still being designated "Oversale," indicating strong underlying buying interest from a deeply undervalued position.
-*   **Actionable Strategy**: For the Energy sector, specifically **CVX** and **COP**, consider initiating "Accumulate" positions given their "Oversale" status and significant price dips, anticipating a technical rebound. For **BAC**, clients should "Wait & Watch" for clear directional signals before making new entries or consider tightening stop-losses on existing positions.
-----------------------------------------
-
-### 📊 USA Market Update - 30/06/2026 16:01:28
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $502.07 | -1.05% | Stable 🔴 |
