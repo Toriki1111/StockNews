@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 13/07/2026 06:01:47
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
+| Military | **RTX** | $195.93 | +0.37% | Stable 🟢 |
+| Military | **NOC** | $539.63 | +1.39% | Stable 🟢 |
+| Energy | **XOM** | $138.88 | +1.03% | Stable 🟢 |
+| Energy | **CVX** | $176.40 | +1.35% | Stable 🟢 |
+| Energy | **COP** | $109.04 | +0.94% | Stable 🟢 |
+| Tech | **TSLA** | $407.76 | +0.30% | Stable 🟢 |
+| Tech | **AAPL** | $315.32 | -0.28% | Stable 🔴 |
+| Tech | **MSFT** | $385.10 | +0.19% | Stable 🟢 |
+| Tech | **GOOGL** | $357.18 | -0.48% | Stable 🔴 |
+| Finance | **JPM** | $336.47 | +0.30% | Stable 🟢 |
+| Finance | **BAC** | $59.67 | +0.71% | Stable 🟢 |
+| Finance | **GS** | $1,055.18 | -0.07% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,088.00 | -0.39% | Stable 🔴 |
+| Precious Metals | **SI=F** | $59.22 | -0.99% | Stable 🔴 |
+| Precious Metals | **GOLD** | $39.45 | -5.42% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's your concise market report:
+
+1.  **Market Trend**: Capital is strongly flowing into traditional sectors such as Military and Energy, indicated by widespread positive gains. Conversely, there's a significant exit from Precious Metals, with mixed performance observed in Technology and Finance sectors.
+2.  **Key Tickers to Watch**: **GOLD** has experienced a sharp -5.42% drop, signaling significant capital flight from precious metals and warranting close monitoring for underlying market shifts. Conversely, **NOC** showed robust growth at +1.39%, reflecting strong demand within the military sector.
+3.  **Actionable Strategy**: Consider accumulating positions in robust sectors like Military and Energy, particularly for tickers showing strong positive momentum. For Precious Metals, specifically **GOLD**, advise a "Wait & Watch" approach due to its steep decline, assessing potential catalysts before re-entry or further action.
+----------------------------------------
+
 ### 📊 USA Market Update - 13/07/2026 05:01:53
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -994,37 +1025,6 @@ Here is your market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 11/07/2026 21:01:42
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
-| Military | **RTX** | $195.93 | +0.37% | Stable 🟢 |
-| Military | **NOC** | $539.63 | +1.39% | Stable 🟢 |
-| Energy | **XOM** | $138.88 | +1.03% | Stable 🟢 |
-| Energy | **CVX** | $176.40 | +1.35% | Stable 🟢 |
-| Energy | **COP** | $109.04 | +0.94% | Stable 🟢 |
-| Tech | **TSLA** | $407.76 | +0.30% | Stable 🟢 |
-| Tech | **AAPL** | $315.32 | -0.28% | Stable 🔴 |
-| Tech | **MSFT** | $385.10 | +0.19% | Stable 🟢 |
-| Tech | **GOOGL** | $357.18 | -0.48% | Stable 🔴 |
-| Finance | **JPM** | $336.47 | +0.30% | Stable 🟢 |
-| Finance | **BAC** | $59.67 | +0.71% | Stable 🟢 |
-| Finance | **GS** | $1,055.18 | -0.07% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,104.10 | -0.64% | Stable 🔴 |
-| Precious Metals | **SI=F** | $59.81 | -0.94% | Stable 🔴 |
-| Precious Metals | **GOLD** | $39.45 | -5.42% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market report:
-
-1.  **Market Trend**: Capital is clearly gravitating towards the Military and Energy sectors, both demonstrating broad positive momentum across their constituents. Simultaneously, there's a notable outflow from Precious Metals, highlighted by a significant drop in gold prices.
-2.  **Key Tickers to Watch**: **GOLD** experienced a substantial -5.42% drop, signaling strong selling pressure and potential oversold conditions warranting close monitoring. Conversely, **NOC** showed robust performance with a +1.39% surge, indicating sustained strength in the defense industry.
-3.  **Actionable Strategy**: Given the sector rotation, "Accumulate" positions in strong performing Energy and Military stocks like CVX or NOC on pullbacks. For GOLD, "Wait & Watch" for stabilization before considering any entry, as the downtrend is significant.
-----------------------------------------
-
-### 📊 USA Market Update - 11/07/2026 20:01:39
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
