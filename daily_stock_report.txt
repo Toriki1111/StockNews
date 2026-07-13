@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 13/07/2026 17:01:50
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
+| Military | **RTX** | $195.93 | +0.37% | Stable 🟢 |
+| Military | **NOC** | $539.63 | +1.39% | Stable 🟢 |
+| Energy | **XOM** | $138.88 | +1.03% | Stable 🟢 |
+| Energy | **CVX** | $176.40 | +1.35% | Stable 🟢 |
+| Energy | **COP** | $109.04 | +0.94% | Stable 🟢 |
+| Tech | **TSLA** | $407.76 | +0.30% | Stable 🟢 |
+| Tech | **AAPL** | $315.32 | -0.28% | Stable 🔴 |
+| Tech | **MSFT** | $385.10 | +0.19% | Stable 🟢 |
+| Tech | **GOOGL** | $357.18 | -0.48% | Stable 🔴 |
+| Finance | **JPM** | $336.47 | +0.30% | Stable 🟢 |
+| Finance | **BAC** | $59.67 | +0.71% | Stable 🟢 |
+| Finance | **GS** | $1,055.18 | -0.07% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,078.20 | -0.63% | Stable 🔴 |
+| Precious Metals | **SI=F** | $58.84 | -1.62% | Stable 🔴 |
+| Precious Metals | **GOLD** | $39.45 | -5.42% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's a concise, actionable report:
+
+1.  **Market Trend**: Capital is decisively flowing into the Military and Energy sectors, both showing consistent positive gains across multiple key tickers. Conversely, Precious Metals are experiencing significant outflows, evidenced by across-the-board declines, with a notable sharp drop in physical Gold.
+2.  **Key Tickers to Watch**: **GOLD (Physical)** shows a critical technical signal with a substantial -5.42% drop, indicating strong selling pressure and potential further weakness. On the bullish side, **NOC (Northrop Grumman)** stands out with a robust +1.39% gain within an already strong Military sector, signaling continued investor confidence.
+3.  **Actionable Strategy**: For the upcoming session, consider accumulating positions in top-performing Military and Energy tickers. For Precious Metals, specifically GOLD, adopt a "Wait & Watch" strategy for signs of stabilization, or for existing holders, set a clear "Stop Loss" to manage risk given the significant price decline.
+----------------------------------------
+
 ### 📊 USA Market Update - 13/07/2026 16:01:51
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -986,37 +1017,6 @@ Here's an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 12/07/2026 08:01:49
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
-| Military | **RTX** | $195.93 | +0.37% | Stable 🟢 |
-| Military | **NOC** | $539.63 | +1.39% | Stable 🟢 |
-| Energy | **XOM** | $138.88 | +1.03% | Stable 🟢 |
-| Energy | **CVX** | $176.40 | +1.35% | Stable 🟢 |
-| Energy | **COP** | $109.04 | +0.94% | Stable 🟢 |
-| Tech | **TSLA** | $407.76 | +0.30% | Stable 🟢 |
-| Tech | **AAPL** | $315.32 | -0.28% | Stable 🔴 |
-| Tech | **MSFT** | $385.10 | +0.19% | Stable 🟢 |
-| Tech | **GOOGL** | $357.18 | -0.48% | Stable 🔴 |
-| Finance | **JPM** | $336.47 | +0.30% | Stable 🟢 |
-| Finance | **BAC** | $59.67 | +0.71% | Stable 🟢 |
-| Finance | **GS** | $1,055.18 | -0.07% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,104.10 | -0.64% | Stable 🔴 |
-| Precious Metals | **SI=F** | $59.81 | -0.94% | Stable 🔴 |
-| Precious Metals | **GOLD** | $39.45 | -5.42% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update:
-
-*   **Market Trend**: Money is flowing robustly into the Military and Energy sectors, showing strong positive momentum, while there's a significant outflow from Precious Metals, which are experiencing notable declines across the board.
-*   **Key Tickers to Watch**: GOLD is exhibiting a critical technical signal with a severe -5.42% drop, indicating strong bearish pressure and potential capitulation. Conversely, NOC stands out with a solid +1.39% gain, highlighting sustained interest in the defense sector.
-*   **Actionable Strategy**: Implement a "Wait & Watch" strategy for Precious Metals; consider setting tight stop-losses for existing positions or deferring new entries. For Military and Energy sectors, continue to accumulate positions, particularly on any minor intraday pullbacks.
-----------------------------------------
-
-### 📊 USA Market Update - 12/07/2026 07:01:51
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
