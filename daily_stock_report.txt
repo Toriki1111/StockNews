@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 14/07/2026 22:02:04
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $520.59 | -0.02% | Stable 🔴 |
+| Military | **RTX** | $197.26 | +0.45% | Stable 🟢 |
+| Military | **NOC** | $537.52 | -0.79% | Stable 🔴 |
+| Energy | **XOM** | $144.69 | +0.12% | Stable 🟢 |
+| Energy | **CVX** | $181.36 | -0.46% | Stable 🔴 |
+| Energy | **COP** | $110.85 | -1.77% | Stable 🔴 |
+| Tech | **TSLA** | $398.42 | +0.93% | Stable 🟢 |
+| Tech | **AAPL** | $314.93 | -0.75% | Stable 🔴 |
+| Tech | **MSFT** | $387.04 | -1.01% | Stable 🔴 |
+| Tech | **GOOGL** | $357.76 | +1.49% | Stable 🟢 |
+| Finance | **JPM** | $342.92 | +2.51% | Stable 🟢 |
+| Finance | **BAC** | $60.92 | +2.39% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,124.51 | +7.51% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,089.70 | +2.32% | Stable 🟢 |
+| Precious Metals | **SI=F** | $59.59 | +3.39% | Stable 🟢 |
+| Precious Metals | **GOLD** | $38.49 | +1.18% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+1.  **Market Trend**: Capital is clearly flowing into the Finance and Precious Metals sectors, which are showing robust bullish momentum. Conversely, the Energy and, to a lesser extent, Military sectors are experiencing outflows and general weakness.
+2.  **Key Tickers to Watch**: BAC is prominently flagged as "Overbought" following a 2.39% gain, suggesting caution and potential for a near-term correction. Goldman Sachs (GS) stands out with an exceptional 7.51% surge, indicating strong institutional confidence and upward momentum.
+3.  **Actionable Strategy**: For Finance, consider taking partial profits or setting a tight stop-loss on BAC due to its overbought status, while potentially holding or accumulating GS. Accumulate positions in Precious Metals (GC=F, SI=F) given their sustained positive trend, and maintain a "Wait & Watch" approach for the mixed Tech and weakening Energy/Military sectors.
+----------------------------------------
+
 ### 📊 USA Market Update - 14/07/2026 21:01:52
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here's an analysis of the provided market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 13/07/2026 13:01:47
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
-| Military | **RTX** | $195.93 | +0.37% | Stable 🟢 |
-| Military | **NOC** | $539.63 | +1.39% | Stable 🟢 |
-| Energy | **XOM** | $138.88 | +1.03% | Stable 🟢 |
-| Energy | **CVX** | $176.40 | +1.35% | Stable 🟢 |
-| Energy | **COP** | $109.04 | +0.94% | Stable 🟢 |
-| Tech | **TSLA** | $407.76 | +0.30% | Stable 🟢 |
-| Tech | **AAPL** | $315.32 | -0.28% | Stable 🔴 |
-| Tech | **MSFT** | $385.10 | +0.19% | Stable 🟢 |
-| Tech | **GOOGL** | $357.18 | -0.48% | Stable 🔴 |
-| Finance | **JPM** | $336.47 | +0.30% | Stable 🟢 |
-| Finance | **BAC** | $59.67 | +0.71% | Stable 🟢 |
-| Finance | **GS** | $1,055.18 | -0.07% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,069.40 | -0.85% | Stable 🔴 |
-| Precious Metals | **SI=F** | $58.53 | -2.15% | Stable 🔴 |
-| Precious Metals | **GOLD** | $39.45 | -5.42% | Stable 🔴 |
-
-
-*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
-
-----------------------------------------
-
-### 📊 USA Market Update - 13/07/2026 12:01:50
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
-| Military | **RTX** | $195.93 | +0.37% | Stable 🟢 |
-| Military | **NOC** | $539.63 | +1.39% | Stable 🟢 |
-| Energy | **XOM** | $138.88 | +1.03% | Stable 🟢 |
