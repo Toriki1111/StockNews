@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 15/07/2026 00:01:51
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $519.48 | -0.23% | Stable 🔴 |
+| Military | **RTX** | $195.49 | -0.46% | Stable 🔴 |
+| Military | **NOC** | $535.52 | -1.16% | Stable 🔴 |
+| Energy | **XOM** | $144.45 | -0.04% | Stable 🔴 |
+| Energy | **CVX** | $181.54 | -0.36% | Stable 🔴 |
+| Energy | **COP** | $110.57 | -2.02% | Stable 🔴 |
+| Tech | **TSLA** | $395.81 | +0.27% | Stable 🟢 |
+| Tech | **AAPL** | $314.10 | -1.01% | Stable 🔴 |
+| Tech | **MSFT** | $388.09 | -0.74% | Stable 🔴 |
+| Tech | **GOOGL** | $356.52 | +1.14% | Stable 🟢 |
+| Finance | **JPM** | $340.70 | +1.85% | Stable 🟢 |
+| Finance | **BAC** | $60.65 | +1.94% | Stable 🟢 |
+| Finance | **GS** | $1,127.22 | +7.77% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,067.60 | +1.77% | Stable 🟢 |
+| Precious Metals | **SI=F** | $59.06 | +2.47% | Stable 🟢 |
+| Precious Metals | **GOLD** | $38.76 | +1.88% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Capital is decisively flowing into the Finance and Precious Metals sectors, with all related tickers showing strong positive gains. Conversely, there's a clear exit from the Military and Energy sectors, which are predominantly experiencing declines.
+*   **Key Tickers to Watch**: Goldman Sachs (GS) exhibits an extraordinary +7.77% surge, signaling significant institutional confidence or positive catalysts. Additionally, Silver Futures (SI=F), leading the precious metals rally with +2.47%, highlights increasing safe-haven demand.
+*   **Actionable Strategy**: For Finance and Precious Metals, consider taking partial profits on current positions to secure gains or implement trailing stop losses. Maintain a "Wait & Watch" approach for the Military and Energy sectors, refraining from new long entries until market sentiment clearly reverses.
+----------------------------------------
+
 ### 📊 USA Market Update - 14/07/2026 23:01:49
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here's your market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 13/07/2026 15:01:54
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
-| Military | **RTX** | $195.93 | +0.37% | Stable 🟢 |
-| Military | **NOC** | $539.63 | +1.39% | Stable 🟢 |
-| Energy | **XOM** | $138.88 | +1.03% | Stable 🟢 |
-| Energy | **CVX** | $176.40 | +1.35% | Stable 🟢 |
-| Energy | **COP** | $109.04 | +0.94% | Stable 🟢 |
-| Tech | **TSLA** | $407.76 | +0.30% | Stable 🟢 |
-| Tech | **AAPL** | $315.32 | -0.28% | Stable 🔴 |
-| Tech | **MSFT** | $385.10 | +0.19% | Stable 🟢 |
-| Tech | **GOOGL** | $357.18 | -0.48% | Stable 🔴 |
-| Finance | **JPM** | $336.47 | +0.30% | Stable 🟢 |
-| Finance | **BAC** | $59.67 | +0.71% | Stable 🟢 |
-| Finance | **GS** | $1,055.18 | -0.07% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,066.50 | -0.92% | Stable 🔴 |
-| Precious Metals | **SI=F** | $58.74 | -1.78% | Stable 🔴 |
-| Precious Metals | **GOLD** | $39.45 | -5.42% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update:
-
-*   **Market Trend**: Money is demonstrably flowing into the Military and Energy sectors, both exhibiting broad positive momentum across all listed tickers. Conversely, there is a strong capital outflow from Precious Metals, indicating significant selling pressure and potentially a risk-on shift.
-*   **Key Tickers to Watch**: **GOLD** experienced a substantial -5.42% drop, signaling strong bearish momentum and potential for further declines. On the bullish side, **NOC** led the Military sector with a +1.39% gain, highlighting robust demand and sector strength.
-*   **Actionable Strategy**: Consider reducing exposure or setting stop-losses for Precious Metals holdings given the sharp decline. For the Military and Energy sectors, look for opportunities to accumulate on any slight pullbacks, while maintaining a "wait & watch" approach for Tech and Finance as they show mixed signals.
-----------------------------------------
-
-### 📊 USA Market Update - 13/07/2026 14:01:49
