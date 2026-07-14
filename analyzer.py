@@ -3,8 +3,7 @@ import pandas as pd
 def add_indicators(df):
     if df.empty:
         return df
-    
-    # Make sure 'Close' column exists
+    # close Col 
     close = df['Close']
     delta = close.diff()
     gain = (delta.where(delta > 0, 0)).ewm(alpha=1/14, adjust=False).mean()
