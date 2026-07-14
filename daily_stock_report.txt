@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 14/07/2026 15:01:52
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
+| Military | **RTX** | $196.39 | +0.23% | Stable 🟢 |
+| Military | **NOC** | $541.82 | +0.41% | Stable 🟢 |
+| Energy | **XOM** | $144.51 | +4.05% | Stable 🟢 |
+| Energy | **CVX** | $182.20 | +3.29% | Stable 🟢 |
+| Energy | **COP** | $112.85 | +3.49% | Stable 🟢 |
+| Tech | **TSLA** | $394.76 | -3.19% | Stable 🔴 |
+| Tech | **AAPL** | $317.31 | +0.63% | Stable 🟢 |
+| Tech | **MSFT** | $390.99 | +1.53% | Stable 🟢 |
+| Tech | **GOOGL** | $352.51 | -1.31% | Stable 🔴 |
+| Finance | **JPM** | $334.53 | -0.58% | Stable 🔴 |
+| Finance | **BAC** | $59.50 | -0.28% | Stable 🔴 |
+| Finance | **GS** | $1,045.91 | -0.88% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,029.80 | +0.82% | Stable 🟢 |
+| Precious Metals | **SI=F** | $58.31 | +1.16% | Stable 🟢 |
+| Precious Metals | **GOLD** | $38.04 | -3.57% | ✅ Oversale 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+*   **Market Trend**: Money is currently flowing strongly into the Energy sector, with all major players showing significant gains, and also into Precious Metals futures (Gold, Silver). Conversely, the Finance sector is experiencing widespread outflows, and parts of the Tech sector, notably TSLA and GOOGL, are facing downward pressure.
+*   **Key Tickers to Watch**: **GOLD** is explicitly flagged as "Oversale" after a substantial -3.57% drop, signaling potential for a technical rebound or an attractive entry point. **TSLA** also merits close attention, having seen a significant -3.19% decline amidst broader mixed tech performance.
+*   **Actionable Strategy**: Accumulate positions in **GOLD** due to its oversold status, anticipating a potential bounce. For **TSLA**, adopt a "Wait & Watch" strategy to observe for stabilization before considering new entries, while for strong-performing Energy holdings, consider taking partial profits or tightening stop-losses.
+----------------------------------------
+
 ### 📊 USA Market Update - 14/07/2026 14:01:51
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -991,37 +1022,6 @@ Here is your market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 13/07/2026 06:01:47
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
-| Military | **RTX** | $195.93 | +0.37% | Stable 🟢 |
-| Military | **NOC** | $539.63 | +1.39% | Stable 🟢 |
-| Energy | **XOM** | $138.88 | +1.03% | Stable 🟢 |
-| Energy | **CVX** | $176.40 | +1.35% | Stable 🟢 |
-| Energy | **COP** | $109.04 | +0.94% | Stable 🟢 |
-| Tech | **TSLA** | $407.76 | +0.30% | Stable 🟢 |
-| Tech | **AAPL** | $315.32 | -0.28% | Stable 🔴 |
-| Tech | **MSFT** | $385.10 | +0.19% | Stable 🟢 |
-| Tech | **GOOGL** | $357.18 | -0.48% | Stable 🔴 |
-| Finance | **JPM** | $336.47 | +0.30% | Stable 🟢 |
-| Finance | **BAC** | $59.67 | +0.71% | Stable 🟢 |
-| Finance | **GS** | $1,055.18 | -0.07% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,088.00 | -0.39% | Stable 🔴 |
-| Precious Metals | **SI=F** | $59.22 | -0.99% | Stable 🔴 |
-| Precious Metals | **GOLD** | $39.45 | -5.42% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's your concise market report:
-
-1.  **Market Trend**: Capital is strongly flowing into traditional sectors such as Military and Energy, indicated by widespread positive gains. Conversely, there's a significant exit from Precious Metals, with mixed performance observed in Technology and Finance sectors.
-2.  **Key Tickers to Watch**: **GOLD** has experienced a sharp -5.42% drop, signaling significant capital flight from precious metals and warranting close monitoring for underlying market shifts. Conversely, **NOC** showed robust growth at +1.39%, reflecting strong demand within the military sector.
-3.  **Actionable Strategy**: Consider accumulating positions in robust sectors like Military and Energy, particularly for tickers showing strong positive momentum. For Precious Metals, specifically **GOLD**, advise a "Wait & Watch" approach due to its steep decline, assessing potential catalysts before re-entry or further action.
-----------------------------------------
-
-### 📊 USA Market Update - 13/07/2026 05:01:53
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $523.22 | +0.96% | Stable 🟢 |
