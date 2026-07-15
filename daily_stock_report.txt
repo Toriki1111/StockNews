@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 15/07/2026 15:01:58
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
+| Military | **RTX** | $196.39 | +0.23% | Stable 🟢 |
+| Military | **NOC** | $541.82 | +0.41% | Stable 🟢 |
+| Energy | **XOM** | $144.51 | +4.05% | Stable 🟢 |
+| Energy | **CVX** | $182.20 | +3.29% | Stable 🟢 |
+| Energy | **COP** | $112.85 | +3.49% | Stable 🟢 |
+| Tech | **TSLA** | $394.76 | -3.19% | Stable 🔴 |
+| Tech | **AAPL** | $317.31 | +0.63% | Stable 🟢 |
+| Tech | **MSFT** | $390.99 | +1.53% | Stable 🟢 |
+| Tech | **GOOGL** | $352.51 | -1.31% | Stable 🔴 |
+| Finance | **JPM** | $334.53 | -0.58% | Stable 🔴 |
+| Finance | **BAC** | $59.50 | -0.28% | Stable 🔴 |
+| Finance | **GS** | $1,045.91 | -0.88% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,028.90 | -0.79% | Stable 🔴 |
+| Precious Metals | **SI=F** | $58.48 | -0.50% | Stable 🔴 |
+| Precious Metals | **GOLD** | $39.07 | +2.71% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market report:
+
+1.  **Market Trend**: Money is strongly flowing into the Energy sector, with all major players showing significant gains, while the Finance sector is experiencing broad outflows. Technology and Precious Metals exhibit mixed performance, indicating selective investor interest.
+2.  **Key Tickers to Watch**: ExxonMobil (XOM) exhibited a substantial +4.05% surge, highlighting strong bullish sentiment and potential short-term overextension. Conversely, Tesla (TSLA) experienced a notable -3.19% decline, signaling immediate bearish pressure.
+3.  **Actionable Strategy**: For the Energy sector, consider taking partial profits on recent gains or waiting for a consolidation phase before accumulating further. For TSLA and the broader Finance sector, a "Wait & Watch" approach is advisable given the current negative momentum.
+----------------------------------------
+
 ### 📊 USA Market Update - 15/07/2026 14:01:53
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is your concise market update:
 | Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
 | Military | **RTX** | $196.39 | +0.23% | Stable 🟢 |
 | Military | **NOC** | $541.82 | +0.41% | Stable 🟢 |
-| Energy | **XOM** | $144.51 | +4.05% | Stable 🟢 |
-| Energy | **CVX** | $182.20 | +3.29% | Stable 🟢 |
-| Energy | **COP** | $112.85 | +3.49% | Stable 🟢 |
-| Tech | **TSLA** | $394.76 | -3.19% | Stable 🔴 |
-| Tech | **AAPL** | $317.31 | +0.63% | Stable 🟢 |
-| Tech | **MSFT** | $390.99 | +1.53% | Stable 🟢 |
-| Tech | **GOOGL** | $352.51 | -1.31% | Stable 🔴 |
-| Finance | **JPM** | $334.53 | -0.58% | Stable 🔴 |
-| Finance | **BAC** | $59.50 | -0.28% | Stable 🔴 |
-| Finance | **GS** | $1,045.91 | -0.88% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,009.80 | -2.30% | Stable 🔴 |
-| Precious Metals | **SI=F** | $57.97 | -3.07% | Stable 🔴 |
-| Precious Metals | **GOLD** | $38.04 | -3.57% | ✅ Oversale 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the provided market data:
-
-*   **Market Trend**: Capital is clearly rotating into the Energy sector, evidenced by significant surges across XOM, CVX, and COP. Conversely, there's a pronounced outflow from Precious Metals and moderate weakness in the Finance sector.
-*   **Key Tickers to Watch**: **GOLD** (Physical Gold ETN/ETF) is a key watch, flagged as "Oversale" with a -3.57% drop, signaling potential for a technical bounce or continued downward pressure. **XOM** stands out with a +4.05% surge, leading the strong Energy sector and indicating robust bullish momentum.
-*   **Actionable Strategy**: Consider a cautious accumulation strategy for **GOLD** on further weakness, anticipating a potential technical rebound from oversold conditions. For strong performers in the Energy sector like **XOM**, consider taking partial profits or implementing tight trailing stop-losses to protect significant gains.
-----------------------------------------
-
-### 📊 USA Market Update - 14/07/2026 05:01:58
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
-| Military | **RTX** | $196.39 | +0.23% | Stable 🟢 |
-| Military | **NOC** | $541.82 | +0.41% | Stable 🟢 |
-| Energy | **XOM** | $144.51 | +4.05% | Stable 🟢 |
