@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 15/07/2026 08:01:51
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $514.99 | -1.09% | Stable 🔴 |
+| Military | **RTX** | $193.39 | -1.53% | Stable 🔴 |
+| Military | **NOC** | $528.67 | -2.43% | Stable 🔴 |
+| Energy | **XOM** | $145.09 | +0.40% | Stable 🟢 |
+| Energy | **CVX** | $181.76 | -0.24% | Stable 🔴 |
+| Energy | **COP** | $111.87 | -0.87% | Stable 🔴 |
+| Tech | **TSLA** | $396.18 | +0.36% | Stable 🟢 |
+| Tech | **AAPL** | $314.86 | -0.77% | Stable 🔴 |
+| Tech | **MSFT** | $384.93 | -1.55% | Stable 🔴 |
+| Tech | **GOOGL** | $359.51 | +1.99% | Stable 🟢 |
+| Finance | **JPM** | $342.89 | +2.50% | Stable 🟢 |
+| Finance | **BAC** | $60.62 | +1.88% | Stable 🟢 |
+| Finance | **GS** | $1,140.00 | +9.00% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,061.60 | +1.62% | Stable 🟢 |
+| Precious Metals | **SI=F** | $59.19 | +2.71% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.07 | +2.71% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+1.  **Market Trend**: Capital is clearly rotating into the Finance and Precious Metals sectors, evidenced by strong positive movements across multiple tickers, while significant outflows are observed from the Military sector and parts of Technology.
+2.  **Key Tickers to Watch**: Goldman Sachs (GS) stands out with a substantial +9.00% surge, indicating strong bullish sentiment; simultaneously, Silver (SI=F) and GOLD show robust gains (+2.71%), suggesting increasing demand for safe-haven assets.
+3.  **Actionable Strategy**: For investors seeking momentum, consider accumulating in Financials and Precious Metals on any minor pullbacks; conversely, exercise caution and maintain a "Wait & Watch" approach or set tight stop-losses for positions in the underperforming Military sector.
+----------------------------------------
+
 ### 📊 USA Market Update - 15/07/2026 07:01:53
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is your concise market analysis:
 *   **Actionable Strategy**: Consider accumulating positions in the Energy sector on any minor dips, capitalizing on the current upward momentum. For Precious Metals, adopt a "Wait & Watch" approach for signs of stabilization before considering any entry, and similarly for TSLA, monitor for consolidation before making any directional moves.
 ----------------------------------------
 
-### 📊 USA Market Update - 13/07/2026 23:01:52
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $520.38 | -0.54% | Stable 🔴 |
-| Military | **RTX** | $196.48 | +0.28% | Stable 🟢 |
-| Military | **NOC** | $539.78 | +0.03% | Stable 🟢 |
-| Energy | **XOM** | $143.68 | +3.46% | Stable 🟢 |
-| Energy | **CVX** | $180.35 | +2.24% | Stable 🟢 |
-| Energy | **COP** | $112.03 | +2.74% | Stable 🟢 |
-| Tech | **TSLA** | $395.40 | -3.03% | Stable 🔴 |
-| Tech | **AAPL** | $316.98 | +0.53% | Stable 🟢 |
-| Tech | **MSFT** | $390.89 | +1.50% | Stable 🟢 |
-| Tech | **GOOGL** | $355.85 | -0.37% | Stable 🔴 |
-| Finance | **JPM** | $333.52 | -0.88% | Stable 🔴 |
-| Finance | **BAC** | $59.20 | -0.79% | Stable 🔴 |
-| Finance | **GS** | $1,044.50 | -1.01% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,017.50 | -2.11% | Stable 🔴 |
-| Precious Metals | **SI=F** | $58.28 | -2.56% | Stable 🔴 |
-| Precious Metals | **GOLD** | $39.13 | -0.81% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market report:
-
-*   **Market Trend**: Capital is clearly flowing into the Energy sector, which saw robust gains across all tracked tickers, while Precious Metals and Finance sectors experienced consistent outflows, indicating a shift towards risk-on assets or profit-taking from safe havens.
-*   **Key Tickers to Watch**: **XOM** (Energy) recorded a significant +3.46% surge, signaling strong bullish momentum, while **TSLA** (Tech) experienced a notable -3.03% decline, indicating significant bearish pressure warranting close observation.
-*   **Actionable Strategy**: For the Energy sector, consider taking partial profits or holding strong positions, whereas for TSLA, implement a strict stop-loss order or adopt a "wait and watch" approach for potential stabilization before considering new entry points.
-----------------------------------------
-
-### 📊 USA Market Update - 13/07/2026 22:01:57
