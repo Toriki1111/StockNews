@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 16/07/2026 11:01:48
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $514.46 | -0.10% | Stable 🔴 |
+| Military | **RTX** | $195.89 | +1.29% | Stable 🟢 |
+| Military | **NOC** | $525.22 | -0.65% | Stable 🔴 |
+| Energy | **XOM** | $144.51 | -0.40% | Stable 🔴 |
+| Energy | **CVX** | $181.60 | -0.09% | Stable 🔴 |
+| Energy | **COP** | $111.46 | -0.37% | Stable 🔴 |
+| Tech | **TSLA** | $394.46 | -0.43% | Stable 🔴 |
+| Tech | **AAPL** | $327.50 | +4.01% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $395.63 | +2.78% | Stable 🟢 |
+| Tech | **GOOGL** | $370.92 | +3.17% | Stable 🟢 |
+| Finance | **JPM** | $346.91 | +1.17% | Stable 🟢 |
+| Finance | **BAC** | $61.59 | +1.60% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,152.07 | +1.06% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GC=F** | $4,044.00 | -0.42% | Stable 🔴 |
+| Precious Metals | **SI=F** | $57.11 | -2.83% | Stable 🔴 |
+| Precious Metals | **GOLD** | $39.56 | +1.25% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis report:
+
+*   **Market Trend**: Capital is strongly flowing into the Technology and Finance sectors, evidenced by significant gains and multiple "Overbought" signals, while the Energy sector shows broad declines across the board.
+*   **Key Tickers to Watch**: **AAPL** and **BAC** are critical to monitor, both marked "Overbought" after strong surges (+4.01% and +1.60% respectively), indicating potential short-term pullback risks despite bullish momentum.
+*   **Actionable Strategy**: For "Overbought" assets like AAPL, BAC, and GS, consider taking partial profits or tightening stop-loss orders; for other strong performing Tech and Finance stocks (e.g., MSFT, GOOGL, JPM), maintain existing long positions but exercise caution with new entries at current highs.
+----------------------------------------
+
 ### 📊 USA Market Update - 16/07/2026 10:01:57
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here's an analysis of the USA market data:
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $518.22 | -0.47% | Stable 🔴 |
 | Military | **RTX** | $195.18 | -0.62% | Stable 🔴 |
-| Military | **NOC** | $531.58 | -1.89% | Stable 🔴 |
-| Energy | **XOM** | $145.08 | +0.39% | Stable 🟢 |
-| Energy | **CVX** | $182.09 | -0.06% | Stable 🔴 |
-| Energy | **COP** | $111.31 | -1.36% | Stable 🔴 |
-| Tech | **TSLA** | $396.86 | +0.53% | Stable 🟢 |
-| Tech | **AAPL** | $315.52 | -0.56% | Stable 🔴 |
-| Tech | **MSFT** | $385.23 | -1.47% | Stable 🔴 |
-| Tech | **GOOGL** | $359.19 | +1.89% | Stable 🟢 |
-| Finance | **JPM** | $341.26 | +2.01% | Stable 🟢 |
-| Finance | **BAC** | $60.54 | +1.76% | Stable 🟢 |
-| Finance | **GS** | $1,132.77 | +8.30% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,056.70 | +1.49% | Stable 🟢 |
-| Precious Metals | **SI=F** | $58.90 | +2.20% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.17 | +2.98% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's your market analysis for the USA market:
-
-1.  **Market Trend**: Capital is clearly rotating into the Finance and Precious Metals sectors, evidenced by strong gains across all tickers in these categories, while the Military sector and select Tech/Energy stocks are experiencing outflows.
-2.  **Key Tickers to Watch**: Goldman Sachs (**GS**) surged by an exceptional +8.30%, indicating significant bullish momentum and potential for continued upside, albeit with short-term consolidation risk. Conversely, Microsoft (**MSFT**) dropped by -1.47%, presenting a potential entry point for long-term investors or a signal to review stop-loss orders for current holders.
-3.  **Actionable Strategy**: Accumulate or hold positions in the Finance and Precious Metals sectors given their robust performance. For military and underperforming tech/energy stocks, a "Wait & Watch" approach is advised, coupled with a review of stop-loss levels.
-----------------------------------------
-
-### 📊 USA Market Update - 15/07/2026 01:01:50
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $519.86 | -0.16% | Stable 🔴 |
-| Military | **RTX** | $195.54 | -0.43% | Stable 🔴 |
-| Military | **NOC** | $535.24 | -1.21% | Stable 🔴 |
