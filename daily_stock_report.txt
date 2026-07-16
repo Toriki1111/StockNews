@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 17/07/2026 00:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $515.57 | +0.21% | Stable 🟢 |
+| Military | **RTX** | $193.47 | -1.24% | Stable 🔴 |
+| Military | **NOC** | $524.23 | -0.19% | Stable 🔴 |
+| Energy | **XOM** | $145.77 | +0.87% | Stable 🟢 |
+| Energy | **CVX** | $183.68 | +1.15% | Stable 🟢 |
+| Energy | **COP** | $112.16 | +0.63% | Stable 🟢 |
+| Tech | **TSLA** | $388.34 | -1.55% | Stable 🔴 |
+| Tech | **AAPL** | $331.90 | +1.35% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $403.06 | +1.88% | Stable 🟢 |
+| Tech | **GOOGL** | $371.86 | +0.25% | Stable 🟢 |
+| Finance | **JPM** | $345.57 | -0.39% | Stable 🔴 |
+| Finance | **BAC** | $61.69 | +0.15% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,102.58 | -4.30% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,999.60 | -1.10% | Stable 🔴 |
+| Precious Metals | **SI=F** | $56.39 | -1.26% | Stable 🔴 |
+| Precious Metals | **GOLD** | $38.43 | -2.86% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market update:
+
+*   **Market Trend**: Capital is clearly flowing into the Energy sector, with all monitored tickers showing positive momentum, and selectively into strong Tech names like Microsoft. Conversely, Precious Metals are experiencing significant outflows, while the Finance sector shows weakness, particularly with Goldman Sachs' notable decline.
+*   **Key Tickers to Watch**: Apple (AAPL) is flagged as "Overbought" despite its +1.35% gain, suggesting potential short-term resistance. Separately, Goldman Sachs (GS) experienced a substantial -4.30% drop, indicating significant selling pressure that warrants close monitoring for further volatility.
+*   **Actionable Strategy**: Accumulate positions in the robust Energy sector, while exercising caution with "Overbought" tickers like AAPL, where "Take Profit" or "Wait & Watch" might be prudent. For GS, a "Wait & Watch" approach is recommended to observe stabilization before considering any new positions or further action.
+----------------------------------------
+
 ### 📊 USA Market Update - 16/07/2026 23:01:35
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -993,37 +1024,6 @@ Here is your market update:
 ----------------------------------------
 
 ### 📊 USA Market Update - 15/07/2026 15:01:58
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
-| Military | **RTX** | $196.39 | +0.23% | Stable 🟢 |
-| Military | **NOC** | $541.82 | +0.41% | Stable 🟢 |
-| Energy | **XOM** | $144.51 | +4.05% | Stable 🟢 |
-| Energy | **CVX** | $182.20 | +3.29% | Stable 🟢 |
-| Energy | **COP** | $112.85 | +3.49% | Stable 🟢 |
-| Tech | **TSLA** | $394.76 | -3.19% | Stable 🔴 |
-| Tech | **AAPL** | $317.31 | +0.63% | Stable 🟢 |
-| Tech | **MSFT** | $390.99 | +1.53% | Stable 🟢 |
-| Tech | **GOOGL** | $352.51 | -1.31% | Stable 🔴 |
-| Finance | **JPM** | $334.53 | -0.58% | Stable 🔴 |
-| Finance | **BAC** | $59.50 | -0.28% | Stable 🔴 |
-| Finance | **GS** | $1,045.91 | -0.88% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,028.90 | -0.79% | Stable 🔴 |
-| Precious Metals | **SI=F** | $58.48 | -0.50% | Stable 🔴 |
-| Precious Metals | **GOLD** | $39.07 | +2.71% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market report:
-
-1.  **Market Trend**: Money is strongly flowing into the Energy sector, with all major players showing significant gains, while the Finance sector is experiencing broad outflows. Technology and Precious Metals exhibit mixed performance, indicating selective investor interest.
-2.  **Key Tickers to Watch**: ExxonMobil (XOM) exhibited a substantial +4.05% surge, highlighting strong bullish sentiment and potential short-term overextension. Conversely, Tesla (TSLA) experienced a notable -3.19% decline, signaling immediate bearish pressure.
-3.  **Actionable Strategy**: For the Energy sector, consider taking partial profits on recent gains or waiting for a consolidation phase before accumulating further. For TSLA and the broader Finance sector, a "Wait & Watch" approach is advisable given the current negative momentum.
-----------------------------------------
-
-### 📊 USA Market Update - 15/07/2026 14:01:53
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
