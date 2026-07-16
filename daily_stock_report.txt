@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 16/07/2026 21:01:51
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $512.90 | -0.30% | Stable 🔴 |
+| Military | **RTX** | $194.12 | -0.90% | Stable 🔴 |
+| Military | **NOC** | $523.01 | -0.42% | Stable 🔴 |
+| Energy | **XOM** | $145.48 | +0.67% | Stable 🟢 |
+| Energy | **CVX** | $182.70 | +0.61% | Stable 🟢 |
+| Energy | **COP** | $112.12 | +0.59% | Stable 🟢 |
+| Tech | **TSLA** | $388.18 | -1.59% | Stable 🔴 |
+| Tech | **AAPL** | $330.02 | +0.77% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $394.15 | -0.37% | Stable 🔴 |
+| Tech | **GOOGL** | $370.54 | -0.10% | Stable 🔴 |
+| Finance | **JPM** | $342.56 | -1.25% | Stable 🔴 |
+| Finance | **BAC** | $61.29 | -0.48% | Stable 🔴 |
+| Finance | **GS** | $1,104.97 | -4.09% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,997.40 | -1.15% | Stable 🔴 |
+| Precious Metals | **SI=F** | $56.10 | -1.78% | Stable 🔴 |
+| Precious Metals | **GOLD** | $38.81 | -1.90% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 16/07/2026 20:01:49
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -987,37 +1019,6 @@ Here is your concise market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 15/07/2026 12:01:48
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
-| Military | **RTX** | $196.39 | +0.23% | Stable 🟢 |
-| Military | **NOC** | $541.82 | +0.41% | Stable 🟢 |
-| Energy | **XOM** | $144.51 | +4.05% | Stable 🟢 |
-| Energy | **CVX** | $182.20 | +3.29% | Stable 🟢 |
-| Energy | **COP** | $112.85 | +3.49% | Stable 🟢 |
-| Tech | **TSLA** | $394.76 | -3.19% | Stable 🔴 |
-| Tech | **AAPL** | $317.31 | +0.63% | Stable 🟢 |
-| Tech | **MSFT** | $390.99 | +1.53% | Stable 🟢 |
-| Tech | **GOOGL** | $352.51 | -1.31% | Stable 🔴 |
-| Finance | **JPM** | $334.53 | -0.58% | Stable 🔴 |
-| Finance | **BAC** | $59.50 | -0.28% | Stable 🔴 |
-| Finance | **GS** | $1,045.91 | -0.88% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,039.60 | -0.53% | Stable 🔴 |
-| Precious Metals | **SI=F** | $58.80 | +0.05% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.07 | +2.71% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-*   **Market Trend**: Capital is strongly flowing into the Energy sector, evidenced by significant surges across major oil and gas companies, while the Financial sector is experiencing a broad outflow. The Tech sector shows mixed performance, with specific giants like TSLA experiencing notable declines amidst other gains.
-*   **Key Tickers to Watch**: **XOM** stands out with a robust 4.05% gain, signaling strong bullish momentum within the Energy sector. Conversely, **TSLA**'s 3.19% drop indicates a significant bearish technical signal, possibly due to profit-taking or shifting sentiment.
-*   **Actionable Strategy**: Accumulate positions in the Energy sector on any short-term pullbacks, capitalizing on the current strong upward trend. For Financials, adopt a "Wait & Watch" strategy until sector stabilization is observed, and consider reviewing stop-loss orders for any existing TSLA holdings.
-----------------------------------------
-
-### 📊 USA Market Update - 15/07/2026 11:01:48
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
