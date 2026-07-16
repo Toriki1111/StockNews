@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 17/07/2026 03:01:30
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $513.34 | -0.22% | Stable 🔴 |
+| Military | **RTX** | $194.35 | -0.79% | Stable 🔴 |
+| Military | **NOC** | $518.61 | -1.26% | Stable 🔴 |
+| Energy | **XOM** | $145.95 | +1.00% | Stable 🟢 |
+| Energy | **CVX** | $183.88 | +1.26% | Stable 🟢 |
+| Energy | **COP** | $112.85 | +1.24% | Stable 🟢 |
+| Tech | **TSLA** | $391.06 | -0.86% | Stable 🔴 |
+| Tech | **AAPL** | $333.26 | +1.76% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $401.10 | +1.38% | Stable 🟢 |
+| Tech | **GOOGL** | $354.46 | -4.44% | Stable 🔴 |
+| Finance | **JPM** | $343.16 | -1.08% | Stable 🔴 |
+| Finance | **BAC** | $61.51 | -0.13% | ⚠️ Overbought! 🔴 |
+| Finance | **GS** | $1,095.86 | -4.88% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,980.90 | -1.56% | Stable 🔴 |
+| Precious Metals | **SI=F** | $55.83 | -2.24% | Stable 🔴 |
+| Precious Metals | **GOLD** | $38.49 | -2.70% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+*   **Market Trend**: Money is flowing strongly into the Energy sector, with all major players showing significant gains, and selectively into core Tech names like Apple and Microsoft. Conversely, there is a clear exit from Military, Finance, and Precious Metals sectors, indicating a broad rotation away from defensive and safe-haven assets.
+*   **Key Tickers to Watch**: Monitor Apple (AAPL) closely, given its "Overbought!" status and strong +1.76% rise, suggesting potential for near-term profit-taking or consolidation. Also, keep a close eye on Goldman Sachs (GS) and Google (GOOGL) after their notable drops exceeding 4%, which could signal either short-term weakness or a potential buying opportunity on a dip.
+*   **Actionable Strategy**: For positions in Apple (AAPL), consider taking partial profits or implementing tight stop-losses due to its overbought condition. Accumulate or maintain positions in the strong-performing Energy sector, and adopt a "Wait & Watch" strategy for Goldman Sachs (GS) and Google (GOOGL) to observe for stabilization before considering new entries.
+----------------------------------------
+
 ### 📊 USA Market Update - 17/07/2026 02:01:34
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -991,37 +1022,6 @@ Here is your market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 15/07/2026 18:01:52
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
-| Military | **RTX** | $196.39 | +0.23% | Stable 🟢 |
-| Military | **NOC** | $541.82 | +0.41% | Stable 🟢 |
-| Energy | **XOM** | $144.51 | +4.05% | Stable 🟢 |
-| Energy | **CVX** | $182.20 | +3.29% | Stable 🟢 |
-| Energy | **COP** | $112.85 | +3.49% | Stable 🟢 |
-| Tech | **TSLA** | $394.76 | -3.19% | Stable 🔴 |
-| Tech | **AAPL** | $317.31 | +0.63% | Stable 🟢 |
-| Tech | **MSFT** | $390.99 | +1.53% | Stable 🟢 |
-| Tech | **GOOGL** | $352.51 | -1.31% | Stable 🔴 |
-| Finance | **JPM** | $334.53 | -0.58% | Stable 🔴 |
-| Finance | **BAC** | $59.50 | -0.28% | Stable 🔴 |
-| Finance | **GS** | $1,045.91 | -0.88% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,034.40 | -0.66% | Stable 🔴 |
-| Precious Metals | **SI=F** | $58.33 | -0.76% | Stable 🔴 |
-| Precious Metals | **GOLD** | $39.07 | +2.71% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: The Energy sector is experiencing significant bullish momentum with strong inflows across all listed tickers, while the Finance sector shows consistent outflows with all major banks declining. Precious Metals are mixed, with physical gold (GOLD) seeing a notable surge against declining gold and silver futures.
-*   **Key Tickers to Watch**: **XOM** ($144.51, +4.05%) demonstrates a strong price surge, indicating robust investor confidence and potential short-term overbought conditions within the energy sector. Conversely, **TSLA** ($394.76, -3.19%) is experiencing a significant price drop, suggesting increasing bearish sentiment or company-specific headwinds.
-*   **Actionable Strategy**: For current Energy holdings, consider a "Take Profit" strategy on partial positions to lock in gains, or "Wait & Watch" for consolidation before adding. For TSLA, "Wait & Watch" is advised for clearer directional signals, while for physical GOLD, consider to "Accumulate" on any pullbacks given its current strength against futures.
-----------------------------------------
-
-### 📊 USA Market Update - 15/07/2026 17:01:57
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $520.68 | -0.49% | Stable 🔴 |
