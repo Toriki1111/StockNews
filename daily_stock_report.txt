@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 21/07/2026 12:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $509.54 | +0.15% | Stable 🟢 |
+| Military | **RTX** | $194.44 | +0.48% | Stable 🟢 |
+| Military | **NOC** | $523.96 | +0.46% | Stable 🟢 |
+| Energy | **XOM** | $148.36 | +0.68% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $189.71 | +1.24% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $115.68 | +0.85% | Stable 🟢 |
+| Tech | **TSLA** | $369.57 | -2.96% | Stable 🔴 |
+| Tech | **AAPL** | $326.59 | -2.14% | Stable 🔴 |
+| Tech | **MSFT** | $402.29 | +2.15% | Stable 🟢 |
+| Tech | **GOOGL** | $351.99 | +1.51% | Stable 🟢 |
+| Finance | **JPM** | $338.87 | -0.65% | Stable 🔴 |
+| Finance | **BAC** | $60.42 | -1.39% | Stable 🔴 |
+| Finance | **GS** | $1,055.03 | -0.96% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,050.60 | +1.00% | Stable 🟢 |
+| Precious Metals | **SI=F** | $58.12 | +2.31% | Stable 🟢 |
+| Precious Metals | **GOLD** | $37.57 | -1.93% | Stable 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 21/07/2026 11:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -986,37 +1011,6 @@ Here's an analysis of the USA market update:
 ----------------------------------------
 
 ### 📊 USA Market Update - 20/07/2026 03:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $508.77 | -0.92% | Stable 🔴 |
-| Military | **RTX** | $193.51 | -0.44% | Stable 🔴 |
-| Military | **NOC** | $521.57 | +0.56% | Stable 🟢 |
-| Energy | **XOM** | $147.36 | +0.97% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $187.38 | +1.91% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $114.71 | +1.66% | Stable 🟢 |
-| Tech | **TSLA** | $380.84 | -2.61% | Stable 🔴 |
-| Tech | **AAPL** | $333.74 | +0.14% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $393.82 | -1.82% | Stable 🔴 |
-| Tech | **GOOGL** | $346.77 | -2.17% | Stable 🔴 |
-| Finance | **JPM** | $341.10 | -0.60% | Stable 🔴 |
-| Finance | **BAC** | $61.27 | -0.36% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,065.22 | -2.76% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,018.80 | +0.83% | Stable 🟢 |
-| Precious Metals | **SI=F** | $56.33 | +0.77% | Stable 🟢 |
-| Precious Metals | **GOLD** | $38.31 | -0.96% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable market report:
-
-1.  **Market Trend**: Money is significantly flowing into the Energy sector, with two major players (XOM, CVX) showing overbought conditions, and into Precious Metals futures. Conversely, there's a broad exit from Technology and Finance stocks, indicated by widespread negative performance.
-2.  **Key Tickers to Watch**: ConocoPhillips (CVX) is a standout, surging +1.91% and marked as "Overbought," signaling potential for a short-term correction. Goldman Sachs (GS) experienced a significant -2.76% drop, warranting close monitoring for continued weakness or a rebound opportunity.
-3.  **Actionable Strategy**: For overbought energy stocks like CVX and XOM, consider taking partial profits to de-risk. In the tech and finance sectors, adopt a "Wait & Watch" approach for stabilization before considering new entries, given the prevalent negative momentum.
-----------------------------------------
-
-### 📊 USA Market Update - 20/07/2026 02:01:17
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $508.77 | -0.92% | Stable 🔴 |
