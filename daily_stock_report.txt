@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 21/07/2026 13:01:26
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $509.54 | +0.15% | Stable 🟢 |
+| Military | **RTX** | $194.44 | +0.48% | Stable 🟢 |
+| Military | **NOC** | $523.96 | +0.46% | Stable 🟢 |
+| Energy | **XOM** | $148.36 | +0.68% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $189.71 | +1.24% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $115.68 | +0.85% | Stable 🟢 |
+| Tech | **TSLA** | $369.57 | -2.96% | Stable 🔴 |
+| Tech | **AAPL** | $326.59 | -2.14% | Stable 🔴 |
+| Tech | **MSFT** | $402.29 | +2.15% | Stable 🟢 |
+| Tech | **GOOGL** | $351.99 | +1.51% | Stable 🟢 |
+| Finance | **JPM** | $338.87 | -0.65% | Stable 🔴 |
+| Finance | **BAC** | $60.42 | -1.39% | Stable 🔴 |
+| Finance | **GS** | $1,055.03 | -0.96% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,068.30 | +1.45% | Stable 🟢 |
+| Precious Metals | **SI=F** | $58.35 | +2.73% | Stable 🟢 |
+| Precious Metals | **GOLD** | $37.57 | -1.93% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 21/07/2026 12:01:31
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1030,3 @@ Here is your market analysis report:
 | Precious Metals | **GC=F** | $4,018.80 | +0.83% | Stable 🟢 |
 | Precious Metals | **SI=F** | $56.33 | +0.77% | Stable 🟢 |
 | Precious Metals | **GOLD** | $38.31 | -0.96% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market update:
-
-1.  **Market Trend**: Capital is rotating strongly into the Energy sector, with XOM and CVX exhibiting overbought conditions amidst significant gains, while Precious Metals also show positive momentum. Conversely, Tech and Finance sectors are experiencing notable outflows, with multiple tickers posting significant losses.
-2.  **Key Tickers to Watch**: **CVX** (Energy) is highly overbought with a substantial +1.91% gain, signaling potential for short-term profit-taking or a looming correction. Meanwhile, **GS** (Finance) saw a sharp -2.76% decline, indicating strong selling pressure that warrants close monitoring for further downside or a potential rebound entry point.
-3.  **Actionable Strategy**: Advise clients to consider taking partial profits on robust Energy sector positions, especially those like CVX showing "Overbought" status, to lock in gains. For Tech and Finance, maintain a "Wait & Watch" approach, as current outflows suggest potential for further declines before considering new accumulation.
-----------------------------------------
-
-### 📊 USA Market Update - 20/07/2026 03:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $508.77 | -0.92% | Stable 🔴 |
-| Military | **RTX** | $193.51 | -0.44% | Stable 🔴 |
-| Military | **NOC** | $521.57 | +0.56% | Stable 🟢 |
-| Energy | **XOM** | $147.36 | +0.97% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $187.38 | +1.91% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $114.71 | +1.66% | Stable 🟢 |
-| Tech | **TSLA** | $380.84 | -2.61% | Stable 🔴 |
-| Tech | **AAPL** | $333.74 | +0.14% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $393.82 | -1.82% | Stable 🔴 |
-| Tech | **GOOGL** | $346.77 | -2.17% | Stable 🔴 |
