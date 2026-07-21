@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 21/07/2026 23:01:25
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $505.14 | -0.86% | Stable 🔴 |
+| Military | **RTX** | $196.38 | +1.00% | Stable 🟢 |
+| Military | **NOC** | $509.73 | -2.72% | Stable 🔴 |
+| Energy | **XOM** | $151.12 | +1.86% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $190.37 | +0.35% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $117.08 | +1.21% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $381.43 | +3.21% | Stable 🟢 |
+| Tech | **AAPL** | $328.77 | +0.67% | Stable 🟢 |
+| Tech | **MSFT** | $398.39 | -0.97% | Stable 🔴 |
+| Tech | **GOOGL** | $349.49 | -0.71% | Stable 🔴 |
+| Finance | **JPM** | $343.78 | +1.45% | Stable 🟢 |
+| Finance | **BAC** | $61.10 | +1.13% | Stable 🟢 |
+| Finance | **GS** | $1,081.11 | +2.47% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,078.80 | +1.71% | Stable 🟢 |
+| Precious Metals | **SI=F** | $59.24 | +4.29% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.20 | +4.34% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+*   **Market Trend**: Capital is flowing significantly into Precious Metals, with strong surges in gold and silver, and the Financial sector is showing robust positive momentum. Conversely, the Energy sector's gains are accompanied by "Overbought" warnings, suggesting potential short-term exhaustion.
+*   **Key Tickers to Watch**: The entire Energy sector (XOM, CVX, COP) is flagged as "Overbought," indicating a heightened risk of a pullback. Simultaneously, Silver futures (SI=F) and physical Gold (GOLD) experienced notable surges of over 4%, demanding attention for either continued momentum or a technical correction.
+*   **Actionable Strategy**: Implement a "Take Profit" or "Wait & Watch" strategy for Energy sector holdings (XOM, CVX, COP) given the overbought signals. For Precious Metals, consider a "Wait & Watch" approach to confirm the sustainability of their strong breakout before initiating new accumulation strategies.
+----------------------------------------
+
 ### 📊 USA Market Update - 21/07/2026 22:01:32
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -986,37 +1017,6 @@ Here is your market update:
 ----------------------------------------
 
 ### 📊 USA Market Update - 20/07/2026 14:01:26
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $508.77 | -0.92% | Stable 🔴 |
-| Military | **RTX** | $193.51 | -0.44% | Stable 🔴 |
-| Military | **NOC** | $521.57 | +0.56% | Stable 🟢 |
-| Energy | **XOM** | $147.36 | +0.97% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $187.38 | +1.91% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $114.71 | +1.66% | Stable 🟢 |
-| Tech | **TSLA** | $380.84 | -2.61% | Stable 🔴 |
-| Tech | **AAPL** | $333.74 | +0.14% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $393.82 | -1.82% | Stable 🔴 |
-| Tech | **GOOGL** | $346.77 | -2.17% | Stable 🔴 |
-| Finance | **JPM** | $341.10 | -0.60% | Stable 🔴 |
-| Finance | **BAC** | $61.27 | -0.36% | ⚠️ Overbought! 🔴 |
-| Finance | **GS** | $1,065.22 | -2.76% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,010.40 | -0.06% | Stable 🔴 |
-| Precious Metals | **SI=F** | $56.83 | +1.41% | Stable 🟢 |
-| Precious Metals | **GOLD** | $38.31 | -0.96% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market report:
-
-*   **Market Trend**: Capital is strongly flowing into the Energy sector, with several tickers marked "Overbought" after significant gains, indicating robust bullish sentiment. Conversely, the Technology and Finance sectors are experiencing notable outflows, highlighted by several tickers showing significant daily declines.
-*   **Key Tickers to Watch**: **CVX** stands out with a substantial +1.91% gain and an "Overbought" signal, suggesting strong upward momentum but caution for potential near-term consolidation. On the bearish side, **GS** shows a significant -2.76% decline, signaling strong selling pressure and potential continued downside.
-*   **Actionable Strategy**: Consider taking partial profits or setting tight stop-losses for current positions in the Overbought Energy sector (e.g., CVX, XOM) to manage risk. For the Technology and Finance sectors, a "Wait & Watch" strategy is advisable to identify potential support levels before considering new long positions.
-----------------------------------------
-
-### 📊 USA Market Update - 20/07/2026 13:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $508.77 | -0.92% | Stable 🔴 |
