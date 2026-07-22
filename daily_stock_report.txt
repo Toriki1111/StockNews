@@ -1,3 +1,32 @@
+### 📊 USA Market Update - 22/07/2026 23:01:25
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $517.29 | +2.01% | Stable 🟢 |
+| Military | **RTX** | $195.26 | +0.82% | Stable 🟢 |
+| Military | **NOC** | $529.48 | +3.36% | Stable 🟢 |
+| Energy | **XOM** | $153.88 | +1.43% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $192.28 | +0.63% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $118.73 | +1.05% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $378.15 | -0.21% | Stable 🔴 |
+| Tech | **AAPL** | $324.73 | -0.92% | Stable 🔴 |
+| Tech | **MSFT** | $389.22 | -2.14% | Stable 🔴 |
+| Tech | **GOOGL** | $347.84 | +0.20% | Stable 🟢 |
+| Finance | **JPM** | $348.49 | +0.94% | Stable 🟢 |
+| Finance | **BAC** | $61.76 | +0.87% | Stable 🟢 |
+| Finance | **GS** | $1,095.53 | +0.92% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,170.00 | +2.43% | Stable 🟢 |
+| Precious Metals | **SI=F** | $60.67 | +3.12% | Stable 🟢 |
+| Precious Metals | **GOLD** | $40.66 | +1.80% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+*   **Market Trend**: Capital is strongly flowing into the Military, Energy, Finance, and Precious Metals sectors, all exhibiting solid positive gains. The Technology sector, however, shows mixed performance with notable outflows from Microsoft.
+*   **Key Tickers to Watch**: Northrop Grumman (**NOC**) leads with a significant +3.36% surge, reflecting strong momentum within the defense industry. The entire Energy sector (XOM, CVX, COP) is flagged as "Overbought," indicating potential for a near-term pullback.
+*   **Actionable Strategy**: Exercise caution and consider partial profit-taking in the "Overbought" Energy sector. For the robust Military and Precious Metals sectors, consider accumulating on any minor dips, while adopting a "Wait & Watch" approach for the Technology sector given its mixed signals.
+----------------------------------------
+
 ### 📊 USA Market Update - 22/07/2026 22:01:24
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -997,35 +1026,4 @@ Here's an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 21/07/2026 14:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $509.54 | +0.15% | Stable 🟢 |
-| Military | **RTX** | $194.44 | +0.48% | Stable 🟢 |
-| Military | **NOC** | $523.96 | +0.46% | Stable 🟢 |
-| Energy | **XOM** | $148.36 | +0.68% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $189.71 | +1.24% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $115.68 | +0.85% | Stable 🟢 |
-| Tech | **TSLA** | $369.57 | -2.96% | Stable 🔴 |
-| Tech | **AAPL** | $326.59 | -2.14% | Stable 🔴 |
-| Tech | **MSFT** | $402.29 | +2.15% | Stable 🟢 |
-| Tech | **GOOGL** | $351.99 | +1.51% | Stable 🟢 |
-| Finance | **JPM** | $338.87 | -0.65% | Stable 🔴 |
-| Finance | **BAC** | $60.42 | -1.39% | Stable 🔴 |
-| Finance | **GS** | $1,055.03 | -0.96% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,084.60 | +1.85% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.13 | +4.11% | Stable 🟢 |
-| Precious Metals | **GOLD** | $37.57 | -1.93% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Money is flowing strongly into the Energy sector, with two major players (XOM, CVX) now flagged as "Overbought," and into Precious Metals futures (GC=F, SI=F) which are seeing significant surges. Conversely, there is a clear exit from the Finance sector across the board, and a mixed but notable dip in some key Tech giants like TSLA and AAPL, even as MSFT and GOOGL show strength.
-2.  **Key Tickers to Watch**: **CVX** is a significant watch due to its +1.24% gain and explicit "Overbought!" status, suggesting a potential short-term pullback or profit-taking opportunity. **SI=F** (Silver Futures) also stands out with an impressive +4.11% surge, indicating strong bullish sentiment in precious metals.
-3.  **Actionable Strategy**: For **XOM** and **CVX**, consider taking partial profits or setting tight trailing stop-losses given their "Overbought" status. For the strongly surging **SI=F** and **GC=F**, a "Wait & Watch" approach is recommended to observe if momentum consolidates before initiating new long positions, while avoiding new entries in the declining Finance sector for now.
-----------------------------------------
-
-### 📊 USA Market Update - 21/07/2026 13:01:26
 
