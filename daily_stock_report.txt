@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 23/07/2026 03:01:17
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $514.50 | +1.46% | Stable 🟢 |
+| Military | **RTX** | $194.78 | +0.57% | Stable 🟢 |
+| Military | **NOC** | $525.20 | +2.52% | Stable 🟢 |
+| Energy | **XOM** | $154.48 | +1.83% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $192.97 | +0.99% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $118.80 | +1.11% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $374.01 | -1.30% | Stable 🔴 |
+| Tech | **AAPL** | $325.89 | -0.56% | Stable 🔴 |
+| Tech | **MSFT** | $390.34 | -1.86% | Stable 🔴 |
+| Tech | **GOOGL** | $342.09 | -1.46% | Stable 🔴 |
+| Finance | **JPM** | $348.36 | +0.91% | Stable 🟢 |
+| Finance | **BAC** | $61.65 | +0.71% | Stable 🟢 |
+| Finance | **GS** | $1,098.20 | +1.16% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,137.90 | +1.64% | Stable 🟢 |
+| Precious Metals | **SI=F** | $60.03 | +2.02% | Stable 🟢 |
+| Precious Metals | **GOLD** | $40.20 | +0.65% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here's a concise, actionable report:
+
+1.  **Market Trend**: Capital is strongly flowing into defensive and commodity-linked sectors including Military, Energy, Finance, and Precious Metals, with all showing positive performance. Conversely, the Technology sector is experiencing a broad sell-off, indicating a clear risk-off sentiment or sector rotation.
+2.  **Key Tickers to Watch**: Energy sector giants **XOM** and **CVX** are flagged as "Overbought," signaling potential for a near-term pullback despite strong gains, warranting close monitoring. Meanwhile, **MSFT** stands out in the Tech sector with the largest percentage drop (-1.86%), indicating significant selling pressure.
+3.  **Actionable Strategy**: For "Overbought" Energy positions, consider taking partial profits or tightening stop-loss orders. For the declining Technology sector, a "Wait & Watch" approach is recommended to assess if current support levels hold or if further downside is expected before considering any new long entries.
+----------------------------------------
+
 ### 📊 USA Market Update - 23/07/2026 02:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,36 +1027,5 @@ Here's an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 21/07/2026 18:01:25
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $509.54 | +0.15% | Stable 🟢 |
-| Military | **RTX** | $194.44 | +0.48% | Stable 🟢 |
-| Military | **NOC** | $523.96 | +0.46% | Stable 🟢 |
-| Energy | **XOM** | $148.36 | +0.68% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $189.71 | +1.24% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $115.68 | +0.85% | Stable 🟢 |
-| Tech | **TSLA** | $369.57 | -2.96% | Stable 🔴 |
-| Tech | **AAPL** | $326.59 | -2.14% | Stable 🔴 |
-| Tech | **MSFT** | $402.29 | +2.15% | Stable 🟢 |
-| Tech | **GOOGL** | $351.99 | +1.51% | Stable 🟢 |
-| Finance | **JPM** | $338.87 | -0.65% | Stable 🔴 |
-| Finance | **BAC** | $60.42 | -1.39% | Stable 🔴 |
-| Finance | **GS** | $1,055.03 | -0.96% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,067.90 | +1.44% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.22 | +4.25% | Stable 🟢 |
-| Precious Metals | **GOLD** | $37.57 | -1.93% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-1.  **Market Trend**: Capital is clearly rotating into the Energy sector, with two major players flagged as overbought, and into Precious Metals futures. Simultaneously, the Finance sector and specific Tech leaders like TSLA and AAPL are experiencing significant outflows.
-2.  **Key Tickers to Watch**: Chevron (CVX) is highlighted as "Overbought!" with a +1.24% gain, signaling potential short-term exhaustion, while Silver futures (SI=F) surged an impressive +4.25%, indicating strong speculative interest.
-3.  **Actionable Strategy**: For overbought Energy positions like CVX, consider initiating partial profit-taking or tightening stop-losses. For SI=F, "Wait & Watch" for potential consolidation before initiating new long positions, while "Accumulate on dips" could be a strategy for underperforming quality Tech/Finance names if long-term fundamentals support it.
-----------------------------------------
-
-### 📊 USA Market Update - 21/07/2026 17:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
