@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 24/07/2026 11:01:23
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $568.59 | +10.54% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $209.16 | +7.33% | ⚠️ Overbought! 🟢 |
+| Military | **NOC** | $533.48 | +1.56% | Stable 🟢 |
+| Energy | **XOM** | $156.89 | +1.58% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $194.42 | +0.75% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $120.20 | +1.19% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $319.69 | -14.52% | ✅ Oversale 🔴 |
+| Tech | **AAPL** | $321.66 | -1.30% | Stable 🔴 |
+| Tech | **MSFT** | $381.58 | -2.24% | Stable 🔴 |
+| Tech | **GOOGL** | $317.69 | -7.13% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $349.90 | +0.49% | Stable 🟢 |
+| Finance | **BAC** | $61.28 | -0.55% | Stable 🔴 |
+| Finance | **GS** | $1,074.72 | -2.14% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,046.60 | -2.42% | Stable 🔴 |
+| Precious Metals | **SI=F** | $57.80 | -3.70% | Stable 🔴 |
+| Precious Metals | **GOLD** | $39.53 | -1.69% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is the market analysis:
+
+1.  **Market Trend**: Capital is strongly flowing into the Military and Energy sectors, with multiple stocks now in "Overbought" territory, signaling aggressive buying. Conversely, the Technology sector is experiencing significant capital outflow, particularly impacting TSLA and GOOGL which are now deeply "Oversale."
+2.  **Key Tickers to Watch**: **LMT** is a prime ticker to watch due to its substantial +10.54% surge and "Overbought" status, suggesting a potential short-term pullback. On the downside, **TSLA**'s -14.52% drop and "Oversale" signal make it a critical ticker for monitoring potential rebound opportunities or further downward pressure.
+3.  **Actionable Strategy**: For current holdings in the Military sector, consider **taking profit** on positions like LMT and RTX given their "Overbought" status. In the Technology sector, **wait and watch** TSLA and GOOGL for signs of capitulation or a confirmed reversal before considering accumulation.
+----------------------------------------
+
 ### 📊 USA Market Update - 24/07/2026 10:01:20
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -997,35 +1028,4 @@ Here's a concise, actionable report:
 1.  **Market Trend**: Capital is strongly flowing into defensive and commodity-linked sectors including Military, Energy, Finance, and Precious Metals, with all showing positive performance. Conversely, the Technology sector is experiencing a broad sell-off, indicating a clear risk-off sentiment or sector rotation.
 2.  **Key Tickers to Watch**: Energy sector giants **XOM** and **CVX** are flagged as "Overbought," signaling potential for a near-term pullback despite strong gains, warranting close monitoring. Meanwhile, **MSFT** stands out in the Tech sector with the largest percentage drop (-1.86%), indicating significant selling pressure.
 3.  **Actionable Strategy**: For "Overbought" Energy positions, consider taking partial profits or tightening stop-loss orders. For the declining Technology sector, a "Wait & Watch" approach is recommended to assess if current support levels hold or if further downside is expected before considering any new long entries.
-----------------------------------------
-
-### 📊 USA Market Update - 23/07/2026 02:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $514.44 | +1.45% | Stable 🟢 |
-| Military | **RTX** | $194.70 | +0.53% | Stable 🟢 |
-| Military | **NOC** | $525.46 | +2.57% | Stable 🟢 |
-| Energy | **XOM** | $154.43 | +1.79% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $193.16 | +1.09% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $119.37 | +1.59% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $375.35 | -0.94% | Stable 🔴 |
-| Tech | **AAPL** | $324.36 | -1.03% | Stable 🔴 |
-| Tech | **MSFT** | $388.96 | -2.21% | Stable 🔴 |
-| Tech | **GOOGL** | $345.79 | -0.39% | Stable 🔴 |
-| Finance | **JPM** | $347.80 | +0.74% | Stable 🟢 |
-| Finance | **BAC** | $61.56 | +0.56% | Stable 🟢 |
-| Finance | **GS** | $1,098.60 | +1.20% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,144.10 | +1.79% | Stable 🟢 |
-| Precious Metals | **SI=F** | $60.24 | +2.40% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.91 | -0.08% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update:
-
-*   **Market Trend**: Capital is actively shifting towards defensive and commodity-linked sectors such as Military, Energy, and Precious Metals (futures), indicating a potential flight to safety or inflation concerns. Conversely, the Technology sector is experiencing a broad pullback.
-*   **Key Tickers to Watch**: The Energy sector, specifically XOM, CVX, and COP, are all flagged as "Overbought," suggesting potential short-term reversals or consolidation after recent strong gains. Meanwhile, Northrop Grumman (NOC) saw a robust +2.57% surge.
-*   **Actionable Strategy**: Consider taking partial profits on existing Energy sector holdings or adopting a "Wait & Watch" approach for new entries due to the "Overbought" indicators. For the tech sector, monitor for stabilization or potential accumulation opportunities on dips for long-term investors.
 ----------------------------------------
