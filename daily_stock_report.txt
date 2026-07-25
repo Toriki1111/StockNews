@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 25/07/2026 10:01:20
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $582.60 | +2.46% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $212.79 | +1.74% | ⚠️ Overbought! 🟢 |
+| Military | **NOC** | $542.24 | +1.64% | Stable 🟢 |
+| Energy | **XOM** | $156.94 | +0.03% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $194.79 | +0.19% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $120.26 | +0.05% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $313.03 | -2.08% | ✅ Oversale 🔴 |
+| Tech | **AAPL** | $333.02 | +3.53% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $381.70 | +0.03% | Stable 🟢 |
+| Tech | **GOOGL** | $319.74 | +0.65% | Stable 🟢 |
+| Finance | **JPM** | $353.21 | +0.95% | Stable 🟢 |
+| Finance | **BAC** | $62.05 | +1.26% | Stable 🟢 |
+| Finance | **GS** | $1,061.23 | -1.26% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,055.70 | +0.22% | Stable 🟢 |
+| Precious Metals | **SI=F** | $58.49 | +1.20% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.35 | -0.46% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market update:
+
+*   **Market Trend**: Money is actively flowing into the Military sector and select Tech (AAPL), evidenced by strong gains and overbought conditions. Meanwhile, the Energy sector shows overbought signals with minor gains, and Tesla (TSLA) is experiencing notable selling pressure.
+*   **Key Tickers to Watch**: **TSLA** is flagged as "Oversale" after a -2.08% drop, potentially presenting a value opportunity. Conversely, **AAPL** saw a significant +3.53% surge but is now "Overbought," suggesting a potential short-term pullback.
+*   **Actionable Strategy**: Exercise caution with "Overbought" military and tech stocks like LMT, RTX, and AAPL, potentially considering "Take Profit" to lock in gains. For TSLA, adopt a "Wait & Watch" strategy to confirm a reversal before contemplating accumulation.
+----------------------------------------
+
 ### 📊 USA Market Update - 25/07/2026 09:01:24
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here is your concise, actionable report:
 | Tech | **AAPL** | $320.38 | -1.69% | Stable 🔴 |
 | Tech | **MSFT** | $380.78 | -2.45% | Stable 🔴 |
 | Tech | **GOOGL** | $319.59 | -6.58% | Stable 🔴 |
-| Finance | **JPM** | $347.23 | -0.28% | Stable 🔴 |
-| Finance | **BAC** | $61.11 | -0.83% | Stable 🔴 |
-| Finance | **GS** | $1,074.58 | -2.15% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,046.00 | -2.43% | Stable 🔴 |
-| Precious Metals | **SI=F** | $57.83 | -3.65% | Stable 🔴 |
-| Precious Metals | **GOLD** | $39.16 | -2.62% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis report:
-
-*   **Market Trend**: Capital is clearly rotating into the Military and Energy sectors, evidenced by significant positive gains and "Overbought" signals, while Tech, Finance, and Precious Metals are experiencing broad declines, indicating a shift away from growth and safe-haven assets.
-*   **Key Tickers to Watch**: TSLA stands out with a severe -14.16% drop and an "Oversale" signal, presenting a potential rebound opportunity or deep value entry for aggressive investors. Conversely, LMT's +9.05% surge and "Overbought" status suggest strong recent demand but caution for new entries.
-*   **Actionable Strategy**: For TSLA, consider strategic accumulation or dollar-cost averaging given the oversold condition, while for LMT and other 'Overbought' Military/Energy stocks, prudent investors should contemplate taking partial profits to lock in gains and manage risk.
-----------------------------------------
-
-### 📊 USA Market Update - 24/07/2026 00:01:25
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $566.48 | +10.13% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $208.77 | +7.13% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $530.89 | +1.07% | Stable 🟢 |
-| Energy | **XOM** | $157.36 | +1.88% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $195.91 | +1.52% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $121.08 | +1.93% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $322.44 | -13.79% | ✅ Oversale 🔴 |
-| Tech | **AAPL** | $320.80 | -1.56% | Stable 🔴 |
-| Tech | **MSFT** | $381.17 | -2.35% | Stable 🔴 |
-| Tech | **GOOGL** | $319.77 | -6.52% | Stable 🔴 |
