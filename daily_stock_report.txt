@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 26/07/2026 11:01:28
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $582.60 | +2.46% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $212.79 | +1.74% | ⚠️ Overbought! 🟢 |
+| Military | **NOC** | $542.24 | +1.64% | Stable 🟢 |
+| Energy | **XOM** | $156.94 | +0.03% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $194.79 | +0.19% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $120.26 | +0.05% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $313.03 | -2.08% | ✅ Oversale 🔴 |
+| Tech | **AAPL** | $333.02 | +3.53% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $381.70 | +0.03% | Stable 🟢 |
+| Tech | **GOOGL** | $319.74 | +0.65% | Stable 🟢 |
+| Finance | **JPM** | $353.21 | +0.95% | Stable 🟢 |
+| Finance | **BAC** | $62.05 | +1.26% | Stable 🟢 |
+| Finance | **GS** | $1,061.23 | -1.26% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,070.80 | +0.60% | Stable 🟢 |
+| Precious Metals | **SI=F** | $58.91 | +1.92% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.35 | -0.46% | Stable 🔴 |
+
+
+*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 26/07/2026 10:01:18
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1023,3 @@ Here's your market analysis:
 | Energy | **COP** | $120.44 | +0.20% | ⚠️ Overbought! 🟢 |
 | Tech | **TSLA** | $309.82 | -3.09% | ✅ Oversale 🔴 |
 | Tech | **AAPL** | $333.15 | +3.57% | Stable 🟢 |
-| Tech | **MSFT** | $384.69 | +0.82% | Stable 🟢 |
-| Tech | **GOOGL** | $319.60 | +0.60% | Stable 🟢 |
-| Finance | **JPM** | $352.08 | +0.62% | Stable 🟢 |
-| Finance | **BAC** | $61.83 | +0.89% | Stable 🟢 |
-| Finance | **GS** | $1,062.24 | -1.16% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,057.50 | +0.27% | Stable 🟢 |
-| Precious Metals | **SI=F** | $58.62 | +1.41% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.42 | -0.28% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's your market report:
-
-1.  **Market Trend**: Capital is strongly flowing into defensive and industrial sectors, with both Military and Energy stocks showing widespread positive gains and several "Overbought" signals. In the Tech sector, while AAPL surged significantly, TSLA experienced a notable -3.09% drop, suggesting divergent performance within the growth segment.
-2.  **Key Tickers to Watch**: Monitor **TSLA** ($309.82, -3.09%), which is currently marked "Oversale" following a significant dip, potentially indicating an attractive entry point for a short-term rebound. Additionally, keep an eye on **LMT** ($581.15, +2.21%), which is "Overbought" after strong gains, signaling potential for profit-taking or a near-term correction.
-3.  **Actionable Strategy**: For "Overbought" military and energy holdings like LMT, RTX, XOM, and CVX, consider initiating take-profit strategies or tightening stop-loss orders to secure recent gains. For TSLA, consider a 'Wait & Watch' approach, monitoring for signs of stabilization or a potential short-term accumulation opportunity.
-----------------------------------------
-
-### 📊 USA Market Update - 25/07/2026 01:01:22
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $579.72 | +1.96% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $212.98 | +1.83% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $539.51 | +1.13% | Stable 🟢 |
-| Energy | **XOM** | $156.54 | -0.23% | ⚠️ Overbought! 🔴 |
-| Energy | **CVX** | $194.65 | +0.12% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $120.12 | -0.06% | ⚠️ Overbought! 🔴 |
-| Tech | **TSLA** | $309.44 | -3.21% | ✅ Oversale 🔴 |
-| Tech | **AAPL** | $332.73 | +3.44% | Stable 🟢 |
