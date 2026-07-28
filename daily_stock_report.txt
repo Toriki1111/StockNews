@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 28/07/2026 21:01:24
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $592.23 | +2.11% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $220.37 | +0.89% | ⚠️ Overbought! 🟢 |
+| Military | **NOC** | $564.98 | +3.18% | ⚠️ Overbought! 🟢 |
+| Energy | **XOM** | $155.60 | +0.54% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $191.60 | +0.84% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $116.97 | +1.20% | Stable 🟢 |
+| Tech | **TSLA** | $304.51 | -1.52% | ✅ Oversale 🔴 |
+| Tech | **AAPL** | $337.80 | +0.26% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $392.77 | +0.94% | Stable 🟢 |
+| Tech | **GOOGL** | $326.29 | -0.08% | Stable 🔴 |
+| Finance | **JPM** | $355.71 | -0.14% | ⚠️ Overbought! 🔴 |
+| Finance | **BAC** | $62.40 | +0.43% | Stable 🟢 |
+| Finance | **GS** | $1,026.03 | -2.12% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,025.90 | -1.19% | Stable 🔴 |
+| Precious Metals | **SI=F** | $57.01 | -2.51% | Stable 🔴 |
+| Precious Metals | **GOLD** | $40.82 | -0.71% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market update:
+
+*   **Market Trend**: Capital is primarily flowing into defensive sectors, with Military and Energy stocks showing significant positive momentum and multiple "Overbought" signals. Conversely, Precious Metals are experiencing a clear outflow, indicated by across-the-board negative performance.
+*   **Key Tickers to Watch**: Keep a close watch on **TSLA**, which is trading significantly lower and flagged as "Oversale", suggesting a potential buying opportunity or technical rebound. Also, monitor **NOC**, leading the robust Military sector with a strong +3.18% gain, now in an "Overbought" condition which may precede a pullback.
+*   **Actionable Strategy**: Consider accumulating TSLA given its technical oversold status for a potential short-term bounce or long-term value entry. For positions in overbought military and energy assets, it would be prudent to take partial profits or tighten stop-loss orders to protect gains.
+----------------------------------------
+
 ### 📊 USA Market Update - 28/07/2026 20:01:22
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is your market update:
 | Military | **LMT** | $582.60 | +2.46% | ⚠️ Overbought! 🟢 |
 | Military | **RTX** | $212.79 | +1.74% | ⚠️ Overbought! 🟢 |
 | Military | **NOC** | $542.24 | +1.64% | Stable 🟢 |
-| Energy | **XOM** | $156.94 | +0.03% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $194.79 | +0.19% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $120.26 | +0.05% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $313.03 | -2.08% | ✅ Oversale 🔴 |
-| Tech | **AAPL** | $333.02 | +3.53% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $381.70 | +0.03% | Stable 🟢 |
-| Tech | **GOOGL** | $319.74 | +0.65% | Stable 🟢 |
-| Finance | **JPM** | $353.21 | +0.95% | Stable 🟢 |
-| Finance | **BAC** | $62.05 | +1.26% | Stable 🟢 |
-| Finance | **GS** | $1,061.23 | -1.26% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,091.30 | +0.58% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.54 | +1.52% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.35 | -0.46% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market report:
-
-1.  **Market Trend**: Capital is clearly flowing into the Military and Energy sectors, indicated by multiple stocks being "Overbought" after modest to significant gains. Conversely, Tech shows selective interest, with strong upward momentum in AAPL contrasted by a notable decline and "Oversale" signal in TSLA.
-
-2.  **Key Tickers to Watch**: TSLA (Tesla) is a primary ticker to watch due to its -2.08% drop and "Oversale" status, potentially signaling a short-term bottom or further downward pressure. Additionally, LMT (Lockheed Martin) stands out with a +2.46% surge and an "Overbought" alert, indicating strong momentum but also potential for a pullback.
-
-3.  **Actionable Strategy**: For "Oversale" TSLA, consider a "Wait & Watch" approach for confirmation of a rebound or further accumulation on a tactical dip. For "Overbought" Military and Energy holdings, initiating partial "Take Profit" strategies or tightening "Stop Loss" orders is prudent to protect gains.
-----------------------------------------
-
-### 📊 USA Market Update - 27/07/2026 11:01:19
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $582.60 | +2.46% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $212.79 | +1.74% | ⚠️ Overbought! 🟢 |
