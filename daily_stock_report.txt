@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 28/07/2026 12:01:23
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $580.00 | -0.45% | ⚠️ Overbought! 🔴 |
+| Military | **RTX** | $218.42 | +2.65% | ⚠️ Overbought! 🟢 |
+| Military | **NOC** | $547.58 | +0.98% | Stable 🟢 |
+| Energy | **XOM** | $154.77 | -1.38% | ⚠️ Overbought! 🔴 |
+| Energy | **CVX** | $190.00 | -2.46% | ⚠️ Overbought! 🔴 |
+| Energy | **COP** | $115.58 | -3.89% | Stable 🔴 |
+| Tech | **TSLA** | $309.22 | -1.22% | ✅ Oversale 🔴 |
+| Tech | **AAPL** | $336.91 | +1.17% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $389.10 | +1.94% | Stable 🟢 |
+| Tech | **GOOGL** | $326.56 | +2.13% | Stable 🟢 |
+| Finance | **JPM** | $356.20 | +0.85% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $62.13 | +0.13% | Stable 🟢 |
+| Finance | **GS** | $1,048.23 | -1.22% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,044.50 | -0.74% | Stable 🔴 |
+| Precious Metals | **SI=F** | $57.44 | -1.76% | Stable 🔴 |
+| Precious Metals | **GOLD** | $41.11 | +4.47% | Stable 🟢 |
+
+
+*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 28/07/2026 11:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,36 +1021,5 @@ Here is your market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 27/07/2026 03:01:24
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $582.60 | +2.46% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $212.79 | +1.74% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $542.24 | +1.64% | Stable 🟢 |
-| Energy | **XOM** | $156.94 | +0.03% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $194.79 | +0.19% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $120.26 | +0.05% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $313.03 | -2.08% | ✅ Oversale 🔴 |
-| Tech | **AAPL** | $333.02 | +3.53% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $381.70 | +0.03% | Stable 🟢 |
-| Tech | **GOOGL** | $319.74 | +0.65% | Stable 🟢 |
-| Finance | **JPM** | $353.21 | +0.95% | Stable 🟢 |
-| Finance | **BAC** | $62.05 | +1.26% | Stable 🟢 |
-| Finance | **GS** | $1,061.23 | -1.26% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,070.80 | +0.60% | Stable 🟢 |
-| Precious Metals | **SI=F** | $58.91 | +1.92% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.35 | -0.46% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Money is actively flowing into the Military and Energy sectors, with most constituents signaling 'Overbought,' indicating strong positive momentum. The Technology sector shows divergence, with significant buying in Apple contrasting with a clear sell-off in Tesla.
-2.  **Key Tickers to Watch**: **TSLA** (-2.08%, ✅ Oversale) stands out as a potential bounce-back candidate after a distinct technical overselling signal. Conversely, **AAPL** (+3.53%, ⚠️ Overbought!) has seen a significant surge, but its overbought status flags it for potential profit-taking or consolidation.
-3.  **Actionable Strategy**: Consider accumulating **TSLA** shares on its oversold dip, anticipating a short-term rebound. For **AAPL**, it is advisable to "Take Profit" on existing positions or "Wait & Watch" for a healthier entry point after its strong, overbought run.
-----------------------------------------
-
-### 📊 USA Market Update - 27/07/2026 02:01:20
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
