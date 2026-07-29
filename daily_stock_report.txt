@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 29/07/2026 09:01:20
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $581.31 | +0.23% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $218.58 | +0.07% | ⚠️ Overbought! 🟢 |
+| Military | **NOC** | $549.22 | +0.30% | Stable 🟢 |
+| Energy | **XOM** | $153.04 | -1.12% | ⚠️ Overbought! 🔴 |
+| Energy | **CVX** | $187.58 | -1.27% | Stable 🔴 |
+| Energy | **COP** | $114.10 | -1.28% | Stable 🔴 |
+| Tech | **TSLA** | $307.44 | -0.58% | ✅ Oversale 🔴 |
+| Tech | **AAPL** | $340.08 | +0.94% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $393.35 | +1.09% | Stable 🟢 |
+| Tech | **GOOGL** | $333.71 | +2.19% | Stable 🟢 |
+| Finance | **JPM** | $357.31 | +0.31% | ⚠️ Overbought! 🟢 |
+| Finance | **BAC** | $62.62 | +0.79% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,033.34 | -1.42% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,022.00 | -1.29% | Stable 🔴 |
+| Precious Metals | **SI=F** | $57.51 | -1.64% | Stable 🔴 |
+| Precious Metals | **GOLD** | $40.80 | -0.75% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+1.  **Market Trend**: Capital is actively shifting, flowing into specific Tech (e.g., GOOGL, MSFT), Military, and Finance names, many of which are showing overbought conditions. Conversely, Energy and Precious Metals sectors are experiencing significant outflows, indicating a clear risk-off sentiment in these areas.
+2.  **Key Tickers to Watch**: **TSLA** stands out as significantly oversold, potentially presenting a tactical entry point for a short-term rebound. Meanwhile, **GOOGL** exhibits strong upward momentum (+2.19%) while remaining stable, suggesting sustained positive sentiment.
+3.  **Actionable Strategy**: Consider accumulating positions in fundamentally strong names like **TSLA** if current oversold conditions align with your long-term outlook. For overbought assets in Military and Finance sectors (LMT, RTX, JPM, BAC), prudently take profit or set tight stop-loss orders. Avoid new entries in Energy and Precious Metals until a clear trend reversal is established.
+----------------------------------------
+
 ### 📊 USA Market Update - 29/07/2026 08:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,36 +1027,5 @@ Here is your concise market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 28/07/2026 00:01:30
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $581.49 | -0.19% | ⚠️ Overbought! 🔴 |
-| Military | **RTX** | $218.69 | +2.77% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $548.89 | +1.23% | Stable 🟢 |
-| Energy | **XOM** | $154.45 | -1.59% | ⚠️ Overbought! 🔴 |
-| Energy | **CVX** | $191.38 | -1.75% | ⚠️ Overbought! 🔴 |
-| Energy | **COP** | $117.13 | -2.60% | Stable 🔴 |
-| Tech | **TSLA** | $307.52 | -1.76% | ✅ Oversale 🔴 |
-| Tech | **AAPL** | $336.66 | +1.09% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $391.28 | +2.51% | Stable 🟢 |
-| Tech | **GOOGL** | $326.30 | +2.05% | Stable 🟢 |
-| Finance | **JPM** | $353.69 | +0.14% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $62.09 | +0.06% | Stable 🟢 |
-| Finance | **GS** | $1,042.29 | -1.78% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,085.20 | +0.43% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.01 | +0.59% | Stable 🟢 |
-| Precious Metals | **GOLD** | $40.27 | +2.34% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Capital appears to be flowing into **Precious Metals**, which are broadly gaining, indicating a defensive or inflation-hedge sentiment. The **Energy** sector is experiencing significant outflows with declines across the board, despite earlier overbought signals.
-*   **Key Tickers to Watch**: **TSLA** (Tech) is flagged as "Oversale" with a -1.76% drop, presenting a potential buying opportunity. Conversely, **RTX** (Military) shows strong momentum with a +2.77% gain but is marked "Overbought," signaling caution or potential profit-taking.
-*   **Actionable Strategy**: Consider accumulating positions in **TSLA** given its "Oversale" status. For **RTX**, clients should monitor closely for reversal signals and consider taking profits due to its "Overbought" condition and recent surge.
-----------------------------------------
-
-### 📊 USA Market Update - 27/07/2026 23:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
