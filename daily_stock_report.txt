@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 30/07/2026 23:01:21
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $561.13 | -1.42% | Stable 🔴 |
+| Military | **RTX** | $210.84 | -2.05% | Stable 🔴 |
+| Military | **NOC** | $526.63 | -1.57% | Stable 🔴 |
+| Energy | **XOM** | $155.35 | -0.89% | ⚠️ Overbought! 🔴 |
+| Energy | **CVX** | $190.45 | -0.74% | Stable 🔴 |
+| Energy | **COP** | $117.25 | -0.68% | Stable 🔴 |
+| Tech | **TSLA** | $305.68 | +2.47% | ✅ Oversale 🟢 |
+| Tech | **AAPL** | $331.60 | -1.95% | Stable 🔴 |
+| Tech | **MSFT** | $451.29 | +15.56% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $333.09 | -1.08% | Stable 🔴 |
+| Finance | **JPM** | $349.35 | +1.35% | Stable 🟢 |
+| Finance | **BAC** | $61.51 | +0.71% | Stable 🟢 |
+| Finance | **GS** | $1,012.43 | +3.23% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,166.00 | +3.25% | Stable 🟢 |
+| Precious Metals | **SI=F** | $58.79 | +1.60% | Stable 🟢 |
+| Precious Metals | **GOLD** | $41.29 | +2.84% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis for 30/07/2026:
+
+*   **Market Trend**: Capital is decisively rotating into the Finance and Precious Metals sectors, both exhibiting strong across-the-board gains. Conversely, the Military and Energy sectors are experiencing broad outflows, while Tech shows mixed performance with selective strong upward momentum for specific tickers.
+*   **Key Tickers to Watch**: Microsoft (MSFT) is a primary watch, having surged an impressive +15.56% into "Overbought" territory, signaling potential for a near-term correction or profit-taking. Tesla (TSLA) also stands out with a +2.47% gain on an "Oversale" signal, suggesting a potential rebound from undervalued levels.
+*   **Actionable Strategy**: For MSFT, consider taking partial profits or setting a tight trailing stop-loss to secure recent significant gains given its "Overbought" status. For TSLA, a cautious "Accumulate" strategy on any minor pullbacks could be advisable, aiming to capitalize on its "Oversale" signal coupled with positive price action.
+----------------------------------------
+
 ### 📊 USA Market Update - 30/07/2026 22:01:24
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here's your market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 29/07/2026 14:01:26
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $580.00 | -0.45% | ⚠️ Overbought! 🔴 |
-| Military | **RTX** | $218.42 | +2.65% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $547.58 | +2.64% | Stable 🟢 |
-| Energy | **XOM** | $154.77 | -1.38% | ⚠️ Overbought! 🔴 |
-| Energy | **CVX** | $190.00 | -2.46% | ⚠️ Overbought! 🔴 |
-| Energy | **COP** | $115.58 | -3.89% | Stable 🔴 |
-| Tech | **TSLA** | $309.22 | -1.22% | ✅ Oversale 🔴 |
-| Tech | **AAPL** | $336.91 | +1.17% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $389.10 | +1.94% | Stable 🟢 |
-| Tech | **GOOGL** | $326.56 | +2.13% | Stable 🟢 |
-| Finance | **JPM** | $356.20 | +0.85% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $62.13 | +0.13% | Stable 🟢 |
-| Finance | **GS** | $1,048.23 | -2.46% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,040.10 | +0.09% | Stable 🟢 |
-| Precious Metals | **SI=F** | $58.28 | +1.72% | Stable 🟢 |
-| Precious Metals | **GOLD** | $41.11 | +4.00% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market report:
-
-1.  **Market Trend**: Money is defensively rotating into Precious Metals and selectively flowing into robust Tech names (AAPL, MSFT, GOOGL) and specific Military contractors (RTX, NOC). Conversely, there's a clear outflow from the Energy sector, with notable declines across the board.
-2.  **Key Tickers to Watch**: **TSLA** is currently oversold, presenting a potential bounce opportunity or entry point for long-term investors. **RTX** exhibits strong positive momentum but its "Overbought" status suggests caution, possibly indicating a need for consolidation or profit-taking.
-3.  **Actionable Strategy**: Consider accumulating **TSLA** given its oversold signal for a potential short-term rebound or long-term entry. For overbought assets like **RTX** and **JPM**, it's prudent to take partial profits or tighten stop-loss orders, while maintaining a "Wait & Watch" stance on the underperforming Energy sector.
-----------------------------------------
-
-### 📊 USA Market Update - 29/07/2026 13:01:34
