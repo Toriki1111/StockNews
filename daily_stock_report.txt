@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 30/07/2026 15:01:35
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $569.20 | -2.08% | Stable 🔴 |
+| Military | **RTX** | $215.25 | -1.52% | ⚠️ Overbought! 🔴 |
+| Military | **NOC** | $535.05 | -2.58% | Stable 🔴 |
+| Energy | **XOM** | $156.75 | +2.42% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $191.86 | +2.28% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $118.06 | +3.47% | Stable 🟢 |
+| Tech | **TSLA** | $298.32 | -2.97% | ✅ Oversale 🔴 |
+| Tech | **AAPL** | $338.19 | -0.56% | ⚠️ Overbought! 🔴 |
+| Tech | **MSFT** | $390.54 | -0.71% | Stable 🔴 |
+| Tech | **GOOGL** | $336.71 | +0.90% | Stable 🟢 |
+| Finance | **JPM** | $344.71 | -3.53% | Stable 🔴 |
+| Finance | **BAC** | $61.07 | -2.48% | Stable 🔴 |
+| Finance | **GS** | $980.75 | -5.09% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,101.30 | +1.65% | Stable 🟢 |
+| Precious Metals | **SI=F** | $57.38 | -0.83% | Stable 🔴 |
+| Precious Metals | **GOLD** | $40.15 | -1.59% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+1.  **Market Trend**: Money is aggressively flowing into the Energy sector, with all three major tickers showing significant gains and two becoming overbought, while there's a clear outflow from the Military and Finance sectors, both experiencing broad declines. Tech shows mixed signals, with some significant selling and some buying.
+2.  **Key Tickers to Watch**: Tesla (TSLA) is notable as "Oversold" with a nearly 3% drop, potentially signaling a short-term buying opportunity; conversely, ExxonMobil (XOM) and Chevron (CVX) are "Overbought" after strong gains, indicating potential for a pullback.
+3.  **Actionable Strategy**: Consider initiating a small accumulation strategy on TSLA for a potential rebound in the upcoming session. For XOM and CVX, prudent investors should consider taking partial profits or setting tight stop-loss orders to protect gains due to their overbought status.
+----------------------------------------
+
 ### 📊 USA Market Update - 30/07/2026 14:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is a concise, actionable report:
 *   **Actionable Strategy**: Consider accumulating TSLA given its oversold signal for a potential bounce. For GOOGL, maintain or incrementally add to positions while setting trailing stop-losses for other "Overbought" positions like LMT and AAPL to protect gains.
 ----------------------------------------
 
-### 📊 USA Market Update - 29/07/2026 06:01:19
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $581.31 | +0.23% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $218.58 | +0.07% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $549.22 | +0.30% | Stable 🟢 |
-| Energy | **XOM** | $153.04 | -1.12% | ⚠️ Overbought! 🔴 |
-| Energy | **CVX** | $187.58 | -1.27% | Stable 🔴 |
-| Energy | **COP** | $114.10 | -1.28% | Stable 🔴 |
-| Tech | **TSLA** | $307.44 | -0.58% | ✅ Oversale 🔴 |
-| Tech | **AAPL** | $340.08 | +0.94% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $393.35 | +1.09% | Stable 🟢 |
-| Tech | **GOOGL** | $333.71 | +2.19% | Stable 🟢 |
-| Finance | **JPM** | $357.31 | +0.31% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $62.62 | +0.79% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,033.34 | -1.42% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,015.80 | -1.44% | Stable 🔴 |
-| Precious Metals | **SI=F** | $57.15 | -2.26% | Stable 🔴 |
-| Precious Metals | **GOLD** | $40.80 | -0.75% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market report:
-
-*   **Market Trend**: Capital is primarily flowing into the Technology and Finance sectors, evident from their strong positive momentum and several overbought indicators. Conversely, Energy and Precious Metals are experiencing a notable outflow of funds, reflected in widespread negative price changes.
-*   **Key Tickers to Watch**: **TSLA** stands out as oversold, potentially indicating a short-term buying opportunity after its recent dip. Additionally, **GOOGL** shows strong bullish momentum with a significant +2.19% gain while remaining stable, suggesting continued upward potential.
-*   **Actionable Strategy**: Consider accumulating **TSLA** on its oversold signal for a potential bounce. For overbought assets in Finance (JPM, BAC) and Tech (AAPL), implement trailing stop-losses or consider taking partial profits to secure gains and manage risk.
-----------------------------------------
-
-### 📊 USA Market Update - 29/07/2026 05:01:31
