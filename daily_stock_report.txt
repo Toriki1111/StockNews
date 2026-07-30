@@ -1,3 +1,32 @@
+### 📊 USA Market Update - 30/07/2026 21:01:34
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $561.49 | -1.35% | Stable 🔴 |
+| Military | **RTX** | $211.30 | -1.84% | Stable 🔴 |
+| Military | **NOC** | $526.09 | -1.68% | Stable 🔴 |
+| Energy | **XOM** | $155.27 | -0.94% | ⚠️ Overbought! 🔴 |
+| Energy | **CVX** | $190.46 | -0.73% | Stable 🔴 |
+| Energy | **COP** | $117.04 | -0.86% | Stable 🔴 |
+| Tech | **TSLA** | $307.05 | +2.93% | ✅ Oversale 🟢 |
+| Tech | **AAPL** | $331.63 | -1.94% | Stable 🔴 |
+| Tech | **MSFT** | $450.82 | +15.44% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $332.35 | -1.29% | Stable 🔴 |
+| Finance | **JPM** | $347.13 | +0.70% | Stable 🟢 |
+| Finance | **BAC** | $61.46 | +0.63% | Stable 🟢 |
+| Finance | **GS** | $1,012.69 | +3.26% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,158.00 | +3.06% | Stable 🟢 |
+| Precious Metals | **SI=F** | $58.49 | +1.09% | Stable 🟢 |
+| Precious Metals | **GOLD** | $40.94 | +1.97% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+*   **Market Trend**: Capital is actively flowing into the Finance and Precious Metals sectors, indicating bullish sentiment, while significant outflows are observed from Military and Energy stocks. The Tech sector presents a mixed picture with selective strong gains amidst broader weakness.
+*   **Key Tickers to Watch**: Monitor **MSFT** due to an extreme +15.44% surge and "Overbought" status, signaling potential for a near-term pullback. Conversely, **TSLA** at +2.93% and "Oversale" suggests a potential rebound or accumulation opportunity after previous weakness.
+*   **Actionable Strategy**: For MSFT, consider taking partial profits or setting a trailing stop-loss to protect recent gains. For TSLA, a "Wait & Watch" approach for confirmation of a sustained rebound before considering accumulation.
+----------------------------------------
+
 ### 📊 USA Market Update - 30/07/2026 20:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -997,35 +1026,4 @@ Here is your market update:
 1.  **Market Trend**: Capital is primarily flowing into the Technology and Financial sectors, showing strong positive momentum and several overbought indicators. Conversely, the Energy sector is experiencing a notable outflow, with all tickers showing negative performance.
 2.  **Key Tickers to Watch**: TSLA stands out as oversold after a -0.58% dip, potentially offering a rebound opportunity. Concurrently, AAPL shows strong positive momentum (+0.94%) but is flagged as overbought, warranting cautious monitoring for a potential pullback.
 3.  **Actionable Strategy**: Consider accumulating TSLA given its oversold status for a potential short-term bounce. For overbought assets like AAPL, JPM, and BAC, implement trailing stop-losses or consider taking partial profits to mitigate risk.
-----------------------------------------
-
-### 📊 USA Market Update - 29/07/2026 12:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $581.31 | +0.23% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $218.58 | +0.07% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $549.22 | +0.30% | Stable 🟢 |
-| Energy | **XOM** | $153.04 | -1.12% | ⚠️ Overbought! 🔴 |
-| Energy | **CVX** | $187.58 | -1.27% | Stable 🔴 |
-| Energy | **COP** | $114.10 | -1.28% | Stable 🔴 |
-| Tech | **TSLA** | $307.44 | -0.58% | ✅ Oversale 🔴 |
-| Tech | **AAPL** | $340.08 | +0.94% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $393.35 | +1.09% | Stable 🟢 |
-| Tech | **GOOGL** | $333.71 | +2.19% | Stable 🟢 |
-| Finance | **JPM** | $357.31 | +0.31% | ⚠️ Overbought! 🟢 |
-| Finance | **BAC** | $62.62 | +0.79% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,033.34 | -1.42% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,024.20 | -0.30% | Stable 🔴 |
-| Precious Metals | **SI=F** | $57.63 | +0.59% | Stable 🟢 |
-| Precious Metals | **GOLD** | $40.80 | -0.75% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Money is actively flowing into the Technology sector, particularly in growth stocks like GOOGL and MSFT, and showing continued strength in Financial and Military sectors despite some overbought conditions. Conversely, the Energy sector is experiencing a broad pullback with all major tickers declining.
-2.  **Key Tickers to Watch**: Tesla (TSLA) stands out as oversold, presenting a potential "buy-the-dip" opportunity if fundamental outlook remains strong. Meanwhile, Google (GOOGL) shows robust positive momentum (+2.19%) while remaining in a stable technical status, indicating strong underlying demand.
-3.  **Actionable Strategy**: Consider accumulating positions in oversold Tech stocks like TSLA, while monitoring GOOGL for continued upward trajectory. For positions in overbought sectors like Military and Finance, assess partial profit-taking to de-risk.
 ----------------------------------------
