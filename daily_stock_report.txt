@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 31/07/2026 17:01:24
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $574.11 | +0.86% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $214.38 | -0.40% | ⚠️ Overbought! 🔴 |
+| Military | **NOC** | $534.85 | -0.04% | Stable 🔴 |
+| Energy | **XOM** | $156.97 | +0.14% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $192.31 | +0.23% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $119.03 | +0.82% | Stable 🟢 |
+| Tech | **TSLA** | $308.85 | +3.53% | ✅ Oversale 🟢 |
+| Tech | **AAPL** | $333.43 | -1.41% | Stable 🔴 |
+| Tech | **MSFT** | $451.10 | +15.51% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $333.66 | -0.91% | Stable 🔴 |
+| Finance | **JPM** | $350.85 | +1.78% | Stable 🟢 |
+| Finance | **BAC** | $61.73 | +1.08% | Stable 🟢 |
+| Finance | **GS** | $1,024.86 | +4.50% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,112.80 | +0.31% | Stable 🟢 |
+| Precious Metals | **SI=F** | $58.26 | -0.95% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.08 | +4.81% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise, actionable report:
+
+1.  **Market Trend**: Money is heavily flowing into the Technology sector, highlighted by MSFT's massive surge, and also showing strong performance in Financials. Conversely, several Military and Energy stocks are exhibiting overbought conditions, suggesting potential consolidation or profit-taking in those areas.
+2.  **Key Tickers to Watch**: Focus on MSFT, which saw an exceptional +15.51% gain but is now flagged as "Overbought," indicating potential for a short-term pullback. Additionally, TSLA's +3.53% move with an "✅ Oversale" status suggests it might be attracting buyers after a previous dip, signaling a potential rebound or continued upward momentum.
+3.  **Actionable Strategy**: For significantly overbought assets like MSFT, LMT, XOM, and CVX, consider **Taking Profit** or placing tighter stop-loss orders to protect gains. Conversely, TSLA, despite its daily rise, could be a candidate for **Accumulation** given its "Oversale" status, hinting at a potential entry point for long-term investors.
+----------------------------------------
+
 ### 📊 USA Market Update - 31/07/2026 16:01:27
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here is your market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 30/07/2026 08:01:33
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $569.20 | -2.08% | Stable 🔴 |
-| Military | **RTX** | $215.25 | -1.52% | ⚠️ Overbought! 🔴 |
-| Military | **NOC** | $535.05 | -2.58% | Stable 🔴 |
-| Energy | **XOM** | $156.75 | +2.42% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $191.86 | +2.28% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $118.06 | +3.47% | Stable 🟢 |
-| Tech | **TSLA** | $298.32 | -2.97% | ✅ Oversale 🔴 |
-| Tech | **AAPL** | $338.19 | -0.56% | ⚠️ Overbought! 🔴 |
-| Tech | **MSFT** | $390.54 | -0.71% | Stable 🔴 |
-| Tech | **GOOGL** | $336.71 | +0.90% | Stable 🟢 |
-| Finance | **JPM** | $344.71 | -3.53% | Stable 🔴 |
-| Finance | **BAC** | $61.07 | -2.48% | Stable 🔴 |
-| Finance | **GS** | $980.75 | -5.09% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,123.50 | +2.16% | Stable 🟢 |
-| Precious Metals | **SI=F** | $58.13 | +1.46% | Stable 🟢 |
-| Precious Metals | **GOLD** | $40.15 | -1.59% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update:
-
-*   **Market Trend**: Capital is notably flowing out of the Finance and Military sectors, indicated by widespread declines. Conversely, the Energy sector is experiencing strong inflows and upward momentum, with precious metals also attracting capital as a potential safe haven.
-*   **Key Tickers to Watch**: Tesla (TSLA) stands out as "Oversale" after a nearly 3% drop, potentially signaling a short-term buying opportunity. In contrast, ExxonMobil (XOM) and Chevron (CVX) are flagged as "Overbought!" despite their gains, suggesting they may be due for a pullback.
-*   **Actionable Strategy**: Consider tactically accumulating TSLA given its oversold status. For existing positions in XOM or CVX, it would be prudent to take partial profits or place tight stop-loss orders due to their overbought technical signals.
-----------------------------------------
-
-### 📊 USA Market Update - 30/07/2026 07:01:38
