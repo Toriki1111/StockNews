@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 06/08/2026 11:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $586.29 | +0.61% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $222.31 | +2.01% | ⚠️ Overbought! 🟢 |
+| Military | **NOC** | $548.47 | +1.10% | Stable 🟢 |
+| Energy | **XOM** | $151.63 | -1.51% | Stable 🔴 |
+| Energy | **CVX** | $193.18 | -1.85% | Stable 🔴 |
+| Energy | **COP** | $119.16 | -1.10% | Stable 🔴 |
+| Tech | **TSLA** | $322.08 | +3.49% | ✅ Oversale 🟢 |
+| Tech | **AAPL** | $311.00 | +0.52% | Stable 🟢 |
+| Tech | **MSFT** | $487.65 | +4.93% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $373.51 | +4.88% | Stable 🟢 |
+| Finance | **JPM** | $359.24 | +0.48% | Stable 🟢 |
+| Finance | **BAC** | $63.25 | +0.56% | Stable 🟢 |
+| Finance | **GS** | $1,027.06 | +0.85% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,033.70 | -0.38% | Stable 🔴 |
+| Precious Metals | **SI=F** | $57.67 | +0.13% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.33 | +1.50% | Stable 🟢 |
+
+
+*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 06/08/2026 10:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1023,3 @@ Here is your market analysis report:
 | Tech | **GOOGL** | $379.74 | +1.67% | Stable 🟢 |
 | Finance | **JPM** | $359.43 | +1.93% | Stable 🟢 |
 | Finance | **BAC** | $63.23 | +1.20% | Stable 🟢 |
-| Finance | **GS** | $1,060.36 | +3.24% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,137.00 | +2.56% | Stable 🟢 |
-| Precious Metals | **SI=F** | $59.91 | +3.89% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.49 | +3.22% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis report:
-
-*   **Market Trend**: Money is strongly flowing into Precious Metals, Finance, and Technology sectors, driven by significant gains across multiple tickers. Conversely, the Energy sector is experiencing outflows, with all major constituents showing negative performance.
-*   **Key Tickers to Watch**: **MSFT** and **LMT** are flagged as "Overbought" after strong gains, indicating potential short-term pullback risks despite positive momentum. **SI=F** stands out with a significant +3.89% surge, highlighting a strong appetite for silver.
-*   **Actionable Strategy**: For positions in "Overbought" tickers like MSFT, LMT, and RTX, consider taking partial profits or tightening stop-loss orders. Accumulate Precious Metals like SI=F on any significant pullbacks, but for Energy stocks, maintain a "Wait & Watch" stance until clearer directional trends emerge.
-----------------------------------------
-
-### 📊 USA Market Update - 05/08/2026 01:01:41
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $590.77 | +0.76% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $218.16 | +0.70% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $553.55 | +0.93% | Stable 🟢 |
-| Energy | **XOM** | $154.71 | -0.23% | Stable 🔴 |
-| Energy | **CVX** | $191.21 | -1.02% | Stable 🔴 |
-| Energy | **COP** | $118.39 | -0.65% | Stable 🔴 |
-| Tech | **TSLA** | $325.11 | +0.94% | Stable 🟢 |
-| Tech | **AAPL** | $309.48 | +2.00% | Stable 🟢 |
-| Tech | **MSFT** | $495.95 | +1.70% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $378.55 | +1.35% | Stable 🟢 |
-| Finance | **JPM** | $359.45 | +1.93% | Stable 🟢 |
-| Finance | **BAC** | $63.17 | +1.10% | Stable 🟢 |
