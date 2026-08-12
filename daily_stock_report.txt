@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 12/08/2026 17:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $597.77 | -0.89% | ⚠️ Overbought! 🔴 |
+| Military | **RTX** | $223.86 | -0.12% | ⚠️ Overbought! 🔴 |
+| Military | **NOC** | $575.69 | -0.38% | ⚠️ Overbought! 🔴 |
+| Energy | **XOM** | $159.80 | +0.01% | Stable 🟢 |
+| Energy | **CVX** | $196.66 | +0.90% | Stable 🟢 |
+| Energy | **COP** | $125.92 | +2.35% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $332.81 | +0.58% | Stable 🟢 |
+| Tech | **AAPL** | $304.91 | -1.09% | Stable 🔴 |
+| Tech | **MSFT** | $503.81 | -0.44% | ⚠️ Overbought! 🔴 |
+| Tech | **GOOGL** | $343.80 | -3.84% | Stable 🔴 |
+| Finance | **JPM** | $362.04 | +0.63% | Stable 🟢 |
+| Finance | **BAC** | $64.00 | +0.22% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,034.41 | -0.01% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,473.40 | +2.06% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $66.60 | +2.82% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $43.44 | -0.07% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise, actionable report:
+
+1.  **Market Trend**: Precious Metals futures are currently experiencing significant upward momentum, signaling a potential flight to safety or inflation hedge, while the Technology sector, particularly GOOGL, shows considerable capital outflows. Other sectors like Energy, Military, and Finance present a mixed picture with signs of profit-taking in previously overbought military stocks.
+2.  **Key Tickers to Watch**: **GC=F** and **SI=F** are notably overbought with strong positive surges (+2.06%, +2.82%), indicating peak short-term momentum that could precede a correction. Conversely, **GOOGL** has experienced a sharp -3.84% drop, potentially signaling a selling climax or a developing downtrend requiring close monitoring.
+3.  **Actionable Strategy**: Consider taking partial profits or setting tight trailing stop-losses on highly overbought assets such as GC=F, SI=F, and COP to secure recent gains. For GOOGL and other declining tech stocks, adopt a "Wait & Watch" strategy to observe for stabilization before initiating new long positions, or ensure stop-losses are in place if already holding.
+----------------------------------------
+
 ### 📊 USA Market Update - 12/08/2026 16:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here's an analysis of the USA market data:
 | Military | **RTX** | $224.12 | +0.49% | ⚠️ Overbought! 🟢 |
 | Military | **NOC** | $577.89 | +1.10% | ⚠️ Overbought! 🟢 |
 | Energy | **XOM** | $159.79 | +4.41% | Stable 🟢 |
-| Energy | **CVX** | $194.91 | +4.48% | Stable 🟢 |
-| Energy | **COP** | $123.03 | +4.61% | Stable 🟢 |
-| Tech | **TSLA** | $330.88 | +0.70% | Stable 🟢 |
-| Tech | **AAPL** | $308.26 | -1.62% | Stable 🔴 |
-| Tech | **MSFT** | $506.06 | +1.21% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $357.52 | +0.91% | Stable 🟢 |
-| Finance | **JPM** | $359.79 | +0.63% | Stable 🟢 |
-| Finance | **BAC** | $63.86 | +1.09% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,034.51 | -0.49% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,472.00 | +3.02% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $66.04 | +4.28% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **GOLD** | $43.47 | -0.09% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Capital is strongly flowing into the Energy and Military sectors, indicated by significant price gains and widespread "Overbought" signals for military stocks. Precious Metals futures (Gold and Silver) are also seeing substantial inflows and are flagged as overbought, potentially signaling safe-haven demand amidst broader market dynamics.
-2.  **Key Tickers to Watch**: **COP** (ConocoPhillips) stands out with a robust +4.61% gain while maintaining a "Stable" status, indicating strong fundamental demand in the energy sector. Conversely, **GC=F** (Gold Futures) is up +3.02% and marked "Overbought," suggesting elevated speculative interest or safe-haven buying that may be due for a short-term consolidation.
-3.  **Actionable Strategy**: Given the numerous "Overbought" signals across Military, Precious Metals futures, and specific Tech/Finance stocks, it is prudent to consider taking partial profits to de-risk these positions. For the strong-performing yet "Stable" Energy sector, maintain current holdings or look for opportunities to accumulate on any minor pullbacks.
-----------------------------------------
-
-### 📊 USA Market Update - 11/08/2026 07:01:37
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $603.16 | +2.59% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $224.12 | +0.49% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $577.89 | +1.10% | ⚠️ Overbought! 🟢 |
-| Energy | **XOM** | $159.79 | +4.41% | Stable 🟢 |
-| Energy | **CVX** | $194.91 | +4.48% | Stable 🟢 |
