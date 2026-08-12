@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 12/08/2026 16:01:30
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $597.77 | -0.89% | ⚠️ Overbought! 🔴 |
+| Military | **RTX** | $223.86 | -0.12% | ⚠️ Overbought! 🔴 |
+| Military | **NOC** | $575.69 | -0.38% | ⚠️ Overbought! 🔴 |
+| Energy | **XOM** | $159.80 | +0.01% | Stable 🟢 |
+| Energy | **CVX** | $196.66 | +0.90% | Stable 🟢 |
+| Energy | **COP** | $125.92 | +2.35% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $332.81 | +0.58% | Stable 🟢 |
+| Tech | **AAPL** | $304.91 | -1.09% | Stable 🔴 |
+| Tech | **MSFT** | $503.81 | -0.44% | ⚠️ Overbought! 🔴 |
+| Tech | **GOOGL** | $343.80 | -3.84% | Stable 🔴 |
+| Finance | **JPM** | $362.04 | +0.63% | Stable 🟢 |
+| Finance | **BAC** | $64.00 | +0.22% | ⚠️ Overbought! 🟢 |
+| Finance | **GS** | $1,034.41 | -0.01% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,463.30 | +1.83% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $66.37 | +2.47% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $43.44 | -0.07% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 12/08/2026 15:01:28
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -991,37 +1023,6 @@ Here's an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 11/08/2026 07:01:37
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $603.16 | +2.59% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $224.12 | +0.49% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $577.89 | +1.10% | ⚠️ Overbought! 🟢 |
-| Energy | **XOM** | $159.79 | +4.41% | Stable 🟢 |
-| Energy | **CVX** | $194.91 | +4.48% | Stable 🟢 |
-| Energy | **COP** | $123.03 | +4.61% | Stable 🟢 |
-| Tech | **TSLA** | $330.88 | +0.70% | Stable 🟢 |
-| Tech | **AAPL** | $308.26 | -1.62% | Stable 🔴 |
-| Tech | **MSFT** | $506.06 | +1.21% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $357.52 | +0.91% | Stable 🟢 |
-| Finance | **JPM** | $359.79 | +0.63% | Stable 🟢 |
-| Finance | **BAC** | $63.86 | +1.09% | ⚠️ Overbought! 🟢 |
-| Finance | **GS** | $1,034.51 | -0.49% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,457.80 | +2.70% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $65.95 | +4.13% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **GOLD** | $43.47 | -0.09% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update:
-
-*   **Market Trend**: Capital is strongly flowing into defensive sectors like Military, Energy, and Precious Metals futures, evident from significant gains and widespread "Overbought" warnings across these segments. Tech and Finance sectors show more selective activity, with some strong performers alongside underperformers.
-*   **Key Tickers to Watch**: Focus on **LMT** (+2.59%, Overbought) as a bellwether for potential profit-taking in the overheated defense sector, and **COP** (+4.61%, Stable) for continued, robust momentum in the Energy sector.
-*   **Actionable Strategy**: We advise clients to **Take Profit** on heavily overbought positions in Military and Precious Metals futures, while maintaining a **Wait & Watch** stance for potential entry points following a pullback. Consider **Accumulating** selectively in the Energy sector on dips, given its strong and stable performance.
-----------------------------------------
-
-### 📊 USA Market Update - 11/08/2026 06:01:29
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $603.16 | +2.59% | ⚠️ Overbought! 🟢 |
