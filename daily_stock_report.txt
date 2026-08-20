@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 20/08/2026 21:01:15
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $583.85 | -0.90% | Stable 🔴 |
+| Military | **RTX** | $218.20 | -0.98% | Stable 🔴 |
+| Military | **NOC** | $579.28 | -0.61% | Stable 🔴 |
+| Energy | **XOM** | $167.49 | +1.65% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $207.29 | +0.74% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $134.31 | +2.86% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $344.65 | -1.84% | Stable 🔴 |
+| Tech | **AAPL** | $317.15 | +0.10% | Stable 🟢 |
+| Tech | **MSFT** | $481.93 | -0.49% | Stable 🔴 |
+| Tech | **GOOGL** | $343.10 | -0.47% | Stable 🔴 |
+| Finance | **JPM** | $355.45 | -0.51% | Stable 🔴 |
+| Finance | **BAC** | $62.92 | -0.40% | Stable 🔴 |
+| Finance | **GS** | $1,017.04 | -0.45% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,537.60 | +1.07% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $67.39 | +2.53% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $44.45 | -2.37% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your actionable market report:
+
+1.  **Market Trend**: Capital is strongly flowing into the Energy and Precious Metals sectors, marked by significant positive movements and "Overbought!" signals. Conversely, there is a clear exit of funds from the Military and Finance sectors, which are broadly experiencing declines.
+2.  **Key Tickers to Watch**: **COP** (+2.86%) and **SI=F** (+2.53%) are critical tickers to monitor; their substantial gains and "Overbought!" status suggest strong bullish momentum but also potential for short-term reversals.
+3.  **Actionable Strategy**: For current holdings in the Energy and Precious Metals sectors, it is prudent to consider taking partial profits or implementing tight stop-loss orders due to their "Overbought!" conditions. For the Military, Finance, and declining Tech sectors, a "Wait & Watch" strategy is advisable, awaiting clearer signs of stabilization before considering new entries.
+----------------------------------------
+
 ### 📊 USA Market Update - 20/08/2026 20:01:18
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is your market analysis:
 | Energy | **CVX** | $205.74 | +1.50% | ⚠️ Overbought! 🟢 |
 | Energy | **COP** | $127.56 | +0.62% | Stable 🟢 |
 | Tech | **TSLA** | $339.30 | -0.87% | Stable 🔴 |
-| Tech | **AAPL** | $305.59 | -0.11% | Stable 🔴 |
-| Tech | **MSFT** | $481.63 | +0.27% | Stable 🟢 |
-| Tech | **GOOGL** | $344.20 | +0.06% | Stable 🟢 |
-| Finance | **JPM** | $363.25 | +0.63% | Stable 🟢 |
-| Finance | **BAC** | $64.23 | +0.53% | Stable 🟢 |
-| Finance | **GS** | $1,040.47 | -1.03% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,398.40 | +0.74% | Stable 🟢 |
-| Precious Metals | **SI=F** | $62.85 | -1.71% | Stable 🔴 |
-| Precious Metals | **GOLD** | $45.39 | +3.16% | ⚠️ Overbought! 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis report:
-
-*   **Market Trend**: Money is heavily flowing into the Military and Energy sectors, with multiple tickers showing strong gains and "Overbought" status, indicating high investor confidence and potentially stretched valuations. The Tech and Finance sectors are mixed, while Precious Metals are split, with gold rising but silver declining.
-
-*   **Key Tickers to Watch**: **NOC** (+3.32%) and **GOLD** (+3.16%) are both significantly "Overbought," signaling potential for short-term profit-taking or consolidation. Conversely, **RTX** (-0.60%) is also flagged as "Overbought" despite a slight dip, suggesting early signs of price fatigue or profit-taking within a strong sector.
-
-*   **Actionable Strategy**: For "Overbought" assets like NOC, XOM, CVX, and GOLD, consider **partial profit-taking** or implementing trailing **stop-loss orders** to protect gains. For RTX, adopt a **wait and watch** approach, as its overbought status combined with a price decline could signal further downward pressure, advising against new long positions.
-----------------------------------------
-
-### 📊 USA Market Update - 19/08/2026 11:01:11
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $607.17 | +2.26% | Stable 🟢 |
-| Military | **RTX** | $225.49 | +1.74% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $589.14 | +3.32% | ⚠️ Overbought! 🟢 |
-| Energy | **XOM** | $165.56 | +2.54% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $205.74 | +1.50% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $129.72 | +1.69% | ⚠️ Overbought! 🟢 |
