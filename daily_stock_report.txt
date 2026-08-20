@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 21/08/2026 05:01:15
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $571.48 | -3.00% | Stable 🔴 |
+| Military | **RTX** | $212.29 | -3.66% | Stable 🔴 |
+| Military | **NOC** | $563.86 | -3.26% | Stable 🔴 |
+| Energy | **XOM** | $166.15 | +0.84% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $205.77 | +0.00% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $134.89 | +3.30% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $345.13 | -1.71% | Stable 🔴 |
+| Tech | **AAPL** | $311.30 | -1.75% | Stable 🔴 |
+| Tech | **MSFT** | $481.15 | -0.65% | Stable 🔴 |
+| Tech | **GOOGL** | $340.67 | -1.17% | Stable 🔴 |
+| Finance | **JPM** | $351.55 | -1.60% | Stable 🔴 |
+| Finance | **BAC** | $61.86 | -2.07% | Stable 🔴 |
+| Finance | **GS** | $1,001.95 | -1.93% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,575.10 | +1.91% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $68.13 | +3.64% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $45.66 | +0.29% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise, actionable report:
+
+*   **Market Trend**: Capital is aggressively flowing into the Energy and Precious Metals sectors, with several assets flagged as "Overbought," signaling a strong commodities play. Conversely, Military, Tech, and Finance sectors are experiencing significant outflows and broad declines.
+*   **Key Tickers to Watch**: **SI=F** (Silver Futures) and **COP** (ConocoPhillips) are critical to monitor, having surged by +3.64% and +3.30% respectively and both being marked as "Overbought," indicating potential for a near-term correction.
+*   **Actionable Strategy**: For overbought assets like **SI=F** and **COP**, consider taking partial profits or implementing tight stop-loss orders to protect gains. For the broadly declining Tech, Military, and Finance sectors, a "Wait & Watch" approach is recommended to assess stabilization before considering new entries.
+----------------------------------------
+
 ### 📊 USA Market Update - 21/08/2026 04:01:12
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -986,37 +1017,6 @@ Here is your market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 19/08/2026 20:01:19
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $607.17 | +2.26% | Stable 🟢 |
-| Military | **RTX** | $225.49 | +1.74% | ⚠️ Overbought! 🟢 |
-| Military | **NOC** | $589.14 | +3.32% | ⚠️ Overbought! 🟢 |
-| Energy | **XOM** | $165.56 | +2.54% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $205.74 | +1.50% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $129.72 | +1.69% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $336.87 | -0.72% | Stable 🔴 |
-| Tech | **AAPL** | $310.03 | +1.45% | Stable 🟢 |
-| Tech | **MSFT** | $481.63 | +0.27% | Stable 🟢 |
-| Tech | **GOOGL** | $344.20 | +0.06% | Stable 🟢 |
-| Finance | **JPM** | $363.25 | +0.63% | Stable 🟢 |
-| Finance | **BAC** | $64.23 | +0.53% | Stable 🟢 |
-| Finance | **GS** | $1,040.47 | -1.03% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,470.90 | +2.40% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $64.79 | +1.32% | Stable 🟢 |
-| Precious Metals | **GOLD** | $41.84 | -7.82% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Capital is heavily flowing into defensive sectors like Military and Energy, alongside precious metals futures (GC=F), with several assets in these categories hitting "Overbought!" status. Conversely, individual tech and finance stocks show mixed performance, while one gold-related equity (GOLD) experienced a significant decline.
-*   **Key Tickers to Watch**: NOC ($589.14, +3.32%) and XOM ($165.56, +2.54%) are both strong performers indicated as "Overbought!", signaling potential for short-term pullbacks or consolidation. Conversely, GOLD ($41.84, -7.82%) experienced a substantial drop, warranting immediate investigation into its specific underlying drivers given the strength in gold futures.
-*   **Actionable Strategy**: For "Overbought!" assets in Military and Energy sectors, consider taking partial profits or employing stop-loss orders to protect gains, and avoid initiating new long positions. For GOLD, "Wait & Watch" while investigating the drastic price decline for potential specific company/ETF news or sector-specific issues before considering any entry.
-----------------------------------------
-
-### 📊 USA Market Update - 19/08/2026 19:01:13
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $607.17 | +2.26% | Stable 🟢 |
