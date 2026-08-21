@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 21/08/2026 09:01:13
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $571.48 | -3.00% | Stable 🔴 |
+| Military | **RTX** | $212.29 | -3.66% | Stable 🔴 |
+| Military | **NOC** | $563.86 | -3.26% | Stable 🔴 |
+| Energy | **XOM** | $166.15 | +0.84% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $205.77 | +0.00% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $134.89 | +3.30% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $345.13 | -1.71% | Stable 🔴 |
+| Tech | **AAPL** | $311.30 | -1.75% | Stable 🔴 |
+| Tech | **MSFT** | $481.15 | -0.65% | Stable 🔴 |
+| Tech | **GOOGL** | $340.67 | -1.17% | Stable 🔴 |
+| Finance | **JPM** | $351.55 | -1.60% | Stable 🔴 |
+| Finance | **BAC** | $61.86 | -2.07% | Stable 🔴 |
+| Finance | **GS** | $1,001.95 | -1.93% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,585.40 | +2.14% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $68.46 | +4.14% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $45.66 | +0.29% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 21/08/2026 08:01:10
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1030,3 @@ Here's an analysis of the USA market data:
 | Tech | **AAPL** | $314.98 | +1.60% | Stable 🟢 |
 | Tech | **MSFT** | $484.16 | +0.53% | Stable 🟢 |
 | Tech | **GOOGL** | $344.51 | +0.09% | Stable 🟢 |
-| Finance | **JPM** | $357.52 | -1.58% | Stable 🔴 |
-| Finance | **BAC** | $63.29 | -1.46% | Stable 🔴 |
-| Finance | **GS** | $1,021.19 | -1.85% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,552.10 | +4.26% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $65.94 | +3.13% | Stable 🟢 |
-| Precious Metals | **GOLD** | $45.55 | +8.87% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis report:
-
-*   **Market Trend**: Capital is strongly flowing into Precious Metals and Energy sectors, indicated by significant positive changes and "Overbought" signals. Conversely, the Military and Finance sectors are experiencing outflows, showing uniform negative performance.
-*   **Key Tickers to Watch**: GOLD saw a substantial +8.87% surge, reflecting robust demand, while GC=F (Gold Futures) is also up +4.26% and flagged as "Overbought," signaling potential near-term exhaustion.
-*   **Actionable Strategy**: Given the "Overbought" status across Energy (XOM, CVX, COP) and Gold (GC=F) after sharp rallies, consider taking partial profits or setting tight stop-loss orders. For the declining Military and Finance sectors, adopt a "Wait & Watch" approach for potential stabilization or further weakness.
-----------------------------------------
-
-### 📊 USA Market Update - 19/08/2026 23:01:20
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $595.74 | -1.88% | Stable 🔴 |
-| Military | **RTX** | $222.76 | -1.21% | Stable 🔴 |
-| Military | **NOC** | $586.42 | -0.46% | Stable 🔴 |
-| Energy | **XOM** | $166.84 | +0.77% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $206.65 | +0.44% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $131.39 | +1.29% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $347.04 | +3.02% | Stable 🟢 |
-| Tech | **AAPL** | $316.09 | +1.95% | Stable 🟢 |
-| Tech | **MSFT** | $488.17 | +1.36% | Stable 🟢 |
-| Tech | **GOOGL** | $344.97 | +0.22% | Stable 🟢 |
