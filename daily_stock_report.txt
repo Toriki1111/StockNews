@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 28/08/2026 05:01:16
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.89 | +0.05% | Stable 🟢 |
+| Military | **RTX** | $212.08 | +0.04% | Stable 🟢 |
+| Military | **NOC** | $545.13 | -0.88% | Stable 🔴 |
+| Energy | **XOM** | $156.44 | -1.11% | Stable 🔴 |
+| Energy | **CVX** | $199.77 | -0.22% | Stable 🔴 |
+| Energy | **COP** | $129.52 | -0.83% | Stable 🔴 |
+| Tech | **TSLA** | $354.81 | +2.60% | Stable 🟢 |
+| Tech | **AAPL** | $314.58 | +0.36% | Stable 🟢 |
+| Tech | **MSFT** | $505.06 | +1.75% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $340.65 | -0.39% | Stable 🔴 |
+| Finance | **JPM** | $354.22 | -0.64% | Stable 🔴 |
+| Finance | **BAC** | $61.17 | -1.70% | Stable 🔴 |
+| Finance | **GS** | $1,040.87 | +0.04% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,654.80 | +1.23% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $70.07 | +3.05% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $45.98 | +1.08% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here's your concise market report:
+
+*   **Market Trend**: Capital is primarily flowing into Technology and Precious Metals, both showing strong upward momentum, while the Energy and Finance sectors are experiencing notable outflows. The Military sector remains largely stable with mixed minor movements.
+*   **Key Tickers to Watch**: Silver Futures (SI=F) surged +3.05% and Microsoft (MSFT) gained +1.75%, both displaying "Overbought!" signals, indicating potential short-term reversal risks. Tesla (TSLA) also showed significant strength with a +2.60% increase.
+*   **Actionable Strategy**: Consider taking partial profits or setting trailing stop-losses on overbought Precious Metals (SI=F, GC=F) and potentially Microsoft (MSFT) to lock in gains and manage risk. Maintain a "Wait & Watch" stance on the Energy and Finance sectors given their current negative performance trends.
+----------------------------------------
+
 ### 📊 USA Market Update - 28/08/2026 04:01:17
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here's a concise, actionable report:
 
 ---
 ### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Money is actively flowing into the Finance sector, led by strong institutional interest, and into Precious Metals, signaling increasing safe-haven demand. Conversely, the Energy sector is experiencing a significant outflow, showing broad negative sentiment.
-2.  **Key Tickers to Watch**: **GS (Goldman Sachs)** surged +2.18%, indicating robust positive momentum within financials. **GC=F (Gold Futures)**, despite a +0.91% gain, is flagged as "Overbought," suggesting a potential short-term pullback or consolidation is due.
-3.  **Actionable Strategy**: Consider taking partial profits on overbought Precious Metal positions (GC=F, SI=F) and monitor the sustainability of the Finance sector's rally (GS). For the underperforming Energy sector, adopt a "Wait & Watch" approach for signs of stabilization before considering new entries.
-----------------------------------------
-
-### 📊 USA Market Update - 26/08/2026 19:01:17
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $556.52 | -1.35% | Stable 🔴 |
-| Military | **RTX** | $210.28 | +0.51% | Stable 🟢 |
-| Military | **NOC** | $542.52 | -1.23% | Stable 🔴 |
-| Energy | **XOM** | $160.64 | -2.08% | Stable 🔴 |
-| Energy | **CVX** | $199.89 | -1.58% | Stable 🔴 |
-| Energy | **COP** | $131.84 | -1.13% | Stable 🔴 |
-| Tech | **TSLA** | $350.25 | +0.37% | Stable 🟢 |
-| Tech | **AAPL** | $309.90 | -0.14% | Stable 🔴 |
-| Tech | **MSFT** | $491.71 | +0.90% | Stable 🟢 |
-| Tech | **GOOGL** | $346.96 | -0.32% | Stable 🔴 |
-| Finance | **JPM** | $356.69 | +0.08% | Stable 🟢 |
-| Finance | **BAC** | $62.43 | +0.16% | Stable 🟢 |
-| Finance | **GS** | $1,058.88 | +2.18% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,674.20 | +0.78% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $68.50 | -0.20% | ⚠️ Overbought! 🔴 |
-| Precious Metals | **GOLD** | $46.85 | +2.29% | Stable 🟢 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
