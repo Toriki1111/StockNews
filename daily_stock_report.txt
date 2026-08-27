@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 27/08/2026 13:01:14
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.62 | +1.64% | Stable 🟢 |
+| Military | **RTX** | $211.99 | +0.81% | Stable 🟢 |
+| Military | **NOC** | $549.95 | +1.37% | Stable 🟢 |
+| Energy | **XOM** | $158.19 | -1.53% | Stable 🔴 |
+| Energy | **CVX** | $200.21 | +0.16% | Stable 🟢 |
+| Energy | **COP** | $130.61 | -0.93% | Stable 🔴 |
+| Tech | **TSLA** | $345.82 | -1.26% | Stable 🔴 |
+| Tech | **AAPL** | $313.45 | +1.15% | Stable 🟢 |
+| Tech | **MSFT** | $496.37 | +0.95% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $342.00 | -1.43% | Stable 🔴 |
+| Finance | **JPM** | $356.50 | -0.05% | Stable 🔴 |
+| Finance | **BAC** | $62.23 | -0.32% | Stable 🔴 |
+| Finance | **GS** | $1,040.46 | -1.74% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,660.50 | +1.35% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $68.55 | +0.82% | Stable 🟢 |
+| Precious Metals | **GOLD** | $45.49 | -2.90% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+1.  **Market Trend**: The market exhibits a clear divergence, with defense stocks (LMT, RTX, NOC) showing robust performance and continued money inflow, while the financial sector (JPM, BAC, GS) is broadly declining. Energy and Technology sectors present a mixed picture, though some tech giants like Apple and Microsoft demonstrate resilience.
+2.  **Key Tickers to Watch**: Microsoft (MSFT) and Gold Futures (GC=F) are both flagged as "Overbought," indicating potential short-term pullbacks and warranting close observation for profit-taking opportunities. Conversely, Gold Corp (GOLD) experienced a significant -2.90% decline, making it a ticker to watch for stabilization or further downside.
+3.  **Actionable Strategy**: Consider taking partial profits on Overbought assets like MSFT and GC=F. For the strong military sector, look for opportunities to accumulate on any minor dips, while maintaining a "Wait & Watch" approach for the struggling financial sector and Gold Corp (GOLD) until clearer directional momentum is established.
+----------------------------------------
+
 ### 📊 USA Market Update - 27/08/2026 12:01:18
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here is your concise market report:
 *   **Market Trend**: Funds are predominantly flowing into the Finance and Precious Metals sectors, which are showing strong positive momentum across the board. Conversely, significant capital is exiting the Energy sector, with most tickers experiencing notable declines, and the Military sector is also largely underperforming.
 *   **Key Tickers to Watch**: **GS** stands out with a robust +2.18% gain, leading the strong Finance sector. Meanwhile, **GC=F** (Gold Futures) is flagged as "⚠️ Overbought!" (+1.65%), indicating that while momentum is strong, a short-term correction could be imminent or existing positions may be nearing a profit-taking level.
 *   **Actionable Strategy**: Consider **accumulating** or maintaining positions in robust financial institutions like GS. For Precious Metals, **take profit** on existing long positions in GC=F due to its "Overbought" status, or **wait & watch** for a clearer entry point after a potential price consolidation. Avoid new entries into the underperforming Energy sector.
-----------------------------------------
-
-### 📊 USA Market Update - 26/08/2026 03:01:12
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $556.58 | -1.34% | Stable 🔴 |
-| Military | **RTX** | $210.28 | +0.51% | Stable 🟢 |
-| Military | **NOC** | $542.46 | -1.24% | Stable 🔴 |
-| Energy | **XOM** | $160.62 | -2.09% | Stable 🔴 |
-| Energy | **CVX** | $199.91 | -1.57% | Stable 🔴 |
-| Energy | **COP** | $131.84 | -1.13% | Stable 🔴 |
-| Tech | **TSLA** | $350.25 | +0.37% | Stable 🟢 |
-| Tech | **AAPL** | $309.90 | -0.14% | Stable 🔴 |
-| Tech | **MSFT** | $491.71 | +0.90% | Stable 🟢 |
-| Tech | **GOOGL** | $346.96 | -0.32% | Stable 🔴 |
-| Finance | **JPM** | $356.67 | +0.08% | Stable 🟢 |
-| Finance | **BAC** | $62.42 | +0.14% | Stable 🟢 |
-| Finance | **GS** | $1,059.11 | +2.20% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,721.60 | +1.74% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $68.96 | +0.61% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **GOLD** | $46.89 | +2.38% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-1.  **Market Trend**: Capital is clearly flowing into the Finance and Precious Metals sectors, with all tickers showing gains and precious metals even flagged as "Overbought." Conversely, there's a strong outflow from the Energy sector, where all tickers are down significantly.
-2.  **Key Tickers to Watch**: **GC=F** (Gold Futures) is key, flagged as "Overbought" with a strong +1.74% gain, indicating potential for a technical pullback or consolidation. Additionally, **GS** has seen a significant surge of +2.20%, suggesting strong positive momentum within the robust financial sector.
-3.  **Actionable Strategy**: For Precious Metals, consider taking partial profits on existing long positions or waiting for a pullback given the "Overbought" signals. In Energy, maintain a "Wait & Watch" approach for potential shorting opportunities on any minor bounces, as the sector is showing broad weakness.
