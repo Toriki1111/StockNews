@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 28/08/2026 15:01:15
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.89 | +0.05% | Stable 🟢 |
+| Military | **RTX** | $212.08 | +0.04% | Stable 🟢 |
+| Military | **NOC** | $545.13 | -0.88% | Stable 🔴 |
+| Energy | **XOM** | $156.44 | -1.11% | Stable 🔴 |
+| Energy | **CVX** | $199.77 | -0.22% | Stable 🔴 |
+| Energy | **COP** | $129.52 | -0.83% | Stable 🔴 |
+| Tech | **TSLA** | $354.81 | +2.60% | Stable 🟢 |
+| Tech | **AAPL** | $314.58 | +0.36% | Stable 🟢 |
+| Tech | **MSFT** | $505.06 | +1.75% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $340.65 | -0.39% | Stable 🔴 |
+| Finance | **JPM** | $354.22 | -0.64% | Stable 🔴 |
+| Finance | **BAC** | $61.17 | -1.70% | Stable 🔴 |
+| Finance | **GS** | $1,040.87 | +0.04% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,663.80 | +1.17% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $71.50 | +2.98% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $45.98 | +1.08% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 28/08/2026 14:01:19
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is your actionable report:
 | Tech | **MSFT** | $496.37 | +0.95% | ⚠️ Overbought! 🟢 |
 | Tech | **GOOGL** | $342.00 | -1.43% | Stable 🔴 |
 | Finance | **JPM** | $356.50 | -0.05% | Stable 🔴 |
-| Finance | **BAC** | $62.23 | -0.32% | Stable 🔴 |
-| Finance | **GS** | $1,040.46 | -1.74% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,661.90 | +0.51% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $68.73 | +0.14% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **GOLD** | $45.49 | -2.90% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis report:
-
-*   **Market Trend**: Capital is actively flowing into the Military sector, demonstrating robust strength, while the Finance sector is experiencing broad-based outflows. Tech and Energy sectors present a mixed picture, with some individual companies performing well despite broader sector hesitancy.
-*   **Key Tickers to Watch**: Microsoft (MSFT) and Gold Futures (GC=F) are both signaling "Overbought" conditions, indicating potential for short-term profit-taking or consolidation. Conversely, physical gold (GOLD) experienced a notable -2.90% decline, warranting close observation.
-*   **Actionable Strategy**: For "Overbought" tickers like MSFT and GC=F, consider taking partial profits to manage short-term risk. Maintain exposure to the strong Military sector, and adopt a "Wait & Watch" approach for the Finance sector and GOLD, avoiding new positions until clear directional stability emerges.
-----------------------------------------
-
-### 📊 USA Market Update - 27/08/2026 05:01:17
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.62 | +1.64% | Stable 🟢 |
-| Military | **RTX** | $211.99 | +0.81% | Stable 🟢 |
-| Military | **NOC** | $549.95 | +1.37% | Stable 🟢 |
-| Energy | **XOM** | $158.19 | -1.53% | Stable 🔴 |
-| Energy | **CVX** | $200.21 | +0.16% | Stable 🟢 |
-| Energy | **COP** | $130.61 | -0.93% | Stable 🔴 |
-| Tech | **TSLA** | $345.82 | -1.26% | Stable 🔴 |
-| Tech | **AAPL** | $313.45 | +1.15% | Stable 🟢 |
-| Tech | **MSFT** | $496.37 | +0.95% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $342.00 | -1.43% | Stable 🔴 |
-| Finance | **JPM** | $356.50 | -0.05% | Stable 🔴 |
-| Finance | **BAC** | $62.23 | -0.32% | Stable 🔴 |
