@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 29/08/2026 06:01:12
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $563.85 | -0.36% | Stable 🔴 |
+| Military | **RTX** | $211.71 | -0.17% | Stable 🔴 |
+| Military | **NOC** | $545.57 | +0.08% | Stable 🟢 |
+| Energy | **XOM** | $156.71 | +0.17% | Stable 🟢 |
+| Energy | **CVX** | $201.86 | +1.05% | Stable 🟢 |
+| Energy | **COP** | $130.35 | +0.64% | Stable 🟢 |
+| Tech | **TSLA** | $348.75 | -1.71% | Stable 🔴 |
+| Tech | **AAPL** | $319.70 | +1.63% | Stable 🟢 |
+| Tech | **MSFT** | $513.53 | +1.68% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $346.59 | +1.74% | Stable 🟢 |
+| Finance | **JPM** | $357.62 | +0.96% | Stable 🟢 |
+| Finance | **BAC** | $62.32 | +1.88% | Stable 🟢 |
+| Finance | **GS** | $1,033.99 | -0.66% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,504.10 | -2.29% | Stable 🔴 |
+| Precious Metals | **SI=F** | $67.09 | -3.37% | Stable 🔴 |
+| Precious Metals | **GOLD** | $45.55 | -0.94% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+*   **Market Trend**: Capital is visibly rotating into the Energy sector, which is experiencing broad-based gains, and selectively into major Tech and Finance stocks. Conversely, there's a significant outflow from Precious Metals, indicated by sharp declines across gold and silver.
+*   **Key Tickers to Watch**: Microsoft (MSFT) is explicitly flagged as "Overbought" after a 1.68% surge, indicating potential for a near-term correction. The significant declines in Precious Metals futures (GC=F, SI=F), down over 2% and 3% respectively, signal strong bearish momentum for the sector.
+*   **Actionable Strategy**: For MSFT, consider a "Take Profit" strategy or implement tight "Stop Loss" orders given its overbought status. For Precious Metals, adopt a "Wait & Watch" approach for potential entry points, or consider short positions if bearish momentum continues.
+----------------------------------------
+
 ### 📊 USA Market Update - 29/08/2026 05:01:22
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,36 +1027,5 @@ Here is your concise market analysis:
 | Precious Metals | **GC=F** | $4,634.60 | +0.79% | ⚠️ Overbought! 🟢 |
 | Precious Metals | **SI=F** | $68.82 | +1.21% | Stable 🟢 |
 | Precious Metals | **GOLD** | $46.81 | +2.90% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's your concise market update:
-
-1.  **Market Trend**: Capital is notably shifting away from traditional industrial sectors like Military and Energy, which show broad declines, towards Precious Metals, experiencing significant gains and indicating a potential flight to safety or inflation hedge. Tech and Finance sectors display mixed performance, suggesting selective investor interest.
-2.  **Key Tickers to Watch**: MSFT and GC=F are both flagged as "Overbought," signaling potential for a short-term pullback or consolidation after their recent upward momentum. Additionally, GOLD's robust 2.90% surge warrants close monitoring for continued strength or potential profit-taking.
-3.  **Actionable Strategy**: For overbought assets like MSFT and GC=F, consider a "Take Profit" approach or "Wait & Watch" for more attractive entry points. Maintain a "Wait & Watch" for the broadly declining Military and Energy sectors until clearer reversal signals appear, while observing Precious Metals for signs of continued momentum or exhaustion.
-----------------------------------------
-
-### 📊 USA Market Update - 27/08/2026 20:01:15
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.62 | +1.64% | Stable 🟢 |
-| Military | **RTX** | $211.99 | +0.81% | Stable 🟢 |
-| Military | **NOC** | $549.95 | +1.37% | Stable 🟢 |
-| Energy | **XOM** | $158.19 | -1.53% | Stable 🔴 |
-| Energy | **CVX** | $200.21 | +0.16% | Stable 🟢 |
-| Energy | **COP** | $130.61 | -0.93% | Stable 🔴 |
-| Tech | **TSLA** | $345.82 | -1.26% | Stable 🔴 |
-| Tech | **AAPL** | $313.45 | +1.15% | Stable 🟢 |
-| Tech | **MSFT** | $496.37 | +0.95% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $342.00 | -1.43% | Stable 🔴 |
-| Finance | **JPM** | $356.50 | -0.05% | Stable 🔴 |
-| Finance | **BAC** | $62.23 | -0.32% | Stable 🔴 |
-| Finance | **GS** | $1,040.46 | -1.74% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,636.50 | +0.83% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $68.68 | +1.01% | Stable 🟢 |
-| Precious Metals | **GOLD** | $45.49 | -2.90% | Stable 🔴 |
 
 
