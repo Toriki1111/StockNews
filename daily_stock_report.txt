@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 30/08/2026 05:01:19
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $563.85 | -0.36% | Stable 🔴 |
+| Military | **RTX** | $211.71 | -0.17% | Stable 🔴 |
+| Military | **NOC** | $545.57 | +0.08% | Stable 🟢 |
+| Energy | **XOM** | $156.71 | +0.17% | Stable 🟢 |
+| Energy | **CVX** | $201.86 | +1.05% | Stable 🟢 |
+| Energy | **COP** | $130.35 | +0.64% | Stable 🟢 |
+| Tech | **TSLA** | $348.75 | -1.71% | Stable 🔴 |
+| Tech | **AAPL** | $319.70 | +1.63% | Stable 🟢 |
+| Tech | **MSFT** | $513.53 | +1.68% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $346.59 | +1.74% | Stable 🟢 |
+| Finance | **JPM** | $357.62 | +0.96% | Stable 🟢 |
+| Finance | **BAC** | $62.32 | +1.88% | Stable 🟢 |
+| Finance | **GS** | $1,033.99 | -0.66% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,609.70 | +0.25% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $69.43 | +2.12% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $45.55 | -0.94% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Money is actively flowing into the Energy, Tech (excluding Tesla), and Finance sectors, evidenced by broad positive performance and notable gains in CVX, BAC, AAPL, MSFT, and GOOGL. Conversely, significant outflows are observed in Tesla (TSLA) and physical gold (GOLD), while military stocks show minor declines.
+*   **Key Tickers to Watch**: **MSFT** (+1.68%) and **SI=F** (+2.12%) are both flagged as "Overbought," indicating potential for short-term retracement or consolidation after their strong upward moves. On the other hand, **TSLA** experienced a notable -1.71% drop, warranting close observation for further weakness.
+*   **Actionable Strategy**: For "Overbought" assets like **MSFT** and **SI=F**, consider taking partial profits or adjusting stop-loss orders higher to protect gains. For **TSLA**, adopt a "Wait & Watch" strategy to confirm if the significant price decline represents a temporary pullback or a sustained downtrend before considering new positions.
+----------------------------------------
+
 ### 📊 USA Market Update - 30/08/2026 04:01:12
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,37 +1027,5 @@ Here is your concise market analysis:
 *   **Market Trend**: Capital is actively shifting into the Technology sector, driven by strong performances in key growth stocks, and into Precious Metals, signaling a potential safe-haven or inflationary hedge play. Conversely, the Energy and Finance sectors are experiencing notable outflows and broad-based declines.
 *   **Key Tickers to Watch**: Microsoft (MSFT) and Silver Futures (SI=F) are both flagged as "Overbought" after significant gains (+1.75% and +2.75% respectively), indicating potential for near-term pullbacks due to profit-taking.
 *   **Actionable Strategy**: Advise taking partial profits on overbought positions such as MSFT, GC=F, and SI=F to lock in gains and de-risk. Maintain a "Wait & Watch" approach for the underperforming Energy and Finance sectors, or consider tightening stop-loss orders.
-----------------------------------------
-
-### 📊 USA Market Update - 28/08/2026 19:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.89 | +0.05% | Stable 🟢 |
-| Military | **RTX** | $212.08 | +0.04% | Stable 🟢 |
-| Military | **NOC** | $545.13 | -0.88% | Stable 🔴 |
-| Energy | **XOM** | $156.44 | -1.11% | Stable 🔴 |
-| Energy | **CVX** | $199.77 | -0.22% | Stable 🔴 |
-| Energy | **COP** | $129.52 | -0.83% | Stable 🔴 |
-| Tech | **TSLA** | $354.81 | +2.60% | Stable 🟢 |
-| Tech | **AAPL** | $314.58 | +0.36% | Stable 🟢 |
-| Tech | **MSFT** | $505.06 | +1.75% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $340.65 | -0.39% | Stable 🔴 |
-| Finance | **JPM** | $354.22 | -0.64% | Stable 🔴 |
-| Finance | **BAC** | $61.17 | -1.70% | Stable 🔴 |
-| Finance | **GS** | $1,040.87 | +0.04% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,648.20 | +0.84% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $71.18 | +2.51% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **GOLD** | $45.98 | +1.08% | Stable 🟢 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
 ----------------------------------------
 
