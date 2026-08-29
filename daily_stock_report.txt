@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 30/08/2026 03:01:17
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $563.85 | -0.36% | Stable 🔴 |
+| Military | **RTX** | $211.71 | -0.17% | Stable 🔴 |
+| Military | **NOC** | $545.57 | +0.08% | Stable 🟢 |
+| Energy | **XOM** | $156.71 | +0.17% | Stable 🟢 |
+| Energy | **CVX** | $201.86 | +1.05% | Stable 🟢 |
+| Energy | **COP** | $130.35 | +0.64% | Stable 🟢 |
+| Tech | **TSLA** | $348.75 | -1.71% | Stable 🔴 |
+| Tech | **AAPL** | $319.70 | +1.63% | Stable 🟢 |
+| Tech | **MSFT** | $513.53 | +1.68% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $346.59 | +1.74% | Stable 🟢 |
+| Finance | **JPM** | $357.62 | +0.96% | Stable 🟢 |
+| Finance | **BAC** | $62.32 | +1.88% | Stable 🟢 |
+| Finance | **GS** | $1,033.99 | -0.66% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,609.70 | +0.25% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $69.43 | +2.12% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $45.55 | -0.94% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Capital is broadly rotating into Energy, select Technology (ex-Tesla), and Precious Metals futures, indicating a preference for growth and commodity-linked assets. Conversely, the Military sector shows slight weakness, and some Financials are mixed.
+*   **Key Tickers to Watch**: Microsoft (MSFT) and Silver Futures (SI=F) are flagged as overbought, suggesting potential for near-term consolidation after recent strong gains. Tesla (TSLA) experienced a notable -1.71% decline, warranting close observation.
+*   **Actionable Strategy**: Consider taking partial profits on overbought positions like MSFT and SI=F to manage risk, while maintaining a "Wait & Watch" stance on TSLA for further price action confirmation. For strong sectors like Energy, consider accumulating on any pullbacks.
+----------------------------------------
+
 ### 📊 USA Market Update - 30/08/2026 02:01:13
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,36 +1027,5 @@ Here is an analysis of the USA market data:
 *   **Market Trend**: Capital is clearly rotating into the Tech and Precious Metals sectors, evidenced by strong positive movements in most tickers, while Energy and Finance sectors are experiencing outflows with widespread negative performance. The Military sector shows mixed, but generally stable, activity.
 *   **Key Tickers to Watch**: Microsoft (MSFT) and Silver Futures (SI=F) are key tickers to watch, both flagged as "Overbought!" after significant gains, indicating potential for a short-term reversal or profit-taking. Tesla (TSLA) also registered a strong +2.60% surge without the overbought flag.
 *   **Actionable Strategy**: For overbought assets like MSFT and SI=F, consider taking partial profits or setting tight stop-loss orders to protect gains. Conversely, adopt a "Wait & Watch" strategy for the Energy and Finance sectors, awaiting stabilization or clearer entry points before considering new long positions.
-----------------------------------------
-
-### 📊 USA Market Update - 28/08/2026 17:01:22
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.89 | +0.05% | Stable 🟢 |
-| Military | **RTX** | $212.08 | +0.04% | Stable 🟢 |
-| Military | **NOC** | $545.13 | -0.88% | Stable 🔴 |
-| Energy | **XOM** | $156.44 | -1.11% | Stable 🔴 |
-| Energy | **CVX** | $199.77 | -0.22% | Stable 🔴 |
-| Energy | **COP** | $129.52 | -0.83% | Stable 🔴 |
-| Tech | **TSLA** | $354.81 | +2.60% | Stable 🟢 |
-| Tech | **AAPL** | $314.58 | +0.36% | Stable 🟢 |
-| Tech | **MSFT** | $505.06 | +1.75% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $340.65 | -0.39% | Stable 🔴 |
-| Finance | **JPM** | $354.22 | -0.64% | Stable 🔴 |
-| Finance | **BAC** | $61.17 | -1.70% | Stable 🔴 |
-| Finance | **GS** | $1,040.87 | +0.04% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,659.60 | +1.08% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $71.38 | +2.80% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **GOLD** | $45.98 | +1.08% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable market report:
-
-*   **Market Trend**: Capital is clearly flowing into the Technology and Precious Metals sectors, evidenced by strong gains, while significant outflows are observed in Energy and, to a lesser extent, Finance. The Military sector remains mixed but largely stable.
-*   **Key Tickers to Watch**: Microsoft (MSFT) at +1.75% and Silver Futures (SI=F) at +2.80% are both flagged as "Overbought," indicating potential for a short-term correction after recent strong rallies. Bank of America (BAC) also saw a notable decline of -1.70%.
-*   **Actionable Strategy**: For overbought assets like MSFT and SI=F, consider taking partial profits or setting tight stop-losses to protect gains. Investors should "Wait & Watch" before initiating new positions in the declining Energy and Finance sectors due to current outflows.
 ----------------------------------------
 
