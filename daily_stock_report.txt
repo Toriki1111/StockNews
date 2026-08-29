@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 29/08/2026 16:01:14
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.89 | +0.05% | Stable 🟢 |
+| Military | **RTX** | $212.08 | +0.04% | Stable 🟢 |
+| Military | **NOC** | $545.13 | -0.88% | Stable 🔴 |
+| Energy | **XOM** | $156.44 | -1.11% | Stable 🔴 |
+| Energy | **CVX** | $199.77 | -0.22% | Stable 🔴 |
+| Energy | **COP** | $129.52 | -0.83% | Stable 🔴 |
+| Tech | **TSLA** | $354.81 | +2.60% | Stable 🟢 |
+| Tech | **AAPL** | $314.58 | +0.36% | Stable 🟢 |
+| Tech | **MSFT** | $505.06 | +1.75% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $340.65 | -0.39% | Stable 🔴 |
+| Finance | **JPM** | $354.22 | -0.64% | Stable 🔴 |
+| Finance | **BAC** | $61.17 | -1.70% | Stable 🔴 |
+| Finance | **GS** | $1,040.87 | +0.04% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,609.70 | +0.25% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **SI=F** | $69.43 | +2.12% | ⚠️ Overbought! 🟢 |
+| Precious Metals | **GOLD** | $45.98 | +1.08% | Stable 🟢 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 29/08/2026 15:01:16
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1023,3 @@ Here's an analysis of the USA market update:
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $565.89 | +0.05% | Stable 🟢 |
 | Military | **RTX** | $212.08 | +0.04% | Stable 🟢 |
-| Military | **NOC** | $545.13 | -0.88% | Stable 🔴 |
-| Energy | **XOM** | $156.44 | -1.11% | Stable 🔴 |
-| Energy | **CVX** | $199.77 | -0.22% | Stable 🔴 |
-| Energy | **COP** | $129.52 | -0.83% | Stable 🔴 |
-| Tech | **TSLA** | $354.81 | +2.60% | Stable 🟢 |
-| Tech | **AAPL** | $314.58 | +0.36% | Stable 🟢 |
-| Tech | **MSFT** | $505.06 | +1.75% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $340.65 | -0.39% | Stable 🔴 |
-| Finance | **JPM** | $354.22 | -0.64% | Stable 🔴 |
-| Finance | **BAC** | $61.17 | -1.70% | Stable 🔴 |
-| Finance | **GS** | $1,040.87 | +0.04% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,661.20 | +1.37% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $70.22 | +3.28% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **GOLD** | $45.98 | +1.08% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-*   **Market Trend**: Capital is actively flowing into Technology and Precious Metals sectors, evidenced by strong positive movements and overbought signals. Conversely, there's a clear exit from Energy and Finance, which show broad-based declines.
-*   **Key Tickers to Watch**: Key tickers to watch include **Precious Metals futures (GC=F, SI=F)**, both significantly "Overbought" after strong gains, signaling potential near-term pullbacks. Additionally, **MSFT** (+1.75%) is flagged "Overbought" following its robust performance.
-*   **Actionable Strategy**: For positions in overbought assets like Precious Metals futures and MSFT, consider taking partial profits or implementing tight trailing stop-loss orders. For Energy and Finance sectors, it's prudent to adopt a "Wait & Watch" strategy due to significant negative momentum.
-----------------------------------------
-
-### 📊 USA Market Update - 28/08/2026 05:01:16
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.89 | +0.05% | Stable 🟢 |
-| Military | **RTX** | $212.08 | +0.04% | Stable 🟢 |
-| Military | **NOC** | $545.13 | -0.88% | Stable 🔴 |
