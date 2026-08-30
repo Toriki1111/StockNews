@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 30/08/2026 23:01:14
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $563.85 | -0.36% | Stable 🔴 |
+| Military | **RTX** | $211.71 | -0.17% | Stable 🔴 |
+| Military | **NOC** | $545.57 | +0.08% | Stable 🟢 |
+| Energy | **XOM** | $156.71 | +0.17% | Stable 🟢 |
+| Energy | **CVX** | $201.86 | +1.05% | Stable 🟢 |
+| Energy | **COP** | $130.35 | +0.64% | Stable 🟢 |
+| Tech | **TSLA** | $348.75 | -1.71% | Stable 🔴 |
+| Tech | **AAPL** | $319.70 | +1.63% | Stable 🟢 |
+| Tech | **MSFT** | $513.53 | +1.68% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $346.59 | +1.74% | Stable 🟢 |
+| Finance | **JPM** | $357.62 | +0.96% | Stable 🟢 |
+| Finance | **BAC** | $62.32 | +1.88% | Stable 🟢 |
+| Finance | **GS** | $1,033.99 | -0.66% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,529.90 | -1.73% | Stable 🔴 |
+| Precious Metals | **SI=F** | $67.79 | -2.37% | Stable 🔴 |
+| Precious Metals | **GOLD** | $45.55 | -0.94% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+1.  **Market Trend**: Capital is decisively flowing into the Energy, Tech (excluding TSLA), and Finance sectors, indicating robust investor confidence and growth momentum. Conversely, there's a strong outflow from Precious Metals, suggesting diminishing safe-haven demand, with the Military sector showing mixed sentiment.
+2.  **Key Tickers to Watch**: Microsoft (MSFT) is notably "Overbought" after a significant +1.68% surge, signaling potential short-term reversal or profit-taking pressure. Tesla (TSLA) stands out with a significant -1.71% decline, contrasting with the broader tech sector's strength and warranting close monitoring for underlying catalysts.
+3.  **Actionable Strategy**: For MSFT, consider a "Take Profit" strategy or "Wait & Watch" for a potential pullback given its overbought status. For TSLA, a "Wait & Watch" approach is recommended to observe stabilization before considering new positions, or reassess "Stop Loss" levels if currently holding.
+----------------------------------------
+
 ### 📊 USA Market Update - 30/08/2026 22:01:09
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is your market update:
 | Energy | **XOM** | $156.44 | -1.11% | Stable 🔴 |
 | Energy | **CVX** | $199.77 | -0.22% | Stable 🔴 |
 | Energy | **COP** | $129.52 | -0.83% | Stable 🔴 |
-| Tech | **TSLA** | $354.81 | +2.60% | Stable 🟢 |
-| Tech | **AAPL** | $314.58 | +0.36% | Stable 🟢 |
-| Tech | **MSFT** | $505.06 | +1.75% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $340.65 | -0.39% | Stable 🔴 |
-| Finance | **JPM** | $354.22 | -0.64% | Stable 🔴 |
-| Finance | **BAC** | $61.17 | -1.70% | Stable 🔴 |
-| Finance | **GS** | $1,040.87 | +0.04% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,609.70 | +0.25% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $69.43 | +2.12% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **GOLD** | $45.98 | +1.08% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the USA market data:
-
-*   **Market Trend**: Money is distinctly flowing into the Technology sector, particularly high-growth names like TSLA and MSFT, and also into Precious Metals, where gold and silver are exhibiting strong upward momentum. Conversely, there's a clear bearish sentiment in the Energy and Financial sectors, with several key tickers experiencing declines.
-*   **Key Tickers to Watch**: Microsoft (MSFT) is marked "Overbought!" after a notable 1.75% gain, suggesting it may be ripe for a short-term consolidation or pullback. Silver Futures (SI=F) also saw a significant 2.12% surge and is flagged "Overbought!", indicating a similar risk for profit-taking.
-*   **Actionable Strategy**: For overbought assets like MSFT and SI=F, consider taking partial profits or setting tight stop-losses to protect gains. For the broader market, adopt a "Wait & Watch" approach in the weak Energy and Finance sectors, while looking for selective entry opportunities in strong Technology names on any potential pullbacks rather than chasing current highs.
-----------------------------------------
-
-### 📊 USA Market Update - 29/08/2026 13:01:17
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.89 | +0.05% | Stable 🟢 |
-| Military | **RTX** | $212.08 | +0.04% | Stable 🟢 |
-| Military | **NOC** | $545.13 | -0.88% | Stable 🔴 |
-| Energy | **XOM** | $156.44 | -1.11% | Stable 🔴 |
-| Energy | **CVX** | $199.77 | -0.22% | Stable 🔴 |
-| Energy | **COP** | $129.52 | -0.83% | Stable 🔴 |
-| Tech | **TSLA** | $354.81 | +2.60% | Stable 🟢 |
