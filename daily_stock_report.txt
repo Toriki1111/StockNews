@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 30/08/2026 12:01:13
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $563.85 | -0.36% | Stable 🔴 |
+| Military | **RTX** | $211.71 | -0.17% | Stable 🔴 |
+| Military | **NOC** | $545.57 | +0.08% | Stable 🟢 |
+| Energy | **XOM** | $156.71 | +0.17% | Stable 🟢 |
+| Energy | **CVX** | $201.86 | +1.05% | Stable 🟢 |
+| Energy | **COP** | $130.35 | +0.64% | Stable 🟢 |
+| Tech | **TSLA** | $348.75 | -1.71% | Stable 🔴 |
+| Tech | **AAPL** | $319.70 | +1.63% | Stable 🟢 |
+| Tech | **MSFT** | $513.53 | +1.68% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $346.59 | +1.74% | Stable 🟢 |
+| Finance | **JPM** | $357.62 | +0.96% | Stable 🟢 |
+| Finance | **BAC** | $62.32 | +1.88% | Stable 🟢 |
+| Finance | **GS** | $1,033.99 | -0.66% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,529.90 | -1.73% | Stable 🔴 |
+| Precious Metals | **SI=F** | $67.79 | -2.37% | Stable 🔴 |
+| Precious Metals | **GOLD** | $45.55 | -0.94% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+1.  **Market Trend**: Capital is broadly shifting away from Precious Metals, which are seeing significant declines across the board, and showing mixed sentiment in Military stocks. Conversely, Energy and select Tech and Finance stocks are attracting strong inflows, indicating a generally risk-on environment in these sectors.
+2.  **Key Tickers to Watch**: Microsoft (MSFT) is flagged as "Overbought" after a strong +1.68% gain, suggesting caution for new entries or consideration of profit-taking. Silver Futures (SI=F) experienced the largest decline at -2.37%, signaling strong bearish momentum and potential for further downside in precious metals.
+3.  **Actionable Strategy**: For MSFT, consider a "Take Profit" strategy or setting tight stop-losses given the overbought status. For Precious Metals (GC=F, SI=F, GOLD), maintain a "Wait & Watch" stance or consider avoiding long positions as the bearish trend persists.
+----------------------------------------
+
 ### 📊 USA Market Update - 30/08/2026 11:01:14
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here is your concise market report:
 | Precious Metals | **GC=F** | $4,502.90 | -2.32% | Stable 🔴 |
 | Precious Metals | **SI=F** | $67.04 | -3.45% | Stable 🔴 |
 | Precious Metals | **GOLD** | $45.57 | -0.89% | Stable 🔴 |
-
-
-*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
-
-----------------------------------------
-
-### 📊 USA Market Update - 29/08/2026 02:01:18
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $563.75 | -0.38% | Stable 🔴 |
-| Military | **RTX** | $211.84 | -0.12% | Stable 🔴 |
-| Military | **NOC** | $546.91 | +0.33% | Stable 🟢 |
-| Energy | **XOM** | $155.76 | -0.44% | Stable 🔴 |
-| Energy | **CVX** | $201.45 | +0.84% | Stable 🟢 |
-| Energy | **COP** | $130.12 | +0.47% | Stable 🟢 |
-| Tech | **TSLA** | $345.72 | -2.56% | Stable 🔴 |
-| Tech | **AAPL** | $319.45 | +1.55% | Stable 🟢 |
-| Tech | **MSFT** | $513.67 | +1.70% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $347.02 | +1.87% | Stable 🟢 |
-| Finance | **JPM** | $356.65 | +0.69% | Stable 🟢 |
-| Finance | **BAC** | $62.40 | +2.00% | Stable 🟢 |
-| Finance | **GS** | $1,033.92 | -0.67% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,503.80 | -2.30% | Stable 🔴 |
-| Precious Metals | **SI=F** | $67.09 | -3.37% | Stable 🔴 |
-| Precious Metals | **GOLD** | $45.26 | -1.56% | Stable 🔴 |
-
-
-*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
-
-----------------------------------------
-
