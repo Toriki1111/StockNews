@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 31/08/2026 12:01:20
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $563.85 | -0.36% | Stable 🔴 |
+| Military | **RTX** | $211.71 | -0.17% | Stable 🔴 |
+| Military | **NOC** | $545.57 | +0.08% | Stable 🟢 |
+| Energy | **XOM** | $156.71 | +0.17% | Stable 🟢 |
+| Energy | **CVX** | $201.86 | +1.05% | Stable 🟢 |
+| Energy | **COP** | $130.35 | +0.64% | Stable 🟢 |
+| Tech | **TSLA** | $348.75 | -1.71% | Stable 🔴 |
+| Tech | **AAPL** | $319.70 | +1.63% | Stable 🟢 |
+| Tech | **MSFT** | $513.53 | +1.68% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $346.59 | +1.74% | Stable 🟢 |
+| Finance | **JPM** | $357.62 | +0.96% | Stable 🟢 |
+| Finance | **BAC** | $62.32 | +1.88% | Stable 🟢 |
+| Finance | **GS** | $1,033.99 | -0.66% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,470.60 | -0.17% | Stable 🔴 |
+| Precious Metals | **SI=F** | $66.99 | -0.01% | Stable 🔴 |
+| Precious Metals | **GOLD** | $45.55 | -0.94% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis report:
+
+*   **Market Trend**: Capital is clearly flowing into the Energy sector, with all major players showing positive gains, and broadly into Tech (excluding TSLA) and Finance. Conversely, Precious Metals are seeing capital exit, with all related assets experiencing minor to moderate declines.
+*   **Key Tickers to Watch**: Microsoft (MSFT) is flagged as "Overbought" after a strong +1.68% gain, indicating potential for a short-term correction. Tesla (TSLA) stands out with a significant -1.71% drop, diverging sharply from its tech peers and signaling potential underlying weakness or profit-taking.
+*   **Actionable Strategy**: Consider taking profit on overbought tech positions like MSFT and maintaining a "Wait & Watch" approach for TSLA due to its significant downward divergence. Accumulate positions in the strong-performing Energy sector and potentially in robust financial stocks like JPM or BAC.
+----------------------------------------
+
 ### 📊 USA Market Update - 31/08/2026 11:01:14
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1029,3 @@ Here's an analysis of the USA market data:
 | Energy | **CVX** | $201.86 | +1.05% | Stable 🟢 |
 | Energy | **COP** | $130.35 | +0.64% | Stable 🟢 |
 | Tech | **TSLA** | $348.75 | -1.71% | Stable 🔴 |
-| Tech | **AAPL** | $319.70 | +1.63% | Stable 🟢 |
-| Tech | **MSFT** | $513.53 | +1.68% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $346.59 | +1.74% | Stable 🟢 |
-| Finance | **JPM** | $357.62 | +0.96% | Stable 🟢 |
-| Finance | **BAC** | $62.32 | +1.88% | Stable 🟢 |
-| Finance | **GS** | $1,033.99 | -0.66% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,609.70 | +0.25% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **SI=F** | $69.43 | +2.12% | ⚠️ Overbought! 🟢 |
-| Precious Metals | **GOLD** | $45.55 | -0.94% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Capital is broadly rotating into Energy, select Technology (ex-Tesla), and Precious Metals futures, indicating a preference for growth and commodity-linked assets. Conversely, the Military sector shows slight weakness, and some Financials are mixed.
-*   **Key Tickers to Watch**: Microsoft (MSFT) and Silver Futures (SI=F) are flagged as overbought, suggesting potential for near-term consolidation after recent strong gains. Tesla (TSLA) experienced a notable -1.71% decline, warranting close observation.
-*   **Actionable Strategy**: Consider taking partial profits on overbought positions like MSFT and SI=F to manage risk, while maintaining a "Wait & Watch" stance on TSLA for further price action confirmation. For strong sectors like Energy, consider accumulating on any pullbacks.
-----------------------------------------
-
-### 📊 USA Market Update - 30/08/2026 02:01:13
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $563.85 | -0.36% | Stable 🔴 |
