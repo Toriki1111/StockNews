@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 31/08/2026 21:01:15
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $560.09 | -0.67% | Stable 🔴 |
+| Military | **RTX** | $209.18 | -1.20% | Stable 🔴 |
+| Military | **NOC** | $539.46 | -1.12% | Stable 🔴 |
+| Energy | **XOM** | $160.81 | +2.62% | Stable 🟢 |
+| Energy | **CVX** | $206.95 | +2.52% | Stable 🟢 |
+| Energy | **COP** | $133.33 | +2.29% | Stable 🟢 |
+| Tech | **TSLA** | $360.20 | +3.28% | Stable 🟢 |
+| Tech | **AAPL** | $316.89 | -0.88% | Stable 🔴 |
+| Tech | **MSFT** | $508.60 | -0.96% | Stable 🔴 |
+| Tech | **GOOGL** | $339.85 | -1.94% | Stable 🔴 |
+| Finance | **JPM** | $356.88 | -0.21% | Stable 🔴 |
+| Finance | **BAC** | $62.27 | -0.07% | Stable 🔴 |
+| Finance | **GS** | $1,026.76 | -0.70% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,474.00 | -0.09% | Stable 🔴 |
+| Precious Metals | **SI=F** | $67.06 | +0.09% | Stable 🟢 |
+| Precious Metals | **GOLD** | $44.30 | -2.74% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Capital is visibly rotating, flowing into the Energy sector and select Tech (TSLA) which show significant gains, while exiting the Military, Finance, and broader Tech sectors, along with a notable decline in spot gold.
+*   **Key Tickers to Watch**: TSLA is a standout with a +3.28% surge, indicating strong individual momentum despite broader tech weakness; conversely, GOLD's sharp -2.74% drop suggests a significant shift away from safe-haven demand or a strong bout of profit-taking.
+*   **Actionable Strategy**: Consider taking partial profits in the strong-performing Energy sector and TSLA to lock in recent gains. For Military, Finance, and other declining Tech stocks, adopt a "Wait & Watch" stance until clearer directional trends emerge, and review stop-losses for any existing positions in GOLD.
+----------------------------------------
+
 ### 📊 USA Market Update - 31/08/2026 20:01:16
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here's an analysis of the USA market data:
 
 
 ---
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Capital is broadly shifting away from Precious Metals, which are seeing significant declines across the board, and showing mixed sentiment in Military stocks. Conversely, Energy and select Tech and Finance stocks are attracting strong inflows, indicating a generally risk-on environment in these sectors.
-2.  **Key Tickers to Watch**: Microsoft (MSFT) is flagged as "Overbought" after a strong +1.68% gain, suggesting caution for new entries or consideration of profit-taking. Silver Futures (SI=F) experienced the largest decline at -2.37%, signaling strong bearish momentum and potential for further downside in precious metals.
-3.  **Actionable Strategy**: For MSFT, consider a "Take Profit" strategy or setting tight stop-losses given the overbought status. For Precious Metals (GC=F, SI=F, GOLD), maintain a "Wait & Watch" stance or consider avoiding long positions as the bearish trend persists.
-----------------------------------------
-
-### 📊 USA Market Update - 30/08/2026 11:01:14
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $563.85 | -0.36% | Stable 🔴 |
-| Military | **RTX** | $211.71 | -0.17% | Stable 🔴 |
-| Military | **NOC** | $545.57 | +0.08% | Stable 🟢 |
-| Energy | **XOM** | $156.71 | +0.17% | Stable 🟢 |
-| Energy | **CVX** | $201.86 | +1.05% | Stable 🟢 |
-| Energy | **COP** | $130.35 | +0.64% | Stable 🟢 |
-| Tech | **TSLA** | $348.75 | -1.71% | Stable 🔴 |
-| Tech | **AAPL** | $319.70 | +1.63% | Stable 🟢 |
-| Tech | **MSFT** | $513.53 | +1.68% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $346.59 | +1.74% | Stable 🟢 |
-| Finance | **JPM** | $357.62 | +0.96% | Stable 🟢 |
-| Finance | **BAC** | $62.32 | +1.88% | Stable 🟢 |
-| Finance | **GS** | $1,033.99 | -0.66% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,529.90 | -1.73% | Stable 🔴 |
-| Precious Metals | **SI=F** | $67.79 | -2.37% | Stable 🔴 |
-| Precious Metals | **GOLD** | $45.55 | -0.94% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
