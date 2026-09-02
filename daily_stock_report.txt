@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 02/09/2026 09:01:12
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $544.50 | -2.98% | Stable 🔴 |
+| Military | **RTX** | $205.16 | -1.24% | ✅ Oversale 🔴 |
+| Military | **NOC** | $532.91 | -1.26% | Stable 🔴 |
+| Energy | **XOM** | $164.55 | +2.24% | Stable 🟢 |
+| Energy | **CVX** | $211.05 | +2.38% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $136.19 | +2.79% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $356.09 | -3.22% | Stable 🔴 |
+| Tech | **AAPL** | $325.13 | +2.61% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $501.02 | -1.24% | Stable 🔴 |
+| Tech | **GOOGL** | $335.02 | -1.28% | Stable 🔴 |
+| Finance | **JPM** | $354.95 | -0.30% | Stable 🔴 |
+| Finance | **BAC** | $61.99 | +0.08% | Stable 🟢 |
+| Finance | **GS** | $1,002.56 | -2.28% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,348.00 | -1.88% | Stable 🔴 |
+| Precious Metals | **SI=F** | $64.14 | -3.14% | Stable 🔴 |
+| Precious Metals | **GOLD** | $43.16 | -4.02% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 02/09/2026 08:01:14
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1030,3 @@ Here is your concise market report:
 *   **Market Trend**: Capital is visibly shifting away from Military, Finance, and most Tech sectors, indicating a broad market pullback. Conversely, the Energy sector shows robust positive momentum, and specific tech large-cap like TSLA are attracting significant buying interest.
 *   **Key Tickers to Watch**: TSLA stands out with a substantial +4.89% surge, suggesting strong bullish sentiment or specific positive news. On the downside, GOOGL's -2.39% drop indicates notable negative pressure within the broader tech landscape.
 *   **Actionable Strategy**: For current holdings, consider taking profit on strong Energy positions and TSLA, or at least setting tighter stop-loss orders. For other sectors showing weakness (Military, Finance, most Tech), adopt a "Wait & Watch" approach for potential entry points after further consolidation.
-----------------------------------------
-
-### 📊 USA Market Update - 31/08/2026 23:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $560.03 | -0.68% | Stable 🔴 |
-| Military | **RTX** | $208.35 | -1.59% | Stable 🔴 |
-| Military | **NOC** | $538.37 | -1.32% | Stable 🔴 |
-| Energy | **XOM** | $159.07 | +1.51% | Stable 🟢 |
-| Energy | **CVX** | $204.81 | +1.46% | Stable 🟢 |
-| Energy | **COP** | $131.44 | +0.84% | Stable 🟢 |
-| Tech | **TSLA** | $364.70 | +4.57% | Stable 🟢 |
-| Tech | **AAPL** | $314.54 | -1.61% | Stable 🔴 |
-| Tech | **MSFT** | $509.73 | -0.74% | Stable 🔴 |
-| Tech | **GOOGL** | $337.98 | -2.48% | Stable 🔴 |
-| Finance | **JPM** | $355.92 | -0.48% | Stable 🔴 |
-| Finance | **BAC** | $62.12 | -0.31% | Stable 🔴 |
-| Finance | **GS** | $1,024.33 | -0.93% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,482.00 | +0.09% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.00 | +0.01% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.63 | -2.01% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
