@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 02/09/2026 08:01:14
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $544.50 | -2.98% | Stable 🔴 |
+| Military | **RTX** | $205.16 | -1.24% | ✅ Oversale 🔴 |
+| Military | **NOC** | $532.91 | -1.26% | Stable 🔴 |
+| Energy | **XOM** | $164.55 | +2.24% | Stable 🟢 |
+| Energy | **CVX** | $211.05 | +2.38% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $136.19 | +2.79% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $356.09 | -3.22% | Stable 🔴 |
+| Tech | **AAPL** | $325.13 | +2.61% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $501.02 | -1.24% | Stable 🔴 |
+| Tech | **GOOGL** | $335.02 | -1.28% | Stable 🔴 |
+| Finance | **JPM** | $354.95 | -0.30% | Stable 🔴 |
+| Finance | **BAC** | $61.99 | +0.08% | Stable 🟢 |
+| Finance | **GS** | $1,002.56 | -2.28% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,367.60 | -1.43% | Stable 🔴 |
+| Precious Metals | **SI=F** | $64.62 | -2.41% | Stable 🔴 |
+| Precious Metals | **GOLD** | $43.16 | -4.02% | Stable 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 02/09/2026 07:01:17
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -994,37 +1019,6 @@ Here is your concise market report:
 | Precious Metals | **GC=F** | $4,482.00 | +0.09% | Stable 🟢 |
 | Precious Metals | **SI=F** | $67.00 | +0.01% | Stable 🟢 |
 | Precious Metals | **GOLD** | $44.63 | -2.01% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market report:
-
-*   **Market Trend**: Capital is clearly shifting towards the Energy sector, which shows broad positive momentum. Conversely, Military and Finance sectors are experiencing outflows, while Tech shows a divergent trend with strong gains in TSLA amidst declines in other major players.
-*   **Key Tickers to Watch**: TSLA is a key ticker due to its significant +4.57% price surge, indicating strong bullish sentiment despite broader tech sector declines. Conversely, GOOGL's -2.48% drop warrants attention as it represents a notable pullback for a major tech giant, potentially signaling broader weakness.
-*   **Actionable Strategy**: Given the strong performance in Energy, consider accumulating positions in XOM and CVX on any minor pullbacks. For other sectors, especially declining Tech and Finance, adopt a "Wait & Watch" approach to observe for stabilization or further confirmed trends before committing capital.
-----------------------------------------
-
-### 📊 USA Market Update - 31/08/2026 22:01:16
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $560.28 | -0.63% | Stable 🔴 |
-| Military | **RTX** | $208.64 | -1.45% | Stable 🔴 |
-| Military | **NOC** | $539.29 | -1.15% | Stable 🔴 |
-| Energy | **XOM** | $159.44 | +1.74% | Stable 🟢 |
-| Energy | **CVX** | $205.43 | +1.77% | Stable 🟢 |
-| Energy | **COP** | $132.13 | +1.37% | Stable 🟢 |
-| Tech | **TSLA** | $364.45 | +4.50% | Stable 🟢 |
-| Tech | **AAPL** | $315.57 | -1.29% | Stable 🔴 |
-| Tech | **MSFT** | $512.07 | -0.28% | ⚠️ Overbought! 🔴 |
-| Tech | **GOOGL** | $338.10 | -2.45% | Stable 🔴 |
-| Finance | **JPM** | $355.65 | -0.55% | Stable 🔴 |
-| Finance | **BAC** | $62.08 | -0.38% | Stable 🔴 |
-| Finance | **GS** | $1,026.59 | -0.72% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,479.70 | +0.04% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.02 | +0.04% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.91 | -1.41% | Stable 🔴 |
 
 
 ---
