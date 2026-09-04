@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 05/09/2026 02:01:19
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $524.76 | -1.54% | ✅ Oversale 🔴 |
+| Military | **RTX** | $200.71 | -0.70% | ✅ Oversale 🔴 |
+| Military | **NOC** | $515.40 | -2.43% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $160.04 | -1.34% | Stable 🔴 |
+| Energy | **CVX** | $208.42 | -1.37% | Stable 🔴 |
+| Energy | **COP** | $134.82 | -0.67% | Stable 🔴 |
+| Tech | **TSLA** | $354.40 | -5.84% | Stable 🔴 |
+| Tech | **AAPL** | $321.71 | -1.98% | Stable 🔴 |
+| Tech | **MSFT** | $500.54 | -1.88% | Stable 🔴 |
+| Tech | **GOOGL** | $339.08 | -0.99% | Stable 🔴 |
+| Finance | **JPM** | $358.26 | -1.05% | Stable 🔴 |
+| Finance | **BAC** | $62.67 | -0.59% | Stable 🔴 |
+| Finance | **GS** | $1,036.82 | -0.11% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,472.00 | -0.44% | Stable 🔴 |
+| Precious Metals | **SI=F** | $66.61 | -0.54% | Stable 🔴 |
+| Precious Metals | **GOLD** | $45.50 | +9.69% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 05/09/2026 01:01:11
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1030,3 @@ Here is your concise market analysis:
 ### AI Financial Advisor:
 
 Here is your concise, actionable market report:
-
-*   **Market Trend**: Capital is decisively flowing into Precious Metals, with strong performance across gold and silver, and into the Financial sector. Conversely, the Military sector is experiencing significant outflows, evidenced by broad declines and oversold conditions across its major players.
-*   **Key Tickers to Watch**: Lockheed Martin (LMT) and Raytheon Technologies (RTX) are notable as both are flagged "Oversale" following declines of over 2%, signaling potential short-term bounce opportunities. Gold futures (GC=F) and Silver futures (SI=F) also warrant attention due to significant surges over 2.3%, indicating strong bullish momentum.
-*   **Actionable Strategy**: Consider accumulating positions in the oversold Military sector (LMT, RTX) for a potential rebound, assuming a belief in their long-term fundamentals. For "Overbought" assets like CVX, COP, and AAPL, prudent investors should consider taking partial profits or adopting a wait-and-watch approach for better entry points.
-----------------------------------------
-
-### 📊 USA Market Update - 03/09/2026 16:01:10
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $531.55 | -2.38% | ✅ Oversale 🔴 |
-| Military | **RTX** | $200.78 | -2.13% | ✅ Oversale 🔴 |
-| Military | **NOC** | $523.82 | -1.71% | Stable 🔴 |
-| Energy | **XOM** | $164.15 | -0.24% | Stable 🔴 |
-| Energy | **CVX** | $211.78 | +0.35% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $137.20 | +0.74% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $357.01 | +0.26% | Stable 🟢 |
-| Tech | **AAPL** | $324.96 | -0.05% | ⚠️ Overbought! 🔴 |
-| Tech | **MSFT** | $496.82 | -0.84% | Stable 🔴 |
-| Tech | **GOOGL** | $337.12 | +0.63% | Stable 🟢 |
-| Finance | **JPM** | $356.22 | +0.36% | Stable 🟢 |
-| Finance | **BAC** | $62.60 | +0.98% | Stable 🟢 |
-| Finance | **GS** | $1,004.42 | +0.19% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,483.50 | +2.68% | Stable 🟢 |
-| Precious Metals | **SI=F** | $66.58 | +2.87% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.82 | +1.53% | Stable 🟢 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
