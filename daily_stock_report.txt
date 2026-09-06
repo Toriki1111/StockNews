@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 06/09/2026 23:01:10
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $525.28 | -1.44% | ✅ Oversale 🔴 |
+| Military | **RTX** | $200.79 | -0.66% | ✅ Oversale 🔴 |
+| Military | **NOC** | $514.98 | -2.51% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $159.47 | -1.69% | Stable 🔴 |
+| Energy | **CVX** | $208.60 | -1.29% | Stable 🔴 |
+| Energy | **COP** | $134.26 | -1.08% | Stable 🔴 |
+| Tech | **TSLA** | $354.08 | -5.92% | Stable 🔴 |
+| Tech | **AAPL** | $319.97 | -2.51% | Stable 🔴 |
+| Tech | **MSFT** | $499.70 | -2.04% | Stable 🔴 |
+| Tech | **GOOGL** | $338.46 | -1.17% | Stable 🔴 |
+| Finance | **JPM** | $358.64 | -0.94% | Stable 🔴 |
+| Finance | **BAC** | $62.68 | -0.57% | Stable 🔴 |
+| Finance | **GS** | $1,038.61 | +0.07% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,476.60 | -0.34% | Stable 🔴 |
+| Precious Metals | **SI=F** | $66.75 | -0.34% | Stable 🔴 |
+| Precious Metals | **GOLD** | $46.13 | +11.21% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 06/09/2026 22:01:11
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1030,3 @@ Here is an analysis of the provided market data:
 | Tech | **TSLA** | $354.08 | -5.92% | Stable 🔴 |
 | Tech | **AAPL** | $319.97 | -2.51% | Stable 🔴 |
 | Tech | **MSFT** | $499.70 | -2.04% | Stable 🔴 |
-| Tech | **GOOGL** | $338.46 | -1.17% | Stable 🔴 |
-| Finance | **JPM** | $358.64 | -0.94% | Stable 🔴 |
-| Finance | **BAC** | $62.68 | -0.57% | Stable 🔴 |
-| Finance | **GS** | $1,038.61 | +0.07% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,429.80 | -1.38% | Stable 🔴 |
-| Precious Metals | **SI=F** | $66.05 | -1.38% | Stable 🔴 |
-| Precious Metals | **GOLD** | $46.13 | +11.21% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-*   **Market Trend**: Broad market sentiment is distinctly negative across most major sectors (Military, Energy, Tech, Finance), indicating a general flight from risk assets. Conversely, physical gold (GOLD) is experiencing a significant surge, suggesting a strong shift towards perceived safe-haven assets amidst the broader downturn.
-*   **Key Tickers to Watch**: Physical gold (GOLD) stands out with an exceptional +11.21% surge, signaling robust demand and a potential safe-haven play. In contrast, Northrop Grumman (NOC) is notably oversold with a -2.51% decline, indicating strong downward pressure within the military sector.
-*   **Actionable Strategy**: Given the broad market weakness, maintain a "Wait & Watch" approach for most equities. For existing GOLD positions, consider "Take Profit" on a portion of holdings due to the significant rally, while new investors should "Wait & Watch" for a potential pullback or consolidation before entry.
-----------------------------------------
-
-### 📊 USA Market Update - 05/09/2026 12:01:12
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $525.28 | -1.44% | ✅ Oversale 🔴 |
-| Military | **RTX** | $200.79 | -0.66% | ✅ Oversale 🔴 |
-| Military | **NOC** | $514.98 | -2.51% | ✅ Oversale 🔴 |
