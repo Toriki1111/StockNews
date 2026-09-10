@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 10/09/2026 09:01:14
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $524.46 | -2.18% | ✅ Oversale 🔴 |
+| Military | **RTX** | $197.55 | -0.63% | ✅ Oversale 🔴 |
+| Military | **NOC** | $515.57 | -0.58% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $164.23 | +2.22% | Stable 🟢 |
+| Energy | **CVX** | $213.81 | +1.91% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $136.53 | +1.10% | Stable 🟢 |
+| Tech | **TSLA** | $367.81 | -0.10% | Stable 🔴 |
+| Tech | **AAPL** | $315.34 | -0.28% | Stable 🔴 |
+| Tech | **MSFT** | $491.65 | -0.47% | Stable 🔴 |
+| Tech | **GOOGL** | $330.65 | -2.28% | Stable 🔴 |
+| Finance | **JPM** | $354.71 | +0.34% | Stable 🟢 |
+| Finance | **BAC** | $62.67 | +0.45% | Stable 🟢 |
+| Finance | **GS** | $1,028.78 | -0.75% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,454.70 | +1.38% | Stable 🟢 |
+| Precious Metals | **SI=F** | $67.89 | +2.40% | Stable 🟢 |
+| Precious Metals | **GOLD** | $49.33 | +3.92% | Stable 🟢 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 10/09/2026 08:01:15
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1023,3 @@ Here is your concise, actionable market report:
 | Energy | **CVX** | $210.95 | +1.12% | ⚠️ Overbought! 🟢 |
 | Energy | **COP** | $135.27 | +0.76% | Stable 🟢 |
 | Tech | **TSLA** | $367.75 | +3.86% | Stable 🟢 |
-| Tech | **AAPL** | $315.85 | -1.29% | Stable 🔴 |
-| Tech | **MSFT** | $492.50 | -1.44% | Stable 🔴 |
-| Tech | **GOOGL** | $338.39 | -0.02% | Stable 🔴 |
-| Finance | **JPM** | $355.64 | -0.84% | Stable 🔴 |
-| Finance | **BAC** | $62.56 | -0.20% | Stable 🔴 |
-| Finance | **GS** | $1,036.97 | -0.16% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,443.40 | +0.31% | Stable 🟢 |
-| Precious Metals | **SI=F** | $66.96 | +1.37% | Stable 🟢 |
-| Precious Metals | **GOLD** | $46.86 | +1.58% | Stable 🟢 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 08/09/2026 22:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
