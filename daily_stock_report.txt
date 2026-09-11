@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 11/09/2026 12:01:18
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $530.12 | +1.08% | Stable 🟢 |
+| Military | **RTX** | $198.12 | +0.29% | ✅ Oversale 🟢 |
+| Military | **NOC** | $518.95 | +0.66% | Stable 🟢 |
+| Energy | **XOM** | $165.23 | +0.61% | Stable 🟢 |
+| Energy | **CVX** | $212.76 | -0.49% | ⚠️ Overbought! 🔴 |
+| Energy | **COP** | $137.04 | +0.37% | Stable 🟢 |
+| Tech | **TSLA** | $363.56 | -1.16% | Stable 🔴 |
+| Tech | **AAPL** | $326.57 | +3.56% | Stable 🟢 |
+| Tech | **MSFT** | $492.44 | +0.16% | Stable 🟢 |
+| Tech | **GOOGL** | $332.60 | +0.59% | Stable 🟢 |
+| Finance | **JPM** | $353.56 | -0.32% | Stable 🔴 |
+| Finance | **BAC** | $62.56 | -0.18% | Stable 🔴 |
+| Finance | **GS** | $1,019.77 | -0.88% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,373.60 | +0.21% | Stable 🟢 |
+| Precious Metals | **SI=F** | $64.05 | -0.36% | Stable 🔴 |
+| Precious Metals | **GOLD** | $45.88 | -6.99% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 11/09/2026 11:01:11
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,36 +1028,5 @@ Here is your market analysis report:
 *   **Market Trend**: Capital is actively shifting, moving into defensive assets like Precious Metals and the Energy sector, while exiting the Military and Tech sectors which saw broad declines. This suggests a rotation towards perceived safety and commodity strength amidst broader market caution.
 *   **Key Tickers to Watch**: CVX is notably overbought after a strong surge, indicating potential short-term pullback, while LMT presents an oversold opportunity following a significant sector-wide decline. The strong performance in GOLD also warrants attention as a safe-haven indicator.
 *   **Actionable Strategy**: Consider taking partial profits on overbought Energy positions like CVX, and strategically accumulating in oversold Military assets such as LMT, RTX, or NOC, monitoring for stabilization signals. Maintain a "Wait & Watch" approach for the broader tech sector, especially GOOGL, until more clarity emerges.
-----------------------------------------
-
-### 📊 USA Market Update - 10/09/2026 02:01:22
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $525.92 | -1.91% | ✅ Oversale 🔴 |
-| Military | **RTX** | $198.67 | -0.07% | ✅ Oversale 🔴 |
-| Military | **NOC** | $518.37 | -0.04% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $164.87 | +2.62% | Stable 🟢 |
-| Energy | **CVX** | $213.65 | +1.84% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $137.31 | +1.68% | Stable 🟢 |
-| Tech | **TSLA** | $368.77 | +0.16% | Stable 🟢 |
-| Tech | **AAPL** | $316.51 | +0.09% | Stable 🟢 |
-| Tech | **MSFT** | $491.95 | -0.40% | Stable 🔴 |
-| Tech | **GOOGL** | $330.39 | -2.36% | Stable 🔴 |
-| Finance | **JPM** | $355.52 | +0.57% | Stable 🟢 |
-| Finance | **BAC** | $62.83 | +0.71% | Stable 🟢 |
-| Finance | **GS** | $1,031.73 | -0.46% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,452.60 | +1.34% | Stable 🟢 |
-| Precious Metals | **SI=F** | $68.19 | +2.86% | Stable 🟢 |
-| Precious Metals | **GOLD** | $49.15 | +3.55% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market report:
-
-1.  **Market Trend**: Money is significantly flowing into the Energy and Precious Metals sectors, evidenced by consistent positive gains, while a clear exodus is observed from the Military sector with all tickers showing declines and "Oversale" signals.
-2.  **Key Tickers to Watch**: LMT stands out with a -1.91% drop and an "Oversale" status, potentially signaling a short-term rebound candidate or continued sector weakness; conversely, CVX is flagged as "Overbought!" after a +1.84% gain, suggesting an increased risk of a price correction.
-3.  **Actionable Strategy**: Given the "Oversale" status across the Military sector, consider accumulating positions in tickers like LMT for a potential bounce. For CVX, monitor closely and contemplate taking partial profits due to its "Overbought!" signal.
 ----------------------------------------
 
