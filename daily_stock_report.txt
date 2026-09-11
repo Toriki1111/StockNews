@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 12/09/2026 00:01:18
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $525.30 | -0.91% | ✅ Oversale 🔴 |
+| Military | **RTX** | $197.95 | -0.09% | ✅ Oversale 🔴 |
+| Military | **NOC** | $518.94 | -0.00% | Stable 🔴 |
+| Energy | **XOM** | $165.55 | +0.19% | Stable 🟢 |
+| Energy | **CVX** | $213.85 | +0.51% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $136.67 | -0.27% | Stable 🔴 |
+| Tech | **TSLA** | $364.60 | +0.29% | Stable 🟢 |
+| Tech | **AAPL** | $334.64 | +2.47% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $494.55 | +0.43% | Stable 🟢 |
+| Tech | **GOOGL** | $340.83 | +2.47% | Stable 🟢 |
+| Finance | **JPM** | $357.43 | +1.10% | Stable 🟢 |
+| Finance | **BAC** | $62.97 | +0.66% | Stable 🟢 |
+| Finance | **GS** | $1,032.42 | +1.24% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,403.50 | +0.89% | Stable 🟢 |
+| Precious Metals | **SI=F** | $64.98 | +1.08% | Stable 🟢 |
+| Precious Metals | **GOLD** | $48.58 | +5.87% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 11/09/2026 23:01:20
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -994,37 +1026,6 @@ Here is your concise market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 10/09/2026 15:01:22
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $524.46 | -2.18% | ✅ Oversale 🔴 |
-| Military | **RTX** | $197.55 | -0.63% | ✅ Oversale 🔴 |
-| Military | **NOC** | $515.57 | -0.58% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $164.23 | +2.22% | Stable 🟢 |
-| Energy | **CVX** | $213.81 | +1.91% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $136.53 | +1.10% | Stable 🟢 |
-| Tech | **TSLA** | $367.81 | -0.10% | Stable 🔴 |
-| Tech | **AAPL** | $315.34 | -0.28% | Stable 🔴 |
-| Tech | **MSFT** | $491.65 | -0.47% | Stable 🔴 |
-| Tech | **GOOGL** | $330.65 | -2.28% | Stable 🔴 |
-| Finance | **JPM** | $354.71 | +0.34% | Stable 🟢 |
-| Finance | **BAC** | $62.67 | +0.45% | Stable 🟢 |
-| Finance | **GS** | $1,028.78 | -0.75% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,457.30 | +0.94% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.94 | +0.00% | Stable 🟢 |
-| Precious Metals | **GOLD** | $49.33 | +3.92% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the USA market data:
-
-1.  **Market Trend**: Capital is clearly flowing into defensive and commodity-linked sectors like Energy and Precious Metals, while exiting the Military sector and showing weakness in most Tech stocks. This suggests a risk-off sentiment or a move towards inflation hedges.
-2.  **Key Tickers to Watch**: LMT (Military) is notably oversold at -2.18%, potentially signaling a short-term bounce opportunity or indicating continued sector weakness. Conversely, CVX (Energy) is overbought after a +1.91% rise, suggesting it may be due for a consolidation or pullback.
-3.  **Actionable Strategy**: Consider taking partial profits on overbought positions like CVX to de-risk. For opportunistic entry, place LMT and other oversold military stocks on a watch list for potential accumulation on signs of stabilization or reversal.
-----------------------------------------
-
-### 📊 USA Market Update - 10/09/2026 14:01:17
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $524.46 | -2.18% | ✅ Oversale 🔴 |
