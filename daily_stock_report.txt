@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 12/09/2026 11:01:16
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $524.19 | -1.12% | ✅ Oversale 🔴 |
+| Military | **RTX** | $197.68 | -0.22% | ✅ Oversale 🔴 |
+| Military | **NOC** | $518.97 | +0.00% | ✅ Oversale 🟢 |
+| Energy | **XOM** | $165.99 | +0.46% | Stable 🟢 |
+| Energy | **CVX** | $214.06 | +0.61% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $137.35 | +0.23% | Stable 🟢 |
+| Tech | **TSLA** | $365.44 | +0.52% | Stable 🟢 |
+| Tech | **AAPL** | $332.27 | +1.75% | Stable 🟢 |
+| Tech | **MSFT** | $495.63 | +0.65% | Stable 🟢 |
+| Tech | **GOOGL** | $338.50 | +1.77% | Stable 🟢 |
+| Finance | **JPM** | $356.23 | +0.76% | Stable 🟢 |
+| Finance | **BAC** | $62.69 | +0.21% | Stable 🟢 |
+| Finance | **GS** | $1,029.18 | +0.92% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,366.20 | +0.04% | Stable 🟢 |
+| Precious Metals | **SI=F** | $64.55 | +0.42% | Stable 🟢 |
+| Precious Metals | **GOLD** | $48.22 | +5.10% | Stable 🟢 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 12/09/2026 10:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1023,3 @@ Here is your market analysis report:
 | Finance | **GS** | $1,016.41 | -1.20% | Stable 🔴 |
 | Precious Metals | **GC=F** | $4,378.60 | -0.85% | Stable 🔴 |
 | Precious Metals | **SI=F** | $64.47 | -5.11% | Stable 🔴 |
-| Precious Metals | **GOLD** | $45.06 | -8.66% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the USA market data:
-
-*   **Market Trend**: Capital is flowing into selective Tech, particularly Apple, and certain Military/Energy names, while there is a distinct exit from the Finance sector and a sharp retreat from Precious Metals, which are experiencing significant declines.
-*   **Key Tickers to Watch**: Apple (AAPL) shows strong bullish momentum with a +3.17% surge, indicating robust buying interest. Conversely, Chevron (CVX) is marked as "Overbought" despite a slight dip, signaling potential for a near-term correction.
-*   **Actionable Strategy**: For AAPL, consider taking partial profits or adjusting stop-loss orders higher to protect gains. For CVX, "Wait & Watch" for a healthy pullback before initiating new positions, or consider securing existing profits.
-----------------------------------------
-
-### 📊 USA Market Update - 11/09/2026 01:01:15
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $528.15 | +0.70% | ✅ Oversale 🟢 |
-| Military | **RTX** | $197.46 | -0.05% | ✅ Oversale 🔴 |
-| Military | **NOC** | $519.72 | +0.80% | Stable 🟢 |
-| Energy | **XOM** | $165.46 | +0.75% | Stable 🟢 |
-| Energy | **CVX** | $213.35 | -0.22% | ⚠️ Overbought! 🔴 |
-| Energy | **COP** | $137.62 | +0.79% | Stable 🟢 |
-| Tech | **TSLA** | $365.80 | -0.55% | Stable 🔴 |
-| Tech | **AAPL** | $324.72 | +2.98% | Stable 🟢 |
-| Tech | **MSFT** | $492.07 | +0.09% | Stable 🟢 |
