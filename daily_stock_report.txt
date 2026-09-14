@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 14/09/2026 19:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $524.19 | -1.12% | ✅ Oversale 🔴 |
+| Military | **RTX** | $197.68 | -0.22% | ✅ Oversale 🔴 |
+| Military | **NOC** | $518.97 | +0.00% | ✅ Oversale 🟢 |
+| Energy | **XOM** | $165.99 | +0.46% | Stable 🟢 |
+| Energy | **CVX** | $214.06 | +0.61% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $137.35 | +0.23% | Stable 🟢 |
+| Tech | **TSLA** | $365.44 | +0.52% | Stable 🟢 |
+| Tech | **AAPL** | $332.27 | +1.75% | Stable 🟢 |
+| Tech | **MSFT** | $495.63 | +0.65% | Stable 🟢 |
+| Tech | **GOOGL** | $338.50 | +1.77% | Stable 🟢 |
+| Finance | **JPM** | $356.23 | +0.76% | Stable 🟢 |
+| Finance | **BAC** | $62.69 | +0.21% | Stable 🟢 |
+| Finance | **GS** | $1,029.18 | +0.92% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,329.70 | -0.84% | Stable 🔴 |
+| Precious Metals | **SI=F** | $63.37 | -1.84% | Stable 🔴 |
+| Precious Metals | **GOLD** | $48.22 | +5.10% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 14/09/2026 18:01:20
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1030,3 @@ Here is your concise market report:
 ### 📊 USA Market Update - 13/09/2026 09:01:10
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $524.19 | -1.12% | ✅ Oversale 🔴 |
-| Military | **RTX** | $197.68 | -0.22% | ✅ Oversale 🔴 |
-| Military | **NOC** | $518.97 | +0.00% | ✅ Oversale 🟢 |
-| Energy | **XOM** | $165.99 | +0.46% | Stable 🟢 |
-| Energy | **CVX** | $214.06 | +0.61% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $137.35 | +0.23% | Stable 🟢 |
-| Tech | **TSLA** | $365.44 | +0.52% | Stable 🟢 |
-| Tech | **AAPL** | $332.27 | +1.75% | Stable 🟢 |
-| Tech | **MSFT** | $495.63 | +0.65% | Stable 🟢 |
-| Tech | **GOOGL** | $338.50 | +1.77% | Stable 🟢 |
-| Finance | **JPM** | $356.23 | +0.76% | Stable 🟢 |
-| Finance | **BAC** | $62.69 | +0.21% | Stable 🟢 |
-| Finance | **GS** | $1,029.18 | +0.92% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,366.20 | +0.04% | Stable 🟢 |
-| Precious Metals | **SI=F** | $64.55 | +0.42% | Stable 🟢 |
-| Precious Metals | **GOLD** | $48.22 | +5.10% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-1.  **Market Trend**: Capital is strongly flowing into the Technology and Finance sectors, both showing broad positive momentum across major players. Precious metals, particularly physical gold, are also experiencing significant inflows with a notable price surge, contrasting with general weakness and oversold conditions in the Military sector.
-2.  **Key Tickers to Watch**: GOLD (physical gold) saw a substantial 5.10% surge, indicating strong short-term bullish momentum and potential for follow-through or profit-taking. Conversely, CVX (Chevron) is flagged as "Overbought!" after a 0.61% gain, suggesting caution and a possible near-term reversal or consolidation.
