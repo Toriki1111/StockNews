@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 15/09/2026 08:01:58
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $524.19 | -1.12% | ✅ Oversale 🔴 |
+| Military | **RTX** | $197.68 | -0.22% | ✅ Oversale 🔴 |
+| Military | **NOC** | $518.97 | +0.00% | ✅ Oversale 🟢 |
+| Energy | **XOM** | $165.99 | +0.46% | Stable 🟢 |
+| Energy | **CVX** | $214.06 | +0.61% | Stable 🟢 |
+| Energy | **COP** | $137.35 | +0.23% | Stable 🟢 |
+| Tech | **TSLA** | $365.44 | +0.52% | Stable 🟢 |
+| Tech | **AAPL** | $332.27 | +1.75% | Stable 🟢 |
+| Tech | **MSFT** | $495.63 | +0.65% | Stable 🟢 |
+| Tech | **GOOGL** | $338.50 | +1.77% | Stable 🟢 |
+| Finance | **JPM** | $356.23 | +0.76% | Stable 🟢 |
+| Finance | **BAC** | $62.69 | +0.21% | Stable 🟢 |
+| Finance | **GS** | $1,029.18 | +0.92% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,335.70 | -1.66% | Stable 🔴 |
+| Precious Metals | **SI=F** | $63.65 | -1.40% | Stable 🔴 |
+| Precious Metals | **GOLD** | $48.22 | +5.10% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Money is predominantly flowing into the Technology, Energy, and Finance sectors, all showing broad positive momentum. Conversely, traditional Precious Metals futures (GC=F, SI=F) are experiencing significant outflows, while the Military sector shows signs of weakness or potential overselling.
+*   **Key Tickers to Watch**: GOLD recorded a remarkable +5.10% surge, indicating strong, focused buying interest in specific gold assets. Concurrently, Lockheed Martin (LMT) is flagged as "Oversale" following a -1.12% dip, which could present a tactical buying opportunity if the technical signal implies undervaluation.
+*   **Actionable Strategy**: For the robust Tech, Energy, and Finance sectors, consider accumulating positions on any minor pullbacks. Given LMT's "Oversale" status, a cautious, strategic accumulation might be warranted, while for GOLD, taking partial profits could be prudent after its significant short-term rally.
+----------------------------------------
+
 ### 📊 USA Market Update - 15/09/2026 07:01:19
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1029,3 @@ Here's an analysis of the USA market data:
 | Precious Metals | **GOLD** | $48.22 | +5.10% | Stable 🟢 |
 
 
----
-### AI Financial Advisor:
-
-Here is your concise, actionable market report:
-
-*   **Market Trend**: Capital is strongly flowing into Technology, Finance, and Precious Metals, indicating broad market confidence alongside a potential hedge play. The Military sector, however, is experiencing outflows and showing oversold conditions.
-*   **Key Tickers to Watch**: CVX is notably "Overbought," signaling a potential short-term reversal or pullback. Conversely, LMT and RTX are in an "Oversale" status, possibly presenting rebound opportunities, while GOLD's significant +5.10% surge demands attention.
-*   **Actionable Strategy**: Consider taking partial profits or implementing tight stop-losses for CVX given its overbought signal. For LMT and RTX, a "Wait & Watch" approach is advisable for potential entry points, and for GOLD, assess if current holdings warrant profit-taking after its sharp spike.
-----------------------------------------
-
-### 📊 USA Market Update - 13/09/2026 21:01:15
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $524.19 | -1.12% | ✅ Oversale 🔴 |
-| Military | **RTX** | $197.68 | -0.22% | ✅ Oversale 🔴 |
-| Military | **NOC** | $518.97 | +0.00% | ✅ Oversale 🟢 |
-| Energy | **XOM** | $165.99 | +0.46% | Stable 🟢 |
-| Energy | **CVX** | $214.06 | +0.61% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $137.35 | +0.23% | Stable 🟢 |
-| Tech | **TSLA** | $365.44 | +0.52% | Stable 🟢 |
-| Tech | **AAPL** | $332.27 | +1.75% | Stable 🟢 |
-| Tech | **MSFT** | $495.63 | +0.65% | Stable 🟢 |
-| Tech | **GOOGL** | $338.50 | +1.77% | Stable 🟢 |
-| Finance | **JPM** | $356.23 | +0.76% | Stable 🟢 |
-| Finance | **BAC** | $62.69 | +0.21% | Stable 🟢 |
