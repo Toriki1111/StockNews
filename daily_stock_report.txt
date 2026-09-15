@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 15/09/2026 09:01:16
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $529.38 | +0.99% | Stable 🟢 |
+| Military | **RTX** | $195.34 | -1.18% | ✅ Oversale 🔴 |
+| Military | **NOC** | $527.39 | +1.62% | Stable 🟢 |
+| Energy | **XOM** | $165.08 | -0.55% | Stable 🔴 |
+| Energy | **CVX** | $212.17 | -0.88% | Stable 🔴 |
+| Energy | **COP** | $136.67 | -0.50% | Stable 🔴 |
+| Tech | **TSLA** | $358.97 | -1.77% | Stable 🔴 |
+| Tech | **AAPL** | $333.08 | +0.24% | Stable 🟢 |
+| Tech | **MSFT** | $505.41 | +1.97% | Stable 🟢 |
+| Tech | **GOOGL** | $349.39 | +3.22% | Stable 🟢 |
+| Finance | **JPM** | $350.13 | -1.71% | Stable 🔴 |
+| Finance | **BAC** | $59.47 | -5.14% | ✅ Oversale 🔴 |
+| Finance | **GS** | $988.45 | -3.96% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,335.50 | -1.66% | Stable 🔴 |
+| Precious Metals | **SI=F** | $63.67 | -1.38% | Stable 🔴 |
+| Precious Metals | **GOLD** | $47.32 | -1.87% | Stable 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 15/09/2026 08:01:58
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -978,37 +1003,6 @@ Here's an analysis of the USA market data for 14/09/2026:
 ----------------------------------------
 
 ### 📊 USA Market Update - 13/09/2026 23:01:20
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $524.19 | -1.12% | ✅ Oversale 🔴 |
-| Military | **RTX** | $197.68 | -0.22% | ✅ Oversale 🔴 |
-| Military | **NOC** | $518.97 | +0.00% | ✅ Oversale 🟢 |
-| Energy | **XOM** | $165.99 | +0.46% | Stable 🟢 |
-| Energy | **CVX** | $214.06 | +0.61% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $137.35 | +0.23% | Stable 🟢 |
-| Tech | **TSLA** | $365.44 | +0.52% | Stable 🟢 |
-| Tech | **AAPL** | $332.27 | +1.75% | Stable 🟢 |
-| Tech | **MSFT** | $495.63 | +0.65% | Stable 🟢 |
-| Tech | **GOOGL** | $338.50 | +1.77% | Stable 🟢 |
-| Finance | **JPM** | $356.23 | +0.76% | Stable 🟢 |
-| Finance | **BAC** | $62.69 | +0.21% | Stable 🟢 |
-| Finance | **GS** | $1,029.18 | +0.92% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,408.90 | +1.02% | Stable 🟢 |
-| Precious Metals | **SI=F** | $65.19 | +1.41% | Stable 🟢 |
-| Precious Metals | **GOLD** | $48.22 | +5.10% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Capital is clearly flowing into growth-oriented Tech (led by GOOGL and AAPL's strong gains) and safe-haven/inflation-hedge Precious Metals, especially GOLD with its significant surge. Conversely, the Military sector is experiencing outflows and shows widespread "Oversale" technical signals.
-2.  **Key Tickers to Watch**: Chevron (CVX) is flagged as "Overbought!" at $214.06, signaling potential for a near-term correction or profit-taking. Meanwhile, Lockheed Martin (LMT) exemplifies the "Oversale" military sector, down -1.12%, which might present a long-term accumulation opportunity if fundamentals remain strong.
-3.  **Actionable Strategy**: For CVX, we advise *Taking Profit* or tightening stop-losses to secure gains. For the "Oversale" Military sector, adopt a *Wait & Watch* approach for initial rebound confirmation or cautiously *Accumulate* in small tranches on further dips, particularly for LMT.
-----------------------------------------
-
-### 📊 USA Market Update - 13/09/2026 22:01:19
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $524.19 | -1.12% | ✅ Oversale 🔴 |
