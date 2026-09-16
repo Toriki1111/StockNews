@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 16/09/2026 08:01:11
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $529.38 | +0.99% | Stable 🟢 |
+| Military | **RTX** | $195.34 | -1.18% | ✅ Oversale 🔴 |
+| Military | **NOC** | $527.39 | +1.62% | Stable 🟢 |
+| Energy | **XOM** | $165.08 | -0.55% | Stable 🔴 |
+| Energy | **CVX** | $212.17 | -0.88% | Stable 🔴 |
+| Energy | **COP** | $136.67 | -0.50% | Stable 🔴 |
+| Tech | **TSLA** | $358.97 | -1.77% | Stable 🔴 |
+| Tech | **AAPL** | $333.08 | +0.24% | Stable 🟢 |
+| Tech | **MSFT** | $505.41 | +1.97% | Stable 🟢 |
+| Tech | **GOOGL** | $349.39 | +3.22% | Stable 🟢 |
+| Finance | **JPM** | $350.13 | -1.71% | Stable 🔴 |
+| Finance | **BAC** | $59.47 | -5.14% | ✅ Oversale 🔴 |
+| Finance | **GS** | $988.45 | -3.96% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,322.20 | -0.68% | Stable 🔴 |
+| Precious Metals | **SI=F** | $64.14 | +0.99% | Stable 🟢 |
+| Precious Metals | **GOLD** | $47.32 | -1.87% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+*   **Market Trend**: Money is actively flowing into specific large-cap Technology stocks like GOOGL and MSFT, alongside select Military names such as NOC and LMT. Conversely, there is a noticeable outflow from the Energy, Finance, and Gold sectors.
+*   **Key Tickers to Watch**: Bank of America (BAC) has experienced a significant -5.14% drop and, along with RTX at -1.18%, is explicitly flagged as "Oversale," presenting potential short-term value opportunities.
+*   **Actionable Strategy**: Consider accumulating positions in oversold tickers like BAC and RTX, watching for a potential rebound. For strong-performing Tech stocks such as GOOGL and MSFT, monitor for continued bullish momentum, or await slight pullbacks for more strategic entry points.
+----------------------------------------
+
 ### 📊 USA Market Update - 16/09/2026 07:01:58
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -997,35 +1028,4 @@ Here is your market analysis report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 14/09/2026 22:01:30
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $528.46 | +0.81% | Stable 🟢 |
-| Military | **RTX** | $194.49 | -1.61% | ✅ Oversale 🔴 |
-| Military | **NOC** | $529.04 | +1.94% | Stable 🟢 |
-| Energy | **XOM** | $167.24 | +0.75% | Stable 🟢 |
-| Energy | **CVX** | $215.79 | +0.81% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $138.98 | +1.19% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $358.60 | -1.87% | Stable 🔴 |
-| Tech | **AAPL** | $332.79 | +0.16% | Stable 🟢 |
-| Tech | **MSFT** | $501.40 | +1.16% | Stable 🟢 |
-| Tech | **GOOGL** | $344.73 | +1.84% | Stable 🟢 |
-| Finance | **JPM** | $351.21 | -1.41% | Stable 🔴 |
-| Finance | **BAC** | $61.81 | -1.41% | Stable 🔴 |
-| Finance | **GS** | $999.09 | -2.92% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,317.70 | -1.11% | Stable 🔴 |
-| Precious Metals | **SI=F** | $63.44 | -1.73% | Stable 🔴 |
-| Precious Metals | **GOLD** | $47.98 | -0.50% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Capital is visibly flowing into the Energy sector, with all stocks showing gains and two in overbought territory, while money is exiting the Financials and Precious Metals sectors, which are uniformly down. Tech and Military sectors show mixed performance.
-*   **Key Tickers to Watch**: RTX is signaling "Oversale" with a -1.61% drop, potentially presenting a short-term rebound opportunity. Conversely, CVX and COP are "Overbought," indicating they might be due for a pullback or consolidation.
-*   **Actionable Strategy**: Consider accumulating RTX for a potential bounce, but exercise caution with CVX and COP by either taking partial profits or setting tight stop-loss orders due to their overbought status. Maintain a "Wait & Watch" approach for the broader Financials and Precious Metals until clear upward momentum is established.
-----------------------------------------
-
-### 📊 USA Market Update - 14/09/2026 21:01:24
 
