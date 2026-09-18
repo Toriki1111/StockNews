@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 18/09/2026 08:01:11
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $537.25 | +0.71% | Stable 🟢 |
+| Military | **RTX** | $196.83 | +0.68% | ✅ Oversale 🟢 |
+| Military | **NOC** | $530.78 | -0.09% | Stable 🔴 |
+| Energy | **XOM** | $163.32 | -3.54% | Stable 🔴 |
+| Energy | **CVX** | $211.54 | -2.86% | Stable 🔴 |
+| Energy | **COP** | $132.54 | -6.15% | Stable 🔴 |
+| Tech | **TSLA** | $358.08 | +0.42% | Stable 🟢 |
+| Tech | **AAPL** | $332.41 | +0.32% | Stable 🟢 |
+| Tech | **MSFT** | $490.30 | -1.37% | Stable 🔴 |
+| Tech | **GOOGL** | $342.87 | -0.61% | Stable 🔴 |
+| Finance | **JPM** | $348.92 | -1.01% | Stable 🔴 |
+| Finance | **BAC** | $57.90 | -2.72% | ✅ Oversale 🔴 |
+| Finance | **GS** | $937.98 | -3.96% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,394.10 | +0.15% | Stable 🟢 |
+| Precious Metals | **SI=F** | $66.17 | +2.93% | Stable 🟢 |
+| Precious Metals | **GOLD** | $46.82 | -2.05% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Capital is broadly exiting the Energy and Financial sectors, which are experiencing significant declines, while the Military sector and certain Precious Metals (Silver) show relative strength and capital inflow.
+*   **Key Tickers to Watch**: Financial giants **BAC** (-2.72%) and **GS** (-3.96%) are notable as they are flagged "Oversale" after substantial price drops, indicating potential for a short-term rebound or an attractive valuation.
+*   **Actionable Strategy**: Adopt a "Wait & Watch" stance on the Energy and broader Financial sectors due to current outflows. For risk-tolerant investors, cautiously consider accumulating positions in **BAC** or **GS** on current weakness, anticipating a potential bounce from oversold conditions.
+----------------------------------------
+
 ### 📊 USA Market Update - 18/09/2026 07:01:22
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1029,3 @@ Here is your concise, actionable market report:
 
 ### 📊 USA Market Update - 16/09/2026 22:01:20
 
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $536.86 | +0.64% | Stable 🟢 |
-| Military | **RTX** | $196.58 | +0.55% | ✅ Oversale 🟢 |
-| Military | **NOC** | $532.68 | +0.27% | Stable 🟢 |
-| Energy | **XOM** | $163.80 | -3.26% | Stable 🔴 |
-| Energy | **CVX** | $211.60 | -2.84% | Stable 🔴 |
-| Energy | **COP** | $133.88 | -5.20% | Stable 🔴 |
-| Tech | **TSLA** | $364.72 | +2.28% | Stable 🟢 |
-| Tech | **AAPL** | $333.75 | +0.73% | Stable 🟢 |
-| Tech | **MSFT** | $493.05 | -0.82% | Stable 🔴 |
-| Tech | **GOOGL** | $346.61 | +0.47% | Stable 🟢 |
-| Finance | **JPM** | $352.30 | -0.06% | Stable 🔴 |
-| Finance | **BAC** | $58.76 | -1.29% | ✅ Oversale 🔴 |
-| Finance | **GS** | $980.21 | +0.36% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,394.80 | +1.43% | Stable 🟢 |
-| Precious Metals | **SI=F** | $65.09 | +2.93% | Stable 🟢 |
-| Precious Metals | **GOLD** | $47.84 | +0.08% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the provided market data:
-
-1.  **Market Trend**: Capital is actively rotating into defensive and inflation-hedging sectors, specifically Military and Precious Metals, which show broad positive performance. Conversely, the Energy sector is experiencing significant outflows, with all major players showing substantial declines.
-2.  **Key Tickers to Watch**: **RTX** (Military) presents a potential "buy-the-dip" opportunity with its "Oversale" status amidst a robust sector, suggesting a technical rebound is possible. Additionally, **SI=F** (Silver Futures) surged significantly, indicating strong momentum and investor interest in precious metals as a hedge.
-3.  **Actionable Strategy**: Consider accumulating positions in quality Military sector stocks like RTX and Precious Metal assets, capitalizing on their current momentum and oversold signals. For the Energy sector, maintain a "Wait & Watch" approach or implement strict stop-loss orders until a clearer bottom is established.
-----------------------------------------
-
-### 📊 USA Market Update - 16/09/2026 21:01:18
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
