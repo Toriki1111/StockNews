@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 21/09/2026 14:01:21
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $533.38 | -0.88% | Stable 🔴 |
+| Military | **RTX** | $194.00 | +0.24% | ✅ Oversale 🟢 |
+| Military | **NOC** | $527.39 | +0.65% | Stable 🟢 |
+| Energy | **XOM** | $163.54 | +0.17% | Stable 🟢 |
+| Energy | **CVX** | $209.51 | -0.97% | Stable 🔴 |
+| Energy | **COP** | $131.83 | -1.02% | Stable 🔴 |
+| Tech | **TSLA** | $364.27 | -0.53% | Stable 🔴 |
+| Tech | **AAPL** | $336.13 | -0.26% | Stable 🔴 |
+| Tech | **MSFT** | $493.78 | -0.80% | Stable 🔴 |
+| Tech | **GOOGL** | $349.54 | +0.64% | Stable 🟢 |
+| Finance | **JPM** | $349.67 | +0.10% | Stable 🟢 |
+| Finance | **BAC** | $57.73 | -0.77% | ✅ Oversale 🔴 |
+| Finance | **GS** | $942.00 | -1.00% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,388.40 | -0.82% | Stable 🔴 |
+| Precious Metals | **SI=F** | $66.47 | -0.13% | Stable 🔴 |
+| Precious Metals | **GOLD** | $45.46 | -3.01% | Stable 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 21/09/2026 13:01:15
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1023,3 @@ Here's an analysis of the USA market data:
 | Tech | **AAPL** | $336.13 | -0.26% | Stable 🔴 |
 | Tech | **MSFT** | $493.78 | -0.80% | Stable 🔴 |
 | Tech | **GOOGL** | $349.54 | +0.64% | Stable 🟢 |
-| Finance | **JPM** | $349.67 | +0.10% | Stable 🟢 |
-| Finance | **BAC** | $57.73 | -0.77% | ✅ Oversale 🔴 |
-| Finance | **GS** | $942.00 | -1.00% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,424.90 | +0.57% | Stable 🟢 |
-| Precious Metals | **SI=F** | $66.56 | +1.66% | Stable 🟢 |
-| Precious Metals | **GOLD** | $45.46 | -3.01% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Capital is largely exiting growth sectors like Technology, Energy, and Finance, evidenced by widespread declines, while defensive assets and precious metal futures are attracting inflows, signaling a cautious, risk-off sentiment. The significant rise in gold and silver futures contrasts sharply with the broader market's weakness.
-*   **Key Tickers to Watch**: RTX (Military) stands out with an "Oversale" signal combined with positive price movement, suggesting potential undervalued buying interest and a possible technical rebound. Conversely, BAC (Finance) also displays an "Oversale" signal but continues to drop, indicating ongoing downward pressure that requires careful monitoring.
-*   **Actionable Strategy**: For RTX, consider initiating a small accumulation phase, given the oversale signal and positive momentum. For the broader market, maintain a "Wait & Watch" stance on declining tech and energy stocks, while closely monitoring GOLD for a potential rebound following its significant dip, especially if precious metals futures continue their strong performance.
-----------------------------------------
-
-### 📊 USA Market Update - 20/09/2026 04:01:14
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $533.38 | -0.88% | Stable 🔴 |
-| Military | **RTX** | $194.00 | +0.24% | ✅ Oversale 🟢 |
-| Military | **NOC** | $527.39 | +0.65% | Stable 🟢 |
-| Energy | **XOM** | $163.54 | +0.17% | Stable 🟢 |
-| Energy | **CVX** | $209.51 | -0.97% | Stable 🔴 |
-| Energy | **COP** | $131.83 | -1.02% | Stable 🔴 |
-| Tech | **TSLA** | $364.27 | -0.53% | Stable 🔴 |
-| Tech | **AAPL** | $336.13 | -0.26% | Stable 🔴 |
-| Tech | **MSFT** | $493.78 | -0.80% | Stable 🔴 |
-| Tech | **GOOGL** | $349.54 | +0.64% | Stable 🟢 |
-| Finance | **JPM** | $349.67 | +0.10% | Stable 🟢 |
