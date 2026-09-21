@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 21/09/2026 23:01:22
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $535.72 | +0.44% | Stable 🟢 |
+| Military | **RTX** | $194.44 | +0.23% | ✅ Oversale 🟢 |
+| Military | **NOC** | $524.15 | -0.61% | Stable 🔴 |
+| Energy | **XOM** | $159.04 | -2.75% | Stable 🔴 |
+| Energy | **CVX** | $205.70 | -1.82% | Stable 🔴 |
+| Energy | **COP** | $127.96 | -2.93% | Stable 🔴 |
+| Tech | **TSLA** | $374.42 | +2.79% | Stable 🟢 |
+| Tech | **AAPL** | $337.80 | +0.50% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $494.24 | +0.09% | Stable 🟢 |
+| Tech | **GOOGL** | $356.63 | +2.03% | Stable 🟢 |
+| Finance | **JPM** | $350.98 | +0.37% | Stable 🟢 |
+| Finance | **BAC** | $57.94 | +0.36% | ✅ Oversale 🟢 |
+| Finance | **GS** | $948.84 | +0.73% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,386.90 | -0.86% | Stable 🔴 |
+| Precious Metals | **SI=F** | $66.64 | +0.12% | Stable 🟢 |
+| Precious Metals | **GOLD** | $44.39 | -2.35% | Stable 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 21/09/2026 22:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -990,37 +1015,6 @@ Here's an analysis of the USA market update:
 ----------------------------------------
 
 ### 📊 USA Market Update - 20/09/2026 14:01:18
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $533.38 | -0.88% | Stable 🔴 |
-| Military | **RTX** | $194.00 | +0.24% | ✅ Oversale 🟢 |
-| Military | **NOC** | $527.39 | +0.65% | Stable 🟢 |
-| Energy | **XOM** | $163.54 | +0.17% | Stable 🟢 |
-| Energy | **CVX** | $209.51 | -0.97% | Stable 🔴 |
-| Energy | **COP** | $131.83 | -1.02% | Stable 🔴 |
-| Tech | **TSLA** | $364.27 | -0.53% | Stable 🔴 |
-| Tech | **AAPL** | $336.13 | -0.26% | Stable 🔴 |
-| Tech | **MSFT** | $493.78 | -0.80% | Stable 🔴 |
-| Tech | **GOOGL** | $349.54 | +0.64% | Stable 🟢 |
-| Finance | **JPM** | $349.67 | +0.10% | Stable 🟢 |
-| Finance | **BAC** | $57.73 | -0.77% | ✅ Oversale 🔴 |
-| Finance | **GS** | $942.00 | -1.00% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,424.90 | +0.57% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.15 | +2.56% | Stable 🟢 |
-| Precious Metals | **GOLD** | $45.46 | -3.01% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's a concise, actionable report:
-
-1.  **Market Trend**: Capital is notably flowing into Precious Metals, particularly Silver futures (SI=F), while showing signs of exiting several major Tech and Energy sector equities, alongside a significant dip in physical Gold. This indicates a selective pursuit of commodity momentum and a cautious stance on broad equity markets.
-2.  **Key Tickers to Watch**: Focus on **BAC** (Bank of America), which is flagged as 'Oversale' and continues to decline, potentially signaling a deeper value opportunity if fundamentals remain strong, or further downside if sentiment sours. Also, observe **SI=F** (Silver Futures) for its significant +2.56% surge, reflecting strong short-term bullish momentum.
-3.  **Actionable Strategy**: For oversold financials like BAC, a "Wait & Watch" approach is recommended to confirm stabilization before considering accumulation. For SI=F, existing holders might consider "Take Profit" on the significant surge, while new entrants should "Wait & Watch" for a more sustainable entry point following such a sharp move.
-----------------------------------------
-
-### 📊 USA Market Update - 20/09/2026 13:01:15
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $533.38 | -0.88% | Stable 🔴 |
