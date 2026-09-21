@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 21/09/2026 15:01:19
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $533.38 | -0.88% | Stable 🔴 |
+| Military | **RTX** | $194.00 | +0.24% | ✅ Oversale 🟢 |
+| Military | **NOC** | $527.39 | +0.65% | Stable 🟢 |
+| Energy | **XOM** | $163.54 | +0.17% | Stable 🟢 |
+| Energy | **CVX** | $209.51 | -0.97% | Stable 🔴 |
+| Energy | **COP** | $131.83 | -1.02% | Stable 🔴 |
+| Tech | **TSLA** | $364.27 | -0.53% | Stable 🔴 |
+| Tech | **AAPL** | $336.13 | -0.26% | Stable 🔴 |
+| Tech | **MSFT** | $493.78 | -0.80% | Stable 🔴 |
+| Tech | **GOOGL** | $349.54 | +0.64% | Stable 🟢 |
+| Finance | **JPM** | $349.67 | +0.10% | Stable 🟢 |
+| Finance | **BAC** | $57.73 | -0.77% | ✅ Oversale 🔴 |
+| Finance | **GS** | $942.00 | -1.00% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,386.40 | -0.87% | Stable 🔴 |
+| Precious Metals | **SI=F** | $66.48 | -0.11% | Stable 🔴 |
+| Precious Metals | **GOLD** | $45.46 | -3.01% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 21/09/2026 14:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1030,3 @@ Here is your concise, actionable report:
 | Precious Metals | **GC=F** | $4,424.90 | +0.57% | Stable 🟢 |
 | Precious Metals | **SI=F** | $66.56 | +1.66% | Stable 🟢 |
 | Precious Metals | **GOLD** | $45.46 | -3.01% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Equities generally exhibit a bearish sentiment, with notable declines across Technology, Energy, and Finance sectors, suggesting money is exiting these areas. The Military sector shows mixed but slightly positive performance, while Precious Metals present a divergent picture with futures gaining but physical gold experiencing a significant sell-off.
-2.  **Key Tickers to Watch**: Raytheon Technologies (RTX) is highlighted as "Oversale" with a positive price change, potentially signaling a short-term bottom or value play. Conversely, Bank of America (BAC) remains "Oversale" while continuing its decline, indicating persistent downward pressure and potential for further depreciation.
-3.  **Actionable Strategy**: Given the general market weakness, consider a cautious accumulation strategy for RTX, targeting its potential bounce from oversold conditions. For BAC, it is advisable to "Wait & Watch" for now, as its ongoing decline despite being oversold suggests further price consolidation before considering any entry.
-----------------------------------------
-
-### 📊 USA Market Update - 20/09/2026 05:01:16
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $533.38 | -0.88% | Stable 🔴 |
-| Military | **RTX** | $194.00 | +0.24% | ✅ Oversale 🟢 |
-| Military | **NOC** | $527.39 | +0.65% | Stable 🟢 |
-| Energy | **XOM** | $163.54 | +0.17% | Stable 🟢 |
-| Energy | **CVX** | $209.51 | -0.97% | Stable 🔴 |
-| Energy | **COP** | $131.83 | -1.02% | Stable 🔴 |
-| Tech | **TSLA** | $364.27 | -0.53% | Stable 🔴 |
-| Tech | **AAPL** | $336.13 | -0.26% | Stable 🔴 |
-| Tech | **MSFT** | $493.78 | -0.80% | Stable 🔴 |
-| Tech | **GOOGL** | $349.54 | +0.64% | Stable 🟢 |
