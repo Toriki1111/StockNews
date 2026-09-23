@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 23/09/2026 16:01:18
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $535.40 | +0.38% | Stable 🟢 |
+| Military | **RTX** | $194.34 | +0.18% | ✅ Oversale 🟢 |
+| Military | **NOC** | $526.66 | -0.14% | Stable 🔴 |
+| Energy | **XOM** | $158.30 | -3.20% | Stable 🔴 |
+| Energy | **CVX** | $203.67 | -2.79% | Stable 🔴 |
+| Energy | **COP** | $127.53 | -3.26% | Stable 🔴 |
+| Tech | **TSLA** | $375.30 | +3.03% | Stable 🟢 |
+| Tech | **AAPL** | $338.98 | +0.85% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $501.61 | +1.59% | Stable 🟢 |
+| Tech | **GOOGL** | $354.97 | +1.55% | Stable 🟢 |
+| Finance | **JPM** | $352.04 | +0.68% | Stable 🟢 |
+| Finance | **BAC** | $57.96 | +0.40% | ✅ Oversale 🟢 |
+| Finance | **GS** | $959.39 | +1.85% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,354.00 | -0.51% | Stable 🔴 |
+| Precious Metals | **SI=F** | $65.94 | +0.01% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.80 | -3.65% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis:
+
+*   **Market Trend**: Capital is clearly rotating into the Technology and Finance sectors, both showing broad positive gains, while a significant outflow is observed from the Energy sector and specific precious metals like GOLD and gold futures.
+*   **Key Tickers to Watch**: Apple (AAPL) is signaled as "Overbought" after a decent gain, suggesting potential short-term profit-taking, while Raytheon Technologies (RTX) is marked as "Oversale" despite a positive day, indicating a possible accumulation opportunity.
+*   **Actionable Strategy**: Consider taking partial profits or setting stop-loss orders on overperforming tech holdings like AAPL, and explore accumulation in oversold quality defense stocks like RTX; meanwhile, maintain a "Wait & Watch" stance or consider short positions on the broadly underperforming Energy sector.
+----------------------------------------
+
 ### 📊 USA Market Update - 23/09/2026 15:01:15
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1029,3 @@ Here is your market update:
 
 *(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
 
-----------------------------------------
-
-### 📊 USA Market Update - 22/09/2026 06:01:25
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $535.40 | +0.38% | Stable 🟢 |
-| Military | **RTX** | $194.34 | +0.18% | ✅ Oversale 🟢 |
-| Military | **NOC** | $526.66 | -0.14% | Stable 🔴 |
-| Energy | **XOM** | $158.30 | -3.20% | Stable 🔴 |
-| Energy | **CVX** | $203.67 | -2.79% | Stable 🔴 |
-| Energy | **COP** | $127.53 | -3.26% | Stable 🔴 |
-| Tech | **TSLA** | $375.30 | +3.03% | Stable 🟢 |
-| Tech | **AAPL** | $338.98 | +0.85% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $501.61 | +1.59% | Stable 🟢 |
-| Tech | **GOOGL** | $354.97 | +1.55% | Stable 🟢 |
-| Finance | **JPM** | $352.04 | +0.68% | Stable 🟢 |
-| Finance | **BAC** | $57.96 | +0.40% | ✅ Oversale 🟢 |
-| Finance | **GS** | $959.39 | +1.85% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,398.30 | -0.60% | Stable 🔴 |
-| Precious Metals | **SI=F** | $66.82 | +0.40% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.80 | -3.65% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis report:
-
-*   **Market Trend**: Capital is actively shifting, demonstrating strong inflows into the Technology and Finance sectors, while concurrently exiting Energy and Precious Metals, particularly physical gold which saw a sharp decline.
-*   **Key Tickers to Watch**: **AAPL** is highlighted as Overbought, suggesting potential short-term pullback, while **GOLD** experienced a significant -3.65% drop, signaling strong selling pressure in the physical commodity.
-*   **Actionable Strategy**: Consider taking partial profits on overextended tech plays like AAPL; for Energy and physical Gold, a "Wait & Watch" approach is prudent until stabilization signals emerge, while cautiously accumulating oversold value in sectors like Finance (BAC).
