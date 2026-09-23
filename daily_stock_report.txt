@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 23/09/2026 14:01:28
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $535.40 | +0.38% | Stable 🟢 |
+| Military | **RTX** | $194.34 | +0.18% | ✅ Oversale 🟢 |
+| Military | **NOC** | $526.66 | -0.14% | Stable 🔴 |
+| Energy | **XOM** | $158.30 | -3.20% | Stable 🔴 |
+| Energy | **CVX** | $203.67 | -2.79% | Stable 🔴 |
+| Energy | **COP** | $127.53 | -3.26% | Stable 🔴 |
+| Tech | **TSLA** | $375.30 | +3.03% | Stable 🟢 |
+| Tech | **AAPL** | $338.98 | +0.85% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $501.61 | +1.59% | Stable 🟢 |
+| Tech | **GOOGL** | $354.97 | +1.55% | Stable 🟢 |
+| Finance | **JPM** | $352.04 | +0.68% | Stable 🟢 |
+| Finance | **BAC** | $57.96 | +0.40% | ✅ Oversale 🟢 |
+| Finance | **GS** | $959.39 | +1.85% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,372.90 | -0.08% | Stable 🔴 |
+| Precious Metals | **SI=F** | $66.72 | +1.20% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.80 | -3.65% | Stable 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 23/09/2026 13:01:14
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1023,3 @@ Here is your market analysis report:
 
 *(AI Error 503: {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 22/09/2026 04:01:19
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $535.40 | +0.38% | Stable 🟢 |
-| Military | **RTX** | $194.34 | +0.18% | ✅ Oversale 🟢 |
-| Military | **NOC** | $526.66 | -0.14% | Stable 🔴 |
-| Energy | **XOM** | $158.30 | -3.20% | Stable 🔴 |
-| Energy | **CVX** | $203.67 | -2.79% | Stable 🔴 |
-| Energy | **COP** | $127.53 | -3.26% | Stable 🔴 |
-| Tech | **TSLA** | $375.30 | +3.03% | Stable 🟢 |
-| Tech | **AAPL** | $338.98 | +0.85% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $501.61 | +1.59% | Stable 🟢 |
-| Tech | **GOOGL** | $354.97 | +1.55% | Stable 🟢 |
-| Finance | **JPM** | $352.04 | +0.68% | Stable 🟢 |
-| Finance | **BAC** | $57.96 | +0.40% | ✅ Oversale 🟢 |
-| Finance | **GS** | $959.39 | +1.85% | Stable 🟢 |
