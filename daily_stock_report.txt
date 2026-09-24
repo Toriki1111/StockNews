@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 25/09/2026 02:01:21
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $526.94 | +0.43% | Stable 🟢 |
+| Military | **RTX** | $190.48 | -0.89% | ✅ Oversale 🔴 |
+| Military | **NOC** | $512.95 | -0.29% | Stable 🔴 |
+| Energy | **XOM** | $161.70 | +0.29% | Stable 🟢 |
+| Energy | **CVX** | $206.04 | +0.26% | Stable 🟢 |
+| Energy | **COP** | $129.49 | +1.09% | Stable 🟢 |
+| Tech | **TSLA** | $379.72 | -0.11% | Stable 🔴 |
+| Tech | **AAPL** | $337.36 | +0.10% | Stable 🟢 |
+| Tech | **MSFT** | $497.25 | -0.67% | Stable 🔴 |
+| Tech | **GOOGL** | $341.67 | +1.14% | Stable 🟢 |
+| Finance | **JPM** | $337.21 | -0.09% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $56.05 | +0.09% | ✅ Oversale 🟢 |
+| Finance | **GS** | $921.39 | -1.60% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,308.90 | -0.22% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $64.28 | -0.16% | Stable 🔴 |
+| Precious Metals | **GOLD** | $43.53 | +0.11% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market report:
+
+*   **Market Trend**: Capital is flowing into the Energy sector and specific tech giants like GOOGL, while the Military, Finance, and Precious Metals futures sectors are experiencing outflows, marked by several oversold indicators.
+*   **Key Tickers to Watch**: Goldman Sachs (GS) stands out with a significant -1.60% drop and an "Oversale" signal, suggesting strong bearish pressure or a potential value opportunity. Raytheon Technologies (RTX) also presents as "Oversale" after a modest decline, warranting close observation for a potential rebound.
+*   **Actionable Strategy**: For investors with a medium to long-term horizon, consider accumulating positions in oversold financial stocks like GS and military contractor RTX, anticipating a potential rebound. For strong performers like COP and GOOGL, it's prudent to set trailing stop-losses to protect recent gains.
+----------------------------------------
+
 ### 📊 USA Market Update - 25/09/2026 01:01:24
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -995,37 +1026,6 @@ Here's your concise market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 23/09/2026 16:01:18
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $535.40 | +0.38% | Stable 🟢 |
-| Military | **RTX** | $194.34 | +0.18% | ✅ Oversale 🟢 |
-| Military | **NOC** | $526.66 | -0.14% | Stable 🔴 |
-| Energy | **XOM** | $158.30 | -3.20% | Stable 🔴 |
-| Energy | **CVX** | $203.67 | -2.79% | Stable 🔴 |
-| Energy | **COP** | $127.53 | -3.26% | Stable 🔴 |
-| Tech | **TSLA** | $375.30 | +3.03% | Stable 🟢 |
-| Tech | **AAPL** | $338.98 | +0.85% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $501.61 | +1.59% | Stable 🟢 |
-| Tech | **GOOGL** | $354.97 | +1.55% | Stable 🟢 |
-| Finance | **JPM** | $352.04 | +0.68% | Stable 🟢 |
-| Finance | **BAC** | $57.96 | +0.40% | ✅ Oversale 🟢 |
-| Finance | **GS** | $959.39 | +1.85% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,354.00 | -0.51% | Stable 🔴 |
-| Precious Metals | **SI=F** | $65.94 | +0.01% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.80 | -3.65% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-*   **Market Trend**: Capital is clearly rotating into the Technology and Finance sectors, both showing broad positive gains, while a significant outflow is observed from the Energy sector and specific precious metals like GOLD and gold futures.
-*   **Key Tickers to Watch**: Apple (AAPL) is signaled as "Overbought" after a decent gain, suggesting potential short-term profit-taking, while Raytheon Technologies (RTX) is marked as "Oversale" despite a positive day, indicating a possible accumulation opportunity.
-*   **Actionable Strategy**: Consider taking partial profits or setting stop-loss orders on overperforming tech holdings like AAPL, and explore accumulation in oversold quality defense stocks like RTX; meanwhile, maintain a "Wait & Watch" stance or consider short positions on the broadly underperforming Energy sector.
-----------------------------------------
-
-### 📊 USA Market Update - 23/09/2026 15:01:15
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $535.40 | +0.38% | Stable 🟢 |
