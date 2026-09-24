@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 24/09/2026 18:01:26
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $524.68 | -2.00% | Stable 🔴 |
+| Military | **RTX** | $192.19 | -1.11% | ✅ Oversale 🔴 |
+| Military | **NOC** | $514.42 | -2.32% | Stable 🔴 |
+| Energy | **XOM** | $161.23 | +1.85% | Stable 🟢 |
+| Energy | **CVX** | $205.51 | +0.90% | Stable 🟢 |
+| Energy | **COP** | $128.09 | +0.44% | Stable 🟢 |
+| Tech | **TSLA** | $380.12 | +0.32% | Stable 🟢 |
+| Tech | **AAPL** | $337.02 | -0.80% | Stable 🔴 |
+| Tech | **MSFT** | $500.59 | +0.52% | Stable 🟢 |
+| Tech | **GOOGL** | $337.83 | -3.80% | Stable 🔴 |
+| Finance | **JPM** | $337.53 | -0.73% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $56.00 | -0.36% | ✅ Oversale 🔴 |
+| Finance | **GS** | $936.36 | -2.40% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,293.70 | -0.57% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $64.11 | -0.41% | Stable 🔴 |
+| Precious Metals | **GOLD** | $43.48 | -0.73% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 24/09/2026 17:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1030,3 @@ Here's an analysis of the provided market data:
 ### AI Financial Advisor:
 
 Here is your market analysis:
-
-*   **Market Trend**: Funds are actively rotating out of the Energy sector, which saw broad declines over 2.7%, and into Technology and Finance, which demonstrated robust upward momentum across key players. Precious metals show divergence, with strong silver futures contrasting with a significant drop in the GOLD ticker.
-*   **Key Tickers to Watch**: Monitor Apple (AAPL) closely due to its "Overbought" status, suggesting potential for a near-term pullback, while Bank of America (BAC) is marked "Oversale" and could present a buying opportunity, supported by overall sector strength. Furthermore, Tesla (TSLA) and Silver Futures (SI=F) showed significant positive momentum.
-*   **Actionable Strategy**: Given the sector rotation, we advise accumulating positions in oversold Financial stocks like BAC and initiating a "Wait & Watch" approach for the Energy sector. Consider taking partial profit or setting tight stop-losses on overextended Technology holdings such as AAPL.
-----------------------------------------
-
-### 📊 USA Market Update - 23/09/2026 07:01:16
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $535.40 | +0.38% | Stable 🟢 |
-| Military | **RTX** | $194.34 | +0.18% | ✅ Oversale 🟢 |
-| Military | **NOC** | $526.66 | -0.14% | Stable 🔴 |
-| Energy | **XOM** | $158.30 | -3.20% | Stable 🔴 |
-| Energy | **CVX** | $203.67 | -2.79% | Stable 🔴 |
-| Energy | **COP** | $127.53 | -3.26% | Stable 🔴 |
-| Tech | **TSLA** | $375.30 | +3.03% | Stable 🟢 |
-| Tech | **AAPL** | $338.98 | +0.85% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $501.61 | +1.59% | Stable 🟢 |
-| Tech | **GOOGL** | $354.97 | +1.55% | Stable 🟢 |
-| Finance | **JPM** | $352.04 | +0.68% | Stable 🟢 |
-| Finance | **BAC** | $57.96 | +0.40% | ✅ Oversale 🟢 |
-| Finance | **GS** | $959.39 | +1.85% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,397.20 | +0.30% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.87 | +3.11% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.80 | -3.65% | Stable 🔴 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
