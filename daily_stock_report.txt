@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 24/09/2026 09:01:15
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $524.68 | -2.00% | Stable 🔴 |
+| Military | **RTX** | $192.19 | -1.11% | ✅ Oversale 🔴 |
+| Military | **NOC** | $514.42 | -2.32% | Stable 🔴 |
+| Energy | **XOM** | $161.23 | +1.85% | Stable 🟢 |
+| Energy | **CVX** | $205.51 | +0.90% | Stable 🟢 |
+| Energy | **COP** | $128.09 | +0.44% | Stable 🟢 |
+| Tech | **TSLA** | $380.12 | +0.32% | Stable 🟢 |
+| Tech | **AAPL** | $337.02 | -0.80% | Stable 🔴 |
+| Tech | **MSFT** | $500.59 | +0.52% | Stable 🟢 |
+| Tech | **GOOGL** | $337.83 | -3.80% | Stable 🔴 |
+| Finance | **JPM** | $337.53 | -0.73% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $56.00 | -0.36% | ✅ Oversale 🔴 |
+| Finance | **GS** | $936.36 | -2.40% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,318.70 | +0.01% | Stable 🟢 |
+| Precious Metals | **SI=F** | $64.51 | -2.15% | Stable 🔴 |
+| Precious Metals | **GOLD** | $43.48 | -0.73% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 24/09/2026 08:01:18
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is your market analysis:
 | Finance | **JPM** | $339.88 | -3.46% | ✅ Oversale 🔴 |
 | Finance | **BAC** | $56.67 | -2.23% | ✅ Oversale 🔴 |
 | Finance | **GS** | $949.99 | -0.98% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,365.20 | -0.43% | Stable 🔴 |
-| Precious Metals | **SI=F** | $66.26 | +0.66% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.85 | +0.11% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: Capital is notably exiting the Military and Finance sectors, evidenced by broad declines and oversold conditions in key tickers like LMT, NOC, JPM, BAC, and RTX. Conversely, the Energy sector shows stable positive momentum (XOM, CVX), and Tech is mixed but with some upward movement (TSLA, AAPL).
-2.  **Key Tickers to Watch**: **JPM** and **BAC** in the Finance sector are particularly noteworthy, both marked as "Oversale" with significant daily price drops, potentially signaling short-term value opportunities. In contrast, **AAPL** is flagged as "Overbought," indicating it may be due for a correction or profit-taking.
-3.  **Actionable Strategy**: For risk-tolerant investors, **consider accumulating** positions in oversold financial assets like JPM and BAC for a potential short-term bounce, assuming no further adverse news. **Initiate profit-taking or set tight stop-loss orders** for AAPL given its overbought status, and maintain a **wait-and-watch** approach for the military sector until clearer reversal signals emerge.
-----------------------------------------
-
-### 📊 USA Market Update - 22/09/2026 22:01:24
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $517.95 | -3.26% | Stable 🔴 |
-| Military | **RTX** | $188.32 | -3.10% | ✅ Oversale 🔴 |
-| Military | **NOC** | $509.11 | -3.33% | Stable 🔴 |
-| Energy | **XOM** | $159.16 | +0.54% | Stable 🟢 |
-| Energy | **CVX** | $203.69 | +0.01% | Stable 🟢 |
-| Energy | **COP** | $126.43 | -0.86% | Stable 🔴 |
-| Tech | **TSLA** | $376.07 | +0.20% | Stable 🟢 |
-| Tech | **AAPL** | $342.92 | +1.16% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $496.94 | -0.93% | Stable 🔴 |
-| Tech | **GOOGL** | $359.13 | +1.17% | Stable 🟢 |
-| Finance | **JPM** | $339.12 | -3.67% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $56.43 | -2.64% | ✅ Oversale 🔴 |
-| Finance | **GS** | $941.13 | -1.90% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,358.90 | -0.57% | Stable 🔴 |
