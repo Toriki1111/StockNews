@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 24/09/2026 13:01:19
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $524.68 | -2.00% | Stable 🔴 |
+| Military | **RTX** | $192.19 | -1.11% | ✅ Oversale 🔴 |
+| Military | **NOC** | $514.42 | -2.32% | Stable 🔴 |
+| Energy | **XOM** | $161.23 | +1.85% | Stable 🟢 |
+| Energy | **CVX** | $205.51 | +0.90% | Stable 🟢 |
+| Energy | **COP** | $128.09 | +0.44% | Stable 🟢 |
+| Tech | **TSLA** | $380.12 | +0.32% | Stable 🟢 |
+| Tech | **AAPL** | $337.02 | -0.80% | Stable 🔴 |
+| Tech | **MSFT** | $500.59 | +0.52% | Stable 🟢 |
+| Tech | **GOOGL** | $337.83 | -3.80% | Stable 🔴 |
+| Finance | **JPM** | $337.53 | -0.73% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $56.00 | -0.36% | ✅ Oversale 🔴 |
+| Finance | **GS** | $936.36 | -2.40% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,317.40 | -0.02% | Stable 🔴 |
+| Precious Metals | **SI=F** | $64.58 | +0.31% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.48 | -0.73% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 24/09/2026 12:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1030,3 @@ Here's an analysis of the USA market data:
 | Precious Metals | **SI=F** | $67.94 | +3.22% | Stable 🟢 |
 | Precious Metals | **GOLD** | $44.71 | +2.08% | Stable 🟢 |
 
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the provided market data:
-
-*   **Market Trend**: Capital is largely rotating out of traditional sectors such as Military, Finance, and parts of Energy/Tech, evidenced by widespread declines across these industries. Conversely, Precious Metals are attracting significant inflows, indicating a flight to safety amid broader market uncertainty.
-*   **Key Tickers to Watch**: Monitor BAC, flagged as "Oversale" after a sharp -3.02% drop in a weak financial sector, potentially signaling a short-term bounce opportunity. Concurrently, watch SI=F (Silver Futures), surging +3.22%, which highlights strong momentum within the favored Precious Metals sector.
-*   **Actionable Strategy**: For oversold assets like BAC, consider a tactical accumulation strategy with a strict stop-loss, waiting for signs of stabilization or a bounce. Meanwhile, maintain or selectively add to Precious Metals exposure (e.g., SI=F, GOLD) to capitalize on sustained upward momentum and hedge against broader market weakness.
-----------------------------------------
-
-### 📊 USA Market Update - 23/09/2026 02:01:23
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $522.16 | -2.47% | Stable 🔴 |
-| Military | **RTX** | $191.62 | -1.40% | ✅ Oversale 🔴 |
-| Military | **NOC** | $508.89 | -3.37% | Stable 🔴 |
-| Energy | **XOM** | $159.15 | +0.53% | Stable 🟢 |
-| Energy | **CVX** | $203.07 | -0.29% | Stable 🔴 |
-| Energy | **COP** | $126.11 | -1.12% | Stable 🔴 |
-| Tech | **TSLA** | $379.70 | +1.17% | Stable 🟢 |
-| Tech | **AAPL** | $340.08 | +0.33% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $498.22 | -0.68% | Stable 🔴 |
-| Tech | **GOOGL** | $352.21 | -0.78% | Stable 🔴 |
-| Finance | **JPM** | $340.68 | -3.23% | Stable 🔴 |
