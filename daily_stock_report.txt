@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 24/09/2026 16:01:16
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $524.68 | -2.00% | Stable 🔴 |
+| Military | **RTX** | $192.19 | -1.11% | ✅ Oversale 🔴 |
+| Military | **NOC** | $514.42 | -2.32% | Stable 🔴 |
+| Energy | **XOM** | $161.23 | +1.85% | Stable 🟢 |
+| Energy | **CVX** | $205.51 | +0.90% | Stable 🟢 |
+| Energy | **COP** | $128.09 | +0.44% | Stable 🟢 |
+| Tech | **TSLA** | $380.12 | +0.32% | Stable 🟢 |
+| Tech | **AAPL** | $337.02 | -0.80% | Stable 🔴 |
+| Tech | **MSFT** | $500.59 | +0.52% | Stable 🟢 |
+| Tech | **GOOGL** | $337.83 | -3.80% | Stable 🔴 |
+| Finance | **JPM** | $337.53 | -0.73% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $56.00 | -0.36% | ✅ Oversale 🔴 |
+| Finance | **GS** | $936.36 | -2.40% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,301.30 | -0.40% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $64.18 | -0.31% | Stable 🔴 |
+| Precious Metals | **GOLD** | $43.48 | -0.73% | Stable 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 24/09/2026 15:01:22
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1023,3 @@ Here is your market analysis:
 | Finance | **GS** | $949.49 | -1.03% | Stable 🔴 |
 | Precious Metals | **GC=F** | $4,400.20 | +0.37% | Stable 🟢 |
 | Precious Metals | **SI=F** | $67.80 | +3.00% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.65 | +1.94% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-1.  **Market Trend**: A broad risk-off sentiment is evident as significant declines across the Finance, Military, and major Tech sectors indicate money is exiting these areas, while Precious Metals show a clear flight to safety with strong positive performance.
-2.  **Key Tickers to Watch**: Bank of America (BAC) stands out as oversold after a -3.04% drop, potentially signaling a near-term rebound opportunity. Conversely, Apple (AAPL) is flagged as overbought despite only a minor gain, indicating a potential correction or pause.
-3.  **Actionable Strategy**: Given the prevailing market weakness, consider taking partial profits or implementing tight stop-losses on overbought positions like AAPL. For oversold assets such as BAC or RTX, prudent investors should 'Wait & Watch' for market stabilization before accumulating, or consider a speculative entry for a short-term bounce.
-----------------------------------------
-
-### 📊 USA Market Update - 23/09/2026 05:01:17
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $522.34 | -2.44% | Stable 🔴 |
-| Military | **RTX** | $190.99 | -1.72% | ✅ Oversale 🔴 |
-| Military | **NOC** | $509.86 | -3.19% | Stable 🔴 |
-| Energy | **XOM** | $158.71 | +0.26% | Stable 🟢 |
-| Energy | **CVX** | $202.41 | -0.62% | Stable 🔴 |
-| Energy | **COP** | $125.27 | -1.77% | Stable 🔴 |
-| Tech | **TSLA** | $378.90 | +0.96% | Stable 🟢 |
-| Tech | **AAPL** | $339.75 | +0.23% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $498.00 | -0.72% | Stable 🔴 |
-| Tech | **GOOGL** | $351.16 | -1.07% | Stable 🔴 |
-| Finance | **JPM** | $340.00 | -3.42% | Stable 🔴 |
-| Finance | **BAC** | $56.20 | -3.04% | ✅ Oversale 🔴 |
-| Finance | **GS** | $949.49 | -1.03% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,396.20 | +0.28% | Stable 🟢 |
-| Precious Metals | **SI=F** | $67.61 | +2.71% | Stable 🟢 |
-| Precious Metals | **GOLD** | $44.65 | +1.94% | Stable 🟢 |
