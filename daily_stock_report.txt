@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 26/09/2026 10:01:18
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $519.56 | -0.79% | Stable 🔴 |
+| Military | **RTX** | $189.40 | +0.42% | ✅ Oversale 🟢 |
+| Military | **NOC** | $510.52 | +0.30% | Stable 🟢 |
+| Energy | **XOM** | $160.59 | -0.96% | Stable 🔴 |
+| Energy | **CVX** | $204.45 | -0.58% | Stable 🔴 |
+| Energy | **COP** | $127.30 | -1.58% | Stable 🔴 |
+| Tech | **TSLA** | $372.11 | -1.54% | Stable 🔴 |
+| Tech | **AAPL** | $341.07 | +1.53% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $516.17 | +3.66% | Stable 🟢 |
+| Tech | **GOOGL** | $343.92 | +0.46% | Stable 🟢 |
+| Finance | **JPM** | $343.06 | +1.33% | Stable 🟢 |
+| Finance | **BAC** | $56.70 | +1.20% | ✅ Oversale 🟢 |
+| Finance | **GS** | $935.45 | +1.32% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,320.50 | +0.52% | Stable 🟢 |
+| Precious Metals | **SI=F** | $64.71 | +1.97% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.95 | +1.08% | Stable 🟢 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 26/09/2026 09:01:13
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1023,3 @@ Here is an analysis of the USA market data:
 | Tech | **GOOGL** | $342.30 | +1.32% | Stable 🟢 |
 | Finance | **JPM** | $337.51 | -0.01% | ✅ Oversale 🔴 |
 | Finance | **BAC** | $56.06 | +0.12% | ✅ Oversale 🟢 |
-| Finance | **GS** | $921.98 | -1.54% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,313.30 | -0.12% | Stable 🔴 |
-| Precious Metals | **SI=F** | $64.29 | -0.14% | Stable 🔴 |
-| Precious Metals | **GOLD** | $43.67 | +0.44% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update:
-
-*   **Market Trend**: Capital is largely channeling into the Energy and Technology sectors, with most constituents showing positive momentum, while the Financial and Precious Metals sectors exhibit cautious to negative performance.
-*   **Key Tickers to Watch**: Goldman Sachs (GS) stands out with a significant -1.54% decline and an "Oversale" technical signal, indicating strong selling pressure; Raytheon Technologies (RTX) also carries an "Oversale" tag following a -0.32% dip.
-*   **Actionable Strategy**: Accumulate positions in strong-performing Energy and select Tech stocks (e.g., GOOGL, COP). For oversold tickers like GS and RTX, adopt a "Wait & Watch" approach to observe for stabilization before considering entry.
-----------------------------------------
-
-### 📊 USA Market Update - 24/09/2026 23:01:29
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $526.03 | +0.26% | Stable 🟢 |
-| Military | **RTX** | $191.14 | -0.55% | ✅ Oversale 🔴 |
-| Military | **NOC** | $514.01 | -0.08% | Stable 🔴 |
-| Energy | **XOM** | $164.43 | +1.98% | Stable 🟢 |
-| Energy | **CVX** | $207.74 | +1.09% | Stable 🟢 |
-| Energy | **COP** | $130.74 | +2.07% | Stable 🟢 |
-| Tech | **TSLA** | $376.18 | -1.04% | Stable 🔴 |
-| Tech | **AAPL** | $336.77 | -0.07% | Stable 🔴 |
-| Tech | **MSFT** | $494.98 | -1.12% | Stable 🔴 |
-| Tech | **GOOGL** | $339.18 | +0.40% | Stable 🟢 |
-| Finance | **JPM** | $336.06 | -0.43% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $55.88 | -0.22% | ✅ Oversale 🔴 |
