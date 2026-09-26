@@ -1,3 +1,36 @@
+### 📊 USA Market Update - 26/09/2026 22:01:20
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $519.56 | -0.79% | Stable 🔴 |
+| Military | **RTX** | $189.40 | +0.42% | ✅ Oversale 🟢 |
+| Military | **NOC** | $510.52 | +0.30% | Stable 🟢 |
+| Energy | **XOM** | $160.59 | -0.96% | Stable 🔴 |
+| Energy | **CVX** | $204.45 | -0.58% | Stable 🔴 |
+| Energy | **COP** | $127.30 | -1.58% | Stable 🔴 |
+| Tech | **TSLA** | $372.11 | -1.54% | Stable 🔴 |
+| Tech | **AAPL** | $341.07 | +1.53% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $516.17 | +3.66% | Stable 🟢 |
+| Tech | **GOOGL** | $343.92 | +0.46% | Stable 🟢 |
+| Finance | **JPM** | $343.06 | +1.33% | Stable 🟢 |
+| Finance | **BAC** | $56.70 | +1.20% | ✅ Oversale 🟢 |
+| Finance | **GS** | $935.45 | +1.32% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,321.20 | +0.54% | Stable 🟢 |
+| Precious Metals | **SI=F** | $64.25 | +1.24% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.95 | +1.08% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is a concise market analysis report for the upcoming session:
+
+*   **Market Trend**: Capital is demonstrably flowing into Technology (led by strong performance in MSFT), Finance, and Precious Metals, while the Energy sector is experiencing a significant downturn. The Military sector presents a mixed but generally stable outlook.
+
+*   **Key Tickers to Watch**: Apple (AAPL) is flagged as "Overbought" following its +1.53% gain, suggesting potential for a near-term pullback or consolidation. Bank of America (BAC), despite a +1.20% gain, is marked as "Oversale" (likely "Oversold"), indicating it may still offer value and potential for further rebound.
+
+*   **Actionable Strategy**: Consider taking partial profits or implementing tight stop-losses on AAPL due to its overbought status. For BAC and other "Oversale" finance stocks, look for accumulation opportunities, while monitoring MSFT for sustained upward momentum; avoid new positions in the broadly declining Energy sector.
+----------------------------------------
+
 ### 📊 USA Market Update - 26/09/2026 21:01:38
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1031,3 @@ Here's an analysis of the USA market data:
 | Precious Metals | **SI=F** | $64.07 | +0.97% | Stable 🟢 |
 | Precious Metals | **GOLD** | $43.48 | +0.00% | Stable 🟡 |
 
-
-*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 25/09/2026 11:01:20
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $523.70 | -0.19% | Stable 🔴 |
-| Military | **RTX** | $188.61 | -1.86% | ✅ Oversale 🔴 |
-| Military | **NOC** | $508.98 | -1.06% | Stable 🔴 |
-| Energy | **XOM** | $162.14 | +0.56% | Stable 🟢 |
-| Energy | **CVX** | $205.65 | +0.07% | Stable 🟢 |
-| Energy | **COP** | $129.34 | +0.98% | Stable 🟢 |
-| Tech | **TSLA** | $377.94 | -0.57% | Stable 🔴 |
-| Tech | **AAPL** | $335.92 | -0.33% | Stable 🔴 |
-| Tech | **MSFT** | $497.93 | -0.53% | Stable 🔴 |
-| Tech | **GOOGL** | $342.36 | +1.34% | Stable 🟢 |
-| Finance | **JPM** | $338.56 | +0.31% | Stable 🟢 |
-| Finance | **BAC** | $56.03 | +0.05% | ✅ Oversale 🟢 |
-| Finance | **GS** | $923.29 | -1.40% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,298.00 | -0.47% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $63.46 | -1.44% | Stable 🔴 |
-| Precious Metals | **GOLD** | $43.48 | +0.00% | Stable 🟡 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
