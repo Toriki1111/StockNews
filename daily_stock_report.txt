@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 29/09/2026 00:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $517.00 | -0.49% | Stable 🔴 |
+| Military | **RTX** | $187.69 | -0.90% | ✅ Oversale 🔴 |
+| Military | **NOC** | $508.59 | -0.38% | Stable 🔴 |
+| Energy | **XOM** | $162.31 | +1.07% | Stable 🟢 |
+| Energy | **CVX** | $207.01 | +1.25% | Stable 🟢 |
+| Energy | **COP** | $126.96 | -0.27% | Stable 🔴 |
+| Tech | **TSLA** | $359.65 | -3.35% | Stable 🔴 |
+| Tech | **AAPL** | $340.63 | -0.13% | Stable 🔴 |
+| Tech | **MSFT** | $512.06 | -0.80% | Stable 🔴 |
+| Tech | **GOOGL** | $340.77 | -0.92% | Stable 🔴 |
+| Finance | **JPM** | $338.18 | -1.42% | Stable 🔴 |
+| Finance | **BAC** | $55.81 | -1.56% | ✅ Oversale 🔴 |
+| Finance | **GS** | $920.10 | -1.64% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,162.40 | -3.67% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $61.55 | -4.19% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.99 | -2.20% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 28/09/2026 23:01:27
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here's your concise market report:
 *   **Actionable Strategy**: Accumulate positions in the strong Finance and Precious Metals sectors. For **RTX**, consider a strategic buy-in given its oversold bounce, while for **AAPL**, a "Take Profit" or "Wait & Watch" approach is prudent due to its overbought condition.
 ----------------------------------------
 
-### 📊 USA Market Update - 27/09/2026 14:01:20
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $519.56 | -0.79% | Stable 🔴 |
-| Military | **RTX** | $189.40 | +0.42% | ✅ Oversale 🟢 |
-| Military | **NOC** | $510.52 | +0.30% | Stable 🟢 |
-| Energy | **XOM** | $160.59 | -0.96% | Stable 🔴 |
-| Energy | **CVX** | $204.45 | -0.58% | Stable 🔴 |
-| Energy | **COP** | $127.30 | -1.58% | Stable 🔴 |
-| Tech | **TSLA** | $372.11 | -1.54% | Stable 🔴 |
-| Tech | **AAPL** | $341.07 | +1.53% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $516.17 | +3.66% | Stable 🟢 |
-| Tech | **GOOGL** | $343.92 | +0.46% | Stable 🟢 |
-| Finance | **JPM** | $343.06 | +1.33% | Stable 🟢 |
-| Finance | **BAC** | $56.70 | +1.20% | ✅ Oversale 🟢 |
-| Finance | **GS** | $935.45 | +1.32% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,321.20 | +0.54% | Stable 🟢 |
-| Precious Metals | **SI=F** | $64.80 | +2.12% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.95 | +1.08% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the USA market data:
-
-*   **Market Trend**: The market exhibits a clear divergence, with significant capital flowing into the Finance and Precious Metals sectors, alongside strong individual performance from Microsoft in Tech. Conversely, the Energy sector is experiencing broad outflows, suggesting a defensive rotation.
-*   **Key Tickers to Watch**: Apple (AAPL) is noted as overbought, potentially signaling a short-term reversal or consolidation, while Bank of America (BAC) is marked as oversold despite its positive daily change, indicating a potential value opportunity.
-*   **Actionable Strategy**: Consider taking partial profits on overbought assets like AAPL, and look for accumulation opportunities in oversold quality names such as BAC. Maintain a cautious "wait & watch" stance on the Energy sector until signs of stabilization emerge.
-----------------------------------------
-
-### 📊 USA Market Update - 27/09/2026 13:01:15
