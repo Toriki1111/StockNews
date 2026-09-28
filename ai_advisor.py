@@ -19,7 +19,7 @@ def get_ai_advice(market_data):
         f"2. **Key Tickers to Watch**: Highlight 1-2 specific symbols with notable technical signals (e.g., Oversold, Overbought, or major price surges/drops) and why.\n"
         f"3. **Actionable Strategy**: Give clear, direct trading advice (e.g., Accumulate, Take Profit, Stop Loss, or Wait & Watch) for the upcoming session."
     )
-
+    #das
     payload = {
         "contents": [{
             "parts": [{
