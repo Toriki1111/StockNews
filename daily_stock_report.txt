@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 29/09/2026 07:01:58
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $519.56 | -0.79% | Stable 🔴 |
+| Military | **RTX** | $189.40 | +0.42% | ✅ Oversale 🟢 |
+| Military | **NOC** | $510.52 | +0.30% | Stable 🟢 |
+| Energy | **XOM** | $160.59 | -0.96% | Stable 🔴 |
+| Energy | **CVX** | $204.45 | -0.58% | Stable 🔴 |
+| Energy | **COP** | $127.30 | -1.58% | Stable 🔴 |
+| Tech | **TSLA** | $372.11 | -1.54% | Stable 🔴 |
+| Tech | **AAPL** | $341.07 | +1.53% | ⚠️ Overbought! 🟢 |
+| Tech | **MSFT** | $516.17 | +3.66% | Stable 🟢 |
+| Tech | **GOOGL** | $343.92 | +0.46% | Stable 🟢 |
+| Finance | **JPM** | $343.06 | +1.33% | Stable 🟢 |
+| Finance | **BAC** | $56.70 | +1.20% | ✅ Oversale 🟢 |
+| Finance | **GS** | $935.45 | +1.32% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,156.70 | -3.81% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $61.12 | -4.86% | Stable 🔴 |
+| Precious Metals | **GOLD** | $43.95 | +1.08% | Stable 🟢 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 29/09/2026 06:01:18
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,36 +1021,5 @@ Here is a concise market analysis report:
 *   **Market Trend**: Money is flowing strongly into Precious Metals and the Financial sector, with the Energy sector experiencing significant outflows. The Tech sector shows mixed performance, despite a robust surge in Microsoft.
 *   **Key Tickers to Watch**: **AAPL** is flagged as "Overbought" after a +1.53% gain, suggesting potential for a near-term pullback. Conversely, **BAC** is marked as "Oversale" despite a +1.20% gain, indicating potential undervaluation and an attractive entry point.
 *   **Actionable Strategy**: Consider taking partial profits or setting a trailing stop-loss for **AAPL** due to its overbought status. For **BAC**, consider accumulating shares given its "Oversale" signal and the positive momentum in the broader finance sector.
-----------------------------------------
-
-### 📊 USA Market Update - 27/09/2026 21:01:17
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $519.56 | -0.79% | Stable 🔴 |
-| Military | **RTX** | $189.40 | +0.42% | ✅ Oversale 🟢 |
-| Military | **NOC** | $510.52 | +0.30% | Stable 🟢 |
-| Energy | **XOM** | $160.59 | -0.96% | Stable 🔴 |
-| Energy | **CVX** | $204.45 | -0.58% | Stable 🔴 |
-| Energy | **COP** | $127.30 | -1.58% | Stable 🔴 |
-| Tech | **TSLA** | $372.11 | -1.54% | Stable 🔴 |
-| Tech | **AAPL** | $341.07 | +1.53% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $516.17 | +3.66% | Stable 🟢 |
-| Tech | **GOOGL** | $343.92 | +0.46% | Stable 🟢 |
-| Finance | **JPM** | $343.06 | +1.33% | Stable 🟢 |
-| Finance | **BAC** | $56.70 | +1.20% | ✅ Oversale 🟢 |
-| Finance | **GS** | $935.45 | +1.32% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,321.20 | +0.54% | Stable 🟢 |
-| Precious Metals | **SI=F** | $64.80 | +2.12% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.95 | +1.08% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Capital is distinctly flowing into Precious Metals, Finance, and key Tech giants like Microsoft and Apple, while the Energy sector shows a clear outflow across all tracked tickers. The Military sector exhibits mixed performance but with some buying interest in oversold assets.
-*   **Key Tickers to Watch**: Watch Apple (AAPL) closely as it's marked "Overbought" following a significant gain, potentially signaling a short-term pullback; conversely, Bank of America (BAC), noted as "Oversale" with positive momentum, could offer a buying opportunity.
-*   **Actionable Strategy**: Consider taking partial profits or setting stop-losses on "Overbought" tech positions like AAPL, while looking to accumulate value in "Oversale" finance (BAC) or defense (RTX) stocks for potential upside. Maintain a "Wait & Watch" strategy for the underperforming Energy sector.
 ----------------------------------------
 
