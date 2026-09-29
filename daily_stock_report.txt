@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 29/09/2026 23:01:24
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $513.95 | -0.80% | ✅ Oversale 🔴 |
+| Military | **RTX** | $187.19 | -0.25% | ✅ Oversale 🔴 |
+| Military | **NOC** | $505.31 | -0.10% | Stable 🔴 |
+| Energy | **XOM** | $161.60 | -0.57% | Stable 🔴 |
+| Energy | **CVX** | $204.82 | -0.75% | Stable 🔴 |
+| Energy | **COP** | $125.79 | -0.20% | Stable 🔴 |
+| Tech | **TSLA** | $354.30 | -0.88% | Stable 🔴 |
+| Tech | **AAPL** | $331.18 | -2.13% | Stable 🔴 |
+| Tech | **MSFT** | $509.48 | +0.05% | Stable 🟢 |
+| Tech | **GOOGL** | $338.42 | -1.26% | Stable 🔴 |
+| Finance | **JPM** | $333.48 | -0.92% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $54.76 | -1.27% | ✅ Oversale 🔴 |
+| Finance | **GS** | $904.32 | -1.31% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,189.60 | +0.51% | ✅ Oversale 🟢 |
+| Precious Metals | **SI=F** | $61.20 | -0.03% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.74 | -0.26% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: The broader market is experiencing significant capital outflow, particularly from the Technology and Financial sectors, evidenced by widespread negative performance and several oversold indicators. In contrast, gold (GC=F) is demonstrating safe-haven demand with positive price movement amidst the general downturn.
+*   **Key Tickers to Watch**: Keep a close eye on **GS** (Goldman Sachs), which shows a notable -1.31% drop and an "Oversale" technical signal, indicating potential for a near-term rebound within the financial sector. Additionally, **GC=F** (Gold Futures) is exhibiting compelling strength, rising +0.51% even with an "Oversale" status, highlighting robust demand as a flight-to-safety asset.
+*   **Actionable Strategy**: Given the prevailing market weakness, we advise a "Wait & Watch" approach for most equity positions to assess further directional clarity. However, consider a strategic accumulation of **GS** on its oversold condition for a potential short-term bounce and continue to build a position in **GC=F** to fortify portfolio resilience against ongoing volatility.
+----------------------------------------
+
 ### 📊 USA Market Update - 29/09/2026 22:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -989,37 +1020,6 @@ Here's a concise, actionable report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 28/09/2026 13:01:23
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $519.56 | -0.79% | Stable 🔴 |
-| Military | **RTX** | $189.40 | +0.42% | ✅ Oversale 🟢 |
-| Military | **NOC** | $510.52 | +0.30% | Stable 🟢 |
-| Energy | **XOM** | $160.59 | -0.96% | Stable 🔴 |
-| Energy | **CVX** | $204.45 | -0.58% | Stable 🔴 |
-| Energy | **COP** | $127.30 | -1.58% | Stable 🔴 |
-| Tech | **TSLA** | $372.11 | -1.54% | Stable 🔴 |
-| Tech | **AAPL** | $341.07 | +1.53% | ⚠️ Overbought! 🟢 |
-| Tech | **MSFT** | $516.17 | +3.66% | Stable 🟢 |
-| Tech | **GOOGL** | $343.92 | +0.46% | Stable 🟢 |
-| Finance | **JPM** | $343.06 | +1.33% | Stable 🟢 |
-| Finance | **BAC** | $56.70 | +1.20% | ✅ Oversale 🟢 |
-| Finance | **GS** | $935.45 | +1.32% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,213.00 | -2.50% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $62.03 | -3.44% | Stable 🔴 |
-| Precious Metals | **GOLD** | $43.95 | +1.08% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the provided USA market data:
-
-*   **Market Trend**: Capital is notably flowing into the Technology and Finance sectors, demonstrating robust positive momentum, especially with MSFT and key financial institutions. Conversely, there are significant outflows from the Energy and Precious Metals sectors, evidenced by substantial price drops across most tickers in these areas.
-*   **Key Tickers to Watch**: Keep a close eye on **AAPL** (Apple), as its "Overbought!" status indicates a strong likelihood of a near-term correction. Meanwhile, **BAC** (Bank of America) presents an interesting opportunity with an "Oversale 🟢" signal alongside positive price action, suggesting a potential rebound from an undervalued position.
-*   **Actionable Strategy**: Investors should consider accumulating positions in the Finance sector, particularly in fundamentally sound names like BAC that are showing signs of a rebound from oversold conditions. For AAPL, it would be prudent to consider taking partial profits or setting tight stop-loss orders to mitigate risks associated with a potential market pullback.
-----------------------------------------
-
-### 📊 USA Market Update - 28/09/2026 12:01:19
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $519.56 | -0.79% | Stable 🔴 |
