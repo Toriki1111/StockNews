@@ -1,3 +1,34 @@
+### 📊 USA Market Update - 30/09/2026 16:01:21
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $512.21 | -1.14% | ✅ Oversale 🔴 |
+| Military | **RTX** | $186.94 | -0.38% | ✅ Oversale 🔴 |
+| Military | **NOC** | $504.61 | -0.24% | Stable 🔴 |
+| Energy | **XOM** | $161.35 | -0.72% | Stable 🔴 |
+| Energy | **CVX** | $204.38 | -0.96% | Stable 🔴 |
+| Energy | **COP** | $125.44 | -0.48% | Stable 🔴 |
+| Tech | **TSLA** | $352.84 | -1.29% | Stable 🔴 |
+| Tech | **AAPL** | $329.40 | -2.66% | Stable 🔴 |
+| Tech | **MSFT** | $508.96 | -0.05% | Stable 🔴 |
+| Tech | **GOOGL** | $340.92 | -0.53% | Stable 🔴 |
+| Finance | **JPM** | $334.98 | -0.48% | Stable 🔴 |
+| Finance | **BAC** | $54.96 | -0.92% | ✅ Oversale 🔴 |
+| Finance | **GS** | $916.24 | -0.00% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,228.70 | +1.17% | Stable 🟢 |
+| Precious Metals | **SI=F** | $61.51 | +1.38% | Stable 🟢 |
+| Precious Metals | **GOLD** | $42.88 | +0.07% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+1.  **Market Trend**: Money is broadly exiting risk-on assets across military, energy, tech, and finance sectors, with a clear flow into safe-haven precious metals, indicating a prevailing risk-off sentiment.
+2.  **Key Tickers to Watch**: **LMT** ($512.21, -1.14%) and **BAC** ($54.96, -0.92%) are flagged as oversold, suggesting potential near-term bounce opportunities, while **AAPL** experienced a notable -2.66% decline, warranting close monitoring for further downside or stabilization.
+3.  **Actionable Strategy**: Given the broad market downturn and multiple oversold signals, consider a cautious accumulation strategy on oversold tickers like LMT and BAC for value investors, while maintaining a "Wait & Watch" approach for the broader equity market, especially Tech, awaiting clearer reversal signals.
+----------------------------------------
+
 ### 📊 USA Market Update - 30/09/2026 15:01:20
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -997,35 +1028,4 @@ Here is your market update:
 
 *(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
 
-----------------------------------------
-
-### 📊 USA Market Update - 29/09/2026 06:01:18
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $518.10 | -0.28% | Stable 🔴 |
-| Military | **RTX** | $187.66 | -0.92% | ✅ Oversale 🔴 |
-| Military | **NOC** | $505.80 | -0.92% | Stable 🔴 |
-| Energy | **XOM** | $162.52 | +1.20% | Stable 🟢 |
-| Energy | **CVX** | $206.37 | +0.94% | Stable 🟢 |
-| Energy | **COP** | $126.04 | -0.99% | Stable 🔴 |
-| Tech | **TSLA** | $357.45 | -3.94% | Stable 🔴 |
-| Tech | **AAPL** | $338.40 | -0.78% | Stable 🔴 |
-| Tech | **MSFT** | $509.22 | -1.35% | Stable 🔴 |
-| Tech | **GOOGL** | $342.75 | -0.34% | Stable 🔴 |
-| Finance | **JPM** | $336.59 | -1.89% | Stable 🔴 |
-| Finance | **BAC** | $55.47 | -2.17% | ✅ Oversale 🔴 |
-| Finance | **GS** | $916.28 | -2.05% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,155.00 | -3.85% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $61.14 | -4.83% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.85 | -2.50% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-*   **Market Trend**: The market is exhibiting a pronounced risk-off sentiment, with significant capital exiting Technology, Finance, and Precious Metals sectors, evidenced by widespread declines and several oversold signals. Energy stands out as a resilient sector, with major players XOM and CVX posting gains.
-*   **Key Tickers to Watch**: Focus attention on **GC=F** (Gold futures) and **BAC**, both of which are marked "Oversale" following substantial drops of -3.85% and -2.17% respectively. These assets could present technical rebound opportunities or value plays for long-term investors.
-*   **Actionable Strategy**: Given the broad market weakness and prevalent oversold conditions, adopt a cautious "Wait & Watch" approach for most new positions. For the deeply oversold assets like GC=F and BAC, consider a phased "Accumulate" strategy only after confirming signs of stabilization, always employing strict stop-loss orders.
 ----------------------------------------
