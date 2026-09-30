@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 30/09/2026 22:01:25
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $512.05 | -0.03% | ✅ Oversale 🔴 |
+| Military | **RTX** | $187.12 | +0.09% | ✅ Oversale 🟢 |
+| Military | **NOC** | $484.08 | -4.07% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $162.75 | +0.87% | Stable 🟢 |
+| Energy | **CVX** | $205.09 | +0.34% | Stable 🟢 |
+| Energy | **COP** | $125.50 | +0.05% | Stable 🟢 |
+| Tech | **TSLA** | $348.92 | -1.11% | Stable 🔴 |
+| Tech | **AAPL** | $338.23 | +2.68% | Stable 🟢 |
+| Tech | **MSFT** | $517.76 | +1.73% | Stable 🟢 |
+| Tech | **GOOGL** | $347.38 | +1.89% | Stable 🟢 |
+| Finance | **JPM** | $333.38 | -0.48% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $54.81 | -0.28% | ✅ Oversale 🔴 |
+| Finance | **GS** | $909.52 | -0.73% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,203.90 | +0.58% | Stable 🟢 |
+| Precious Metals | **SI=F** | $60.98 | +0.51% | Stable 🟢 |
+| Precious Metals | **GOLD** | $43.15 | +0.62% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 30/09/2026 21:01:19
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,28 +1030,3 @@ Here is your concise market analysis:
 | Military | **LMT** | $518.10 | -0.28% | Stable 🔴 |
 | Military | **RTX** | $187.66 | -0.92% | ✅ Oversale 🔴 |
 | Military | **NOC** | $505.80 | -0.92% | Stable 🔴 |
-| Energy | **XOM** | $162.52 | +1.20% | Stable 🟢 |
-| Energy | **CVX** | $206.37 | +0.94% | Stable 🟢 |
-| Energy | **COP** | $126.04 | -0.99% | Stable 🔴 |
-| Tech | **TSLA** | $357.45 | -3.94% | Stable 🔴 |
-| Tech | **AAPL** | $338.40 | -0.78% | Stable 🔴 |
-| Tech | **MSFT** | $509.22 | -1.35% | Stable 🔴 |
-| Tech | **GOOGL** | $342.75 | -0.34% | Stable 🔴 |
-| Finance | **JPM** | $336.59 | -1.89% | Stable 🔴 |
-| Finance | **BAC** | $55.47 | -2.17% | ✅ Oversale 🔴 |
-| Finance | **GS** | $916.28 | -2.05% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,157.80 | -3.78% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $60.90 | -0.51% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.85 | -2.50% | Stable 🔴 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
