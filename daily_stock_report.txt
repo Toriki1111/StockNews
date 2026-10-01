@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 02/10/2026 03:01:16
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $505.49 | -0.74% | ✅ Oversale 🔴 |
+| Military | **RTX** | $185.03 | -0.33% | ✅ Oversale 🔴 |
+| Military | **NOC** | $481.93 | -0.32% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $163.88 | +0.69% | Stable 🟢 |
+| Energy | **CVX** | $207.17 | +1.45% | Stable 🟢 |
+| Energy | **COP** | $127.07 | +1.53% | Stable 🟢 |
+| Tech | **TSLA** | $354.11 | -0.20% | Stable 🔴 |
+| Tech | **AAPL** | $330.32 | -0.81% | Stable 🔴 |
+| Tech | **MSFT** | $512.80 | -0.02% | Stable 🔴 |
+| Tech | **GOOGL** | $338.24 | -1.70% | Stable 🔴 |
+| Finance | **JPM** | $333.33 | +0.76% | Stable 🟢 |
+| Finance | **BAC** | $53.72 | -1.31% | ✅ Oversale 🔴 |
+| Finance | **GS** | $896.54 | -0.42% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,209.20 | +0.54% | Stable 🟢 |
+| Precious Metals | **SI=F** | $61.38 | +2.14% | Stable 🟢 |
+| Precious Metals | **GOLD** | $42.10 | -1.10% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 02/10/2026 02:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -994,37 +1026,6 @@ Here is your market update:
 ----------------------------------------
 
 ### 📊 USA Market Update - 30/09/2026 16:01:21
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $512.21 | -1.14% | ✅ Oversale 🔴 |
-| Military | **RTX** | $186.94 | -0.38% | ✅ Oversale 🔴 |
-| Military | **NOC** | $504.61 | -0.24% | Stable 🔴 |
-| Energy | **XOM** | $161.35 | -0.72% | Stable 🔴 |
-| Energy | **CVX** | $204.38 | -0.96% | Stable 🔴 |
-| Energy | **COP** | $125.44 | -0.48% | Stable 🔴 |
-| Tech | **TSLA** | $352.84 | -1.29% | Stable 🔴 |
-| Tech | **AAPL** | $329.40 | -2.66% | Stable 🔴 |
-| Tech | **MSFT** | $508.96 | -0.05% | Stable 🔴 |
-| Tech | **GOOGL** | $340.92 | -0.53% | Stable 🔴 |
-| Finance | **JPM** | $334.98 | -0.48% | Stable 🔴 |
-| Finance | **BAC** | $54.96 | -0.92% | ✅ Oversale 🔴 |
-| Finance | **GS** | $916.24 | -0.00% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,228.70 | +1.17% | Stable 🟢 |
-| Precious Metals | **SI=F** | $61.51 | +1.38% | Stable 🟢 |
-| Precious Metals | **GOLD** | $42.88 | +0.07% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Money is broadly exiting risk-on assets across military, energy, tech, and finance sectors, with a clear flow into safe-haven precious metals, indicating a prevailing risk-off sentiment.
-2.  **Key Tickers to Watch**: **LMT** ($512.21, -1.14%) and **BAC** ($54.96, -0.92%) are flagged as oversold, suggesting potential near-term bounce opportunities, while **AAPL** experienced a notable -2.66% decline, warranting close monitoring for further downside or stabilization.
-3.  **Actionable Strategy**: Given the broad market downturn and multiple oversold signals, consider a cautious accumulation strategy on oversold tickers like LMT and BAC for value investors, while maintaining a "Wait & Watch" approach for the broader equity market, especially Tech, awaiting clearer reversal signals.
-----------------------------------------
-
-### 📊 USA Market Update - 30/09/2026 15:01:20
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $512.21 | -1.14% | ✅ Oversale 🔴 |
