@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 01/10/2026 08:01:23
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $512.21 | -1.14% | Stable 🔴 |
+| Military | **RTX** | $186.94 | -0.38% | ✅ Oversale 🔴 |
+| Military | **NOC** | $504.61 | -0.24% | Stable 🔴 |
+| Energy | **XOM** | $161.35 | -0.72% | Stable 🔴 |
+| Energy | **CVX** | $204.38 | -0.96% | Stable 🔴 |
+| Energy | **COP** | $125.44 | -0.48% | Stable 🔴 |
+| Tech | **TSLA** | $352.84 | -1.29% | Stable 🔴 |
+| Tech | **AAPL** | $329.40 | -2.66% | Stable 🔴 |
+| Tech | **MSFT** | $508.96 | -0.05% | Stable 🔴 |
+| Tech | **GOOGL** | $340.92 | -0.53% | Stable 🔴 |
+| Finance | **JPM** | $334.98 | -0.48% | Stable 🔴 |
+| Finance | **BAC** | $54.96 | -0.92% | ✅ Oversale 🔴 |
+| Finance | **GS** | $916.24 | -0.00% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,172.20 | -0.18% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $60.45 | -0.36% | Stable 🔴 |
+| Precious Metals | **GOLD** | $42.88 | +0.07% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 01/10/2026 07:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here's an analysis of the USA market data:
 | Tech | **MSFT** | $509.10 | -0.02% | Stable 🔴 |
 | Tech | **GOOGL** | $338.79 | -1.16% | Stable 🔴 |
 | Finance | **JPM** | $334.85 | -0.52% | Stable 🔴 |
-| Finance | **BAC** | $55.04 | -0.77% | ✅ Oversale 🔴 |
-| Finance | **GS** | $908.26 | -0.88% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,199.40 | -2.82% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $61.62 | +0.66% | Stable 🟢 |
-| Precious Metals | **GOLD** | $43.10 | +0.58% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis report:
-
-1.  **Market Trend**: The broader market is experiencing a significant downturn, with most major sectors (Military, Energy, Tech, Finance) and Gold Futures (GC=F) showing declines, indicating a pervasive risk-off sentiment. Physical silver (SI=F) and GOLD, however, exhibit slight positive movement, suggesting a selective flight to safety within precious metals.
-2.  **Key Tickers to Watch**: Gold Futures (GC=F) is a standout, marked "Oversale" after a substantial -2.82% drop, signaling a potential oversold bounce opportunity. Within the finance sector, Goldman Sachs (GS) is also flagged "Oversale" following an almost 1% decline, presenting another potential value entry.
-3.  **Actionable Strategy**: For assets identified as "Oversale," such as GC=F and GS, consider initiating or accumulating long positions for potential short-term rebounds or long-term value. For other stable-declining sectors, a "Wait & Watch" approach is recommended, awaiting clearer signs of market stabilization or reversal before committing new capital.
-----------------------------------------
-
-### 📊 USA Market Update - 29/09/2026 21:01:23
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $517.65 | -0.09% | Stable 🔴 |
-| Military | **RTX** | $187.92 | +0.14% | ✅ Oversale 🟢 |
-| Military | **NOC** | $506.48 | +0.13% | Stable 🟢 |
-| Energy | **XOM** | $161.10 | -0.88% | Stable 🔴 |
-| Energy | **CVX** | $205.13 | -0.60% | Stable 🔴 |
-| Energy | **COP** | $125.66 | -0.30% | Stable 🔴 |
-| Tech | **TSLA** | $352.81 | -1.30% | Stable 🔴 |
-| Tech | **AAPL** | $332.89 | -1.63% | Stable 🔴 |
-| Tech | **MSFT** | $504.61 | -0.91% | Stable 🔴 |
-| Tech | **GOOGL** | $339.95 | -0.82% | Stable 🔴 |
-| Finance | **JPM** | $335.78 | -0.24% | Stable 🔴 |
-| Finance | **BAC** | $55.29 | -0.32% | ✅ Oversale 🔴 |
