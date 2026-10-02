@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 02/10/2026 13:01:21
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $505.50 | -0.74% | ✅ Oversale 🔴 |
+| Military | **RTX** | $185.01 | -0.34% | ✅ Oversale 🔴 |
+| Military | **NOC** | $482.00 | -0.31% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $163.82 | +0.66% | Stable 🟢 |
+| Energy | **CVX** | $207.10 | +1.42% | Stable 🟢 |
+| Energy | **COP** | $127.06 | +1.53% | Stable 🟢 |
+| Tech | **TSLA** | $354.11 | -0.20% | Stable 🔴 |
+| Tech | **AAPL** | $330.32 | -0.81% | Stable 🔴 |
+| Tech | **MSFT** | $512.80 | -0.02% | Stable 🔴 |
+| Tech | **GOOGL** | $338.24 | -1.70% | Stable 🔴 |
+| Finance | **JPM** | $333.18 | +0.71% | Stable 🟢 |
+| Finance | **BAC** | $53.73 | -1.29% | ✅ Oversale 🔴 |
+| Finance | **GS** | $896.67 | -0.41% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,213.30 | +0.26% | Stable 🟢 |
+| Precious Metals | **SI=F** | $61.58 | +1.41% | Stable 🟢 |
+| Precious Metals | **GOLD** | $42.09 | -1.13% | Stable 🔴 |
+
+
+*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 02/10/2026 12:01:56
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -992,38 +1017,6 @@ Here's an analysis of the USA market data:
 | Precious Metals | **GC=F** | $4,183.10 | +0.08% | ✅ Oversale 🟢 |
 | Precious Metals | **SI=F** | $60.60 | -0.10% | Stable 🔴 |
 | Precious Metals | **GOLD** | $42.58 | -0.70% | Stable 🔴 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 01/10/2026 02:01:22
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $509.00 | -0.63% | ✅ Oversale 🔴 |
-| Military | **RTX** | $186.38 | -0.30% | ✅ Oversale 🔴 |
-| Military | **NOC** | $483.38 | -4.21% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $163.54 | +1.36% | Stable 🟢 |
-| Energy | **CVX** | $205.81 | +0.70% | Stable 🟢 |
-| Energy | **COP** | $125.61 | +0.13% | Stable 🟢 |
-| Tech | **TSLA** | $352.94 | +0.03% | Stable 🟢 |
-| Tech | **AAPL** | $336.48 | +2.15% | Stable 🟢 |
-| Tech | **MSFT** | $518.05 | +1.79% | Stable 🟢 |
-| Tech | **GOOGL** | $349.14 | +2.41% | Stable 🟢 |
-| Finance | **JPM** | $332.11 | -0.86% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $54.45 | -0.92% | ✅ Oversale 🔴 |
-| Finance | **GS** | $903.35 | -1.41% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,182.10 | +0.06% | ✅ Oversale 🟢 |
-| Precious Metals | **SI=F** | $60.56 | -0.18% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.94 | +0.14% | Stable 🟢 |
 
 
 *(AI Error 503: {
