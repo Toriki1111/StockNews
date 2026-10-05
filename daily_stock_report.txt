@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 05/10/2026 21:01:25
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $503.14 | -0.45% | ✅ Oversale 🔴 |
+| Military | **RTX** | $183.20 | -0.80% | ✅ Oversale 🔴 |
+| Military | **NOC** | $477.12 | -0.18% | ✅ Oversale 🔴 |
+| Energy | **XOM** | $163.33 | -0.41% | Stable 🔴 |
+| Energy | **CVX** | $203.84 | -1.38% | Stable 🔴 |
+| Energy | **COP** | $126.46 | -0.23% | Stable 🔴 |
+| Tech | **TSLA** | $376.04 | +1.47% | Stable 🟢 |
+| Tech | **AAPL** | $333.18 | -0.15% | Stable 🔴 |
+| Tech | **MSFT** | $527.88 | +2.00% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $344.91 | +0.41% | Stable 🟢 |
+| Finance | **JPM** | $330.78 | -0.48% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $53.73 | -0.04% | ✅ Oversale 🔴 |
+| Finance | **GS** | $888.74 | -1.53% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,171.10 | +0.21% | ✅ Oversale 🟢 |
+| Precious Metals | **SI=F** | $61.64 | +2.77% | Stable 🟢 |
+| Precious Metals | **GOLD** | $41.81 | -1.14% | ✅ Oversale 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 05/10/2026 20:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1023,3 @@ Here is your concise, actionable report:
 | Finance | **JPM** | $332.38 | -0.24% | ✅ Oversale 🔴 |
 | Finance | **BAC** | $53.75 | +0.04% | ✅ Oversale 🟢 |
 | Finance | **GS** | $902.56 | +0.66% | ✅ Oversale 🟢 |
-| Precious Metals | **GC=F** | $4,162.30 | -0.95% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $60.42 | -0.51% | Stable 🔴 |
-| Precious Metals | **GOLD** | $42.29 | +0.48% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update:
-
-*   **Market Trend**: Money is strongly flowing into the Technology sector, indicated by broad positive gains across all listed tech stocks, while exiting Military and Precious Metals futures (GC=F) which are largely oversold. The Energy sector shows mixed performance but generally stable, and Finance is showing resilience within an oversold status.
-*   **Key Tickers to Watch**: **TSLA** shows significant bullish momentum with a +4.65% surge, warranting attention for potential continuation or profit-taking opportunities. Additionally, **GC=F** (Gold Futures) is notably down -0.95% and marked "Oversale 🔴", suggesting it might be approaching a short-term bottom for opportunistic buyers.
-*   **Actionable Strategy**: Consider taking partial profits or adjusting stop-losses on existing Tech positions like TSLA to manage risk after recent gains. For contrarian investors, cautiously monitor the oversold Military sector (LMT, RTX, NOC) and GC=F for potential accumulation points, but initiate with small positions pending further confirmation of a bounce or stabilization.
-----------------------------------------
-
-### 📊 USA Market Update - 04/10/2026 11:01:24
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $505.41 | -0.02% | ✅ Oversale 🔴 |
-| Military | **RTX** | $184.68 | -0.18% | ✅ Oversale 🔴 |
-| Military | **NOC** | $478.00 | -0.83% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $164.01 | +0.12% | Stable 🟢 |
-| Energy | **CVX** | $206.69 | -0.20% | Stable 🔴 |
-| Energy | **COP** | $126.75 | -0.24% | Stable 🔴 |
-| Tech | **TSLA** | $370.59 | +4.65% | Stable 🟢 |
-| Tech | **AAPL** | $333.69 | +1.02% | Stable 🟢 |
-| Tech | **MSFT** | $517.53 | +0.92% | Stable 🟢 |
-| Tech | **GOOGL** | $343.50 | +1.56% | Stable 🟢 |
-| Finance | **JPM** | $332.38 | -0.24% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $53.75 | +0.04% | ✅ Oversale 🟢 |
-| Finance | **GS** | $902.56 | +0.66% | ✅ Oversale 🟢 |
-| Precious Metals | **GC=F** | $4,162.30 | -0.95% | ✅ Oversale 🔴 |
