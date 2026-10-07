@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 07/10/2026 20:01:33
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $510.12 | +0.69% | Stable 🟢 |
+| Military | **RTX** | $183.29 | -0.56% | ✅ Oversale 🔴 |
+| Military | **NOC** | $483.11 | +1.47% | ✅ Oversale 🟢 |
+| Energy | **XOM** | $164.48 | +0.29% | Stable 🟢 |
+| Energy | **CVX** | $207.58 | +0.54% | Stable 🟢 |
+| Energy | **COP** | $129.35 | +0.74% | Stable 🟢 |
+| Tech | **TSLA** | $380.68 | +0.51% | Stable 🟢 |
+| Tech | **AAPL** | $333.63 | +0.22% | Stable 🟢 |
+| Tech | **MSFT** | $529.30 | +0.78% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $347.68 | +0.35% | Stable 🟢 |
+| Finance | **JPM** | $331.28 | -0.33% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $54.09 | +0.17% | ✅ Oversale 🟢 |
+| Finance | **GS** | $897.18 | +0.42% | ✅ Oversale 🟢 |
+| Precious Metals | **GC=F** | $4,092.70 | -2.25% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $59.50 | -2.73% | Stable 🔴 |
+| Precious Metals | **GOLD** | $41.57 | -0.17% | ✅ Oversale 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 07/10/2026 19:01:29
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,34 +1030,3 @@ Here's your concise market report:
 | Precious Metals | **GOLD** | $41.64 | -1.54% | ✅ Oversale 🔴 |
 
 
-*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
-
-----------------------------------------
-
-### 📊 USA Market Update - 06/10/2026 10:01:27
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $506.63 | +0.24% | ✅ Oversale 🟢 |
-| Military | **RTX** | $184.33 | -0.19% | ✅ Oversale 🔴 |
-| Military | **NOC** | $476.11 | -0.40% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $164.00 | -0.01% | Stable 🔴 |
-| Energy | **CVX** | $206.47 | -0.11% | Stable 🔴 |
-| Energy | **COP** | $128.40 | +1.30% | Stable 🟢 |
-| Tech | **TSLA** | $378.73 | +2.20% | Stable 🟢 |
-| Tech | **AAPL** | $332.89 | -0.24% | Stable 🔴 |
-| Tech | **MSFT** | $525.18 | +1.48% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $346.47 | +0.86% | Stable 🟢 |
-| Finance | **JPM** | $332.38 | +0.00% | ✅ Oversale 🟡 |
-| Finance | **BAC** | $54.00 | +0.47% | ✅ Oversale 🟢 |
-| Finance | **GS** | $893.46 | -1.01% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,162.30 | +0.13% | ✅ Oversale 🟢 |
-| Precious Metals | **SI=F** | $61.15 | +0.46% | Stable 🟢 |
-| Precious Metals | **GOLD** | $41.64 | -1.54% | ✅ Oversale 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable market report:
-
-1.  **Market Trend**: Capital is flowing into select Tech names like TSLA and MSFT, alongside Energy (COP), while multiple sectors including Finance, Military, and Precious Metals show prevalent oversold conditions, indicating potential value plays.
