@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 09/10/2026 11:01:24
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $507.89 | +1.74% | Stable 🟢 |
+| Military | **RTX** | $184.32 | +2.25% | Stable 🟢 |
+| Military | **NOC** | $484.48 | +2.33% | Stable 🟢 |
+| Energy | **XOM** | $168.50 | +2.71% | Stable 🟢 |
+| Energy | **CVX** | $211.55 | +3.12% | Stable 🟢 |
+| Energy | **COP** | $134.19 | +3.35% | Stable 🟢 |
+| Tech | **TSLA** | $375.00 | -0.74% | Stable 🔴 |
+| Tech | **AAPL** | $340.42 | +1.11% | Stable 🟢 |
+| Tech | **MSFT** | $522.61 | -1.35% | Stable 🔴 |
+| Tech | **GOOGL** | $348.29 | -0.63% | Stable 🔴 |
+| Finance | **JPM** | $331.42 | +0.56% | Stable 🟢 |
+| Finance | **BAC** | $53.61 | +0.17% | ✅ Oversale 🟢 |
+| Finance | **GS** | $882.59 | -0.52% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $4,157.00 | +0.39% | ✅ Oversale 🟢 |
+| Precious Metals | **SI=F** | $59.06 | -1.39% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $41.66 | +2.41% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 09/10/2026 10:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is your market update:
 ### AI Financial Advisor:
 
 Here's your concise market report for the USA as of 08/10/2026:
-
-*   **Market Trend**: Capital is distinctly exiting the Military, Finance, and Precious Metals sectors, evidenced by widespread "Oversale" signals and negative price changes. Conversely, money is flowing into select Tech stocks like Apple and Google, with Microsoft notably hitting an "Overbought" status.
-*   **Key Tickers to Watch**: Microsoft (MSFT) is a critical watch, being "Overbought" after a run-up, suggesting caution. On the other hand, Lockheed Martin (LMT) and other military/finance stocks like Goldman Sachs (GS) are in "Oversale" territory, warranting attention for potential value entries.
-*   **Actionable Strategy**: For "Overbought" tech positions such as MSFT, consider taking partial profits or implementing tight stop-losses. For the "Oversale" sectors (Military, Finance, Precious Metals), monitor for stabilization and consider measured accumulation in fundamentally strong tickers like LMT, RTX, or GS, anticipating a potential rebound.
-----------------------------------------
-
-### 📊 USA Market Update - 08/10/2026 02:01:25
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $502.64 | -1.47% | ✅ Oversale 🔴 |
-| Military | **RTX** | $181.09 | -1.20% | ✅ Oversale 🔴 |
-| Military | **NOC** | $476.05 | -1.46% | ✅ Oversale 🔴 |
-| Energy | **XOM** | $164.30 | -0.11% | Stable 🔴 |
-| Energy | **CVX** | $205.50 | -1.00% | Stable 🔴 |
-| Energy | **COP** | $129.76 | +0.32% | Stable 🟢 |
-| Tech | **TSLA** | $377.14 | -0.93% | Stable 🔴 |
-| Tech | **AAPL** | $337.08 | +1.03% | Stable 🟢 |
-| Tech | **MSFT** | $531.11 | +0.34% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $349.41 | +0.50% | Stable 🟢 |
-| Finance | **JPM** | $328.82 | -0.74% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $53.38 | -1.30% | ✅ Oversale 🔴 |
-| Finance | **GS** | $884.55 | -1.41% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,138.20 | -1.17% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $60.15 | -1.66% | Stable 🔴 |
-| Precious Metals | **GOLD** | $40.54 | -2.48% | ✅ Oversale 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
