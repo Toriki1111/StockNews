@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 11/10/2026 01:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $509.59 | +0.33% | Stable 🟢 |
+| Military | **RTX** | $185.97 | +0.90% | Stable 🟢 |
+| Military | **NOC** | $480.72 | -0.78% | Stable 🔴 |
+| Energy | **XOM** | $168.94 | +0.26% | Stable 🟢 |
+| Energy | **CVX** | $211.98 | +0.20% | Stable 🟢 |
+| Energy | **COP** | $134.10 | -0.07% | Stable 🔴 |
+| Tech | **TSLA** | $382.70 | +2.05% | Stable 🟢 |
+| Tech | **AAPL** | $336.64 | -1.11% | Stable 🔴 |
+| Tech | **MSFT** | $535.07 | +2.38% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $351.66 | +0.97% | Stable 🟢 |
+| Finance | **JPM** | $332.99 | +0.47% | Stable 🟢 |
+| Finance | **BAC** | $54.32 | +1.32% | ✅ Oversale 🟢 |
+| Finance | **GS** | $895.32 | +1.44% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,216.30 | +1.43% | Stable 🟢 |
+| Precious Metals | **SI=F** | $60.67 | +2.72% | Stable 🟢 |
+| Precious Metals | **GOLD** | $40.69 | -2.33% | ✅ Oversale 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 11/10/2026 00:01:32
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -995,37 +1027,6 @@ Here is your market update for today, 09/10/2026:
 | Finance | **GS** | $882.59 | -0.52% | ✅ Oversale 🔴 |
 | Precious Metals | **GC=F** | $4,212.90 | +1.34% | Stable 🟢 |
 | Precious Metals | **SI=F** | $60.64 | +2.67% | Stable 🟢 |
-| Precious Metals | **GOLD** | $41.66 | +2.41% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable market report for the upcoming session:
-
-*   **Market Trend**: Capital is exhibiting a clear flow into defensive and commodity-linked sectors, with Energy, Military, and Precious Metals demonstrating strong positive momentum. In contrast, the Technology sector shows signs of profit-taking and capital outflow from key players like Microsoft and Google.
-*   **Key Tickers to Watch**: Bank of America (BAC) and Goldman Sachs (GS) are notable, both flagged as "Oversale" despite mixed daily performance (+0.17% and -0.52% respectively), potentially signaling attractive entry points for a short-term rebound.
-*   **Actionable Strategy**: Consider accumulating positions in "Oversale" financial stocks like BAC and GS, looking for a bounce. For the robustly performing Energy and Military sectors, existing positions could be considered for partial profit-taking, or new entries should await minor consolidations.
-----------------------------------------
-
-### 📊 USA Market Update - 09/10/2026 15:01:26
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $507.89 | +1.74% | Stable 🟢 |
-| Military | **RTX** | $184.32 | +2.25% | Stable 🟢 |
-| Military | **NOC** | $484.48 | +2.33% | Stable 🟢 |
-| Energy | **XOM** | $168.50 | +2.71% | Stable 🟢 |
-| Energy | **CVX** | $211.55 | +3.12% | Stable 🟢 |
-| Energy | **COP** | $134.19 | +3.35% | Stable 🟢 |
-| Tech | **TSLA** | $375.00 | -0.74% | Stable 🔴 |
-| Tech | **AAPL** | $340.42 | +1.11% | Stable 🟢 |
-| Tech | **MSFT** | $522.61 | -1.35% | Stable 🔴 |
-| Tech | **GOOGL** | $348.29 | -0.63% | Stable 🔴 |
-| Finance | **JPM** | $331.42 | +0.56% | Stable 🟢 |
-| Finance | **BAC** | $53.61 | +0.17% | ✅ Oversale 🟢 |
-| Finance | **GS** | $882.59 | -0.52% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $4,215.70 | +1.41% | Stable 🟢 |
-| Precious Metals | **SI=F** | $60.65 | +2.69% | Stable 🟢 |
 | Precious Metals | **GOLD** | $41.66 | +2.41% | Stable 🟢 |
 
 
