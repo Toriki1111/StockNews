@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 11/10/2026 19:01:26
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $509.59 | +0.33% | Stable 🟢 |
+| Military | **RTX** | $185.97 | +0.90% | Stable 🟢 |
+| Military | **NOC** | $480.72 | -0.78% | Stable 🔴 |
+| Energy | **XOM** | $168.94 | +0.26% | Stable 🟢 |
+| Energy | **CVX** | $211.98 | +0.20% | Stable 🟢 |
+| Energy | **COP** | $134.10 | -0.07% | Stable 🔴 |
+| Tech | **TSLA** | $382.70 | +2.05% | Stable 🟢 |
+| Tech | **AAPL** | $336.64 | -1.11% | Stable 🔴 |
+| Tech | **MSFT** | $535.07 | +2.38% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $351.66 | +0.97% | Stable 🟢 |
+| Finance | **JPM** | $332.99 | +0.47% | Stable 🟢 |
+| Finance | **BAC** | $54.32 | +1.32% | ✅ Oversale 🟢 |
+| Finance | **GS** | $895.32 | +1.44% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,216.30 | +1.43% | Stable 🟢 |
+| Precious Metals | **SI=F** | $61.05 | +3.36% | Stable 🟢 |
+| Precious Metals | **GOLD** | $40.69 | -2.33% | ✅ Oversale 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 11/10/2026 18:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -997,37 +1029,4 @@ Here is an analysis of the USA market data:
 *   **Key Tickers to Watch**: **MSFT** (+2.38%, Overbought) shows strong bullish momentum but warrants caution for a potential short-term pullback. **GOLD** (-2.33%, Oversale) presents a significant dip and an oversold signal, suggesting a potential rebound opportunity.
 *   **Actionable Strategy**: For existing **MSFT** positions, consider setting tight stop-loss orders or partial profit-taking given its "Overbought" status. For **GOLD**, monitor closely for signs of a bottom and potential rebound; a small accumulation strategy could be considered if further technical analysis confirms buying interest.
 ----------------------------------------
-
-### 📊 USA Market Update - 10/10/2026 09:01:31
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $509.59 | +0.33% | Stable 🟢 |
-| Military | **RTX** | $185.97 | +0.90% | Stable 🟢 |
-| Military | **NOC** | $480.72 | -0.78% | Stable 🔴 |
-| Energy | **XOM** | $168.94 | +0.26% | Stable 🟢 |
-| Energy | **CVX** | $211.98 | +0.20% | Stable 🟢 |
-| Energy | **COP** | $134.10 | -0.07% | Stable 🔴 |
-| Tech | **TSLA** | $382.70 | +2.05% | Stable 🟢 |
-| Tech | **AAPL** | $336.64 | -1.11% | Stable 🔴 |
-| Tech | **MSFT** | $535.07 | +2.38% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $351.66 | +0.97% | Stable 🟢 |
-| Finance | **JPM** | $332.99 | +0.47% | Stable 🟢 |
-| Finance | **BAC** | $54.32 | +1.32% | ✅ Oversale 🟢 |
-| Finance | **GS** | $895.32 | +1.44% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,220.30 | +1.52% | Stable 🟢 |
-| Precious Metals | **SI=F** | $61.11 | +3.46% | Stable 🟢 |
-| Precious Metals | **GOLD** | $40.69 | -2.33% | ✅ Oversale 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's a concise, actionable report:
-
-1.  **Market Trend**: Capital is primarily flowing into select Technology names, exemplified by strong surges in MSFT and TSLA, alongside broad strength across the Financial sector. Precious Metals futures (GC=F, SI=F) also show significant inflows, despite physical GOLD experiencing a sharp decline.
-2.  **Key Tickers to Watch**: Microsoft (MSFT) is flagged as "Overbought" after a 2.38% jump, indicating potential for a near-term correction or profit-taking. Conversely, physical Gold (GOLD) is marked "Oversale" following a 2.33% drop, suggesting it might be undervalued for a technical rebound.
-3.  **Actionable Strategy**: For MSFT, consider taking partial profits or setting a tighter stop-loss order due to its overbought condition. For physical GOLD, accumulation is advisable, targeting a bounce back from its oversold status.
-----------------------------------------
-
-### 📊 USA Market Update - 10/10/2026 08:01:25
 
