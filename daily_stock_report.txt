@@ -1,3 +1,28 @@
+### 📊 USA Market Update - 11/10/2026 12:01:30
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $509.59 | +0.33% | Stable 🟢 |
+| Military | **RTX** | $185.97 | +0.90% | Stable 🟢 |
+| Military | **NOC** | $480.72 | -0.78% | Stable 🔴 |
+| Energy | **XOM** | $168.94 | +0.26% | Stable 🟢 |
+| Energy | **CVX** | $211.98 | +0.20% | Stable 🟢 |
+| Energy | **COP** | $134.10 | -0.07% | Stable 🔴 |
+| Tech | **TSLA** | $382.70 | +2.05% | Stable 🟢 |
+| Tech | **AAPL** | $336.64 | -1.11% | Stable 🔴 |
+| Tech | **MSFT** | $535.07 | +2.38% | ⚠️ Overbought! 🟢 |
+| Tech | **GOOGL** | $351.66 | +0.97% | Stable 🟢 |
+| Finance | **JPM** | $332.99 | +0.47% | Stable 🟢 |
+| Finance | **BAC** | $54.32 | +1.32% | ✅ Oversale 🟢 |
+| Finance | **GS** | $895.32 | +1.44% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,216.30 | +1.43% | Stable 🟢 |
+| Precious Metals | **SI=F** | $61.05 | +3.36% | Stable 🟢 |
+| Precious Metals | **GOLD** | $40.69 | -2.33% | ✅ Oversale 🔴 |
+
+
+*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 11/10/2026 11:01:27
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1023,3 @@ Here's an analysis of the USA market data:
 Here's an analysis of the USA market data:
 
 *   **Market Trend**: Capital is actively flowing into specific Tech stocks, notably MSFT and TSLA, and showing broad strength across the Financial sector. Precious metals exhibit a split trend, with strong gains in futures (GC=F, SI=F) while physical Gold (GOLD) experienced a significant downturn.
-*   **Key Tickers to Watch**: Microsoft (MSFT) is flagged as "Overbought" after a +2.38% surge, warranting caution. Conversely, physical Gold (GOLD) is marked "Oversale" following a -2.40% drop, potentially signaling a short-term rebound opportunity or undervalued entry.
-*   **Actionable Strategy**: For MSFT, consider a strategy of taking partial profits or tightening stop-loss orders. For GOLD, observe for stabilization and potential accumulation on dips, while maintaining a "Wait & Watch" stance for broader market entries given the mixed sector performance.
-----------------------------------------
-
-### 📊 USA Market Update - 10/10/2026 02:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $507.86 | -0.01% | Stable 🔴 |
-| Military | **RTX** | $185.61 | +0.70% | Stable 🟢 |
-| Military | **NOC** | $479.04 | -1.12% | Stable 🔴 |
-| Energy | **XOM** | $168.78 | +0.17% | Stable 🟢 |
-| Energy | **CVX** | $211.90 | +0.17% | Stable 🟢 |
-| Energy | **COP** | $134.51 | +0.24% | Stable 🟢 |
-| Tech | **TSLA** | $383.92 | +2.38% | Stable 🟢 |
-| Tech | **AAPL** | $337.78 | -0.78% | Stable 🔴 |
-| Tech | **MSFT** | $535.92 | +2.55% | ⚠️ Overbought! 🟢 |
-| Tech | **GOOGL** | $351.33 | +0.87% | Stable 🟢 |
-| Finance | **JPM** | $333.05 | +0.49% | Stable 🟢 |
-| Finance | **BAC** | $54.29 | +1.28% | ✅ Oversale 🟢 |
-| Finance | **GS** | $898.77 | +1.83% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,226.30 | +1.67% | Stable 🟢 |
-| Precious Metals | **SI=F** | $61.29 | +3.78% | Stable 🟢 |
-| Precious Metals | **GOLD** | $41.09 | -1.37% | ✅ Oversale 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Capital is actively flowing into the Technology, Financial, and Energy sectors, signaling broad market optimism, with strong performance also noted in Precious Metals futures. Conversely, certain Military holdings and physical gold are experiencing outflows.
-*   **Key Tickers to Watch**: Monitor **MSFT** closely, flagged as "Overbought" after a significant +2.55% gain, which may precede a correction or consolidation. Conversely, **GOLD** (physical) appears "Oversale" following its -1.37% dip, potentially setting up for a short-term rebound.
