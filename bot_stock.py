@@ -9,7 +9,7 @@ import requests
 WATCHLIST = {
     "Military": ["LMT", "RTX", "NOC"],
     "Energy": ["XOM", "CVX", "COP"],
-    "Tech": ["TSLA", "AAPL", "MSFT", "GOOGL"],
+    "Tech": ["TSLA", "AAPL", "MSFT", "GOOGL", "NVDA"],
     "Finance": ["JPM", "BAC", "GS"],
     "Precious Metals": ["GC=F", "SI=F", "GOLD"]
 }
