@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 19/10/2026 01:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $552.09 | +3.65% | Stable 🟢 |
+| Military | **RTX** | $193.92 | +3.73% | Stable 🟢 |
+| Military | **NOC** | $519.86 | +4.05% | Stable 🟢 |
+| Energy | **XOM** | $178.98 | +2.46% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $224.99 | +2.59% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $146.51 | +3.37% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $354.72 | -2.13% | Stable 🔴 |
+| Tech | **AAPL** | $343.46 | +0.43% | Stable 🟢 |
+| Tech | **MSFT** | $529.05 | -1.93% | Stable 🔴 |
+| Tech | **GOOGL** | $340.59 | -2.47% | Stable 🔴 |
+| Tech | **NVDA** | $214.13 | -1.43% | Stable 🔴 |
+| Finance | **JPM** | $339.72 | +1.25% | Stable 🟢 |
+| Finance | **BAC** | $51.23 | -0.91% | ✅ Oversale 🔴 |
+| Finance | **GS** | $881.26 | -1.12% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,181.10 | +0.26% | Stable 🟢 |
+| Precious Metals | **SI=F** | $57.31 | +0.82% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.35 | -0.71% | ✅ Oversale 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the USA market data:
+
+*   **Market Trend**: Capital is strongly flowing into the Military and Energy sectors, showing significant upward momentum and bullish sentiment, while the Tech sector experiences broad outflows. Financial and Precious Metals sectors show mixed performance with some oversold conditions.
+*   **Key Tickers to Watch**: Monitor COP (Energy) which is flagged as 'Overbought' after a +3.37% surge, indicating potential for a near-term pullback. Conversely, BAC (Finance) is marked 'Oversale' at -0.91%, suggesting a possible rebound opportunity for value investors.
+*   **Actionable Strategy**: Consider taking partial profits or setting tight stop-losses on overbought Energy positions like COP to lock in gains. For long-term investors, selectively accumulate undervalued assets such as BAC, watching for reversal signals before committing heavily.
+----------------------------------------
+
 ### 📊 USA Market Update - 19/10/2026 00:01:27
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,37 +1028,5 @@ Here's an analysis of the USA market data:
 1.  **Market Trend**: Funds are clearly flowing into the Military and Energy sectors, which show strong positive momentum, with Energy specifically flagged as overbought. Conversely, the Technology sector is experiencing broad declines, indicating a shift away from growth stocks.
 2.  **Key Tickers to Watch**: The Energy sector's **XOM**, **CVX**, and **COP** are all marked "Overbought" after significant gains, signaling potential for a short-term pullback or profit-taking. Conversely, **BAC** (Bank of America) is flagged as "Oversale," potentially offering a tactical buying opportunity after its recent dip.
 3.  **Actionable Strategy**: For existing Energy sector holdings, consider taking partial profits or implementing tighter stop-loss orders given their "Overbought" status. For **BAC**, consider initiating a small accumulation strategy if a deeper fundamental analysis aligns with its current "Oversale" signal.
-----------------------------------------
-
-### 📊 USA Market Update - 17/10/2026 17:01:25
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $552.09 | +3.65% | Stable 🟢 |
-| Military | **RTX** | $193.92 | +3.73% | Stable 🟢 |
-| Military | **NOC** | $519.86 | +4.05% | Stable 🟢 |
-| Energy | **XOM** | $178.98 | +2.46% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $224.99 | +2.59% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $146.51 | +3.37% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $354.72 | -2.13% | Stable 🔴 |
-| Tech | **AAPL** | $343.46 | +0.43% | Stable 🟢 |
-| Tech | **MSFT** | $529.05 | -1.93% | Stable 🔴 |
-| Tech | **GOOGL** | $340.59 | -2.47% | Stable 🔴 |
-| Tech | **NVDA** | $214.13 | -1.43% | Stable 🔴 |
-| Finance | **JPM** | $339.72 | +1.25% | Stable 🟢 |
-| Finance | **BAC** | $51.23 | -0.91% | ✅ Oversale 🔴 |
-| Finance | **GS** | $881.26 | -1.12% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,181.10 | +0.26% | Stable 🟢 |
-| Precious Metals | **SI=F** | $56.99 | +0.28% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.35 | -0.71% | ✅ Oversale 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis report:
-
-1.  **Market Trend**: Capital is strongly flowing into the Military and Energy sectors, both showing significant gains, with Energy stocks universally flagged as overbought. Concurrently, there's a clear rotation out of the Technology sector, which saw broad declines across most major tickers.
-2.  **Key Tickers to Watch**: COP (ConocoPhillips) stands out with a +3.37% surge and an "Overbought" signal, warranting caution. Conversely, BAC (Bank of America) is flagged as "Oversale," potentially offering an attractive entry point for value investors if fundamental outlook remains sound.
-3.  **Actionable Strategy**: For "Overbought" Energy stocks (XOM, CVX, COP), consider a 'Take Profit' strategy to lock in gains. For "Oversale" BAC, 'Wait & Watch' for stabilization or consider strategic 'Accumulation' on further dips, with strict risk management.
 ----------------------------------------
 
