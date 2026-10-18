@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 18/10/2026 20:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $552.09 | +3.65% | Stable 🟢 |
+| Military | **RTX** | $193.92 | +3.73% | Stable 🟢 |
+| Military | **NOC** | $519.86 | +4.05% | Stable 🟢 |
+| Energy | **XOM** | $178.98 | +2.46% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $224.99 | +2.59% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $146.51 | +3.37% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $354.72 | -2.13% | Stable 🔴 |
+| Tech | **AAPL** | $343.46 | +0.43% | Stable 🟢 |
+| Tech | **MSFT** | $529.05 | -1.93% | Stable 🔴 |
+| Tech | **GOOGL** | $340.59 | -2.47% | Stable 🔴 |
+| Tech | **NVDA** | $214.13 | -1.43% | Stable 🔴 |
+| Finance | **JPM** | $339.72 | +1.25% | Stable 🟢 |
+| Finance | **BAC** | $51.23 | -0.91% | ✅ Oversale 🔴 |
+| Finance | **GS** | $881.26 | -1.12% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,181.10 | +0.26% | Stable 🟢 |
+| Precious Metals | **SI=F** | $57.31 | +0.82% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.35 | -0.71% | ✅ Oversale 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise, actionable market report:
+
+*   **Market Trend**: Capital is clearly rotating into defensive and commodity-linked sectors, with Military and Energy stocks showing significant gains, while the Technology sector broadly experienced notable sell-offs.
+*   **Key Tickers to Watch**: Energy stock COP is flagged as "Overbought!" following a robust +3.37% surge, while both Bank of America (BAC) and GOLD are marked "Oversale" after minor drops, indicating potential rebound opportunities.
+*   **Actionable Strategy**: For existing Overbought energy positions like COP, consider taking partial profits or implementing tight stop-losses; conversely, for BAC and GOLD, initiating or increasing accumulation could be a prudent strategy, targeting a near-term rebound.
+----------------------------------------
+
 ### 📊 USA Market Update - 18/10/2026 19:01:29
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -986,38 +1018,6 @@ Here is your market update:
 ----------------------------------------
 
 ### 📊 USA Market Update - 17/10/2026 12:01:29
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $552.09 | +3.65% | Stable 🟢 |
-| Military | **RTX** | $193.92 | +3.73% | Stable 🟢 |
-| Military | **NOC** | $519.86 | +4.05% | Stable 🟢 |
-| Energy | **XOM** | $178.98 | +2.46% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $224.99 | +2.59% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $146.51 | +3.37% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $354.72 | -2.13% | Stable 🔴 |
-| Tech | **AAPL** | $343.46 | +0.43% | Stable 🟢 |
-| Tech | **MSFT** | $529.05 | -1.93% | Stable 🔴 |
-| Tech | **GOOGL** | $340.59 | -2.47% | Stable 🔴 |
-| Tech | **NVDA** | $214.13 | -1.43% | Stable 🔴 |
-| Finance | **JPM** | $339.72 | +1.25% | Stable 🟢 |
-| Finance | **BAC** | $51.23 | -0.91% | ✅ Oversale 🔴 |
-| Finance | **GS** | $881.26 | -1.12% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,181.10 | +0.26% | Stable 🟢 |
-| Precious Metals | **SI=F** | $56.99 | +0.28% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.35 | -0.71% | ✅ Oversale 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-*   **Market Trend**: Capital is strongly flowing into the Military and Energy sectors, with the latter showing signs of being overbought, indicating robust bullish sentiment. Conversely, the Technology sector is experiencing a broad outflow of funds, marked by widespread declines among its major constituents.
-*   **Key Tickers to Watch**: **COP** (Energy) is highlighted as "Overbought" following a substantial +3.37% gain, signaling potential for a short-term correction or profit-taking. Meanwhile, **BAC** (Finance) is noted as "Oversale" after a -0.91% dip, which could present a tactical buying opportunity for a rebound.
-*   **Actionable Strategy**: For overbought Energy stocks like COP, consider taking partial profits or implementing tight stop-loss orders to protect gains. For oversold assets such as BAC and GOLD, cautiously accumulate positions with a long-term investment view, while adopting a "Wait & Watch" approach for the broader Technology sector pending clearer positive catalysts.
-----------------------------------------
-
-### 📊 USA Market Update - 17/10/2026 11:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $552.09 | +3.65% | Stable 🟢 |
