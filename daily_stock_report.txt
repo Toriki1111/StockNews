@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 18/10/2026 16:01:28
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $552.09 | +3.65% | Stable 🟢 |
+| Military | **RTX** | $193.92 | +3.73% | Stable 🟢 |
+| Military | **NOC** | $519.86 | +4.05% | Stable 🟢 |
+| Energy | **XOM** | $178.98 | +2.46% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $224.99 | +2.59% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $146.51 | +3.37% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $354.72 | -2.13% | Stable 🔴 |
+| Tech | **AAPL** | $343.46 | +0.43% | Stable 🟢 |
+| Tech | **MSFT** | $529.05 | -1.93% | Stable 🔴 |
+| Tech | **GOOGL** | $340.59 | -2.47% | Stable 🔴 |
+| Tech | **NVDA** | $214.13 | -1.43% | Stable 🔴 |
+| Finance | **JPM** | $339.72 | +1.25% | Stable 🟢 |
+| Finance | **BAC** | $51.23 | -0.91% | ✅ Oversale 🔴 |
+| Finance | **GS** | $881.26 | -1.12% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,181.10 | +0.26% | Stable 🟢 |
+| Precious Metals | **SI=F** | $57.31 | +0.82% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.35 | -0.71% | ✅ Oversale 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market update:
+
+1.  **Market Trend**: Capital is clearly flowing into the Military and Energy sectors, both showing strong positive momentum today. Conversely, the Technology sector is experiencing notable outflows, with most tickers posting negative returns.
+2.  **Key Tickers to Watch**: Monitor COP, signaling 'Overbought' with a robust +3.37% gain, suggesting potential short-term pullback risks. Conversely, BAC and GOLD are both flagged as 'Oversale', potentially presenting attractive entry points for a rebound.
+3.  **Actionable Strategy**: For current holdings in overbought Energy tickers like COP, consider taking partial profits or tightening stop-losses. For BAC and GOLD, explore accumulation strategies during this oversale period, anticipating a potential bounce in the near future.
+----------------------------------------
+
 ### 📊 USA Market Update - 18/10/2026 15:01:28
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -988,38 +1020,6 @@ Here is your market update:
 ----------------------------------------
 
 ### 📊 USA Market Update - 17/10/2026 08:01:23
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $532.64 | +1.99% | Stable 🟢 |
-| Military | **RTX** | $186.95 | +0.26% | Stable 🟢 |
-| Military | **NOC** | $499.63 | +0.79% | Stable 🟢 |
-| Energy | **XOM** | $174.68 | -1.32% | ⚠️ Overbought! 🔴 |
-| Energy | **CVX** | $219.32 | -1.22% | Stable 🔴 |
-| Energy | **COP** | $141.73 | -0.43% | ⚠️ Overbought! 🔴 |
-| Tech | **TSLA** | $362.44 | -1.29% | Stable 🔴 |
-| Tech | **AAPL** | $342.00 | -0.28% | Stable 🔴 |
-| Tech | **MSFT** | $539.44 | +1.08% | Stable 🟢 |
-| Tech | **GOOGL** | $349.22 | +0.45% | Stable 🟢 |
-| Tech | **NVDA** | $217.23 | -1.84% | Stable 🔴 |
-| Finance | **JPM** | $335.53 | +0.07% | Stable 🟢 |
-| Finance | **BAC** | $51.70 | +0.60% | ✅ Oversale 🟢 |
-| Finance | **GS** | $891.28 | +1.43% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,186.70 | +0.40% | Stable 🟢 |
-| Precious Metals | **SI=F** | $57.13 | +0.52% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.63 | +2.35% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the USA market data:
-
-*   **Market Trend**: Money is notably flowing into defensive sectors such as Military, Finance, and Precious Metals, all showing broad positive movements. Conversely, the Energy sector is experiencing significant outflows with "Overbought" warnings, while Tech shows mixed performance with some significant individual declines.
-*   **Key Tickers to Watch**: Keep a close eye on **BAC**, flagged "Oversale" and showing positive momentum, potentially indicating a rebound and buying opportunity. Simultaneously, **XOM** is marked "Overbought" despite its decline, suggesting a likely continuation of profit-taking or further correction.
-*   **Actionable Strategy**: Consider accumulating positions in Finance (like BAC) and Precious Metals on any minor dips, reflecting strong positive momentum. For the Energy sector, specifically XOM and COP, initiate profit-taking or establish short positions given their "Overbought" status and negative price action.
-----------------------------------------
-
-### 📊 USA Market Update - 17/10/2026 07:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $532.64 | +1.99% | Stable 🟢 |
