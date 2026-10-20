@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 21/10/2026 02:01:26
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $548.09 | -0.03% | Stable 🔴 |
+| Military | **RTX** | $192.07 | -0.02% | Stable 🔴 |
+| Military | **NOC** | $533.40 | +4.46% | Stable 🟢 |
+| Energy | **XOM** | $177.35 | -0.52% | ⚠️ Overbought! 🔴 |
+| Energy | **CVX** | $224.79 | +0.18% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $145.99 | +0.52% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $375.63 | +2.06% | Stable 🟢 |
+| Tech | **AAPL** | $339.73 | -0.94% | Stable 🔴 |
+| Tech | **MSFT** | $532.01 | -0.28% | Stable 🔴 |
+| Tech | **GOOGL** | $339.61 | -1.33% | Stable 🔴 |
+| Tech | **NVDA** | $216.79 | -0.14% | Stable 🔴 |
+| Finance | **JPM** | $335.18 | +0.50% | Stable 🟢 |
+| Finance | **BAC** | $50.56 | +0.34% | ✅ Oversale 🟢 |
+| Finance | **GS** | $884.07 | +0.95% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,141.00 | -0.46% | Stable 🔴 |
+| Precious Metals | **SI=F** | $57.94 | +1.70% | Stable 🟢 |
+| Precious Metals | **GOLD** | $38.33 | +0.41% | ✅ Oversale 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis report:
+
+1.  **Market Trend**: Capital is rotating into defensive and specific growth areas; Military (NOC's surge), Finance, and oversold Precious Metals are attracting inflows. Conversely, the Energy sector signals caution with widespread "Overbought" indicators, while Tech shows mixed performance.
+2.  **Key Tickers to Watch**: Northrop Grumman (NOC) merits immediate attention following its significant +4.46% surge, highlighting strong specific demand within the defense sector. Bank of America (BAC), currently flagged as "Oversale" and demonstrating positive momentum, suggests a potential value play.
+3.  **Actionable Strategy**: Given the "Overbought" signals in the Energy sector, investors should consider taking partial profits or tightening stop-losses for existing holdings. Conversely, the "Oversale" status and positive intraday movement in BAC and GOLD present strategic accumulation opportunities.
+----------------------------------------
+
 ### 📊 USA Market Update - 21/10/2026 01:01:27
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -985,38 +1017,6 @@ Here's an analysis of the USA market data:
 ----------------------------------------
 
 ### 📊 USA Market Update - 19/10/2026 18:01:29
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $552.09 | +3.65% | Stable 🟢 |
-| Military | **RTX** | $193.92 | +3.73% | Stable 🟢 |
-| Military | **NOC** | $519.86 | +4.05% | Stable 🟢 |
-| Energy | **XOM** | $178.98 | +2.46% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $224.99 | +2.59% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $146.51 | +3.37% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $354.72 | -2.13% | Stable 🔴 |
-| Tech | **AAPL** | $343.46 | +0.43% | Stable 🟢 |
-| Tech | **MSFT** | $529.05 | -1.93% | Stable 🔴 |
-| Tech | **GOOGL** | $340.59 | -2.47% | Stable 🔴 |
-| Tech | **NVDA** | $214.13 | -1.43% | Stable 🔴 |
-| Finance | **JPM** | $339.72 | +1.25% | Stable 🟢 |
-| Finance | **BAC** | $51.23 | -0.91% | ✅ Oversale 🔴 |
-| Finance | **GS** | $881.26 | -1.12% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,186.00 | +0.12% | Stable 🟢 |
-| Precious Metals | **SI=F** | $57.71 | +1.25% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.35 | -0.71% | ✅ Oversale 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-*   **Market Trend**: Capital is actively rotating out of the technology sector, evidenced by broad declines, and into defensive plays such as Military and Energy, which saw strong positive performance with several assets flagged as 'Overbought'.
-*   **Key Tickers to Watch**: Energy stocks (XOM, CVX, COP) are marked 'Overbought' after significant gains, signaling potential for a short-term pullback, while Bank of America (BAC) and physically-backed Gold (GOLD) are 'Oversale' and could present rebound opportunities.
-*   **Actionable Strategy**: Consider taking partial profits or setting tight trailing stop-loss orders on your Energy positions; conversely, explore selective accumulation in BAC and GOLD, while maintaining a 'Wait & Watch' stance on the broader Tech sector for signs of stabilization.
-----------------------------------------
-
-### 📊 USA Market Update - 19/10/2026 17:01:35
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $552.09 | +3.65% | Stable 🟢 |
