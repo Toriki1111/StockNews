@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 20/10/2026 07:01:25
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $552.09 | +3.65% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $193.92 | +3.73% | Stable 🟢 |
+| Military | **NOC** | $519.86 | +4.05% | Stable 🟢 |
+| Energy | **XOM** | $178.98 | +2.46% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $224.99 | +2.59% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $146.51 | +3.37% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $354.72 | -2.13% | Stable 🔴 |
+| Tech | **AAPL** | $343.46 | +0.43% | Stable 🟢 |
+| Tech | **MSFT** | $529.05 | -1.93% | Stable 🔴 |
+| Tech | **GOOGL** | $340.59 | -2.47% | Stable 🔴 |
+| Tech | **NVDA** | $214.13 | -1.43% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $339.72 | +1.25% | Stable 🟢 |
+| Finance | **BAC** | $51.23 | -0.91% | ✅ Oversale 🔴 |
+| Finance | **GS** | $881.26 | -1.12% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,151.50 | -0.71% | Stable 🔴 |
+| Precious Metals | **SI=F** | $57.04 | +0.09% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.35 | -0.71% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the provided market data:
+
+*   **Market Trend**: Capital is clearly rotating into defensive sectors such as Military and Energy, driven by significant gains across all tickers within these groups, many of which are now signaling 'Overbought'. Conversely, the Technology sector is experiencing notable outflows, with most major names declining and some like NVDA hitting 'Oversale' status.
+*   **Key Tickers to Watch**: Investors should closely monitor **COP** (ConocoPhillips), which is up +3.37% and marked 'Overbought', indicating a potential short-term pullback or profit-taking opportunity. On the flip side, **NVDA** (NVIDIA), down -1.43% and signaling 'Oversale', presents a potential dip-buying opportunity for long-term growth investors if the tech sentiment improves.
+*   **Actionable Strategy**: For current holdings in the Energy and Military sectors, consider **Taking Profit** or setting tighter **Stop Losses** due to 'Overbought' conditions. For technology stocks like NVDA and BAC, **Accumulate** cautiously on these dips if they align with your long-term conviction, while maintaining a **Wait & Watch** approach for broader market stabilization in Tech.
+----------------------------------------
+
 ### 📊 USA Market Update - 20/10/2026 06:01:19
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1030,3 @@ Here is your market update:
 | Tech | **MSFT** | $529.05 | -1.93% | Stable 🔴 |
 | Tech | **GOOGL** | $340.59 | -2.47% | Stable 🔴 |
 | Tech | **NVDA** | $214.13 | -1.43% | Stable 🔴 |
-| Finance | **JPM** | $339.72 | +1.25% | Stable 🟢 |
-| Finance | **BAC** | $51.23 | -0.91% | ✅ Oversale 🔴 |
-| Finance | **GS** | $881.26 | -1.12% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,181.10 | +0.26% | Stable 🟢 |
-| Precious Metals | **SI=F** | $57.31 | +0.82% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.35 | -0.71% | ✅ Oversale 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the market data:
-
-*   **Market Trend**: Capital is clearly rotating into defensive sectors like Military and Energy, with all tickers showing significant positive movement and the Energy sector specifically flagged as overbought. Conversely, the Technology sector is experiencing a broad-based sell-off, signaling a notable shift out of growth-oriented assets.
-*   **Key Tickers to Watch**: The Energy sector, particularly **XOM, CVX, and COP**, is consistently marked "Overbought," suggesting potential for a short-term correction or profit-taking. Simultaneously, **BAC** and **GOLD** are flagged "Oversale," indicating they might be nearing attractive entry points for value-seeking investors.
-*   **Actionable Strategy**: Consider implementing a "Take Profit" strategy for the overbought Energy sector tickers. For **BAC** and **GOLD**, given their "Oversale" status, a "Cautious Accumulate" approach may be warranted, while a "Wait & Watch" stance is advised for the volatile Technology sector until more stability emerges.
-----------------------------------------
-
-### 📊 USA Market Update - 18/10/2026 22:01:25
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $552.09 | +3.65% | Stable 🟢 |
-| Military | **RTX** | $193.92 | +3.73% | Stable 🟢 |
-| Military | **NOC** | $519.86 | +4.05% | Stable 🟢 |
-| Energy | **XOM** | $178.98 | +2.46% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $224.99 | +2.59% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $146.51 | +3.37% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $354.72 | -2.13% | Stable 🔴 |
-| Tech | **AAPL** | $343.46 | +0.43% | Stable 🟢 |
-| Tech | **MSFT** | $529.05 | -1.93% | Stable 🔴 |
-| Tech | **GOOGL** | $340.59 | -2.47% | Stable 🔴 |
-| Tech | **NVDA** | $214.13 | -1.43% | Stable 🔴 |
-| Finance | **JPM** | $339.72 | +1.25% | Stable 🟢 |
