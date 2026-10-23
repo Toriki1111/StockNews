@@ -1,3 +1,29 @@
+### 📊 USA Market Update - 23/10/2026 11:01:34
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $589.91 | +6.96% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $194.71 | +1.62% | Stable 🟢 |
+| Military | **NOC** | $552.35 | +2.42% | ⚠️ Overbought! 🟢 |
+| Energy | **XOM** | $178.23 | +0.08% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $226.68 | -0.04% | ⚠️ Overbought! 🔴 |
+| Energy | **COP** | $145.63 | -0.03% | ⚠️ Overbought! 🔴 |
+| Tech | **TSLA** | $374.58 | -3.08% | Stable 🔴 |
+| Tech | **AAPL** | $348.22 | +1.23% | Stable 🟢 |
+| Tech | **MSFT** | $521.08 | -2.23% | Stable 🔴 |
+| Tech | **GOOGL** | $324.22 | -3.15% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $212.21 | -4.40% | Stable 🔴 |
+| Finance | **JPM** | $336.54 | +0.40% | Stable 🟢 |
+| Finance | **BAC** | $51.08 | +0.59% | ✅ Oversale 🟢 |
+| Finance | **GS** | $891.30 | -1.48% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,060.40 | -2.16% | Stable 🔴 |
+| Precious Metals | **SI=F** | $54.76 | -4.63% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $38.66 | -0.41% | Stable 🔴 |
+
+
+*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 23/10/2026 10:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1024,3 @@ Here's an analysis of the USA market data:
 
 *   **Market Trend**: Capital is actively flowing into Technology, particularly high-growth names like TSLA and NVDA, alongside a broad positive sentiment in Precious Metals. The Energy sector, while showing recent positive flow, appears broadly overextended with multiple "Overbought" signals across its constituents.
 *   **Key Tickers to Watch**: Bank of America (BAC) presents an "Oversale" opportunity for potential rebound after its recent dip. Conversely, Chevron (CVX) is flagged as "Overbought," indicating caution or potential profit-taking after its recent upward momentum.
-*   **Actionable Strategy**: Consider accumulating positions in BAC due to its oversold status for a potential short-term bounce or long-term value. For existing Energy holdings like CVX and XOM, it is prudent to consider partial profit-taking or tightening stop-loss orders given their overbought conditions.
-----------------------------------------
-
-### 📊 USA Market Update - 22/10/2026 02:01:34
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $546.34 | -0.43% | Stable 🔴 |
-| Military | **RTX** | $189.61 | -1.93% | Stable 🔴 |
-| Military | **NOC** | $537.39 | +0.63% | Stable 🟢 |
-| Energy | **XOM** | $178.72 | +0.48% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $228.01 | +1.02% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $146.96 | +0.69% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $386.03 | +3.30% | Stable 🟢 |
-| Tech | **AAPL** | $343.86 | +1.29% | Stable 🟢 |
-| Tech | **MSFT** | $530.82 | -0.20% | Stable 🔴 |
-| Tech | **GOOGL** | $333.36 | -2.03% | Stable 🔴 |
-| Tech | **NVDA** | $220.59 | +1.90% | Stable 🟢 |
-| Finance | **JPM** | $334.25 | -0.30% | Stable 🔴 |
-| Finance | **BAC** | $50.82 | +0.36% | ✅ Oversale 🟢 |
-| Finance | **GS** | $899.91 | +1.71% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,142.60 | +0.00% | Stable 🟡 |
-| Precious Metals | **SI=F** | $57.56 | -0.25% | Stable 🔴 |
-| Precious Metals | **GOLD** | $38.52 | +0.86% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the USA market data:
-
-*   **Market Trend**: The energy sector is currently experiencing robust inflows, with all highlighted tickers (XOM, CVX, COP) marked as "Overbought" and displaying strong positive momentum. The technology sector shows a mixed performance, with significant gains in TSLA and NVDA offset by declines in MSFT and GOOGL.
-*   **Key Tickers to Watch**: The entire Energy sector (XOM, CVX, COP) warrants close attention due to its "Overbought" status, which could signal a short-term pullback or profit-taking. Additionally, BAC in the Finance sector, marked "Oversale" with a slight positive change, presents a potential rebound candidate.
