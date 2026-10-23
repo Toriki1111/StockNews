@@ -1,3 +1,36 @@
+### 📊 USA Market Update - 23/10/2026 09:01:35
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $589.91 | +6.96% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $194.71 | +1.62% | Stable 🟢 |
+| Military | **NOC** | $552.35 | +2.42% | ⚠️ Overbought! 🟢 |
+| Energy | **XOM** | $178.23 | +0.08% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $226.68 | -0.04% | ⚠️ Overbought! 🔴 |
+| Energy | **COP** | $145.63 | -0.03% | ⚠️ Overbought! 🔴 |
+| Tech | **TSLA** | $374.58 | -3.08% | Stable 🔴 |
+| Tech | **AAPL** | $348.22 | +1.23% | Stable 🟢 |
+| Tech | **MSFT** | $521.08 | -2.23% | Stable 🔴 |
+| Tech | **GOOGL** | $324.22 | -3.15% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $212.21 | -4.40% | Stable 🔴 |
+| Finance | **JPM** | $336.54 | +0.40% | Stable 🟢 |
+| Finance | **BAC** | $51.08 | +0.59% | ✅ Oversale 🟢 |
+| Finance | **GS** | $891.30 | -1.48% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,021.30 | -3.10% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $54.15 | -5.70% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $38.66 | -0.41% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 23/10/2026 08:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1031,3 @@ Here is your concise market analysis:
 1.  **Market Trend**: Capital is clearly flowing into the Technology sector, evidenced by robust gains across key players like TSLA and NVDA. Precious Metals are also seeing sustained interest, suggesting an underlying demand for safe-haven assets. Conversely, the Energy sector appears to be nearing a peak, with all major tickers flagged as "Overbought."
 2.  **Key Tickers to Watch**: Bank of America (BAC) presents a notable opportunity, marked as "Oversale" despite a positive price change, signaling potential for further upside. The entire Energy sector, particularly CVX and XOM, warrants close monitoring as their "Overbought" status could indicate an impending pullback or consolidation.
 3.  **Actionable Strategy**: Accumulate BAC shares to capitalize on its attractive oversold condition. For existing positions in the Energy sector, especially those flagged "Overbought," consider taking profits or implementing tight stop-loss orders to protect gains against a potential correction.
-----------------------------------------
-
-### 📊 USA Market Update - 22/10/2026 00:01:34
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $549.87 | +0.21% | Stable 🟢 |
-| Military | **RTX** | $190.74 | -1.35% | Stable 🔴 |
-| Military | **NOC** | $540.81 | +1.27% | Stable 🟢 |
-| Energy | **XOM** | $177.25 | -0.34% | ⚠️ Overbought! 🔴 |
-| Energy | **CVX** | $225.81 | +0.04% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $145.57 | -0.26% | ⚠️ Overbought! 🔴 |
-| Tech | **TSLA** | $387.78 | +3.76% | Stable 🟢 |
-| Tech | **AAPL** | $343.88 | +1.29% | Stable 🟢 |
-| Tech | **MSFT** | $532.75 | +0.17% | Stable 🟢 |
-| Tech | **GOOGL** | $333.68 | -1.94% | Stable 🔴 |
-| Tech | **NVDA** | $221.47 | +2.31% | Stable 🟢 |
-| Finance | **JPM** | $334.25 | -0.30% | Stable 🔴 |
-| Finance | **BAC** | $51.08 | +0.88% | ✅ Oversale 🟢 |
-| Finance | **GS** | $903.69 | +2.13% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,150.20 | +0.18% | Stable 🟢 |
-| Precious Metals | **SI=F** | $57.70 | -0.01% | Stable 🔴 |
-| Precious Metals | **GOLD** | $38.76 | +1.48% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the USA market data:
-
-1.  **Market Trend**: The Technology sector is currently attracting significant capital, evidenced by strong gains in TSLA (+3.76%) and NVDA (+2.31%). Conversely, the Energy sector is universally flagged with "Overbought" conditions, suggesting a potential consolidation or pullback despite minor price changes.
-2.  **Key Tickers to Watch**: The entire Energy sector (XOM, CVX, COP) warrants close monitoring due to its "Overbought" status, indicating potential for a near-term reversal. In contrast, Bank of America (BAC) is notably marked "Oversale" and registered a positive gain (+0.88%), signaling a potential rebound opportunity.
-3.  **Actionable Strategy**: For current Energy sector positions, consider a "Wait & Watch" approach or initiate partial "Take Profit" orders to manage overbought risk. Conversely, "Accumulate" Bank of America (BAC) shares, as its "Oversale" status with a positive bounce may present a favorable entry point.
