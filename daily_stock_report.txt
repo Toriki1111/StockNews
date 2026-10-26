@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 27/10/2026 02:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $630.62 | +4.38% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $196.85 | +3.05% | Stable 🟢 |
+| Military | **NOC** | $564.08 | +2.29% | ⚠️ Overbought! 🟢 |
+| Energy | **XOM** | $184.35 | +0.62% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $232.57 | -0.27% | ⚠️ Overbought! 🔴 |
+| Energy | **COP** | $151.58 | +0.52% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $393.73 | +5.78% | Stable 🟢 |
+| Tech | **AAPL** | $342.83 | -1.41% | Stable 🔴 |
+| Tech | **MSFT** | $531.47 | +1.33% | Stable 🟢 |
+| Tech | **GOOGL** | $316.66 | -1.11% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $215.99 | +2.38% | Stable 🟢 |
+| Finance | **JPM** | $334.90 | +1.00% | Stable 🟢 |
+| Finance | **BAC** | $50.69 | +0.27% | ✅ Oversale 🟢 |
+| Finance | **GS** | $896.65 | +2.39% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,027.40 | +0.49% | Stable 🟢 |
+| Precious Metals | **SI=F** | $54.03 | +0.58% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $38.69 | +0.53% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is a concise, actionable report:
+
+1.  **Market Trend**: Capital is heavily flowing into the Military sector, with all tickers showing strong gains and two flagged as "Overbought," while specific Tech stocks like TSLA and NVDA also exhibit significant positive momentum. Finance and Precious Metals sectors are also showing broad positive movement.
+2.  **Key Tickers to Watch**: **LMT** (Military) shows a strong +4.38% surge but is marked "Overbought!", signaling potential for a short-term pullback. Conversely, **GOOGL** (Tech) is flagged as "Oversale" after a -1.11% dip, potentially offering an attractive entry point for investors.
+3.  **Actionable Strategy**: Consider taking partial profits or implementing tight trailing stop-loss orders on overbought military stocks (LMT, NOC) to protect gains. For oversold opportunities, consider initiating small accumulation positions in **GOOGL** and **SI=F**, closely monitoring for reversal signals.
+----------------------------------------
+
 ### 📊 USA Market Update - 27/10/2026 01:01:34
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here's an analysis of the USA market data:
 | Military | **NOC** | $551.44 | -0.16% | ⚠️ Overbought! 🔴 |
 | Energy | **XOM** | $183.21 | +2.79% | ⚠️ Overbought! 🟢 |
 | Energy | **CVX** | $233.21 | +2.88% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $150.80 | +3.55% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $372.22 | -0.63% | Stable 🔴 |
-| Tech | **AAPL** | $347.73 | -0.14% | Stable 🔴 |
-| Tech | **MSFT** | $524.51 | +0.66% | Stable 🟢 |
-| Tech | **GOOGL** | $320.21 | -1.24% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $210.96 | -0.59% | Stable 🔴 |
-| Finance | **JPM** | $331.58 | -1.47% | Stable 🔴 |
-| Finance | **BAC** | $50.56 | -1.02% | ✅ Oversale 🔴 |
-| Finance | **GS** | $875.68 | -1.75% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,007.90 | -1.29% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $53.95 | -1.49% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $38.48 | -0.47% | Stable 🔴 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 25/10/2026 16:01:24
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $604.18 | +2.42% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $191.01 | -1.90% | Stable 🔴 |
-| Military | **NOC** | $551.44 | -0.16% | ⚠️ Overbought! 🔴 |
-| Energy | **XOM** | $183.21 | +2.79% | ⚠️ Overbought! 🟢 |
