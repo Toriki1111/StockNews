@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 27/10/2026 01:01:34
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $630.33 | +4.33% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $197.09 | +3.18% | Stable 🟢 |
+| Military | **NOC** | $562.82 | +2.06% | ⚠️ Overbought! 🟢 |
+| Energy | **XOM** | $184.41 | +0.65% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $232.46 | -0.32% | ⚠️ Overbought! 🔴 |
+| Energy | **COP** | $151.55 | +0.50% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $396.19 | +6.44% | Stable 🟢 |
+| Tech | **AAPL** | $343.45 | -1.23% | Stable 🔴 |
+| Tech | **MSFT** | $530.76 | +1.19% | Stable 🟢 |
+| Tech | **GOOGL** | $318.33 | -0.59% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $216.32 | +2.54% | Stable 🟢 |
+| Finance | **JPM** | $335.36 | +1.14% | Stable 🟢 |
+| Finance | **BAC** | $50.88 | +0.63% | Stable 🟢 |
+| Finance | **GS** | $900.09 | +2.79% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,031.20 | +0.58% | Stable 🟢 |
+| Precious Metals | **SI=F** | $54.13 | +0.79% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $38.96 | +1.25% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise, actionable report:
+
+*   **Market Trend**: Capital is actively flowing into the Military and Energy sectors, both showing strong positive momentum, though several components within these sectors are now signaling "Overbought" conditions. The Tech sector presents a mixed picture with significant gains in speculative names like TSLA, while GOOGL is marked as "Oversale" following a modest decline.
+*   **Key Tickers to Watch**: **TSLA** warrants close observation due to its impressive +6.44% surge, indicating robust buying interest despite its "Stable" status. Conversely, **GOOGL** is a standout as "Oversale," potentially signaling a buying opportunity after a slight negative change.
+*   **Actionable Strategy**: For holdings in the "Overbought" Military (LMT, NOC) and Energy (XOM, COP, CVX) sectors, consider **Taking Profit** or implementing tight stop-loss orders. For **GOOGL**, consider a tactical **Accumulate** strategy on its oversale signal, and for **TSLA**, maintain a **Wait & Watch** approach to assess the sustainability of its sharp rally.
+----------------------------------------
+
 ### 📊 USA Market Update - 27/10/2026 00:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1030,3 @@ Here's an analysis of the USA market data:
 | Military | **RTX** | $191.01 | -1.90% | Stable 🔴 |
 | Military | **NOC** | $551.44 | -0.16% | ⚠️ Overbought! 🔴 |
 | Energy | **XOM** | $183.21 | +2.79% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $233.21 | +2.88% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $150.80 | +3.55% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $372.22 | -0.63% | Stable 🔴 |
-| Tech | **AAPL** | $347.73 | -0.14% | Stable 🔴 |
-| Tech | **MSFT** | $524.51 | +0.66% | Stable 🟢 |
-| Tech | **GOOGL** | $320.21 | -1.24% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $210.96 | -0.59% | Stable 🔴 |
-| Finance | **JPM** | $331.58 | -1.47% | Stable 🔴 |
-| Finance | **BAC** | $50.56 | -1.02% | ✅ Oversale 🔴 |
-| Finance | **GS** | $875.68 | -1.75% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,007.90 | -1.29% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $53.95 | -1.49% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $38.48 | -0.47% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market report:
-
-1.  **Market Trend**: Capital is primarily flowing into the Energy sector, which is showing strong positive momentum and is heavily overbought across its major players. Conversely, money appears to be exiting Tech, Finance, and Precious Metals, with several key tickers in these sectors now signaling oversold conditions.
-2.  **Key Tickers to Watch**: Observe **COP** (ConocoPhillips), which surged +3.55% and is strongly "Overbought," suggesting potential for profit-taking or a short-term correction. Simultaneously, **GC=F** (Gold Futures) is notably "Oversale" with a -1.29% drop, potentially indicating a short-term buying opportunity for a rebound.
-3.  **Actionable Strategy**: For overbought Energy positions (e.g., XOM, CVX, COP), consider taking partial profits or setting tight stop-loss orders to protect gains. For oversold assets like Gold Futures (GC=F) and GOOGL, initiate a "Wait & Watch" strategy for confirmation of a bottoming trend before considering accumulation.
-----------------------------------------
-
-### 📊 USA Market Update - 25/10/2026 15:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $604.18 | +2.42% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $191.01 | -1.90% | Stable 🔴 |
-| Military | **NOC** | $551.44 | -0.16% | ⚠️ Overbought! 🔴 |
-| Energy | **XOM** | $183.21 | +2.79% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $233.21 | +2.88% | ⚠️ Overbought! 🟢 |
