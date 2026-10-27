@@ -1,3 +1,29 @@
+### 📊 USA Market Update - 28/10/2026 01:01:37
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $627.42 | -1.22% | ⚠️ Overbought! 🔴 |
+| Military | **RTX** | $195.78 | -0.86% | Stable 🔴 |
+| Military | **NOC** | $554.38 | -1.95% | Stable 🔴 |
+| Energy | **XOM** | $181.06 | -1.89% | ⚠️ Overbought! 🔴 |
+| Energy | **CVX** | $228.92 | -1.33% | ⚠️ Overbought! 🔴 |
+| Energy | **COP** | $148.09 | -2.17% | ⚠️ Overbought! 🔴 |
+| Tech | **TSLA** | $405.47 | +3.54% | Stable 🟢 |
+| Tech | **AAPL** | $345.77 | +0.54% | Stable 🟢 |
+| Tech | **MSFT** | $531.42 | -0.22% | Stable 🔴 |
+| Tech | **GOOGL** | $321.88 | +1.60% | Stable 🟢 |
+| Tech | **NVDA** | $217.82 | +0.84% | Stable 🟢 |
+| Finance | **JPM** | $336.33 | +0.69% | Stable 🟢 |
+| Finance | **BAC** | $50.72 | +0.40% | ✅ Oversale 🟢 |
+| Finance | **GS** | $909.78 | +1.85% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,071.80 | +0.83% | Stable 🟢 |
+| Precious Metals | **SI=F** | $54.38 | +0.51% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.34 | +1.84% | Stable 🟢 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 28/10/2026 00:01:39
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1024,3 @@ Here is a concise, actionable report:
 *   **Key Tickers to Watch**: Observe **COP** ($150.80, +3.55%) for its strong bullish momentum and "Overbought" signal, indicating potential for a near-term pullback. **GOOGL** ($320.21, -1.24%) is marked "Oversale," suggesting a potential contrarian entry opportunity.
 *   **Actionable Strategy**: For existing Energy sector positions, consider taking partial profits or implementing tight trailing stop-losses due to "Overbought" conditions. For "Oversale" tickers like GOOGL and BAC, adopt a "Wait & Watch" strategy, looking for confirmed stabilization before considering accumulation.
 ----------------------------------------
-
-### 📊 USA Market Update - 26/10/2026 17:01:33
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $604.18 | +2.42% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $191.01 | -1.90% | Stable 🔴 |
-| Military | **NOC** | $551.44 | -0.16% | ⚠️ Overbought! 🔴 |
-| Energy | **XOM** | $183.21 | +2.79% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $233.21 | +2.88% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $150.80 | +3.55% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $372.22 | -0.63% | Stable 🔴 |
-| Tech | **AAPL** | $347.73 | -0.14% | Stable 🔴 |
-| Tech | **MSFT** | $524.51 | +0.66% | Stable 🟢 |
-| Tech | **GOOGL** | $320.21 | -1.24% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $210.96 | -0.59% | Stable 🔴 |
-| Finance | **JPM** | $331.58 | -1.47% | Stable 🔴 |
-| Finance | **BAC** | $50.56 | -1.02% | ✅ Oversale 🔴 |
-| Finance | **GS** | $875.68 | -1.75% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,031.80 | +0.60% | Stable 🟢 |
-| Precious Metals | **SI=F** | $54.12 | +0.77% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $38.48 | -0.47% | Stable 🔴 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
