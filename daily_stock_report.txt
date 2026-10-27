@@ -1,3 +1,36 @@
+### 📊 USA Market Update - 27/10/2026 12:01:37
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $635.20 | +5.13% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $197.48 | +3.39% | Stable 🟢 |
+| Military | **NOC** | $565.41 | +2.53% | ⚠️ Overbought! 🟢 |
+| Energy | **XOM** | $184.54 | +0.73% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $232.01 | -0.51% | ⚠️ Overbought! 🔴 |
+| Energy | **COP** | $151.37 | +0.38% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $391.62 | +5.21% | Stable 🟢 |
+| Tech | **AAPL** | $343.91 | -1.10% | Stable 🔴 |
+| Tech | **MSFT** | $532.60 | +1.54% | Stable 🟢 |
+| Tech | **GOOGL** | $316.80 | -1.06% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $216.00 | +2.39% | Stable 🟢 |
+| Finance | **JPM** | $334.04 | +0.74% | Stable 🟢 |
+| Finance | **BAC** | $50.52 | -0.08% | ✅ Oversale 🔴 |
+| Finance | **GS** | $893.28 | +2.01% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,025.40 | -0.32% | Stable 🔴 |
+| Precious Metals | **SI=F** | $53.62 | -0.91% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $38.63 | +0.39% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 27/10/2026 11:01:28
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1031,3 @@ Here is an analysis of the USA market data:
 *   **Actionable Strategy**: For 'Overbought' assets in Energy (XOM, CVX, COP) and Military (LMT), consider taking partial profits or implementing tight trailing stop-losses to protect gains. For 'Oversale' assets such as GOOGL, BAC, and the Precious Metals futures (GC=F, SI=F), consider initiating a 'Wait & Watch' strategy for potential reversal signals or begin fractional accumulation.
 ----------------------------------------
 
-### 📊 USA Market Update - 26/10/2026 03:01:31
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $604.18 | +2.42% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $191.01 | -1.90% | Stable 🔴 |
-| Military | **NOC** | $551.44 | -0.16% | ⚠️ Overbought! 🔴 |
-| Energy | **XOM** | $183.21 | +2.79% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $233.21 | +2.88% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $150.80 | +3.55% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $372.22 | -0.63% | Stable 🔴 |
-| Tech | **AAPL** | $347.73 | -0.14% | Stable 🔴 |
-| Tech | **MSFT** | $524.51 | +0.66% | Stable 🟢 |
-| Tech | **GOOGL** | $320.21 | -1.24% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $210.96 | -0.59% | Stable 🔴 |
-| Finance | **JPM** | $331.58 | -1.47% | Stable 🔴 |
-| Finance | **BAC** | $50.56 | -1.02% | ✅ Oversale 🔴 |
-| Finance | **GS** | $875.68 | -1.75% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,007.90 | -1.29% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $53.95 | -1.49% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $38.48 | -0.47% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the USA market data:
-
-*   **Market Trend**: Capital is heavily flowing into the Energy sector, with all major players showing significant gains and overbought signals. Conversely, the Technology, Finance, and Precious Metals sectors are experiencing notable outflows, marked by negative performance and several oversold conditions.
-*   **Key Tickers to Watch**: ConocoPhillips (COP) is a key ticker to watch, being heavily overbought after a strong +3.55% surge. Additionally, Gold Futures (GC=F) stands out as oversold, presenting a potential value opportunity after its -1.29% decline.
-*   **Actionable Strategy**: For current holdings, consider taking partial profits on overbought Energy positions like COP to lock in gains and manage risk. For new allocations, initiate a "Wait & Watch" strategy on oversold assets such as Gold Futures (GC=F) and Bank of America (BAC) for potential accumulation opportunities.
-----------------------------------------
-
-### 📊 USA Market Update - 26/10/2026 02:01:29
