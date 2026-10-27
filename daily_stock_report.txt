@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 28/10/2026 06:01:34
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $622.99 | -1.92% | ⚠️ Overbought! 🔴 |
+| Military | **RTX** | $194.60 | -1.46% | Stable 🔴 |
+| Military | **NOC** | $551.23 | -2.51% | Stable 🔴 |
+| Energy | **XOM** | $179.91 | -2.51% | Stable 🔴 |
+| Energy | **CVX** | $228.23 | -1.63% | Stable 🔴 |
+| Energy | **COP** | $147.96 | -2.25% | ⚠️ Overbought! 🔴 |
+| Tech | **TSLA** | $407.46 | +4.04% | Stable 🟢 |
+| Tech | **AAPL** | $347.10 | +0.93% | Stable 🟢 |
+| Tech | **MSFT** | $531.33 | -0.24% | Stable 🔴 |
+| Tech | **GOOGL** | $320.58 | +1.19% | ✅ Oversale 🟢 |
+| Tech | **NVDA** | $217.94 | +0.90% | Stable 🟢 |
+| Finance | **JPM** | $335.79 | +0.52% | Stable 🟢 |
+| Finance | **BAC** | $50.68 | +0.32% | ✅ Oversale 🟢 |
+| Finance | **GS** | $911.77 | +2.07% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,076.90 | +0.95% | Stable 🟢 |
+| Precious Metals | **SI=F** | $54.54 | +0.80% | Stable 🟢 |
+| Precious Metals | **GOLD** | $39.56 | +2.41% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+1.  **Market Trend**: Capital is actively rotating out of the Military and Energy sectors, which show broad declines across most tickers. Conversely, Tech, Finance, and Precious Metals are attracting inflows, indicating a preference for growth-oriented assets and safe-haven plays.
+2.  **Key Tickers to Watch**: Lockheed Martin (LMT) is notably "Overbought" and has fallen by -1.92%, suggesting potential for further correction. Conversely, Google (GOOGL) shows positive momentum with a +1.19% gain from an "Oversale" position, indicating potential upward reversal.
+3.  **Actionable Strategy**: For LMT and COP, consider taking partial profits or setting tighter stop-loss orders given their "Overbought" status and recent declines. Evaluate accumulation opportunities in GOOGL and BAC, which are showing signs of rebound from "Oversale" conditions.
+----------------------------------------
+
 ### 📊 USA Market Update - 28/10/2026 05:01:33
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,29 +1030,3 @@ Here is your concise, actionable market report:
 | Finance | **JPM** | $335.08 | +1.06% | Stable 🟢 |
 | Finance | **BAC** | $51.08 | +1.02% | Stable 🟢 |
 | Finance | **GS** | $897.70 | +2.51% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,033.30 | +0.63% | Stable 🟢 |
-| Precious Metals | **SI=F** | $54.10 | +0.73% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $39.04 | +1.47% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable market report:
-
-1.  **Market Trend**: Money is heavily flowing into the Military and Financial sectors, which show robust performance and investor confidence. The Energy sector, despite some tickers being overbought, displays mixed performance, suggesting potential consolidation or fatigue.
-2.  **Key Tickers to Watch**: **LMT** is significantly overbought with a strong gain, indicating a potential near-term reversal or profit-taking opportunity. **GOOGL** is marked as "Oversale" despite a modest positive move, suggesting it might be undervalued and ripe for accumulation.
-3.  **Actionable Strategy**: Consider taking partial profits or setting tight stop-losses on overbought military (LMT, NOC) and energy (XOM) positions. Conversely, initiate or add to positions in **GOOGL** and **SI=F**, as their "Oversale" status presents attractive entry points for accumulation.
-----------------------------------------
-
-### 📊 USA Market Update - 26/10/2026 21:01:36
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $617.00 | +2.12% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $194.01 | +1.57% | Stable 🟢 |
-| Military | **NOC** | $559.55 | +1.47% | ⚠️ Overbought! 🟢 |
-| Energy | **XOM** | $184.24 | +0.56% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $233.87 | +0.28% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $151.84 | +0.69% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $394.03 | +5.86% | Stable 🟢 |
-| Tech | **AAPL** | $343.12 | -1.33% | Stable 🔴 |
