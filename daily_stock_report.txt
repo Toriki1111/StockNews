@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 29/10/2026 02:01:33
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $628.54 | +0.89% | ⚠️ Overbought! 🟢 |
+| Military | **RTX** | $197.19 | +1.33% | Stable 🟢 |
+| Military | **NOC** | $551.32 | +0.02% | Stable 🟢 |
+| Energy | **XOM** | $182.63 | +1.51% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $230.54 | +1.01% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $149.56 | +1.08% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $403.46 | -0.98% | Stable 🔴 |
+| Tech | **AAPL** | $344.56 | -0.73% | Stable 🔴 |
+| Tech | **MSFT** | $529.66 | -0.31% | Stable 🔴 |
+| Tech | **GOOGL** | $325.41 | +1.51% | Stable 🟢 |
+| Tech | **NVDA** | $216.25 | -0.78% | Stable 🔴 |
+| Finance | **JPM** | $339.27 | +1.03% | Stable 🟢 |
+| Finance | **BAC** | $50.85 | +0.33% | Stable 🟢 |
+| Finance | **GS** | $924.79 | +1.43% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,058.40 | -0.40% | Stable 🔴 |
+| Precious Metals | **SI=F** | $53.83 | -0.85% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $38.74 | -2.09% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's your concise market analysis:
+
+1.  **Market Trend**: Strong capital inflows are observed in Energy, Finance, and Military sectors, indicated by widespread positive performance and "Overbought" signals in key stocks. Conversely, Precious Metals are experiencing significant outflows, while the Technology sector shows mixed performance with a slight downward bias.
+2.  **Key Tickers to Watch**: **SI=F (Silver Futures)** is a key watch, explicitly marked "Oversale" after a -0.85% drop, suggesting potential for a technical bounce. In contrast, **XOM (ExxonMobil)** is prominently "Overbought" following a +1.51% surge, indicating a need for caution.
+3.  **Actionable Strategy**: Advise taking partial profits or implementing tighter stop-losses on positions in overbought Energy and Military stocks to de-risk. For Precious Metals, particularly SI=F, initiate a "Wait & Watch" strategy for clear reversal patterns before considering accumulation.
+----------------------------------------
+
 ### 📊 USA Market Update - 29/10/2026 01:01:35
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,29 +1030,3 @@ Here's your concise market analysis:
 | Tech | **AAPL** | $343.91 | -1.10% | Stable 🔴 |
 | Tech | **MSFT** | $532.60 | +1.54% | Stable 🟢 |
 | Tech | **GOOGL** | $316.80 | -1.06% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $216.00 | +2.39% | Stable 🟢 |
-| Finance | **JPM** | $334.04 | +0.74% | Stable 🟢 |
-| Finance | **BAC** | $50.52 | -0.08% | ✅ Oversale 🔴 |
-| Finance | **GS** | $893.28 | +2.01% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,010.60 | -0.69% | Stable 🔴 |
-| Precious Metals | **SI=F** | $53.28 | -1.54% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $38.63 | +0.39% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-*   **Market Trend**: Money is clearly flowing into the Military sector, evidenced by strong positive performance and multiple "Overbought" signals. Conversely, Precious Metals are experiencing outflows, with both GC=F and SI=F declining and SI=F specifically flagged as "Oversale."
-*   **Key Tickers to Watch**: LMT has surged over 5% and is flagged "Overbought," indicating potential for a pullback or consolidation. Conversely, GOOGL is flagged "Oversale" after a modest dip, potentially offering an attractive entry point for a rebound.
-*   **Actionable Strategy**: For overbought Military assets like LMT and NOC, consider setting tight stop-losses or taking partial profits. For oversold assets like GOOGL and SI=F, "Accumulate" could be a viable strategy for investors seeking potential bounce-back opportunities or long-term value.
-----------------------------------------
-
-### 📊 USA Market Update - 27/10/2026 16:01:33
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $635.20 | +5.13% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $197.48 | +3.39% | Stable 🟢 |
-| Military | **NOC** | $565.41 | +2.53% | ⚠️ Overbought! 🟢 |
-| Energy | **XOM** | $184.54 | +0.73% | ⚠️ Overbought! 🟢 |
