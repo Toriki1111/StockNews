@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 28/10/2026 09:01:30
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $622.99 | -1.92% | ⚠️ Overbought! 🔴 |
+| Military | **RTX** | $194.60 | -1.46% | Stable 🔴 |
+| Military | **NOC** | $551.23 | -2.51% | Stable 🔴 |
+| Energy | **XOM** | $179.91 | -2.51% | Stable 🔴 |
+| Energy | **CVX** | $228.23 | -1.63% | Stable 🔴 |
+| Energy | **COP** | $147.96 | -2.25% | ⚠️ Overbought! 🔴 |
+| Tech | **TSLA** | $407.46 | +4.04% | Stable 🟢 |
+| Tech | **AAPL** | $347.10 | +0.93% | Stable 🟢 |
+| Tech | **MSFT** | $531.33 | -0.24% | Stable 🔴 |
+| Tech | **GOOGL** | $320.58 | +1.19% | ✅ Oversale 🟢 |
+| Tech | **NVDA** | $217.94 | +0.90% | Stable 🟢 |
+| Finance | **JPM** | $335.79 | +0.52% | Stable 🟢 |
+| Finance | **BAC** | $50.68 | +0.32% | ✅ Oversale 🟢 |
+| Finance | **GS** | $911.77 | +2.07% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,063.40 | +0.62% | Stable 🟢 |
+| Precious Metals | **SI=F** | $54.24 | +0.24% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $39.56 | +2.41% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+*   **Market Trend**: Capital appears to be rotating out of Military and Energy sectors, which show broad declines, and into select areas of Technology (led by TSLA's surge and GOOGL's potential rebound) and the stability offered by Finance and Precious Metals.
+*   **Key Tickers to Watch**: LMT (Military) is highlighted as "Overbought!" despite a -1.92% drop, suggesting potential for further correction. Conversely, GOOGL (Tech) is flagged as "Oversale" with a +1.19% gain, indicating a possible undervalued entry point.
+*   **Actionable Strategy**: Consider a "Take Profit" or "Stop Loss" review for overbought Military and Energy holdings like LMT and COP. For growth potential, "Accumulate" GOOGL given its "Oversale" status and positive momentum, and monitor TSLA for continued strength or consolidation.
+----------------------------------------
+
 ### 📊 USA Market Update - 28/10/2026 08:01:27
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is a concise, actionable report:
 
 ---
 ### AI Financial Advisor:
-
-Here is your concise, actionable report:
-
-*   **Market Trend**: Capital is actively flowing into the Military and Energy sectors, both showing strong positive momentum, though several components within these sectors are now signaling "Overbought" conditions. The Tech sector presents a mixed picture with significant gains in speculative names like TSLA, while GOOGL is marked as "Oversale" following a modest decline.
-*   **Key Tickers to Watch**: **TSLA** warrants close observation due to its impressive +6.44% surge, indicating robust buying interest despite its "Stable" status. Conversely, **GOOGL** is a standout as "Oversale," potentially signaling a buying opportunity after a slight negative change.
-*   **Actionable Strategy**: For holdings in the "Overbought" Military (LMT, NOC) and Energy (XOM, COP, CVX) sectors, consider **Taking Profit** or implementing tight stop-loss orders. For **GOOGL**, consider a tactical **Accumulate** strategy on its oversale signal, and for **TSLA**, maintain a **Wait & Watch** approach to assess the sustainability of its sharp rally.
-----------------------------------------
-
-### 📊 USA Market Update - 27/10/2026 00:01:30
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $628.08 | +3.96% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $196.87 | +3.07% | Stable 🟢 |
-| Military | **NOC** | $560.07 | +1.56% | ⚠️ Overbought! 🟢 |
-| Energy | **XOM** | $183.97 | +0.41% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $232.37 | -0.36% | ⚠️ Overbought! 🔴 |
-| Energy | **COP** | $151.41 | +0.40% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $395.44 | +6.24% | Stable 🟢 |
-| Tech | **AAPL** | $343.92 | -1.10% | Stable 🔴 |
-| Tech | **MSFT** | $530.47 | +1.14% | Stable 🟢 |
-| Tech | **GOOGL** | $319.10 | -0.35% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $216.13 | +2.45% | Stable 🟢 |
-| Finance | **JPM** | $334.73 | +0.95% | Stable 🟢 |
-| Finance | **BAC** | $50.85 | +0.57% | Stable 🟢 |
-| Finance | **GS** | $897.02 | +2.44% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,032.50 | +0.61% | Stable 🟢 |
-| Precious Metals | **SI=F** | $54.17 | +0.86% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $39.18 | +1.82% | Stable 🟢 |
-
-
-*(AI Error 503: {
-  "error": {
