@@ -1,3 +1,36 @@
+### 📊 USA Market Update - 31/10/2026 09:01:22
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $636.95 | -1.03% | ⚠️ Overbought! 🔴 |
+| Military | **RTX** | $199.80 | +0.20% | Stable 🟢 |
+| Military | **NOC** | $557.54 | -0.86% | ⚠️ Overbought! 🔴 |
+| Energy | **XOM** | $187.25 | +2.16% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $235.52 | +1.75% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $154.03 | +2.67% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $399.81 | -0.87% | Stable 🔴 |
+| Tech | **AAPL** | $344.63 | -1.23% | Stable 🔴 |
+| Tech | **MSFT** | $521.91 | -1.55% | Stable 🔴 |
+| Tech | **GOOGL** | $279.84 | -1.40% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $204.64 | -4.22% | Stable 🔴 |
+| Finance | **JPM** | $337.04 | -1.90% | Stable 🔴 |
+| Finance | **BAC** | $50.01 | -2.21% | ✅ Oversale 🔴 |
+| Finance | **GS** | $894.55 | -3.58% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,884.90 | -3.63% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $49.13 | -5.86% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $38.03 | -1.35% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 31/10/2026 08:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1031,3 @@ Here is your concise market analysis:
 
 *(AI Error 503: {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 30/10/2026 00:01:32
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $647.15 | +2.76% | ⚠️ Overbought! 🟢 |
-| Military | **RTX** | $201.46 | +2.87% | Stable 🟢 |
-| Military | **NOC** | $565.88 | +2.37% | ⚠️ Overbought! 🟢 |
-| Energy | **XOM** | $182.37 | +0.19% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $230.38 | +0.52% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $149.16 | +0.07% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $404.83 | +0.15% | Stable 🟢 |
-| Tech | **AAPL** | $349.82 | +1.74% | Stable 🟢 |
-| Tech | **MSFT** | $524.66 | -1.19% | Stable 🔴 |
-| Tech | **GOOGL** | $284.30 | -12.49% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $213.52 | -0.86% | Stable 🔴 |
-| Finance | **JPM** | $343.53 | +1.25% | Stable 🟢 |
-| Finance | **BAC** | $51.65 | +1.56% | Stable 🟢 |
-| Finance | **GS** | $930.89 | +0.62% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,026.70 | -0.61% | Stable 🔴 |
-| Precious Metals | **SI=F** | $52.38 | -2.02% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $38.81 | -0.59% | Stable 🔴 |
-
-
-*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
