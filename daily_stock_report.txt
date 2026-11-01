@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 02/11/2026 05:01:23
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $636.95 | -1.03% | ⚠️ Overbought! 🔴 |
+| Military | **RTX** | $199.80 | +0.20% | Stable 🟢 |
+| Military | **NOC** | $557.54 | -0.86% | ⚠️ Overbought! 🔴 |
+| Energy | **XOM** | $187.25 | +2.16% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $235.52 | +1.75% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $154.03 | +2.67% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $399.81 | -0.87% | Stable 🔴 |
+| Tech | **AAPL** | $344.63 | -1.23% | Stable 🔴 |
+| Tech | **MSFT** | $521.91 | -1.55% | Stable 🔴 |
+| Tech | **GOOGL** | $279.84 | -1.40% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $204.64 | -4.22% | Stable 🔴 |
+| Finance | **JPM** | $337.04 | -1.90% | Stable 🔴 |
+| Finance | **BAC** | $50.01 | -2.21% | ✅ Oversale 🔴 |
+| Finance | **GS** | $894.55 | -3.58% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,898.90 | -3.29% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $49.28 | -5.59% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $38.03 | -1.35% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market update:
+
+*   **Market Trend**: Capital is strongly rotating into the Energy sector, which is showing widespread overbought conditions, while significantly exiting Technology, Finance, and Precious Metals. These exiting sectors are exhibiting notable declines, with several assets entering oversold territory.
+*   **Key Tickers to Watch**: Monitor ConocoPhillips (COP) for continued energy strength despite its overbought status. Closely watch Silver Futures (SI=F), which are heavily oversold following a sharp -5.59% decline, suggesting a potential rebound opportunity.
+*   **Actionable Strategy**: Consider taking partial profits on heavily appreciated Energy holdings that are overbought, such as COP, to lock in gains. For significantly oversold assets like SI=F, GOOGL, and BAC, adopt a "Wait & Watch" strategy, preparing to accumulate on signs of stabilization or reversal.
+----------------------------------------
+
 ### 📊 USA Market Update - 02/11/2026 04:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,29 +1030,3 @@ Here is your market analysis:
 | Tech | **TSLA** | $399.81 | -0.87% | Stable 🔴 |
 | Tech | **AAPL** | $344.63 | -1.23% | Stable 🔴 |
 | Tech | **MSFT** | $521.91 | -1.55% | Stable 🔴 |
-| Tech | **GOOGL** | $279.84 | -1.40% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $204.64 | -4.22% | Stable 🔴 |
-| Finance | **JPM** | $337.04 | -1.90% | Stable 🔴 |
-| Finance | **BAC** | $50.01 | -2.21% | ✅ Oversale 🔴 |
-| Finance | **GS** | $894.55 | -3.58% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,898.90 | -3.29% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $49.10 | -5.93% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $38.03 | -1.35% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable report:
-
-1.  **Market Trend**: Money is significantly flowing into the Energy sector, characterized by strong gains and overbought conditions across all listed tickers. Conversely, there's a clear rotation out of Technology, Finance, and Precious Metals, which are experiencing broad declines and oversold signals.
-2.  **Key Tickers to Watch**: **COP** in the Energy sector is noteworthy with its +2.67% surge and "Overbought!" status, indicating potential for profit-taking soon. In contrast, **SI=F** (Silver Futures) shows a substantial -5.93% drop and an "Oversale" status, presenting a potential value opportunity.
-3.  **Actionable Strategy**: Investors with positions in the Energy sector (e.g., COP, XOM, CVX) should consider **Taking Profit** or setting tighter stop-loss orders. For oversold assets like **SI=F** and **GC=F**, consider a strategic **Accumulation** to capitalize on a potential short-term rebound.
-----------------------------------------
-
-### 📊 USA Market Update - 31/10/2026 19:01:18
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $636.95 | -1.03% | ⚠️ Overbought! 🔴 |
-| Military | **RTX** | $199.80 | +0.20% | Stable 🟢 |
-| Military | **NOC** | $557.54 | -0.86% | ⚠️ Overbought! 🔴 |
