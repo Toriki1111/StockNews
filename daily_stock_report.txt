@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 01/11/2026 10:01:27
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $636.95 | -1.03% | ⚠️ Overbought! 🔴 |
+| Military | **RTX** | $199.80 | +0.20% | Stable 🟢 |
+| Military | **NOC** | $557.54 | -0.86% | ⚠️ Overbought! 🔴 |
+| Energy | **XOM** | $187.25 | +2.16% | ⚠️ Overbought! 🟢 |
+| Energy | **CVX** | $235.52 | +1.75% | ⚠️ Overbought! 🟢 |
+| Energy | **COP** | $154.03 | +2.67% | ⚠️ Overbought! 🟢 |
+| Tech | **TSLA** | $399.81 | -0.87% | Stable 🔴 |
+| Tech | **AAPL** | $344.63 | -1.23% | Stable 🔴 |
+| Tech | **MSFT** | $521.91 | -1.55% | Stable 🔴 |
+| Tech | **GOOGL** | $279.84 | -1.40% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $204.64 | -4.22% | Stable 🔴 |
+| Finance | **JPM** | $337.04 | -1.90% | Stable 🔴 |
+| Finance | **BAC** | $50.01 | -2.21% | ✅ Oversale 🔴 |
+| Finance | **GS** | $894.55 | -3.58% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,898.90 | -3.29% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $49.10 | -5.93% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $38.03 | -1.35% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the provided market data:
+
+*   **Market Trend**: Capital is decisively flowing into the Energy sector, with XOM, CVX, and COP showing robust gains and "Overbought" signals. Conversely, there is a broad exit from Technology, Finance, and Precious Metals, indicated by widespread declines and several "Oversale" technical indicators.
+*   **Key Tickers to Watch**: **SI=F (Silver Futures)** stands out with a substantial -5.93% drop and "Oversale" status, suggesting a potential short-term bounce or further downside pressure. **COP (ConocoPhillips)** exhibits strong momentum with a +2.67% gain and an "Overbought" signal, indicating sustained investor demand.
+*   **Actionable Strategy**: For the upcoming session, consider taking partial profits on Energy sector holdings like COP, CVX, and XOM due to their "Overbought" status. Concurrently, prudently accumulate positions in significantly "Oversale" assets such as SI=F and BAC for a potential mean reversion bounce, ensuring strict risk management protocols.
+----------------------------------------
+
 ### 📊 USA Market Update - 01/11/2026 09:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is an analysis of the provided market data:
 | Tech | **MSFT** | $519.27 | -2.05% | Stable 🔴 |
 | Tech | **GOOGL** | $277.18 | -2.34% | ✅ Oversale 🔴 |
 | Tech | **NVDA** | $202.16 | -5.38% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $335.72 | -2.29% | Stable 🔴 |
-| Finance | **BAC** | $49.85 | -2.51% | ✅ Oversale 🔴 |
-| Finance | **GS** | $883.51 | -4.77% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,887.40 | -3.57% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $48.92 | -6.27% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $37.54 | -2.61% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-1.  **Market Trend**: Capital is clearly flowing into the Energy sector, with all major players showing strong positive gains and "Overbought" status. Conversely, Tech, Finance, and Precious Metals are experiencing significant outflows, marked by broad declines and several "Oversale" signals.
-2.  **Key Tickers to Watch**: NVIDIA (NVDA) stands out with a substantial -5.38% drop and "Oversale" status, signaling potential undervaluation or a short-term rebound opportunity. Silver futures (SI=F) also present an "Oversale" signal after a steep -6.27% decline, warranting close monitoring for a potential bounce.
-3.  **Actionable Strategy**: Consider initiating accumulation strategies for deeply "Oversale" assets like NVDA and SI=F, targeting a short-term bounce or long-term value entry. For "Overbought" Energy stocks (XOM, CVX, COP), it's prudent to set tight stop-losses or consider taking partial profits to manage risk.
-----------------------------------------
-
-### 📊 USA Market Update - 31/10/2026 01:01:29
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $640.14 | -0.54% | ⚠️ Overbought! 🔴 |
-| Military | **RTX** | $201.07 | +0.84% | Stable 🟢 |
-| Military | **NOC** | $561.03 | -0.24% | ⚠️ Overbought! 🔴 |
-| Energy | **XOM** | $186.61 | +1.81% | ⚠️ Overbought! 🟢 |
-| Energy | **CVX** | $235.26 | +1.64% | ⚠️ Overbought! 🟢 |
-| Energy | **COP** | $153.53 | +2.33% | ⚠️ Overbought! 🟢 |
-| Tech | **TSLA** | $394.80 | -2.11% | Stable 🔴 |
-| Tech | **AAPL** | $344.61 | -1.23% | Stable 🔴 |
-| Tech | **MSFT** | $520.63 | -1.79% | Stable 🔴 |
-| Tech | **GOOGL** | $278.56 | -1.85% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $202.45 | -5.25% | ✅ Oversale 🔴 |
