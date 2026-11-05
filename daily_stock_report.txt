@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 06/11/2026 02:01:25
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $580.34 | -2.47% | Stable 🔴 |
+| Military | **RTX** | $190.61 | -3.94% | Stable 🔴 |
+| Military | **NOC** | $518.62 | -1.28% | Stable 🔴 |
+| Energy | **XOM** | $168.43 | -0.50% | Stable 🔴 |
+| Energy | **CVX** | $216.27 | -0.32% | Stable 🔴 |
+| Energy | **COP** | $137.54 | +0.44% | Stable 🟢 |
+| Tech | **TSLA** | $340.25 | -11.67% | Stable 🔴 |
+| Tech | **AAPL** | $343.18 | -1.81% | Stable 🔴 |
+| Tech | **MSFT** | $537.70 | -3.26% | Stable 🔴 |
+| Tech | **GOOGL** | $283.27 | -1.96% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $182.93 | -8.60% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $337.31 | -4.20% | Stable 🔴 |
+| Finance | **BAC** | $49.99 | -3.18% | Stable 🔴 |
+| Finance | **GS** | $866.46 | -6.63% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,109.00 | +0.88% | Stable 🟢 |
+| Precious Metals | **SI=F** | $52.37 | +0.47% | Stable 🟢 |
+| Precious Metals | **GOLD** | $38.40 | -7.30% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the provided market data:
+
+*   **Market Trend**: The market is experiencing a broad-based retreat, with significant capital exiting growth-oriented sectors like Technology and Finance, indicated by widespread negative performance. Conversely, precious metals futures (GC=F, SI=F) are showing modest gains, suggesting a flight to traditional safe-haven assets amidst a cautious market sentiment.
+*   **Key Tickers to Watch**: NVDA and GOOGL are explicitly flagged as "Oversale," presenting potential short-term accumulation opportunities after their respective significant declines. TSLA's drastic -11.67% drop also warrants close monitoring for a potential technical bounce, though underlying fundamentals should be re-evaluated.
+*   **Actionable Strategy**: For long-term investors, consider a selective "Accumulate" strategy on high-quality tech names like NVDA and GOOGL given their oversold status, assuming fundamental strength remains. Short-term traders should exercise extreme caution, maintain tight "Stop Loss" orders, and consider a "Wait & Watch" approach for broader market participation until clearer directional trends emerge.
+----------------------------------------
+
 ### 📊 USA Market Update - 06/11/2026 01:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,29 +1030,3 @@ Here is a concise, actionable report:
 | Energy | **CVX** | $225.27 | -1.10% | Stable 🔴 |
 | Energy | **COP** | $144.40 | -1.66% | Stable 🔴 |
 | Tech | **TSLA** | $398.50 | -1.32% | Stable 🔴 |
-| Tech | **AAPL** | $331.90 | -1.90% | Stable 🔴 |
-| Tech | **MSFT** | $520.99 | +2.74% | Stable 🟢 |
-| Tech | **GOOGL** | $280.03 | +0.37% | ✅ Oversale 🟢 |
-| Tech | **NVDA** | $206.69 | +2.29% | Stable 🟢 |
-| Finance | **JPM** | $337.98 | -0.76% | Stable 🔴 |
-| Finance | **BAC** | $49.66 | +0.18% | ✅ Oversale 🟢 |
-| Finance | **GS** | $896.09 | -0.29% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,052.50 | +2.84% | Stable 🟢 |
-| Precious Metals | **SI=F** | $52.08 | +5.03% | Stable 🟢 |
-| Precious Metals | **GOLD** | $39.12 | -2.54% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's your concise market report:
-
-*   **Market Trend**: There's a clear flight to safety, with significant capital flowing into precious metals futures (Silver and Gold), signaling heightened risk aversion. Concurrently, most Energy, Finance, and several Tech stocks are experiencing declines, though giants like Microsoft and Nvidia demonstrate individual resilience.
-*   **Key Tickers to Watch**: **SI=F** is a standout with a remarkable +5.03% surge, indicating strong safe-haven demand. Additionally, **GOOGL** and **BAC** are marked as "Oversale," potentially offering attractive entry opportunities after recent dips.
-*   **Actionable Strategy**: Consider accumulating positions in **GOOGL** and **BAC** due to their "Oversale" status, while simultaneously evaluating long positions in **SI=F** to capitalize on its strong momentum. For military stocks like LMT and RTX showing "Overbought" signals, a "Wait & Watch" or partial profit-taking strategy is advisable.
-----------------------------------------
-
-### 📊 USA Market Update - 04/11/2026 17:01:30
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $639.00 | -0.65% | ⚠️ Overbought! 🔴 |
