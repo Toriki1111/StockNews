@@ -1,3 +1,36 @@
+### 📊 USA Market Update - 06/11/2026 16:01:23
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $576.16 | -3.17% | Stable 🔴 |
+| Military | **RTX** | $191.88 | -3.30% | Stable 🔴 |
+| Military | **NOC** | $525.25 | -0.02% | Stable 🔴 |
+| Energy | **XOM** | $165.30 | -2.35% | Stable 🔴 |
+| Energy | **CVX** | $212.93 | -1.86% | Stable 🔴 |
+| Energy | **COP** | $135.46 | -1.08% | Stable 🔴 |
+| Tech | **TSLA** | $343.69 | -10.77% | Stable 🔴 |
+| Tech | **AAPL** | $344.17 | -1.53% | Stable 🔴 |
+| Tech | **MSFT** | $535.93 | -3.58% | Stable 🔴 |
+| Tech | **GOOGL** | $282.57 | -2.20% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $181.60 | -9.26% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $337.34 | -4.19% | Stable 🔴 |
+| Finance | **BAC** | $49.76 | -3.62% | Stable 🔴 |
+| Finance | **GS** | $868.95 | -6.36% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,083.10 | -0.74% | Stable 🔴 |
+| Precious Metals | **SI=F** | $52.17 | -0.11% | Stable 🔴 |
+| Precious Metals | **GOLD** | $37.51 | -9.46% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 06/11/2026 15:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1031,3 @@ Here's an analysis of the USA market data:
 ### AI Financial Advisor:
 
 Here is your concise market report:
-
-*   **Market Trend**: Capital is exiting the Energy sector, showing broad declines, while flowing strongly into Precious Metals futures (GC=F, SI=F) and selectively into Tech giants like Microsoft and NVIDIA. Military stocks show mixed performance with Overbought signals, indicating potential sector rotation or profit-taking pressure.
-*   **Key Tickers to Watch**: Google (GOOGL) stands out as "Oversale" with a slight positive uptick, suggesting a potential short-term rebound candidate. Conversely, Silver Futures (SI=F) has experienced an exceptional +6.30% surge, warranting close attention for momentum continuation or consolidation.
-*   **Actionable Strategy**: Accumulate positions in oversold Tech (GOOGL) and Finance (BAC) tickers, anticipating potential rebounds. For Precious Metals futures (GC=F, SI=F), consider taking partial profits or setting tight stop losses given their significant surge, while exercising caution with Overbought military stocks like LMT and RTX.
-----------------------------------------
-
-### 📊 USA Market Update - 05/11/2026 07:01:27
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $595.04 | -6.88% | Stable 🔴 |
-| Military | **RTX** | $198.43 | -2.64% | Stable 🔴 |
-| Military | **NOC** | $525.35 | -4.53% | Stable 🔴 |
-| Energy | **XOM** | $169.27 | -4.62% | Stable 🔴 |
-| Energy | **CVX** | $216.96 | -3.69% | Stable 🔴 |
-| Energy | **COP** | $136.94 | -5.17% | Stable 🔴 |
-| Tech | **TSLA** | $385.19 | -3.34% | Stable 🔴 |
-| Tech | **AAPL** | $349.51 | +5.31% | Stable 🟢 |
-| Tech | **MSFT** | $555.80 | +6.68% | Stable 🟢 |
-| Tech | **GOOGL** | $288.93 | +3.18% | ✅ Oversale 🟢 |
-| Tech | **NVDA** | $200.13 | -3.17% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $352.11 | +4.18% | Stable 🟢 |
-| Finance | **BAC** | $51.63 | +3.97% | Stable 🟢 |
-| Finance | **GS** | $928.00 | +3.56% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,079.70 | +3.54% | Stable 🟢 |
-| Precious Metals | **SI=F** | $52.46 | +5.78% | Stable 🟢 |
-| Precious Metals | **GOLD** | $41.43 | +5.90% | Stable 🟢 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
