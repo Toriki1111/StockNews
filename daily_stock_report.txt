@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 07/11/2026 19:01:30
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $567.08 | -1.58% | Stable 🔴 |
+| Military | **RTX** | $189.53 | -1.22% | Stable 🔴 |
+| Military | **NOC** | $525.01 | -0.05% | Stable 🔴 |
+| Energy | **XOM** | $165.87 | +0.34% | Stable 🟢 |
+| Energy | **CVX** | $212.61 | -0.15% | Stable 🔴 |
+| Energy | **COP** | $136.27 | +0.60% | Stable 🟢 |
+| Tech | **TSLA** | $358.22 | +4.23% | Stable 🟢 |
+| Tech | **AAPL** | $342.37 | -0.52% | Stable 🔴 |
+| Tech | **MSFT** | $530.61 | -0.99% | Stable 🔴 |
+| Tech | **GOOGL** | $284.78 | +0.78% | ✅ Oversale 🟢 |
+| Tech | **NVDA** | $186.64 | +2.78% | ✅ Oversale 🟢 |
+| Finance | **JPM** | $334.49 | -0.84% | Stable 🔴 |
+| Finance | **BAC** | $49.42 | -0.68% | Stable 🔴 |
+| Finance | **GS** | $865.82 | -0.36% | Stable 🔴 |
+| Precious Metals | **GC=F** | $4,074.90 | -0.94% | Stable 🔴 |
+| Precious Metals | **SI=F** | $51.80 | -0.82% | Stable 🔴 |
+| Precious Metals | **GOLD** | $37.63 | +0.32% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the provided market data:
+
+1.  **Market Trend**: Capital is notably flowing into high-growth technology stocks, as evidenced by significant gains in TSLA, NVDA, and GOOGL, suggesting a risk-on appetite within that sector. Conversely, traditional sectors such as Military and Finance, alongside some large-cap tech names like AAPL and MSFT, are experiencing slight pullbacks, indicating some rotation or profit-taking.
+2.  **Key Tickers to Watch**: **NVDA** (+2.78%) and **GOOGL** (+0.78%) both stand out with "Oversale" signals and positive momentum, indicating strong current buying interest and potential for continued upward movement. These tickers suggest robust demand following previous trading activity.
+3.  **Actionable Strategy**: Given the strong performance in growth tech, consider accumulating positions in **NVDA** and **GOOGL** on any minor dips, targeting continued short-term momentum. For other sectors and large-cap tech, maintain a "Wait & Watch" approach until clearer directional trends and support levels are established.
+----------------------------------------
+
 ### 📊 USA Market Update - 07/11/2026 18:01:31
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,29 +1030,3 @@ Here is your concise market report:
 | Energy | **XOM** | $165.30 | -2.35% | Stable 🔴 |
 | Energy | **CVX** | $212.93 | -1.86% | Stable 🔴 |
 | Energy | **COP** | $135.46 | -1.08% | Stable 🔴 |
-| Tech | **TSLA** | $343.69 | -10.77% | Stable 🔴 |
-| Tech | **AAPL** | $344.17 | -1.53% | Stable 🔴 |
-| Tech | **MSFT** | $535.93 | -3.58% | Stable 🔴 |
-| Tech | **GOOGL** | $282.57 | -2.20% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $181.60 | -9.26% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $337.34 | -4.19% | Stable 🔴 |
-| Finance | **BAC** | $49.76 | -3.62% | Stable 🔴 |
-| Finance | **GS** | $868.95 | -6.36% | Stable 🔴 |
-| Precious Metals | **GC=F** | $4,075.30 | -0.93% | Stable 🔴 |
-| Precious Metals | **SI=F** | $52.03 | -0.40% | Stable 🔴 |
-| Precious Metals | **GOLD** | $37.51 | -9.46% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable report:
-
-*   **Market Trend**: Capital is broadly exiting across all major sectors, with Technology and Finance experiencing the most significant outflows, indicating a widespread bearish sentiment. Even precious metals are declining, highlighting a risk-off environment.
-*   **Key Tickers to Watch**: NVDA (-9.26%) and GOOGL (-2.20%) are both flagged "Oversale," suggesting potential short-term rebound opportunities. TSLA's extreme -10.77% drop also merits close monitoring for further volatility or a potential capitulation bounce.
-*   **Actionable Strategy**: For "Oversale" tickers like NVDA and GOOGL, consider initiating a cautious "Accumulate" strategy on current dips for long-term portfolios. For other sectors and positions, a "Wait & Watch" approach is recommended until market stabilization becomes evident.
-----------------------------------------
-
-### 📊 USA Market Update - 06/11/2026 09:01:25
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
