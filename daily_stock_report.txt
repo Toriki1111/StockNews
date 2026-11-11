@@ -1,3 +1,36 @@
+### 📊 USA Market Update - 11/11/2026 15:01:26
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $603.12 | +2.54% | Stable 🟢 |
+| Military | **RTX** | $200.27 | +2.02% | Stable 🟢 |
+| Military | **NOC** | $548.61 | +1.77% | Stable 🟢 |
+| Energy | **XOM** | $164.47 | -0.16% | Stable 🔴 |
+| Energy | **CVX** | $211.22 | +0.21% | Stable 🟢 |
+| Energy | **COP** | $135.59 | +0.83% | Stable 🟢 |
+| Tech | **TSLA** | $379.78 | +0.46% | Stable 🟢 |
+| Tech | **AAPL** | $348.51 | -0.62% | Stable 🔴 |
+| Tech | **MSFT** | $533.16 | -2.20% | Stable 🔴 |
+| Tech | **GOOGL** | $287.38 | -0.27% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $168.89 | -5.47% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $342.07 | -0.00% | Stable 🔴 |
+| Finance | **BAC** | $50.68 | +0.26% | Stable 🟢 |
+| Finance | **GS** | $910.19 | +0.44% | Stable 🟢 |
+| Precious Metals | **GC=F** | $4,066.90 | +0.91% | Stable 🟢 |
+| Precious Metals | **SI=F** | $52.97 | +3.67% | Stable 🟢 |
+| Precious Metals | **GOLD** | $37.48 | -2.24% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 11/11/2026 14:01:34
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1031,3 @@ Here's a concise, actionable report:
 
 *(AI Error 503: {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 10/11/2026 07:01:30
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $588.19 | +3.72% | Stable 🟢 |
-| Military | **RTX** | $196.31 | +3.58% | Stable 🟢 |
-| Military | **NOC** | $539.07 | +2.68% | Stable 🟢 |
-| Energy | **XOM** | $164.73 | -0.69% | Stable 🔴 |
-| Energy | **CVX** | $210.78 | -0.86% | Stable 🔴 |
-| Energy | **COP** | $134.47 | -1.32% | Stable 🔴 |
-| Tech | **TSLA** | $378.05 | +5.54% | Stable 🟢 |
-| Tech | **AAPL** | $350.69 | +2.43% | Stable 🟢 |
-| Tech | **MSFT** | $545.18 | +2.75% | Stable 🟢 |
-| Tech | **GOOGL** | $288.15 | +1.18% | ✅ Oversale 🟢 |
-| Tech | **NVDA** | $178.67 | -4.27% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $342.08 | +2.27% | Stable 🟢 |
-| Finance | **BAC** | $50.55 | +2.29% | Stable 🟢 |
-| Finance | **GS** | $906.22 | +4.67% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,148.40 | +1.80% | Stable 🟢 |
-| Precious Metals | **SI=F** | $53.46 | +3.19% | Stable 🟢 |
-| Precious Metals | **GOLD** | $38.34 | +1.89% | Stable 🟢 |
-
-
-*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
