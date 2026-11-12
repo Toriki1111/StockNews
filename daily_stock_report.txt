@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 12/11/2026 17:01:32
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $610.05 | +1.15% | Stable 🟢 |
+| Military | **RTX** | $201.29 | +0.51% | Stable 🟢 |
+| Military | **NOC** | $550.96 | +0.43% | Stable 🟢 |
+| Energy | **XOM** | $166.71 | +1.36% | Stable 🟢 |
+| Energy | **CVX** | $213.28 | +0.98% | Stable 🟢 |
+| Energy | **COP** | $137.86 | +1.67% | Stable 🟢 |
+| Tech | **TSLA** | $390.84 | +2.91% | Stable 🟢 |
+| Tech | **AAPL** | $355.63 | +2.04% | Stable 🟢 |
+| Tech | **MSFT** | $521.13 | -2.26% | Stable 🔴 |
+| Tech | **GOOGL** | $293.45 | +2.11% | Stable 🟢 |
+| Tech | **NVDA** | $173.73 | +2.87% | ✅ Oversale 🟢 |
+| Finance | **JPM** | $343.39 | +0.39% | Stable 🟢 |
+| Finance | **BAC** | $50.67 | -0.02% | Stable 🔴 |
+| Finance | **GS** | $926.81 | +1.83% | Stable 🟢 |
+| Precious Metals | **GC=F** | $3,948.30 | -1.30% | Stable 🔴 |
+| Precious Metals | **SI=F** | $51.15 | -1.42% | Stable 🔴 |
+| Precious Metals | **GOLD** | $37.15 | -0.88% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's your concise market report:
+
+*   **Market Trend**: Capital is notably flowing into growth and defense sectors, with strong performances in Energy and most Technology stocks, while traditional safe-haven assets like Precious Metals are experiencing an outflow.
+*   **Key Tickers to Watch**: **NVDA** (+$2.87%) stands out with strong positive momentum and an explicit "Oversale" signal, suggesting significant buying interest potentially following an oversold condition. Conversely, **MSFT** (-$2.26%) warrants close monitoring as a significant negative outlier within an otherwise robust technology sector.
+*   **Actionable Strategy**: Consider accumulating positions in Energy (e.g., COP, XOM) and selected Technology (e.g., NVDA, TSLA) to leverage positive sector momentum. For Precious Metals, adopt a 'Wait & Watch' approach or consider reducing exposure given current negative sentiment.
+----------------------------------------
+
 ### 📊 USA Market Update - 12/11/2026 16:01:33
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here's your market analysis:
 }
 )*
 
-----------------------------------------
-
-### 📊 USA Market Update - 11/11/2026 08:01:25
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $588.19 | +3.72% | Stable 🟢 |
-| Military | **RTX** | $196.31 | +3.58% | Stable 🟢 |
-| Military | **NOC** | $539.07 | +2.68% | Stable 🟢 |
-| Energy | **XOM** | $164.73 | -0.69% | Stable 🔴 |
-| Energy | **CVX** | $210.78 | -0.86% | Stable 🔴 |
-| Energy | **COP** | $134.47 | -1.32% | Stable 🔴 |
-| Tech | **TSLA** | $378.05 | +5.54% | Stable 🟢 |
-| Tech | **AAPL** | $350.69 | +2.43% | Stable 🟢 |
-| Tech | **MSFT** | $545.18 | +2.75% | Stable 🟢 |
-| Tech | **GOOGL** | $288.15 | +1.18% | ✅ Oversale 🟢 |
-| Tech | **NVDA** | $178.67 | -4.27% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $342.08 | +2.27% | Stable 🟢 |
-| Finance | **BAC** | $50.55 | +2.29% | Stable 🟢 |
-| Finance | **GS** | $906.22 | +4.67% | Stable 🟢 |
-| Precious Metals | **GC=F** | $4,040.00 | -1.81% | Stable 🔴 |
-| Precious Metals | **SI=F** | $51.44 | -2.15% | Stable 🔴 |
-| Precious Metals | **GOLD** | $38.34 | +1.89% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Capital is clearly rotating towards the Military, Finance, and key Technology sectors, evidenced by robust positive gains across most tickers. Conversely, the Energy sector and Precious Metals futures are experiencing noticeable outflows this session.
-2.  **Key Tickers to Watch**: **NVDA** stands out with a significant -4.27% drop and an `Oversale` signal, indicating a potential bargain opportunity. **GOOGL**, despite a positive +1.18% gain, also carries an `Oversale` tag, suggesting underlying strength and further rebound potential from recent lows.
-3.  **Actionable Strategy**: Consider accumulating positions in **NVDA** and **GOOGL** on their "Oversale" signals for a potential bounce or continued rebound in the upcoming session. For the strong-performing Military and Finance sectors, a "Wait & Watch" approach for optimal entry or "Take Profit" on existing gains is advised.
