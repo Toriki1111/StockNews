@@ -1,3 +1,29 @@
+### 📊 USA Market Update - 12/11/2026 13:01:25
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $610.05 | +1.15% | Stable 🟢 |
+| Military | **RTX** | $201.29 | +0.51% | Stable 🟢 |
+| Military | **NOC** | $550.96 | +0.43% | Stable 🟢 |
+| Energy | **XOM** | $166.71 | +1.36% | Stable 🟢 |
+| Energy | **CVX** | $213.28 | +0.98% | Stable 🟢 |
+| Energy | **COP** | $137.86 | +1.67% | Stable 🟢 |
+| Tech | **TSLA** | $390.84 | +2.91% | Stable 🟢 |
+| Tech | **AAPL** | $355.63 | +2.04% | Stable 🟢 |
+| Tech | **MSFT** | $521.13 | -2.26% | Stable 🔴 |
+| Tech | **GOOGL** | $293.45 | +2.11% | Stable 🟢 |
+| Tech | **NVDA** | $173.73 | +2.87% | ✅ Oversale 🟢 |
+| Finance | **JPM** | $343.39 | +0.39% | Stable 🟢 |
+| Finance | **BAC** | $50.67 | -0.02% | Stable 🔴 |
+| Finance | **GS** | $926.81 | +1.83% | Stable 🟢 |
+| Precious Metals | **GC=F** | $3,984.40 | -0.40% | Stable 🔴 |
+| Precious Metals | **SI=F** | $51.38 | -0.98% | Stable 🔴 |
+| Precious Metals | **GOLD** | $37.15 | -0.88% | Stable 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 12/11/2026 12:01:28
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,29 +1024,3 @@ Here is your concise market analysis:
 | Precious Metals | **GOLD** | $37.48 | -2.24% | Stable 🔴 |
 
 
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-1.  **Market Trend**: Capital is clearly rotating into the Military sector, evidenced by strong gains across LMT, RTX, and NOC. Conversely, there's a distinct outflow from the Tech sector, marked by significant declines in MSFT and NVDA, and from Precious Metals.
-2.  **Key Tickers to Watch**: NVDA (-5.47%) is a standout with a substantial drop and an "Oversale" signal, indicating potential short-term value. GOOGL also registers as "Oversale," suggesting a potential rebound despite a smaller price dip.
-3.  **Actionable Strategy**: Begin accumulating "Oversale" tech stocks, specifically NVDA and GOOGL, for potential short-term rebounds or long-term value plays. For the strong-performing Military sector, consider taking partial profits or adjusting stop-losses to protect recent gains.
-----------------------------------------
-
-### 📊 USA Market Update - 11/11/2026 04:01:29
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $603.04 | +2.52% | Stable 🟢 |
-| Military | **RTX** | $200.30 | +2.03% | Stable 🟢 |
-| Military | **NOC** | $548.74 | +1.79% | Stable 🟢 |
-| Energy | **XOM** | $164.48 | -0.15% | Stable 🔴 |
-| Energy | **CVX** | $211.21 | +0.20% | Stable 🟢 |
-| Energy | **COP** | $135.62 | +0.86% | Stable 🟢 |
-| Tech | **TSLA** | $379.78 | +0.46% | Stable 🟢 |
-| Tech | **AAPL** | $348.51 | -0.62% | Stable 🔴 |
-| Tech | **MSFT** | $533.16 | -2.20% | Stable 🔴 |
-| Tech | **GOOGL** | $287.38 | -0.27% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $168.80 | -5.53% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $342.30 | +0.06% | Stable 🟢 |
-| Finance | **BAC** | $50.69 | +0.28% | Stable 🟢 |
