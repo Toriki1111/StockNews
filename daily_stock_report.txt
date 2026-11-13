@@ -1,3 +1,29 @@
+### 📊 USA Market Update - 13/11/2026 13:01:24
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $604.09 | -0.98% | Stable 🔴 |
+| Military | **RTX** | $198.36 | -1.46% | Stable 🔴 |
+| Military | **NOC** | $549.13 | -0.33% | Stable 🔴 |
+| Energy | **XOM** | $169.78 | +1.84% | Stable 🟢 |
+| Energy | **CVX** | $216.35 | +1.44% | Stable 🟢 |
+| Energy | **COP** | $140.06 | +1.60% | Stable 🟢 |
+| Tech | **TSLA** | $397.45 | +1.69% | Stable 🟢 |
+| Tech | **AAPL** | $354.88 | -0.21% | Stable 🔴 |
+| Tech | **MSFT** | $523.00 | +0.36% | Stable 🟢 |
+| Tech | **GOOGL** | $298.70 | +1.79% | Stable 🟢 |
+| Tech | **NVDA** | $166.19 | -4.34% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $342.82 | -0.17% | Stable 🔴 |
+| Finance | **BAC** | $50.51 | -0.32% | Stable 🔴 |
+| Finance | **GS** | $913.60 | -1.43% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,899.70 | +0.37% | Stable 🟢 |
+| Precious Metals | **SI=F** | $49.58 | -0.78% | Stable 🔴 |
+| Precious Metals | **GOLD** | $36.40 | -2.02% | Stable 🔴 |
+
+
+*(AI Error 429: Rate limit exceeded. Please wait 1 minute before trying again.)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 13/11/2026 12:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,29 +1024,3 @@ Here's your market analysis:
 | Tech | **GOOGL** | $293.45 | +2.11% | Stable 🟢 |
 | Tech | **NVDA** | $173.73 | +2.87% | ✅ Oversale 🟢 |
 | Finance | **JPM** | $343.37 | +0.38% | Stable 🟢 |
-| Finance | **BAC** | $50.66 | -0.04% | Stable 🔴 |
-| Finance | **GS** | $926.82 | +1.83% | Stable 🟢 |
-| Precious Metals | **GC=F** | $3,994.40 | -0.89% | Stable 🔴 |
-| Precious Metals | **SI=F** | $51.81 | +1.39% | Stable 🟢 |
-| Precious Metals | **GOLD** | $37.15 | -0.88% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis report:
-
-*   **Market Trend**: Capital is primarily flowing into the Technology (excluding MSFT), Energy, and Military sectors, indicated by broad positive movements. Conversely, gold prices (GC=F, GOLD) are experiencing declines, suggesting a short-term shift away from safe-haven assets.
-*   **Key Tickers to Watch**: **NVDA** warrants close observation due to its significant +2.87% surge flagged as "Oversale," indicating strong momentum potentially nearing overbought conditions. Additionally, **MSFT**'s notable -2.26% dip, contrasting with its sector peers, suggests short-term weakness or a potential buying opportunity on further stabilization.
-*   **Actionable Strategy**: For robust tech names like TSLA, AAPL, and GOOGL, consider `Accumulating` on minor pullbacks. For NVDA, given the "Oversale" status and rapid rise, a prudent approach would be to `Take Profit` on a portion of holdings or `Wait & Watch` for consolidation, while for MSFT, `Wait & Watch` for stabilization before considering new positions.
-----------------------------------------
-
-### 📊 USA Market Update - 12/11/2026 03:01:38
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $608.58 | +0.91% | Stable 🟢 |
-| Military | **RTX** | $200.84 | +0.28% | Stable 🟢 |
-| Military | **NOC** | $549.94 | +0.24% | Stable 🟢 |
-| Energy | **XOM** | $165.99 | +0.92% | Stable 🟢 |
-| Energy | **CVX** | $212.50 | +0.61% | Stable 🟢 |
-| Energy | **COP** | $137.35 | +1.30% | Stable 🟢 |
