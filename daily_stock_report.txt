@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 14/11/2026 05:01:23
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $596.04 | -1.33% | Stable 🔴 |
+| Military | **RTX** | $198.58 | +0.11% | Stable 🟢 |
+| Military | **NOC** | $550.43 | +0.24% | Stable 🟢 |
+| Energy | **XOM** | $170.59 | +0.48% | Stable 🟢 |
+| Energy | **CVX** | $219.89 | +1.64% | Stable 🟢 |
+| Energy | **COP** | $142.28 | +1.59% | Stable 🟢 |
+| Tech | **TSLA** | $390.22 | -1.82% | Stable 🔴 |
+| Tech | **AAPL** | $356.27 | +0.39% | Stable 🟢 |
+| Tech | **MSFT** | $523.88 | +0.17% | Stable 🟢 |
+| Tech | **GOOGL** | $295.77 | -0.98% | Stable 🔴 |
+| Tech | **NVDA** | $162.85 | -2.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $346.19 | +0.98% | Stable 🟢 |
+| Finance | **BAC** | $51.02 | +1.01% | Stable 🟢 |
+| Finance | **GS** | $916.56 | +0.32% | Stable 🟢 |
+| Precious Metals | **GC=F** | $3,882.40 | -0.07% | Stable 🔴 |
+| Precious Metals | **SI=F** | $48.61 | -2.73% | Stable 🔴 |
+| Precious Metals | **GOLD** | $36.22 | -0.49% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the provided market data:
+
+*   **Market Trend**: Capital is actively flowing into the Energy and Finance sectors, both showing broad positive momentum. Conversely, there's a notable rotation out of specific technology giants and the Precious Metals sector, which is experiencing widespread declines.
+*   **Key Tickers to Watch**: NVDA ($162.85, -2.01%) is explicitly marked as "Oversale," indicating a potential short-term technical rebound opportunity. CVX ($219.89, +1.64%) demonstrates strong upward momentum within the robust Energy sector, suggesting continued strength.
+*   **Actionable Strategy**: Consider accumulating NVDA shares at current levels, anticipating a technical bounce from its oversold condition. Maintain existing positions in Energy and Finance, potentially adding on minor dips, while adopting a "wait and watch" approach for Precious Metals given their ongoing weakness.
+----------------------------------------
+
 ### 📊 USA Market Update - 14/11/2026 04:01:23
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -994,38 +1026,6 @@ Here is your concise, actionable market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 12/11/2026 20:01:32
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $610.05 | +1.15% | Stable 🟢 |
-| Military | **RTX** | $201.29 | +0.51% | Stable 🟢 |
-| Military | **NOC** | $550.96 | +0.43% | Stable 🟢 |
-| Energy | **XOM** | $166.71 | +1.36% | Stable 🟢 |
-| Energy | **CVX** | $213.28 | +0.98% | Stable 🟢 |
-| Energy | **COP** | $137.86 | +1.67% | Stable 🟢 |
-| Tech | **TSLA** | $390.84 | +2.91% | Stable 🟢 |
-| Tech | **AAPL** | $355.63 | +2.04% | Stable 🟢 |
-| Tech | **MSFT** | $521.13 | -2.26% | Stable 🔴 |
-| Tech | **GOOGL** | $293.45 | +2.11% | Stable 🟢 |
-| Tech | **NVDA** | $173.73 | +2.87% | ✅ Oversale 🟢 |
-| Finance | **JPM** | $343.39 | +0.39% | Stable 🟢 |
-| Finance | **BAC** | $50.67 | -0.02% | Stable 🔴 |
-| Finance | **GS** | $926.81 | +1.83% | Stable 🟢 |
-| Precious Metals | **GC=F** | $3,941.20 | -1.48% | Stable 🔴 |
-| Precious Metals | **SI=F** | $50.90 | -1.88% | Stable 🔴 |
-| Precious Metals | **GOLD** | $37.15 | -0.88% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Capital is clearly gravitating towards growth-oriented Technology (barring MSFT) and Energy sectors, alongside a steady uptick in Military defense. Conversely, Precious Metals are experiencing a notable capital flight, indicating a shift away from traditional safe-haven assets.
-2.  **Key Tickers to Watch**: **NVDA** (+$2.87%) with its "Oversale" indicator and strong positive momentum suggests a potential rebound play from prior undervaluation. **MSFT**'s significant -2.26% decline, despite a generally positive tech market, flags it for careful monitoring due to potential underlying issues or profit-taking.
-3.  **Actionable Strategy**: For the upcoming session, we recommend selectively accumulating positions in strong-performing Technology and Energy stocks, while exercising caution with MSFT until stabilization. Maintain a 'Wait & Watch' approach for Precious Metals, potentially tightening stop-losses on existing holdings.
-----------------------------------------
-
-### 📊 USA Market Update - 12/11/2026 19:01:33
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $610.05 | +1.15% | Stable 🟢 |
