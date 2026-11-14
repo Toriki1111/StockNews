@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 14/11/2026 20:01:23
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $596.04 | -1.33% | Stable 🔴 |
+| Military | **RTX** | $198.58 | +0.11% | Stable 🟢 |
+| Military | **NOC** | $550.43 | +0.24% | Stable 🟢 |
+| Energy | **XOM** | $170.59 | +0.48% | Stable 🟢 |
+| Energy | **CVX** | $219.89 | +1.64% | Stable 🟢 |
+| Energy | **COP** | $142.28 | +1.59% | Stable 🟢 |
+| Tech | **TSLA** | $390.22 | -1.82% | Stable 🔴 |
+| Tech | **AAPL** | $356.27 | +0.39% | Stable 🟢 |
+| Tech | **MSFT** | $523.88 | +0.17% | Stable 🟢 |
+| Tech | **GOOGL** | $295.77 | -0.98% | Stable 🔴 |
+| Tech | **NVDA** | $162.85 | -2.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $346.19 | +0.98% | Stable 🟢 |
+| Finance | **BAC** | $51.02 | +1.01% | Stable 🟢 |
+| Finance | **GS** | $916.56 | +0.32% | Stable 🟢 |
+| Precious Metals | **GC=F** | $3,886.30 | +0.03% | Stable 🟢 |
+| Precious Metals | **SI=F** | $49.03 | -1.88% | Stable 🔴 |
+| Precious Metals | **GOLD** | $36.22 | -0.49% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an actionable report for your consideration:
+
+*   **Market Trend**: Capital is clearly flowing into the Energy and Finance sectors, which are showing robust positive momentum across multiple names. Conversely, the Technology sector, particularly high-growth stocks like NVDA, TSLA, and GOOGL, is experiencing a notable outflow, alongside a general decline in Precious Metals.
+*   **Key Tickers to Watch**: **NVDA** is a prime ticker to watch, marked as "Oversale" with a -2.01% drop, potentially indicating a short-term rebound opportunity or an attractive entry for long-term value. In contrast, **CVX** and **COP** in the Energy sector are showing strong positive surges, reflecting significant buying interest.
+*   **Actionable Strategy**: For the upcoming session, consider accumulating **NVDA** positions given its oversold status and potential for a technical bounce. For the strong-performing Energy sector (CVX, COP), a "Wait & Watch" strategy is advisable to identify potential pullbacks before initiating new long positions or to secure partial profits if already holding.
+----------------------------------------
+
 ### 📊 USA Market Update - 14/11/2026 19:01:24
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1030,3 @@ Here is an analysis of the provided market data:
 
 ---
 ### AI Financial Advisor:
-
-Here is an analysis of the provided market data:
-
-1.  **Market Trend**: Capital is notably flowing into the Energy sector and select Technology stocks such as GOOGL and TSLA, indicating strong bullish sentiment there. Conversely, the Military and Finance sectors are experiencing outflows, with most tickers in decline.
-2.  **Key Tickers to Watch**: **NVDA** is highlighted as "Oversale" after a significant -4.34% drop, signaling potential short-term undervaluation and a possible rebound opportunity. **GOOGL** also warrants attention with its strong +1.79% surge, reflecting robust positive investor sentiment.
-3.  **Actionable Strategy**: For NVDA, initiate a "Wait & Watch" strategy to confirm a bottom before considering accumulation. For strong performing Energy stocks like XOM and CVX, consider "Take Profit" on recent gains, and selectively "Accumulate" strong tech performers like GOOGL on any market pullbacks.
-----------------------------------------
-
-### 📊 USA Market Update - 13/11/2026 10:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $604.09 | -0.98% | Stable 🔴 |
-| Military | **RTX** | $198.36 | -1.46% | Stable 🔴 |
-| Military | **NOC** | $549.13 | -0.33% | Stable 🔴 |
-| Energy | **XOM** | $169.78 | +1.84% | Stable 🟢 |
-| Energy | **CVX** | $216.35 | +1.44% | Stable 🟢 |
-| Energy | **COP** | $140.06 | +1.60% | Stable 🟢 |
-| Tech | **TSLA** | $397.45 | +1.69% | Stable 🟢 |
-| Tech | **AAPL** | $354.88 | -0.21% | Stable 🔴 |
-| Tech | **MSFT** | $523.00 | +0.36% | Stable 🟢 |
-| Tech | **GOOGL** | $298.70 | +1.79% | Stable 🟢 |
-| Tech | **NVDA** | $166.19 | -4.34% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $342.82 | -0.17% | Stable 🔴 |
-| Finance | **BAC** | $50.51 | -0.32% | Stable 🔴 |
-| Finance | **GS** | $913.60 | -1.43% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,912.00 | +0.69% | Stable 🟢 |
-| Precious Metals | **SI=F** | $50.44 | +0.95% | Stable 🟢 |
-| Precious Metals | **GOLD** | $36.40 | -2.02% | Stable 🔴 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
