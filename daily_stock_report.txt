@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 17/11/2026 00:01:43
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $584.79 | -1.89% | Stable 🔴 |
+| Military | **RTX** | $196.75 | -0.92% | Stable 🔴 |
+| Military | **NOC** | $547.79 | -0.48% | Stable 🔴 |
+| Energy | **XOM** | $167.43 | -1.85% | Stable 🔴 |
+| Energy | **CVX** | $217.47 | -1.10% | Stable 🔴 |
+| Energy | **COP** | $140.50 | -1.25% | Stable 🔴 |
+| Tech | **TSLA** | $381.07 | -2.34% | Stable 🔴 |
+| Tech | **AAPL** | $353.49 | -0.78% | Stable 🔴 |
+| Tech | **MSFT** | $523.82 | -0.01% | Stable 🔴 |
+| Tech | **GOOGL** | $288.27 | -2.53% | Stable 🔴 |
+| Tech | **NVDA** | $159.06 | -2.33% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $341.99 | -1.21% | Stable 🔴 |
+| Finance | **BAC** | $50.26 | -1.48% | Stable 🔴 |
+| Finance | **GS** | $894.24 | -2.44% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,861.30 | -0.64% | Stable 🔴 |
+| Precious Metals | **SI=F** | $46.94 | -4.25% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $35.54 | -1.88% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's your market analysis:
+
+1.  **Market Trend**: The data reflects a broad-based negative trend across all observed sectors including Military, Energy, Tech, Finance, and Precious Metals, indicating widespread profit-taking or a risk-off sentiment in the current session.
+2.  **Key Tickers to Watch**: Both **NVDA** (Tech) and **SI=F** (Silver Futures) are notable, having dropped -2.33% and -4.25% respectively, and are explicitly marked as "Oversale," potentially signaling attractive entry points if underlying fundamentals remain strong and a short-term bounce occurs.
+3.  **Actionable Strategy**: Given the broad downturn, maintain a "Wait & Watch" stance for most stable assets; however, consider tactical "Accumulation" for oversold assets like NVDA and SI=F, focusing on dollar-cost averaging into these positions if technical support levels are confirmed.
+----------------------------------------
+
 ### 📊 USA Market Update - 16/11/2026 23:01:36
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,29 +1030,3 @@ Here is your market analysis:
 | Tech | **MSFT** | $523.88 | +0.17% | Stable 🟢 |
 | Tech | **GOOGL** | $295.77 | -0.98% | Stable 🔴 |
 | Tech | **NVDA** | $162.85 | -2.01% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $346.19 | +0.98% | Stable 🟢 |
-| Finance | **BAC** | $51.02 | +1.01% | Stable 🟢 |
-| Finance | **GS** | $916.56 | +0.32% | Stable 🟢 |
-| Precious Metals | **GC=F** | $3,886.30 | +0.03% | Stable 🟢 |
-| Precious Metals | **SI=F** | $49.12 | -1.70% | Stable 🔴 |
-| Precious Metals | **GOLD** | $36.22 | -0.49% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable market report:
-
-*   **Market Trend**: Capital is clearly flowing into the Energy and Finance sectors, both exhibiting broad positive momentum. Conversely, the Technology sector shows significant weakness, particularly in growth-oriented names like Tesla, Google, and Nvidia.
-*   **Key Tickers to Watch**: Nvidia (NVDA) is highlighted as "Oversale" after a -2.01% drop, potentially signaling a short-term rebound opportunity. Chevron (CVX) and ConocoPhillips (COP) both recorded robust gains exceeding +1.5%, indicating strong bullish sentiment within the Energy sector.
-*   **Actionable Strategy**: Consider accumulating NVDA shares given its oversold status for a potential bounce, while closely monitoring the overall tech sector for stabilization. For the strong-performing Energy sector, implement a "Wait & Watch" approach for new entries, but consider tightening stop-losses on existing positions in CVX and COP to protect recent gains.
-----------------------------------------
-
-### 📊 USA Market Update - 15/11/2026 14:01:24
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $596.04 | -1.33% | Stable 🔴 |
-| Military | **RTX** | $198.58 | +0.11% | Stable 🟢 |
-| Military | **NOC** | $550.43 | +0.24% | Stable 🟢 |
-| Energy | **XOM** | $170.59 | +0.48% | Stable 🟢 |
-| Energy | **CVX** | $219.89 | +1.64% | Stable 🟢 |
