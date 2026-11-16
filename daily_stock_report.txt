@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 16/11/2026 19:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $596.04 | -1.33% | Stable 🔴 |
+| Military | **RTX** | $198.58 | +0.11% | Stable 🟢 |
+| Military | **NOC** | $550.43 | +0.24% | Stable 🟢 |
+| Energy | **XOM** | $170.59 | +0.48% | Stable 🟢 |
+| Energy | **CVX** | $219.89 | +1.64% | Stable 🟢 |
+| Energy | **COP** | $142.28 | +1.59% | Stable 🟢 |
+| Tech | **TSLA** | $390.22 | -1.82% | Stable 🔴 |
+| Tech | **AAPL** | $356.27 | +0.39% | Stable 🟢 |
+| Tech | **MSFT** | $523.88 | +0.17% | Stable 🟢 |
+| Tech | **GOOGL** | $295.77 | -0.98% | Stable 🔴 |
+| Tech | **NVDA** | $162.85 | -2.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $346.19 | +0.98% | Stable 🟢 |
+| Finance | **BAC** | $51.02 | +1.01% | Stable 🟢 |
+| Finance | **GS** | $916.56 | +0.32% | Stable 🟢 |
+| Precious Metals | **GC=F** | $3,879.40 | -0.18% | Stable 🔴 |
+| Precious Metals | **SI=F** | $47.72 | -2.68% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $36.22 | -0.49% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+1.  **Market Trend**: Money appears to be flowing into defensive and cyclical sectors such as Energy and Finance, which show broad positive movement. Conversely, there's a noticeable exit from certain high-growth technology names and precious metals, with significant selling pressure on specific tickers.
+2.  **Key Tickers to Watch**: **NVDA** ($162.85, -2.01%) and **SI=F** ($47.72, -2.68%) are both marked as 'Oversale', indicating strong recent selling pressure that could precede a technical bounce or present a value opportunity.
+3.  **Actionable Strategy**: For sectors exhibiting strength like Energy and Finance, consider accumulating positions or maintaining exposure. For the 'Oversale' tickers NVDA and SI=F, closely monitor for signs of stabilization or reversal to identify potential entry points, but exercise caution given the recent downward momentum.
+----------------------------------------
+
 ### 📊 USA Market Update - 16/11/2026 18:01:34
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1030,3 @@ Here is an analysis of the provided market data:
 ### 📊 USA Market Update - 15/11/2026 10:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $596.04 | -1.33% | Stable 🔴 |
-| Military | **RTX** | $198.58 | +0.11% | Stable 🟢 |
-| Military | **NOC** | $550.43 | +0.24% | Stable 🟢 |
-| Energy | **XOM** | $170.59 | +0.48% | Stable 🟢 |
-| Energy | **CVX** | $219.89 | +1.64% | Stable 🟢 |
-| Energy | **COP** | $142.28 | +1.59% | Stable 🟢 |
-| Tech | **TSLA** | $390.22 | -1.82% | Stable 🔴 |
-| Tech | **AAPL** | $356.27 | +0.39% | Stable 🟢 |
-| Tech | **MSFT** | $523.88 | +0.17% | Stable 🟢 |
-| Tech | **GOOGL** | $295.77 | -0.98% | Stable 🔴 |
-| Tech | **NVDA** | $162.85 | -2.01% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $346.19 | +0.98% | Stable 🟢 |
-| Finance | **BAC** | $51.02 | +1.01% | Stable 🟢 |
-| Finance | **GS** | $916.56 | +0.32% | Stable 🟢 |
-| Precious Metals | **GC=F** | $3,886.30 | +0.03% | Stable 🟢 |
-| Precious Metals | **SI=F** | $49.03 | -1.88% | Stable 🔴 |
-| Precious Metals | **GOLD** | $36.22 | -0.49% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the provided market data:
-
-1.  **Market Trend**: Capital is notably flowing into the Energy and Finance sectors, both showing broad positive momentum and indicating investor confidence in traditional value and cyclical assets. Conversely, the Technology sector exhibits mixed signals with significant downside pressure on key growth stocks like TSLA and NVDA, suggesting a potential rotation or profit-taking.
-
-2.  **Key Tickers to Watch**: **NVDA** (NVIDIA) is a critical watch, marked explicitly as "Oversale" after a -2.01% drop, potentially signaling a short-term rebound opportunity for contrarian investors. Additionally, **CVX** (Chevron) stands out with a strong +1.64% surge, reinforcing the robust upward trend within the broader Energy sector.
-
-3.  **Actionable Strategy**: Given the observed sector dynamics, **consider accumulating positions in oversold technology stocks like NVDA cautiously**, targeting a potential short-term bounce. Simultaneously, **maintain or initiate long positions in strong Energy sector players such as CVX and COP** to capitalize on their current momentum.
-----------------------------------------
-
-### 📊 USA Market Update - 15/11/2026 09:01:24
-
