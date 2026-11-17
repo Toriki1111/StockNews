@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 17/11/2026 10:01:33
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $585.21 | -1.82% | Stable 🔴 |
+| Military | **RTX** | $194.89 | -1.86% | Stable 🔴 |
+| Military | **NOC** | $545.65 | -0.87% | Stable 🔴 |
+| Energy | **XOM** | $166.87 | -2.18% | Stable 🔴 |
+| Energy | **CVX** | $217.14 | -1.25% | Stable 🔴 |
+| Energy | **COP** | $140.52 | -1.24% | Stable 🔴 |
+| Tech | **TSLA** | $379.74 | -2.69% | Stable 🔴 |
+| Tech | **AAPL** | $352.78 | -0.98% | Stable 🔴 |
+| Tech | **MSFT** | $517.99 | -1.12% | Stable 🔴 |
+| Tech | **GOOGL** | $283.72 | -4.07% | Stable 🔴 |
+| Tech | **NVDA** | $156.14 | -4.12% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $338.21 | -2.31% | Stable 🔴 |
+| Finance | **BAC** | $50.08 | -1.84% | Stable 🔴 |
+| Finance | **GS** | $891.54 | -2.73% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,866.70 | +0.36% | Stable 🟢 |
+| Precious Metals | **SI=F** | $47.38 | -3.36% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $35.20 | -2.82% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the USA market data:
+
+*   **Market Trend**: The market is experiencing a broad-based sell-off across Military, Energy, Tech, and Finance sectors, indicating a strong risk-off sentiment with money flowing out of equities. Conversely, Gold Futures (GC=F) show a slight gain, suggesting a defensive flight to safety.
+*   **Key Tickers to Watch**: NVDA (-4.12%) and SI=F (-3.36%) are both explicitly marked as "Oversale," signaling potential short-term capitulation and possible entry points for contrarian investors looking for a rebound.
+*   **Actionable Strategy**: Given the widespread declines and "Oversale" signals, consider selectively accumulating NVDA and SI=F if further weakness occurs, anticipating a potential bounce. For other declining but stable assets, a "Wait & Watch" approach is recommended until clearer bottoming patterns emerge.
+----------------------------------------
+
 ### 📊 USA Market Update - 17/11/2026 09:01:37
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1030,3 @@ Here's an analysis of the USA market data:
 
 ### 📊 USA Market Update - 16/11/2026 00:01:35
 
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $596.04 | -1.33% | Stable 🔴 |
-| Military | **RTX** | $198.58 | +0.11% | Stable 🟢 |
-| Military | **NOC** | $550.43 | +0.24% | Stable 🟢 |
-| Energy | **XOM** | $170.59 | +0.48% | Stable 🟢 |
-| Energy | **CVX** | $219.89 | +1.64% | Stable 🟢 |
-| Energy | **COP** | $142.28 | +1.59% | Stable 🟢 |
-| Tech | **TSLA** | $390.22 | -1.82% | Stable 🔴 |
-| Tech | **AAPL** | $356.27 | +0.39% | Stable 🟢 |
-| Tech | **MSFT** | $523.88 | +0.17% | Stable 🟢 |
-| Tech | **GOOGL** | $295.77 | -0.98% | Stable 🔴 |
-| Tech | **NVDA** | $162.85 | -2.01% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $346.19 | +0.98% | Stable 🟢 |
-| Finance | **BAC** | $51.02 | +1.01% | Stable 🟢 |
-| Finance | **GS** | $916.56 | +0.32% | Stable 🟢 |
-| Precious Metals | **GC=F** | $3,886.30 | +0.03% | Stable 🟢 |
-| Precious Metals | **SI=F** | $49.12 | -1.70% | Stable 🔴 |
-| Precious Metals | **GOLD** | $36.22 | -0.49% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Capital is actively flowing into the Energy and Finance sectors, both exhibiting broad positive momentum. Conversely, the Technology sector shows weakness with significant declines in several major components, while Military and Precious Metals sectors present mixed performance.
-2.  **Key Tickers to Watch**: NVIDIA (NVDA) is a critical watch with an explicit "Oversale" signal after a -2.01% drop, suggesting potential for a technical rebound. Additionally, Chevron (CVX) and ConocoPhillips (COP) are strong performers within the robust Energy sector, indicating continued upward momentum.
-3.  **Actionable Strategy**: Accumulate or hold positions in strong Energy (e.g., CVX, COP) and Finance (e.g., JPM, BAC) names given their current positive trajectory. For NVDA, a 'Wait & Watch' for stabilization followed by a strategic accumulation could be prudent, targeting a potential short-term bounce from its oversold condition.
-----------------------------------------
-
-### 📊 USA Market Update - 15/11/2026 23:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
