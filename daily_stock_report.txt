@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 18/11/2026 04:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $590.25 | +0.86% | Stable 🟢 |
+| Military | **RTX** | $197.99 | +1.59% | Stable 🟢 |
+| Military | **NOC** | $553.28 | +1.40% | Stable 🟢 |
+| Energy | **XOM** | $167.22 | +0.21% | Stable 🟢 |
+| Energy | **CVX** | $216.31 | -0.38% | Stable 🔴 |
+| Energy | **COP** | $139.54 | -0.69% | Stable 🔴 |
+| Tech | **TSLA** | $380.11 | +0.10% | Stable 🟢 |
+| Tech | **AAPL** | $351.91 | -0.25% | Stable 🔴 |
+| Tech | **MSFT** | $506.24 | -2.27% | Stable 🔴 |
+| Tech | **GOOGL** | $280.20 | -1.24% | Stable 🔴 |
+| Tech | **NVDA** | $155.46 | -0.44% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $329.97 | -2.44% | Stable 🔴 |
+| Finance | **BAC** | $49.44 | -1.28% | Stable 🔴 |
+| Finance | **GS** | $877.28 | -1.60% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,849.20 | -0.10% | Stable 🔴 |
+| Precious Metals | **SI=F** | $47.06 | +0.60% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $35.53 | +0.94% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the provided market data:
+
+*   **Market Trend**: Capital is clearly flowing into the Military sector, exhibiting consistent positive momentum across all tickers. Conversely, the Technology and Finance sectors are experiencing significant outflows, marked by broad declines and notable drops in key players.
+*   **Key Tickers to Watch**: Focus on NVDA and SI=F, both flagged as "Oversale," indicating potential for short-term rebound opportunities after recent price corrections. Also, closely monitor MSFT and JPM, which experienced significant drops exceeding 2%, signaling potential capitulation or sustained bearish sentiment.
+*   **Actionable Strategy**: Accumulate positions in the oversold NVDA and SI=F for a potential bounce. For the strong Military sector, consider holding existing positions or cautious accumulation, while implementing tight stop-losses or reducing exposure in the underperforming Tech and Finance sectors.
+----------------------------------------
+
 ### 📊 USA Market Update - 18/11/2026 03:01:35
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -988,38 +1020,6 @@ Here's your market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 16/11/2026 19:01:31
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $596.04 | -1.33% | Stable 🔴 |
-| Military | **RTX** | $198.58 | +0.11% | Stable 🟢 |
-| Military | **NOC** | $550.43 | +0.24% | Stable 🟢 |
-| Energy | **XOM** | $170.59 | +0.48% | Stable 🟢 |
-| Energy | **CVX** | $219.89 | +1.64% | Stable 🟢 |
-| Energy | **COP** | $142.28 | +1.59% | Stable 🟢 |
-| Tech | **TSLA** | $390.22 | -1.82% | Stable 🔴 |
-| Tech | **AAPL** | $356.27 | +0.39% | Stable 🟢 |
-| Tech | **MSFT** | $523.88 | +0.17% | Stable 🟢 |
-| Tech | **GOOGL** | $295.77 | -0.98% | Stable 🔴 |
-| Tech | **NVDA** | $162.85 | -2.01% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $346.19 | +0.98% | Stable 🟢 |
-| Finance | **BAC** | $51.02 | +1.01% | Stable 🟢 |
-| Finance | **GS** | $916.56 | +0.32% | Stable 🟢 |
-| Precious Metals | **GC=F** | $3,879.40 | -0.18% | Stable 🔴 |
-| Precious Metals | **SI=F** | $47.72 | -2.68% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $36.22 | -0.49% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise market analysis:
-
-1.  **Market Trend**: Money appears to be flowing into defensive and cyclical sectors such as Energy and Finance, which show broad positive movement. Conversely, there's a noticeable exit from certain high-growth technology names and precious metals, with significant selling pressure on specific tickers.
-2.  **Key Tickers to Watch**: **NVDA** ($162.85, -2.01%) and **SI=F** ($47.72, -2.68%) are both marked as 'Oversale', indicating strong recent selling pressure that could precede a technical bounce or present a value opportunity.
-3.  **Actionable Strategy**: For sectors exhibiting strength like Energy and Finance, consider accumulating positions or maintaining exposure. For the 'Oversale' tickers NVDA and SI=F, closely monitor for signs of stabilization or reversal to identify potential entry points, but exercise caution given the recent downward momentum.
-----------------------------------------
-
-### 📊 USA Market Update - 16/11/2026 18:01:34
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $596.04 | -1.33% | Stable 🔴 |
