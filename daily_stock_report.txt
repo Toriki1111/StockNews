@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 17/11/2026 16:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $585.21 | -1.82% | Stable 🔴 |
+| Military | **RTX** | $194.89 | -1.86% | Stable 🔴 |
+| Military | **NOC** | $545.65 | -0.87% | Stable 🔴 |
+| Energy | **XOM** | $166.87 | -2.18% | Stable 🔴 |
+| Energy | **CVX** | $217.14 | -1.25% | Stable 🔴 |
+| Energy | **COP** | $140.52 | -1.24% | Stable 🔴 |
+| Tech | **TSLA** | $379.74 | -2.69% | Stable 🔴 |
+| Tech | **AAPL** | $352.78 | -0.98% | Stable 🔴 |
+| Tech | **MSFT** | $517.99 | -1.12% | Stable 🔴 |
+| Tech | **GOOGL** | $283.72 | -4.07% | Stable 🔴 |
+| Tech | **NVDA** | $156.14 | -4.12% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $338.21 | -2.31% | Stable 🔴 |
+| Finance | **BAC** | $50.08 | -1.84% | Stable 🔴 |
+| Finance | **GS** | $891.54 | -2.73% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,874.90 | +0.57% | Stable 🟢 |
+| Precious Metals | **SI=F** | $47.43 | +1.38% | Stable 🟢 |
+| Precious Metals | **GOLD** | $35.20 | -2.82% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market analysis report:
+
+1.  **Market Trend**: Widespread risk aversion is evident, with significant declines across military, energy, tech, and finance sectors, contrasting with positive momentum in precious metals futures (GC=F, SI=F) as investors seek safe havens. This suggests a move out of growth and cyclical stocks into defensive assets.
+2.  **Key Tickers to Watch**: NVDA is a critical watch, marked "Oversale" after a -4.12% drop, potentially signaling an attractive entry point for short-term traders. Additionally, GOOGL's -4.07% fall highlights broader tech sector weakness that may present opportunities.
+3.  **Actionable Strategy**: For the upcoming session, adopt a "Wait & Watch" stance on broader equities given the widespread selling pressure. However, consider "Accumulating" NVDA cautiously if selling pressure subsides, anticipating a potential technical rebound from its oversold status.
+----------------------------------------
+
 ### 📊 USA Market Update - 17/11/2026 15:01:34
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1030,3 @@ Here is your market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 16/11/2026 06:01:24
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $596.04 | -1.33% | Stable 🔴 |
-| Military | **RTX** | $198.58 | +0.11% | Stable 🟢 |
-| Military | **NOC** | $550.43 | +0.24% | Stable 🟢 |
-| Energy | **XOM** | $170.59 | +0.48% | Stable 🟢 |
-| Energy | **CVX** | $219.89 | +1.64% | Stable 🟢 |
-| Energy | **COP** | $142.28 | +1.59% | Stable 🟢 |
-| Tech | **TSLA** | $390.22 | -1.82% | Stable 🔴 |
-| Tech | **AAPL** | $356.27 | +0.39% | Stable 🟢 |
-| Tech | **MSFT** | $523.88 | +0.17% | Stable 🟢 |
-| Tech | **GOOGL** | $295.77 | -0.98% | Stable 🔴 |
-| Tech | **NVDA** | $162.85 | -2.01% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $346.19 | +0.98% | Stable 🟢 |
-| Finance | **BAC** | $51.02 | +1.01% | Stable 🟢 |
-| Finance | **GS** | $916.56 | +0.32% | Stable 🟢 |
-| Precious Metals | **GC=F** | $3,886.30 | +0.03% | Stable 🟢 |
-| Precious Metals | **SI=F** | $49.12 | -1.70% | Stable 🔴 |
-| Precious Metals | **GOLD** | $36.22 | -0.49% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the provided market data:
-
-*   **Market Trend**: Capital is clearly gravitating towards the Energy and Finance sectors, both showing broad positive performance. Conversely, there's a noticeable rotation out of speculative and higher-growth Technology stocks, exemplified by significant declines in TSLA, GOOGL, and NVDA.
-*   **Key Tickers to Watch**: **NVDA** is explicitly flagged as `Oversale` following a -2.01% decline, indicating a potential technical rebound opportunity. Within the robust Energy sector, **CVX** leads with a strong +1.64% gain, signaling continued upward momentum.
-*   **Actionable Strategy**: Accumulate or add to positions within the Energy and Finance sectors, capitalizing on their current positive momentum. For NVDA, monitor closely for confirmation of a short-term bounce and consider opportunistic accumulation, while setting clear stop-loss levels.
-----------------------------------------
-
-### 📊 USA Market Update - 16/11/2026 05:01:29
-
