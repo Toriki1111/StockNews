@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 19/11/2026 12:01:33
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $578.19 | -2.06% | Stable 🔴 |
+| Military | **RTX** | $197.45 | -0.28% | Stable 🔴 |
+| Military | **NOC** | $542.99 | -1.86% | Stable 🔴 |
+| Energy | **XOM** | $160.58 | -3.97% | Stable 🔴 |
+| Energy | **CVX** | $205.88 | -4.74% | Stable 🔴 |
+| Energy | **COP** | $134.40 | -3.64% | Stable 🔴 |
+| Tech | **TSLA** | $383.72 | +0.95% | Stable 🟢 |
+| Tech | **AAPL** | $352.45 | +0.15% | Stable 🟢 |
+| Tech | **MSFT** | $508.29 | +0.40% | Stable 🟢 |
+| Tech | **GOOGL** | $282.44 | +0.80% | Stable 🟢 |
+| Tech | **NVDA** | $150.96 | -2.89% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $324.11 | -1.77% | Stable 🔴 |
+| Finance | **BAC** | $48.91 | -1.07% | Stable 🔴 |
+| Finance | **GS** | $873.18 | -0.49% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,741.90 | -3.16% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $45.00 | -4.84% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $37.16 | +4.85% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+*   **Market Trend**: Capital is largely exiting traditional sectors like Military, Energy, and Finance, reflected in broad declines, while Technology stocks (excluding NVDA) and physical gold equity (GOLD) demonstrate resilience with positive inflows.
+*   **Key Tickers to Watch**: NVDA (-2.89%) and Gold Futures (GC=F, -3.16%) are both flagged as "Oversale," indicating potential for a short-term technical rebound from current depressed levels.
+*   **Actionable Strategy**: Consider accumulating positions in NVDA and GC=F on current weakness due to their oversold technical signals, and for GOLD, review existing positions for potential profit-taking or setting trailing stop-losses following its sharp surge.
+----------------------------------------
+
 ### 📊 USA Market Update - 19/11/2026 11:01:47
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1030,3 @@ Here is a concise, actionable report:
 ---
 ### AI Financial Advisor:
 
-Here is an analysis of the provided market data:
-
-*   **Market Trend**: Capital is clearly flowing into the Military sector, exhibiting consistent positive momentum across all tickers. Conversely, the Technology and Finance sectors are experiencing significant outflows, marked by broad declines and notable drops in key players.
-*   **Key Tickers to Watch**: Focus on NVDA and SI=F, both flagged as "Oversale," indicating potential for short-term rebound opportunities after recent price corrections. Also, closely monitor MSFT and JPM, which experienced significant drops exceeding 2%, signaling potential capitulation or sustained bearish sentiment.
-*   **Actionable Strategy**: Accumulate positions in the oversold NVDA and SI=F for a potential bounce. For the strong Military sector, consider holding existing positions or cautious accumulation, while implementing tight stop-losses or reducing exposure in the underperforming Tech and Finance sectors.
-----------------------------------------
-
-### 📊 USA Market Update - 18/11/2026 03:01:35
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $585.92 | +0.12% | Stable 🟢 |
-| Military | **RTX** | $196.92 | +1.04% | Stable 🟢 |
-| Military | **NOC** | $551.51 | +1.07% | Stable 🟢 |
-| Energy | **XOM** | $166.27 | -0.36% | Stable 🔴 |
-| Energy | **CVX** | $215.32 | -0.84% | Stable 🔴 |
-| Energy | **COP** | $139.40 | -0.79% | Stable 🔴 |
-| Tech | **TSLA** | $378.19 | -0.41% | Stable 🔴 |
-| Tech | **AAPL** | $349.96 | -0.80% | Stable 🔴 |
-| Tech | **MSFT** | $505.92 | -2.33% | Stable 🔴 |
-| Tech | **GOOGL** | $279.72 | -1.41% | Stable 🔴 |
-| Tech | **NVDA** | $152.25 | -2.49% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $328.93 | -2.74% | Stable 🔴 |
-| Finance | **BAC** | $49.21 | -1.75% | Stable 🔴 |
-| Finance | **GS** | $871.12 | -2.29% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,851.10 | -0.05% | Stable 🔴 |
-| Precious Metals | **SI=F** | $47.18 | +0.84% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $36.02 | +2.33% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market update:
