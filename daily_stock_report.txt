@@ -1,3 +1,36 @@
+### 📊 USA Market Update - 19/11/2026 15:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $578.19 | -2.06% | Stable 🔴 |
+| Military | **RTX** | $197.45 | -0.28% | Stable 🔴 |
+| Military | **NOC** | $542.99 | -1.86% | Stable 🔴 |
+| Energy | **XOM** | $160.58 | -3.97% | Stable 🔴 |
+| Energy | **CVX** | $205.88 | -4.74% | Stable 🔴 |
+| Energy | **COP** | $134.40 | -3.64% | Stable 🔴 |
+| Tech | **TSLA** | $383.72 | +0.95% | Stable 🟢 |
+| Tech | **AAPL** | $352.45 | +0.15% | Stable 🟢 |
+| Tech | **MSFT** | $508.29 | +0.40% | Stable 🟢 |
+| Tech | **GOOGL** | $282.44 | +0.80% | Stable 🟢 |
+| Tech | **NVDA** | $150.96 | -2.89% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $324.11 | -1.77% | Stable 🔴 |
+| Finance | **BAC** | $48.91 | -1.07% | Stable 🔴 |
+| Finance | **GS** | $873.18 | -0.49% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,733.00 | -0.24% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $45.24 | +0.52% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $37.16 | +4.85% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 19/11/2026 14:01:33
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1031,3 @@ Here is your concise, actionable market report:
 | Precious Metals | **GC=F** | $3,852.70 | -0.01% | Stable 🔴 |
 | Precious Metals | **SI=F** | $47.38 | +1.28% | Stable 🟢 |
 | Precious Metals | **GOLD** | $35.44 | +0.68% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable report:
-
-1.  **Market Trend**: Capital is clearly flowing into the Military sector, with all defense contractors showing positive gains. Conversely, significant funds are exiting the Tech and Finance sectors, indicating broader risk aversion or profit-taking in these areas.
-
-2.  **Key Tickers to Watch**: NVDA is flagged as "Oversale," technically indicating it might be undervalued in the short term. Additionally, MSFT experienced a notable -2.27% drop, signaling significant weakness in a leading tech stock.
-
-3.  **Actionable Strategy**: Adopt a 'Wait & Watch' approach for Tech and Finance, seeking clear signs of stabilization before considering new long positions. For NVDA, monitor closely for reversal signals, as an 'Accumulate' strategy could be viable if a bounce-back is confirmed.
-----------------------------------------
-
-### 📊 USA Market Update - 18/11/2026 06:01:36
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $590.34 | +0.88% | Stable 🟢 |
-| Military | **RTX** | $198.00 | +1.60% | Stable 🟢 |
-| Military | **NOC** | $553.26 | +1.39% | Stable 🟢 |
-| Energy | **XOM** | $167.21 | +0.20% | Stable 🟢 |
-| Energy | **CVX** | $216.13 | -0.47% | Stable 🔴 |
-| Energy | **COP** | $139.48 | -0.74% | Stable 🔴 |
-| Tech | **TSLA** | $380.11 | +0.10% | Stable 🟢 |
-| Tech | **AAPL** | $351.91 | -0.25% | Stable 🔴 |
-| Tech | **MSFT** | $506.24 | -2.27% | Stable 🔴 |
-| Tech | **GOOGL** | $280.20 | -1.24% | Stable 🔴 |
-| Tech | **NVDA** | $155.46 | -0.44% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $329.96 | -2.44% | Stable 🔴 |
-| Finance | **BAC** | $49.44 | -1.28% | Stable 🔴 |
-| Finance | **GS** | $877.52 | -1.57% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,851.90 | -0.03% | Stable 🔴 |
