@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 20/11/2026 12:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $571.85 | -1.10% | Stable 🔴 |
+| Military | **RTX** | $193.44 | -2.03% | Stable 🔴 |
+| Military | **NOC** | $542.31 | -0.13% | Stable 🔴 |
+| Energy | **XOM** | $158.93 | -1.03% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $206.50 | +0.30% | Stable 🟢 |
+| Energy | **COP** | $134.99 | +0.44% | Stable 🟢 |
+| Tech | **TSLA** | $374.41 | -2.43% | Stable 🔴 |
+| Tech | **AAPL** | $349.21 | -0.92% | Stable 🔴 |
+| Tech | **MSFT** | $498.30 | -1.97% | Stable 🔴 |
+| Tech | **GOOGL** | $272.66 | -3.46% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $145.98 | -3.30% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $320.22 | -1.20% | Stable 🔴 |
+| Finance | **BAC** | $48.57 | -0.70% | Stable 🔴 |
+| Finance | **GS** | $847.53 | -2.94% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,685.50 | -1.51% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $44.32 | -1.51% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $37.16 | +4.85% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the provided market data:
+
+1.  **Market Trend**: Money is broadly exiting growth-oriented sectors like Technology, Finance, and even Military, indicating a cautious or risk-off sentiment across the US market. Conversely, the "GOLD" equity is experiencing significant buying interest, suggesting a rotation towards perceived safe-haven assets.
+2.  **Key Tickers to Watch**: **GOOGL** (-3.46%) and **NVDA** (-3.30%) are notably oversold, presenting potential accumulation opportunities for long-term investors if broader market conditions stabilize. Additionally, **GOLD** (+4.85%) shows exceptional single-day strength amidst a weak market, indicating strong positive momentum.
+3.  **Actionable Strategy**: For oversold quality tech like GOOGL and NVDA, consider selective "Accumulation" for long-term portfolios, while for most other declining sectors, a "Wait & Watch" approach is prudent. For "GOLD" (equity) positions, evaluate setting a "Trailing Stop Loss" or consider partial "Take Profit" given its significant surge.
+----------------------------------------
+
 ### 📊 USA Market Update - 20/11/2026 11:01:37
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,37 +1028,5 @@ Here is an analysis of the provided market data:
 *   **Market Trend**: Money is largely exiting traditional sectors like Military, Energy, Finance, and commodity futures (GC=F, SI=F), all showing significant declines. Conversely, core Technology stocks (TSLA, AAPL, MSFT, GOOGL) are exhibiting resilience and positive momentum.
 *   **Key Tickers to Watch**: **NVDA** is technically flagged as "Oversale" after a -2.89% drop, presenting a potential bounce-back opportunity within the otherwise strong tech sector. Similarly, **GC=F** (Gold Futures) is also "Oversale" following a -3.55% decline, signaling a possible near-term rebound in precious metal commodities.
 *   **Actionable Strategy**: Consider accumulating positions in oversold assets like NVDA and GC=F for a potential tactical rebound in the upcoming session. Maintain exposure to resilient core Tech holdings, while adopting a "Wait & Watch" approach for the declining Energy, Military, and Finance sectors until stabilization signals emerge.
-----------------------------------------
-
-### 📊 USA Market Update - 19/11/2026 04:01:32
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $578.05 | -2.08% | Stable 🔴 |
-| Military | **RTX** | $197.52 | -0.24% | Stable 🔴 |
-| Military | **NOC** | $542.96 | -1.86% | Stable 🔴 |
-| Energy | **XOM** | $160.55 | -3.98% | Stable 🔴 |
-| Energy | **CVX** | $205.88 | -4.74% | Stable 🔴 |
-| Energy | **COP** | $134.39 | -3.65% | Stable 🔴 |
-| Tech | **TSLA** | $383.72 | +0.95% | Stable 🟢 |
-| Tech | **AAPL** | $352.45 | +0.15% | Stable 🟢 |
-| Tech | **MSFT** | $508.29 | +0.40% | Stable 🟢 |
-| Tech | **GOOGL** | $282.44 | +0.80% | Stable 🟢 |
-| Tech | **NVDA** | $150.96 | -2.89% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $324.13 | -1.77% | Stable 🔴 |
-| Finance | **BAC** | $48.90 | -1.09% | Stable 🔴 |
-| Finance | **GS** | $873.18 | -0.49% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,732.00 | -3.42% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $44.96 | -4.93% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $37.14 | +4.80% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable report:
-
-1.  **Market Trend**: Capital is predominantly flowing into the Technology sector, which shows broad positive momentum. Conversely, Military, Energy, and Finance sectors are experiencing significant outflows, indicating a shift away from defensive and cyclical plays.
-2.  **Key Tickers to Watch**: **NVDA** is marked as 'Oversale' after a -2.89% drop, potentially offering a tactical buying opportunity within the strong tech sector. Simultaneously, **GOLD** (physical) saw a notable +4.80% surge, diverging from the 'Oversale' status and drops in gold and silver futures.
-3.  **Actionable Strategy**: For **NVDA**, consider initiating an 'Accumulate' position, targeting a short-term rebound. For sectors experiencing broad declines like Energy and Military, a 'Wait & Watch' strategy is advisable until clearer stabilization signals emerge.
 ----------------------------------------
 
