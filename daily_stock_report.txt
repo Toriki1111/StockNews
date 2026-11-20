@@ -1,3 +1,29 @@
+### 📊 USA Market Update - 21/11/2026 06:01:36
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
+| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
+| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
+| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
+| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
+| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
+| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
+| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
+| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
+| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
+| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $3,539.00 | -3.98% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $41.08 | -7.31% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
+
+
+*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 21/11/2026 05:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1024,3 @@ Here is an analysis of the provided market data:
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $575.76 | -0.42% | Stable 🔴 |
-| Military | **RTX** | $197.20 | -0.13% | Stable 🔴 |
-| Military | **NOC** | $541.14 | -0.34% | Stable 🔴 |
-| Energy | **XOM** | $160.25 | -0.21% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $206.55 | +0.33% | Stable 🟢 |
-| Energy | **COP** | $134.79 | +0.29% | Stable 🟢 |
-| Tech | **TSLA** | $387.02 | +0.86% | Stable 🟢 |
-| Tech | **AAPL** | $349.61 | -0.81% | Stable 🔴 |
-| Tech | **MSFT** | $523.45 | +2.98% | Stable 🟢 |
-| Tech | **GOOGL** | $293.86 | +4.04% | Stable 🟢 |
-| Tech | **NVDA** | $155.50 | +3.01% | ✅ Oversale 🟢 |
-| Finance | **JPM** | $326.92 | +0.87% | Stable 🟢 |
-| Finance | **BAC** | $49.19 | +0.58% | Stable 🟢 |
-| Finance | **GS** | $886.61 | +1.54% | Stable 🟢 |
-| Precious Metals | **GC=F** | $3,709.30 | -0.87% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $45.33 | +0.72% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $37.63 | +1.26% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an actionable market analysis report:
-
-1.  **Market Trend**: Money is predominantly flowing into the Technology and Financial sectors, indicating strong investor confidence in growth and traditional economic drivers. Conversely, the Military sector shows slight outflows, while Energy and Precious Metals exhibit mixed performance.
-2.  **Key Tickers to Watch**: NVIDIA (NVDA) is noteworthy, demonstrating strong positive momentum (+3.01%) despite its "Oversale" technical status, suggesting a robust rebound from previous undervaluation. Gold Futures (GC=F) is also a key watch, marked "Oversale" after a significant -0.87% drop, signaling potential bottom-fishing opportunities.
-3.  **Actionable Strategy**: Actively accumulate positions in high-momentum Tech (e.g., MSFT, GOOGL, NVDA) and Finance (e.g., JPM, GS) sectors, holding for continued upside. For contrarian value, consider accumulating Gold Futures (GC=F) and ExxonMobil (XOM) due to their "Oversale" status, anticipating potential rebounds.
-----------------------------------------
-
-### 📊 USA Market Update - 19/11/2026 21:01:37
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $578.19 | -2.06% | Stable 🔴 |
-| Military | **RTX** | $197.45 | -0.28% | Stable 🔴 |
