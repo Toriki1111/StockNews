@@ -1,3 +1,36 @@
+### 📊 USA Market Update - 20/11/2026 16:01:37
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $571.85 | -1.10% | Stable 🔴 |
+| Military | **RTX** | $193.44 | -2.03% | Stable 🔴 |
+| Military | **NOC** | $542.31 | -0.13% | Stable 🔴 |
+| Energy | **XOM** | $158.93 | -1.03% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $206.50 | +0.30% | Stable 🟢 |
+| Energy | **COP** | $134.99 | +0.44% | Stable 🟢 |
+| Tech | **TSLA** | $374.41 | -2.43% | Stable 🔴 |
+| Tech | **AAPL** | $349.21 | -0.92% | Stable 🔴 |
+| Tech | **MSFT** | $498.30 | -1.97% | Stable 🔴 |
+| Tech | **GOOGL** | $272.66 | -3.46% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $145.98 | -3.30% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $320.22 | -1.20% | Stable 🔴 |
+| Finance | **BAC** | $48.57 | -0.70% | Stable 🔴 |
+| Finance | **GS** | $847.53 | -2.94% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,584.10 | -2.75% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $42.46 | -4.20% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $37.21 | +0.13% | Stable 🟢 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 20/11/2026 15:01:31
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1031,3 @@ Here is a concise market analysis:
 2.  **Key Tickers to Watch**: Precious Metals futures **GC=F** (Gold) and **SI=F** (Silver) are flashing strong "Oversale" signals with drops of -2.85% and -3.77% respectively, suggesting potential short-term bounce opportunities.
 3.  **Actionable Strategy**: For **GC=F** and **SI=F**, consider a cautious Accumulate strategy for a potential technical rebound given their oversold status. For other declining sectors like Tech and Finance, a "Wait & Watch" approach is recommended until clearer reversal signals emerge.
 ----------------------------------------
-
-### 📊 USA Market Update - 19/11/2026 08:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $590.34 | +0.88% | Stable 🟢 |
-| Military | **RTX** | $198.00 | +1.60% | Stable 🟢 |
-| Military | **NOC** | $553.26 | +1.39% | Stable 🟢 |
-| Energy | **XOM** | $167.21 | +0.20% | Stable 🟢 |
-| Energy | **CVX** | $216.13 | -0.47% | Stable 🔴 |
-| Energy | **COP** | $139.48 | -0.74% | Stable 🔴 |
-| Tech | **TSLA** | $380.11 | +0.10% | Stable 🟢 |
-| Tech | **AAPL** | $351.91 | -0.25% | Stable 🔴 |
-| Tech | **MSFT** | $506.24 | -2.27% | Stable 🔴 |
-| Tech | **GOOGL** | $280.20 | -1.24% | Stable 🔴 |
-| Tech | **NVDA** | $155.46 | -0.44% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $329.96 | -2.44% | Stable 🔴 |
-| Finance | **BAC** | $49.44 | -1.28% | Stable 🔴 |
-| Finance | **GS** | $877.52 | -1.57% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,756.60 | -2.78% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $45.69 | -3.37% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $35.44 | +0.68% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an actionable report based on the provided market data:
-
-1.  **Market Trend**: Capital is clearly rotating into the Military sector, which shows broad positive momentum, while significant outflows are observed in Technology, Finance, and Precious Metals futures, indicating a cautious or risk-off sentiment in those areas.
-2.  **Key Tickers to Watch**: **NVDA** (Tech) and the Precious Metals futures **GC=F**, **SI=F** are specifically flagged as "Oversale," presenting potential short-term buying opportunities for a bounce or long-term accumulation after their recent declines.
-3.  **Actionable Strategy**: Maintain a "Wait & Watch" stance on the broader Tech and Finance sectors until clear reversal signals emerge. For the "Oversale" tickers, specifically NVDA, GC=F, and SI=F, consider a tactical "Accumulate" strategy for investors with a higher risk tolerance looking for a potential rebound or strategic long-term value.
-----------------------------------------
-
