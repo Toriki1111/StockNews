@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 22/11/2026 05:01:20
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
+| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
+| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
+| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
+| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
+| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
+| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
+| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
+| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
+| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
+| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $41.03 | -7.41% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the market data:
+
+1.  **Market Trend**: Capital is largely exiting high-growth technology, financial, and precious metals sectors, indicating a broad risk-off sentiment or market correction. Conversely, the energy sector shows minor positive momentum, suggesting some defensive rotation or commodity-specific strength.
+2.  **Key Tickers to Watch**: NVIDIA (NVDA) stands out with a significant -14.01% drop and an "Oversale" status, indicating extreme selling pressure. Similarly, Goldman Sachs (GS), down -6.71% and also "Oversale," signals deep undervaluation potential in the financial sector after a sharp decline.
+3.  **Actionable Strategy**: For long-term investors, selectively Accumulate quality assets like NVDA and GS given their "Oversale" status, positioning for potential rebound. For broader market exposure, it is prudent to Wait & Watch for stabilization or clear reversal signals before deploying significant capital due to the widespread declines.
+----------------------------------------
+
 ### 📊 USA Market Update - 22/11/2026 04:01:26
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,37 +1028,5 @@ Here is your market report:
 }
 )*
 
-----------------------------------------
-
-### 📊 USA Market Update - 20/11/2026 20:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $571.85 | -1.10% | Stable 🔴 |
-| Military | **RTX** | $193.44 | -2.03% | Stable 🔴 |
-| Military | **NOC** | $542.31 | -0.13% | Stable 🔴 |
-| Energy | **XOM** | $158.93 | -1.03% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $206.50 | +0.30% | Stable 🟢 |
-| Energy | **COP** | $134.99 | +0.44% | Stable 🟢 |
-| Tech | **TSLA** | $374.41 | -2.43% | Stable 🔴 |
-| Tech | **AAPL** | $349.21 | -0.92% | Stable 🔴 |
-| Tech | **MSFT** | $498.30 | -1.97% | Stable 🔴 |
-| Tech | **GOOGL** | $272.66 | -3.46% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $145.98 | -3.30% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $320.22 | -1.20% | Stable 🔴 |
-| Finance | **BAC** | $48.57 | -0.70% | Stable 🔴 |
-| Finance | **GS** | $847.53 | -2.94% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,567.60 | -3.20% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $42.10 | -5.02% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $37.21 | +0.13% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-1.  **Market Trend**: The broader market is experiencing significant selling pressure across Technology, Finance, and Precious Metals futures, indicating a prevailing risk-off sentiment. Energy is mixed, with some resilience, while physical gold shows slight stability amidst the downturn.
-2.  **Key Tickers to Watch**: Tech giants **GOOGL (-3.46%)** and **NVDA (-3.30%)** are both flagged "Oversale" after notable declines, presenting potential short-term bounce opportunities. Additionally, **SI=F (-5.02%)** shows a substantial "Oversale" signal in precious metals futures, warranting close monitoring for a potential rebound.
-3.  **Actionable Strategy**: For strategic investors, consider a phased "Accumulate" approach on quality "Oversale" Tech stocks like GOOGL and NVDA, leveraging current dips. For broader portfolio management, maintain a "Wait & Watch" stance until clear signs of market stabilization emerge, while reviewing stop-loss orders on existing positions.
 ----------------------------------------
 
