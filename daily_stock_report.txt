@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 23/11/2026 03:01:24
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
+| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
+| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
+| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
+| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
+| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
+| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
+| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
+| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
+| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
+| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $41.07 | -7.33% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the USA market data:
+
+1.  **Market Trend**: Capital is actively exiting high-growth technology, finance, and precious metals sectors, indicated by significant declines and multiple "Oversale" signals. Conversely, the energy sector is demonstrating resilience with positive gains, suggesting a defensive shift towards value and traditional safe havens.
+2.  **Key Tickers to Watch**: **NVDA** warrants immediate attention due to its substantial -14.01% drop and "Oversale" status, signaling potential technical rebound opportunities for aggressive traders. **GS** is also notable with a -6.71% decline and "Oversale" status, suggesting a potential value entry point within the financial sector.
+3.  **Actionable Strategy**: For oversold assets like NVDA, GS, and precious metal futures (GC=F, SI=F), consider initiating a tactical "Accumulate" strategy on dips with tight risk management, anticipating a short-term technical bounce. For the stable and positive energy sector (XOM, CVX, COP), "Hold" current positions, or consider "Take Profit" on existing gains.
+----------------------------------------
+
 ### 📊 USA Market Update - 23/11/2026 02:01:29
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1030,3 @@ Here is a concise, actionable report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 21/11/2026 19:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
-| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
-| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
-| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
-| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
-| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
-| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
-| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
-| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
-| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
-| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $41.03 | -7.41% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable report:
-
-*   **Market Trend**: Capital is broadly exiting the Technology, Finance, Military, and Precious Metals sectors, evidenced by widespread negative performance and several "Oversale" indicators. Conversely, the Energy sector demonstrates relative strength with positive gains, attracting current capital flows.
-*   **Key Tickers to Watch**: **NVDA** stands out with a significant -14.01% drop and "Oversale" status, signaling a potential short-term rebound opportunity or an attractive entry point for long-term investors. Additionally, the entire Finance sector, including **JPM** (-3.03%) and **GS** (-6.71%), is flagged as "Oversale," indicating widespread sector weakness that could present value.
-*   **Actionable Strategy**: For the upcoming session, consider strategic accumulation in severely oversold assets like NVDA and within the Finance sector (JPM, BAC, GS) for investors with a higher risk tolerance anticipating a technical rebound. Maintain a `Wait & Watch` stance on the Energy sector, looking for consolidation or further strength amidst overall market uncertainty before committing new capital.
-----------------------------------------
-
-### 📊 USA Market Update - 21/11/2026 18:01:33
-
