@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 22/11/2026 13:01:26
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
+| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
+| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
+| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
+| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
+| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
+| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
+| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
+| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
+| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
+| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $41.07 | -7.33% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise, actionable report:
+
+1.  **Market Trend**: Money is clearly flowing into the Energy sector, which shows positive momentum across the board. Conversely, significant capital is exiting the Tech, Finance, and Precious Metals sectors, with several key players now indicating oversold conditions.
+2.  **Key Tickers to Watch**: NVDA is a critical watch with a substantial -14.01% drop and an "Oversale" signal, presenting a potential high-risk, high-reward bounce opportunity. Similarly, GS, down -6.71% and also marked "Oversale," could offer value for a short-term rebound.
+3.  **Actionable Strategy**: Accumulate selectively in strong-performing Energy stocks like CVX and XOM, leveraging their upward momentum. For deeply oversold quality assets in Tech and Finance (e.g., NVDA, GS), cautiously initiate small, speculative long positions, strictly implementing tight stop-loss orders to manage risk for a potential technical bounce.
+----------------------------------------
+
 ### 📊 USA Market Update - 22/11/2026 12:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here's an analysis of the provided market data:
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
     "status": "UNAVAILABLE"
   }
-}
-)*
-
-----------------------------------------
-
-### 📊 USA Market Update - 21/11/2026 04:01:27
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $563.93 | -1.38% | Stable 🔴 |
-| Military | **RTX** | $189.92 | -1.82% | Stable 🔴 |
-| Military | **NOC** | $533.73 | -1.58% | Stable 🔴 |
-| Energy | **XOM** | $159.41 | +0.30% | ✅ Oversale 🟢 |
-| Energy | **CVX** | $208.03 | +0.74% | Stable 🟢 |
-| Energy | **COP** | $135.92 | +0.69% | Stable 🟢 |
-| Tech | **TSLA** | $345.59 | -7.70% | Stable 🔴 |
-| Tech | **AAPL** | $342.41 | -1.95% | Stable 🔴 |
-| Tech | **MSFT** | $483.54 | -2.96% | Stable 🔴 |
-| Tech | **GOOGL** | $265.20 | -2.74% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $125.76 | -13.85% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $309.93 | -3.21% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $46.99 | -3.26% | ✅ Oversale 🔴 |
-| Finance | **GS** | $790.64 | -6.71% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $3,526.40 | -4.32% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $40.88 | -7.75% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $36.10 | -2.98% | Stable 🔴 |
-
-
-*(AI Error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
