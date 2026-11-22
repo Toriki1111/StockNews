@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 22/11/2026 22:01:33
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
+| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
+| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
+| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
+| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
+| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
+| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
+| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
+| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
+| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
+| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $41.07 | -7.33% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here's an analysis of the market data:
+
+*   **Market Trend**: Capital is broadly exiting high-growth sectors such as Technology, Finance, and Precious Metals, indicating a significant risk-off sentiment across the US market. In contrast, the Energy sector is demonstrating resilience and attracting inflows, suggesting a defensive shift in investment priorities among investors.
+*   **Key Tickers to Watch**: Nvidia (**NVDA**) has experienced an extreme -14.01% drop, triggering a strong "Oversale" signal, which could represent a significant entry point for long-term growth investors. Similarly, Goldman Sachs (**GS**) is notably down by -6.71% and "Oversale," making it a crucial ticker to monitor for a potential rebound in the financial sector.
+*   **Actionable Strategy**: For investors with a medium to high-risk tolerance, consider accumulating positions in deeply oversold quality assets like **NVDA** and **GS**, capitalizing on potential short-term rebounds or long-term value. For a more conservative approach, maintain existing positions in the strong-performing Energy sector (e.g., **XOM**, **CVX**) and employ a "Wait & Watch" strategy for broader market stability before committing new capital to other volatile sectors.
+----------------------------------------
+
 ### 📊 USA Market Update - 22/11/2026 21:01:21
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,36 +1030,3 @@ Here's an analysis of the USA market data:
 )*
 
 ----------------------------------------
-
-### 📊 USA Market Update - 21/11/2026 14:01:26
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
-| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
-| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
-| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
-| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
-| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
-| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
-| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
-| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
-| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
-| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $41.03 | -7.41% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is an actionable market report:
-
-*   **Market Trend**: Capital is clearly rotating into the Energy sector, which is exhibiting positive growth, suggesting a defensive play or inflationary hedge. Conversely, there is a broad market sell-off across Technology, Finance, Military, and Precious Metals, with many key players in these sectors showing significant declines and "Oversale" indicators.
-
-*   **Key Tickers to Watch**: **NVDA** stands out with a steep -14.01% decline and an "Oversale" status, signaling a potential short-term bounce opportunity or a compelling entry for long-term accumulation. Additionally, **GS (Goldman Sachs)**, down -6.71% and also "Oversale," represents broader weakness in the financial sector that could present a recovery play.
-
-*   **Actionable Strategy**: For oversold assets like NVDA, JPM, BAC, GS, and GOOGL, consider a **"Cautious Accumulate"** strategy on any further dips, aiming for a potential rebound. For Energy stocks (XOM, CVX, COP), **"Maintain Position"** and await potential pullbacks before adding, as their current positive momentum might lead to consolidation.
