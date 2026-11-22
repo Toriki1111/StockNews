@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 22/11/2026 20:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
+| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
+| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
+| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
+| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
+| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
+| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
+| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
+| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
+| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
+| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $41.07 | -7.33% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your market report:
+
+*   **Market Trend**: Significant capital outflow is observed across the Technology, Finance, and Precious Metals sectors, with multiple assets hitting "Oversale" status. Conversely, the Energy sector demonstrates strong resilience and positive momentum, suggesting a shift towards value or commodity-backed assets.
+*   **Key Tickers to Watch**: **NVDA**'s steep -14.01% decline and "Oversale" status present a potential contrarian opportunity for aggressive investors, while **GC=F** and **SI=F** also registered deep "Oversale" drops, indicating a broader liquidation in traditional safe-haven assets.
+*   **Actionable Strategy**: Accumulate positions in the Energy sector (XOM, CVX, COP) on any minor pullbacks, given their consistent upward trend. For the oversold Tech, Finance, and Precious Metals sectors, a "Wait & Watch" approach is recommended for most, with aggressive investors potentially initiating small, staged accumulation for specific oversold tickers like NVDA, JPM, or GC=F, utilizing tight stop-loss orders.
+----------------------------------------
+
 ### 📊 USA Market Update - 22/11/2026 19:01:28
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -995,38 +1027,6 @@ Here is an actionable market report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 21/11/2026 12:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
-| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
-| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
-| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
-| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
-| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
-| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
-| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
-| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
-| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
-| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $41.03 | -7.41% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-1.  **Market Trend**: Capital is broadly exiting technology, financial services, and precious metals, reflected in widespread declines and "Oversale" signals across these sectors. Conversely, the energy sector demonstrates positive momentum, suggesting a cautious defensive shift by investors.
-2.  **Key Tickers to Watch**: **NVDA** stands out with a significant -14.01% drop and "Oversale" status, potentially signaling an attractive entry point for long-term investors or a short-term rebound. Similarly, **GS**'s -6.71% decline and "Oversale" status indicate a deeply discounted financial asset warranting close attention.
-3.  **Actionable Strategy**: For oversold technology and financial stocks, adopt a "Wait & Watch" strategy to confirm stabilization before considering selective, staggered accumulation. For current energy holdings, consider "Take Profit" to capitalize on recent gains.
-----------------------------------------
-
-### 📊 USA Market Update - 21/11/2026 11:01:38
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
