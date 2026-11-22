@@ -1,3 +1,36 @@
+### 📊 USA Market Update - 22/11/2026 07:01:37
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
+| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
+| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
+| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
+| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
+| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
+| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
+| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
+| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
+| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
+| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
+| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
+| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
+| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
+| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
+| Precious Metals | **SI=F** | $41.03 | -7.41% | ✅ Oversale 🔴 |
+| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
+
+
+*(AI Error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+)*
+
+----------------------------------------
+
 ### 📊 USA Market Update - 22/11/2026 06:01:31
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1031,3 @@ Here is your concise market analysis:
 ----------------------------------------
 
 ### 📊 USA Market Update - 20/11/2026 22:01:34
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $573.69 | +0.32% | Stable 🟢 |
-| Military | **RTX** | $195.38 | +1.00% | Stable 🟢 |
-| Military | **NOC** | $548.60 | +1.16% | Stable 🟢 |
-| Energy | **XOM** | $160.49 | +0.98% | Stable 🟢 |
-| Energy | **CVX** | $208.59 | +1.01% | Stable 🟢 |
-| Energy | **COP** | $136.77 | +1.32% | Stable 🟢 |
-| Tech | **TSLA** | $372.68 | -0.46% | Stable 🔴 |
-| Tech | **AAPL** | $350.32 | +0.32% | Stable 🟢 |
-| Tech | **MSFT** | $501.70 | +0.68% | Stable 🟢 |
-| Tech | **GOOGL** | $281.55 | +3.26% | Stable 🟢 |
-| Tech | **NVDA** | $141.60 | -3.00% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $319.62 | -0.19% | Stable 🔴 |
-| Finance | **BAC** | $48.39 | -0.37% | Stable 🔴 |
-| Finance | **GS** | $819.51 | -3.31% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,570.60 | -3.12% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $42.04 | -5.13% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $37.58 | +1.01% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market report:
-
-*   **Market Trend**: Capital is flowing into defensive sectors such as Military and Energy, both showing consistent positive momentum. While Tech is mixed, there's significant selective strength in mega-cap names like GOOGL, whereas Finance and most Precious Metals are experiencing notable outflows.
-*   **Key Tickers to Watch**: `NVDA` (-3.00%) and `SI=F` (-5.13%) are explicitly marked 'Oversale', suggesting potential technical bounce opportunities after significant declines. Conversely, `GOOGL` posted a strong surge of +3.26%, warranting attention for potential profit-taking.
-*   **Actionable Strategy**: Consider accumulating positions in `NVDA` and `SI=F` given their 'Oversale' status, which may present an attractive entry point. For `GOOGL`, it would be prudent to 'Take Profit' or implement a trailing stop loss after its substantial rally.
-----------------------------------------
-
-### 📊 USA Market Update - 20/11/2026 21:01:33
