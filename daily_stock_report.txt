@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 24/11/2026 04:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $572.23 | +1.19% | Stable 🟢 |
+| Military | **RTX** | $194.85 | +2.46% | Stable 🟢 |
+| Military | **NOC** | $543.12 | +1.65% | Stable 🟢 |
+| Energy | **XOM** | $157.02 | -1.86% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $206.24 | -1.02% | ✅ Oversale 🔴 |
+| Energy | **COP** | $132.32 | -2.79% | Stable 🔴 |
+| Tech | **TSLA** | $385.33 | +11.43% | Stable 🟢 |
+| Tech | **AAPL** | $349.05 | +1.89% | Stable 🟢 |
+| Tech | **MSFT** | $492.51 | +1.65% | Stable 🟢 |
+| Tech | **GOOGL** | $282.12 | +6.34% | Stable 🟢 |
+| Tech | **NVDA** | $164.79 | +31.28% | Stable 🟢 |
+| Finance | **JPM** | $316.58 | +1.95% | Stable 🟢 |
+| Finance | **BAC** | $48.15 | +2.37% | Stable 🟢 |
+| Finance | **GS** | $823.95 | +4.21% | Stable 🟢 |
+| Precious Metals | **GC=F** | $3,636.30 | +3.44% | Stable 🟢 |
+| Precious Metals | **SI=F** | $42.94 | +4.65% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $38.03 | +5.24% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+1.  **Market Trend**: Capital is strongly flowing into the Technology, Precious Metals, Finance, and Military sectors, driven by significant positive movements across the board. Conversely, the Energy sector is experiencing a clear outflow, with major players XOM and CVX in an oversold status.
+2.  **Key Tickers to Watch**: **NVDA** exhibited an exceptional +31.28% surge, highlighting intense bullish momentum but also potential for short-term overextension. **XOM** is noted as "Oversale" with a -1.86% drop, indicating potential for a bounce or a continued revaluation downwards.
+3.  **Actionable Strategy**: For NVDA, consider **Take Profit** on a portion of holdings or implement tight **Stop Loss** orders to safeguard gains. For XOM and CVX in the Energy sector, a **Wait & Watch** approach is advisable for now, looking for confirmation of a bottom before considering strategic **Accumulation**.
+----------------------------------------
+
 ### 📊 USA Market Update - 24/11/2026 03:01:27
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here's an analysis of the market data:
 Here is your market report:
 
 *   **Market Trend**: Significant capital outflow is observed across the Technology, Finance, and Precious Metals sectors, with multiple assets hitting "Oversale" status. Conversely, the Energy sector demonstrates strong resilience and positive momentum, suggesting a shift towards value or commodity-backed assets.
-*   **Key Tickers to Watch**: **NVDA**'s steep -14.01% decline and "Oversale" status present a potential contrarian opportunity for aggressive investors, while **GC=F** and **SI=F** also registered deep "Oversale" drops, indicating a broader liquidation in traditional safe-haven assets.
-*   **Actionable Strategy**: Accumulate positions in the Energy sector (XOM, CVX, COP) on any minor pullbacks, given their consistent upward trend. For the oversold Tech, Finance, and Precious Metals sectors, a "Wait & Watch" approach is recommended for most, with aggressive investors potentially initiating small, staged accumulation for specific oversold tickers like NVDA, JPM, or GC=F, utilizing tight stop-loss orders.
-----------------------------------------
-
-### 📊 USA Market Update - 22/11/2026 19:01:28
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $565.50 | -1.11% | Stable 🔴 |
-| Military | **RTX** | $190.17 | -1.69% | Stable 🔴 |
-| Military | **NOC** | $534.31 | -1.48% | Stable 🔴 |
-| Energy | **XOM** | $159.99 | +0.67% | Stable 🟢 |
-| Energy | **CVX** | $208.37 | +0.91% | Stable 🟢 |
-| Energy | **COP** | $136.12 | +0.84% | Stable 🟢 |
-| Tech | **TSLA** | $345.82 | -7.64% | Stable 🔴 |
-| Tech | **AAPL** | $342.56 | -1.90% | Stable 🔴 |
-| Tech | **MSFT** | $484.52 | -2.77% | Stable 🔴 |
-| Tech | **GOOGL** | $265.29 | -2.70% | ✅ Oversale 🔴 |
-| Tech | **NVDA** | $125.53 | -14.01% | ✅ Oversale 🔴 |
-| Finance | **JPM** | $310.53 | -3.03% | ✅ Oversale 🔴 |
-| Finance | **BAC** | $47.04 | -3.15% | ✅ Oversale 🔴 |
-| Finance | **GS** | $790.69 | -6.71% | ✅ Oversale 🔴 |
-| Precious Metals | **GC=F** | $3,515.40 | -4.62% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $41.07 | -7.33% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $36.14 | -2.88% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the USA market data:
-
-1.  **Market Trend**: Capital is clearly rotating out of Technology, Finance, and Precious Metals, evidenced by widespread declines and numerous "Oversale" signals across these sectors. In contrast, the Energy sector is showing positive momentum, indicating a flight to defensive or value plays amidst broader market weakness.
