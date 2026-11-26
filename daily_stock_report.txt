@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 26/11/2026 09:01:28
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $586.63 | +2.62% | Stable 🟢 |
+| Military | **RTX** | $195.33 | +0.29% | Stable 🟢 |
+| Military | **NOC** | $550.84 | +1.60% | Stable 🟢 |
+| Energy | **XOM** | $158.23 | +0.85% | ✅ Oversale 🟢 |
+| Energy | **CVX** | $208.73 | +1.24% | Stable 🟢 |
+| Energy | **COP** | $134.64 | +1.85% | Stable 🟢 |
+| Tech | **TSLA** | $384.68 | -0.20% | Stable 🔴 |
+| Tech | **AAPL** | $354.07 | +1.43% | Stable 🟢 |
+| Tech | **MSFT** | $496.13 | +0.74% | Stable 🟢 |
+| Tech | **GOOGL** | $279.05 | -1.08% | Stable 🔴 |
+| Tech | **NVDA** | $155.38 | -5.86% | Stable 🔴 |
+| Finance | **JPM** | $317.10 | +0.14% | Stable 🟢 |
+| Finance | **BAC** | $48.56 | +0.87% | Stable 🟢 |
+| Finance | **GS** | $806.02 | -2.14% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,590.00 | +0.79% | Stable 🟢 |
+| Precious Metals | **SI=F** | $41.24 | +1.18% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $36.96 | -2.84% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the provided market data:
+
+*   **Market Trend**: Money is predominantly flowing into the Military and Energy sectors, both showing strong positive performance across the board. Conversely, the Technology and Finance sectors are mixed, with several major names experiencing notable declines, indicating selective profit-taking or underlying concerns.
+*   **Key Tickers to Watch**: **NVDA** stands out with a significant -5.86% drop, signaling strong bearish pressure or a major profit-taking event that warrants careful observation. Additionally, **XOM** is flagged as "Oversale" despite its gain, indicating potential undervaluation or an attractive entry point within a strong sector.
+*   **Actionable Strategy**: Consider accumulating or maintaining positions in the stable, upward-trending Military and Energy sectors, specifically investigating **XOM** for its "Oversale" status as a potential buying opportunity. For technology stocks like **NVDA**, adopt a "wait and watch" approach to monitor for stabilization before considering any entry or exit strategies.
+----------------------------------------
+
 ### 📊 USA Market Update - 26/11/2026 08:01:31
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here's your market analysis:
 | Military | **NOC** | $557.48 | +2.83% | Stable 🟢 |
 | Energy | **XOM** | $158.60 | +1.08% | ✅ Oversale 🟢 |
 | Energy | **CVX** | $209.62 | +1.67% | Stable 🟢 |
-| Energy | **COP** | $134.68 | +1.89% | Stable 🟢 |
-| Tech | **TSLA** | $377.77 | -1.99% | Stable 🔴 |
-| Tech | **AAPL** | $351.16 | +0.60% | Stable 🟢 |
-| Tech | **MSFT** | $497.29 | +0.97% | Stable 🟢 |
-| Tech | **GOOGL** | $277.05 | -1.79% | Stable 🔴 |
-| Tech | **NVDA** | $150.97 | -8.53% | Stable 🔴 |
-| Finance | **JPM** | $316.41 | -0.08% | Stable 🔴 |
-| Finance | **BAC** | $48.46 | +0.65% | Stable 🟢 |
-| Finance | **GS** | $803.27 | -2.47% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,567.60 | -2.30% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $40.72 | -5.62% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $36.90 | -3.00% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is a concise, actionable report:
-
-1.  **Market Trend**: Capital is decisively flowing into the Military and Energy sectors, indicating a defensive and commodity-focused sentiment with robust positive performance. Conversely, there's a significant exit from Precious Metals, while key Technology and some Finance stocks show mixed to negative performance.
-2.  **Key Tickers to Watch**: **NVDA** experienced a notable -8.53% drop, signaling significant bearish pressure and potential volatility within the tech space. Simultaneously, **SI=F** is flagged as "Oversale" following a -5.62% decline, presenting a potential technical rebound opportunity or an attractive entry for long-term value.
-3.  **Actionable Strategy**: Investors should consider accumulating positions in oversold Precious Metals like SI=F, pending confirmation of a reversal in trend. For NVDA, a "Wait & Watch" approach is prudent to assess if the sharp decline is a temporary correction or the start of a new downtrend.
-----------------------------------------
-
-### 📊 USA Market Update - 24/11/2026 23:01:32
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $585.18 | +2.36% | Stable 🟢 |
-| Military | **RTX** | $195.63 | +0.44% | Stable 🟢 |
-| Military | **NOC** | $555.58 | +2.48% | Stable 🟢 |
-| Energy | **XOM** | $158.43 | +0.98% | ✅ Oversale 🟢 |
-| Energy | **CVX** | $209.51 | +1.62% | Stable 🟢 |
