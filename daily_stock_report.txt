@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 26/11/2026 08:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $586.63 | +2.62% | Stable 🟢 |
+| Military | **RTX** | $195.33 | +0.29% | Stable 🟢 |
+| Military | **NOC** | $550.84 | +1.60% | Stable 🟢 |
+| Energy | **XOM** | $158.23 | +0.85% | ✅ Oversale 🟢 |
+| Energy | **CVX** | $208.73 | +1.24% | Stable 🟢 |
+| Energy | **COP** | $134.64 | +1.85% | Stable 🟢 |
+| Tech | **TSLA** | $384.68 | -0.20% | Stable 🔴 |
+| Tech | **AAPL** | $354.07 | +1.43% | Stable 🟢 |
+| Tech | **MSFT** | $496.13 | +0.74% | Stable 🟢 |
+| Tech | **GOOGL** | $279.05 | -1.08% | Stable 🔴 |
+| Tech | **NVDA** | $155.38 | -5.86% | Stable 🔴 |
+| Finance | **JPM** | $317.10 | +0.14% | Stable 🟢 |
+| Finance | **BAC** | $48.56 | +0.87% | Stable 🟢 |
+| Finance | **GS** | $806.02 | -2.14% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,591.30 | +0.83% | Stable 🟢 |
+| Precious Metals | **SI=F** | $41.52 | +1.86% | ✅ Oversale 🟢 |
+| Precious Metals | **GOLD** | $36.96 | -2.84% | Stable 🔴 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the provided market data:
+
+1.  **Market Trend**: Money is primarily flowing into defensive sectors such as Military and Energy, alongside Precious Metals futures, indicating a preference for stability and potential inflation hedges. Conversely, the Technology sector shows notable weakness with significant outflows from high-growth names like NVDA and GOOGL, coupled with a substantial drop in GS within Finance.
+2.  **Key Tickers to Watch**: NVDA warrants close attention following a sharp -5.86% decline, signaling either further bearish momentum or a potential short-term oversold bounce. Simultaneously, XOM (+0.85%) and SI=F (+1.86%) are both marked "Oversale" and showing positive movement, suggesting strong buying interest emerging from previously undervalued or oversold positions.
+3.  **Actionable Strategy**: Accumulate positions in Energy (XOM) and Precious Metals futures (SI=F) given their "Oversale" status combined with current positive momentum. For the Tech sector, adopt a "Wait & Watch" approach on NVDA until price action stabilizes, and consider taking profit or setting tight stop-losses on any existing long positions in underperforming tech or finance stocks like GS.
+----------------------------------------
+
 ### 📊 USA Market Update - 26/11/2026 07:01:31
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,29 +1030,3 @@ Here is a concise, actionable report:
 | Military | **NOC** | $555.58 | +2.48% | Stable 🟢 |
 | Energy | **XOM** | $158.43 | +0.98% | ✅ Oversale 🟢 |
 | Energy | **CVX** | $209.51 | +1.62% | Stable 🟢 |
-| Energy | **COP** | $135.02 | +2.14% | Stable 🟢 |
-| Tech | **TSLA** | $378.53 | -1.80% | Stable 🔴 |
-| Tech | **AAPL** | $350.46 | +0.40% | Stable 🟢 |
-| Tech | **MSFT** | $494.39 | +0.38% | Stable 🟢 |
-| Tech | **GOOGL** | $277.88 | -1.50% | Stable 🔴 |
-| Tech | **NVDA** | $151.40 | -8.27% | Stable 🔴 |
-| Finance | **JPM** | $314.58 | -0.66% | Stable 🔴 |
-| Finance | **BAC** | $48.27 | +0.27% | Stable 🟢 |
-| Finance | **GS** | $794.77 | -3.50% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,578.40 | -2.00% | Stable 🔴 |
-| Precious Metals | **SI=F** | $40.94 | -5.10% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $36.84 | -3.16% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here's an analysis of the provided market data:
-
-1.  **Market Trend**: Capital is flowing robustly into the Military and Energy sectors, with all tickers showing positive growth (up to +2.48%), indicating a defensive preference and strong performance. Conversely, there's a significant outflow from several Tech stocks, led by NVDA's sharp 8.27% drop, and a broad decline across Precious Metals, suggesting risk aversion in these areas.
-2.  **Key Tickers to Watch**: Keep a close eye on **NVDA** due to its substantial 8.27% single-session decline, which could present either a buying opportunity on extreme weakness or signal further downward pressure. Additionally, **SI=F** is flagged "Oversale" after a 5.10% drop, potentially indicating a short-term bounce opportunity.
-3.  **Actionable Strategy**: **Accumulate** positions in robust Military and Energy sectors, or maintain existing holdings, given their strong positive momentum. For NVDA, **Wait & Watch** for stabilization before considering new positions; however, for SI=F, a cautious **Accumulate on Dips** strategy could be considered given its oversold status.
-----------------------------------------
-
-### 📊 USA Market Update - 24/11/2026 22:01:36
-
