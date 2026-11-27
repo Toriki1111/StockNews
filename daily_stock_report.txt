@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 27/11/2026 07:01:29
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $599.24 | +2.15% | Stable 🟢 |
+| Military | **RTX** | $196.19 | +0.44% | Stable 🟢 |
+| Military | **NOC** | $555.79 | +0.90% | Stable 🟢 |
+| Energy | **XOM** | $158.08 | -0.09% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $210.95 | +1.06% | Stable 🟢 |
+| Energy | **COP** | $135.02 | +0.28% | Stable 🟢 |
+| Tech | **TSLA** | $380.14 | -1.18% | Stable 🔴 |
+| Tech | **AAPL** | $355.58 | +0.43% | Stable 🟢 |
+| Tech | **MSFT** | $489.93 | -1.25% | Stable 🔴 |
+| Tech | **GOOGL** | $273.10 | -2.13% | Stable 🔴 |
+| Tech | **NVDA** | $149.30 | -3.91% | Stable 🔴 |
+| Finance | **JPM** | $316.74 | -0.11% | Stable 🔴 |
+| Finance | **BAC** | $48.54 | -0.04% | Stable 🔴 |
+| Finance | **GS** | $801.03 | -0.62% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,593.30 | +1.63% | Stable 🟢 |
+| Precious Metals | **SI=F** | $41.71 | +4.14% | Stable 🟢 |
+| Precious Metals | **GOLD** | $38.85 | +5.11% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is a concise, actionable report:
+
+1.  **Market Trend**: Capital is clearly shifting towards defensive assets and inflation hedges, with strong inflows into the Military sector (all tickers positive) and a significant surge in Precious Metals (GOLD, SI=F, GC=F all showing robust gains). Conversely, there's a notable outflow from the Technology sector (NVDA, GOOGL, MSFT, TSLA all down significantly) and slight weakness in Finance.
+2.  **Key Tickers to Watch**: `XOM` is flagged as "Oversale," presenting a potential technical rebound opportunity from current levels. Additionally, `GOLD`'s substantial +5.11% surge indicates strong underlying momentum, reflecting a flight to safety or inflation concerns.
+3.  **Actionable Strategy**: Consider accumulating positions in `XOM` on its oversale signal for a potential short-term bounce, and maintain exposure to the resilient Military sector. For Precious Metals, a "Wait & Watch" approach is advised after the significant surge, looking for confirmation of sustained upward momentum or consolidation before adding new positions.
+----------------------------------------
+
 ### 📊 USA Market Update - 27/11/2026 06:01:32
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is your market update:
 | Tech | **AAPL** | $346.10 | -2.25% | Stable 🔴 |
 | Tech | **MSFT** | $478.20 | -3.61% | Stable 🔴 |
 | Tech | **GOOGL** | $264.70 | -5.14% | Stable 🔴 |
-| Tech | **NVDA** | $142.70 | -8.16% | Stable 🔴 |
-| Finance | **JPM** | $311.86 | -1.65% | Stable 🔴 |
-| Finance | **BAC** | $47.71 | -1.76% | Stable 🔴 |
-| Finance | **GS** | $779.19 | -3.33% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,470.90 | -2.55% | ✅ Oversale 🔴 |
-| Precious Metals | **SI=F** | $38.86 | -4.66% | ✅ Oversale 🔴 |
-| Precious Metals | **GOLD** | $36.83 | -0.35% | Stable 🔴 |
-
-
----
-### AI Financial Advisor:
-
-Here is your concise, actionable market report:
-
-*   **Market Trend**: Money is clearly exiting the high-growth Tech and Finance sectors, experiencing significant declines across the board. Conversely, the Energy sector demonstrates strong positive momentum, suggesting a flight to more stable or value-oriented assets.
-*   **Key Tickers to Watch**: NVDA's extreme -8.16% drop demands close monitoring for further volatility or a potential oversold bounce, while SI=F, down -4.66% and flagged "Oversale," signals a potential near-term bottoming opportunity in precious metals futures.
-*   **Actionable Strategy**: For Tech, particularly NVDA, a "Wait & Watch" approach is advised given the severe declines, avoiding catching a falling knife. Meanwhile, consider initiating "Accumulate" positions in the Energy sector, especially XOM, which shows a positive trend amidst an "Oversale" signal.
-----------------------------------------
-
-### 📊 USA Market Update - 25/11/2026 22:01:37
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $589.69 | +0.52% | Stable 🟢 |
-| Military | **RTX** | $193.22 | -1.08% | Stable 🔴 |
-| Military | **NOC** | $549.13 | -0.31% | Stable 🔴 |
-| Energy | **XOM** | $159.18 | +0.60% | Stable 🟢 |
-| Energy | **CVX** | $210.82 | +1.00% | Stable 🟢 |
-| Energy | **COP** | $135.80 | +0.86% | Stable 🟢 |
-| Tech | **TSLA** | $364.04 | -5.37% | Stable 🔴 |
-| Tech | **AAPL** | $350.98 | -0.87% | Stable 🔴 |
-| Tech | **MSFT** | $483.35 | -2.58% | Stable 🔴 |
-| Tech | **GOOGL** | $267.72 | -4.06% | Stable 🔴 |
