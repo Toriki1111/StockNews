@@ -1,3 +1,37 @@
+### 📊 USA Market Update - 27/11/2026 20:01:30
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $599.24 | +2.15% | Stable 🟢 |
+| Military | **RTX** | $196.19 | +0.44% | Stable 🟢 |
+| Military | **NOC** | $555.79 | +0.90% | Stable 🟢 |
+| Energy | **XOM** | $158.08 | -0.09% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $210.95 | +1.06% | Stable 🟢 |
+| Energy | **COP** | $135.02 | +0.28% | Stable 🟢 |
+| Tech | **TSLA** | $380.14 | -1.18% | Stable 🔴 |
+| Tech | **AAPL** | $355.58 | +0.43% | Stable 🟢 |
+| Tech | **MSFT** | $489.93 | -1.25% | Stable 🔴 |
+| Tech | **GOOGL** | $273.10 | -2.13% | Stable 🔴 |
+| Tech | **NVDA** | $149.30 | -3.91% | Stable 🔴 |
+| Finance | **JPM** | $316.74 | -0.11% | Stable 🔴 |
+| Finance | **BAC** | $48.54 | -0.04% | Stable 🔴 |
+| Finance | **GS** | $801.03 | -0.62% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,692.40 | +4.43% | Stable 🟢 |
+| Precious Metals | **SI=F** | $44.17 | +10.27% | Stable 🟢 |
+| Precious Metals | **GOLD** | $38.85 | +5.11% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is an analysis of the provided market data:
+
+*   **Market Trend**: Money is clearly flowing into Precious Metals and the Military sector, indicating a potential flight to safety or inflation hedging amid geopolitical factors. Conversely, the Technology and Finance sectors are seeing broad outflows, suggesting significant risk-off sentiment.
+
+*   **Key Tickers to Watch**: **SI=F (Silver Futures)** experienced a striking +10.27% surge, reflecting intense demand for precious metals. **XOM (ExxonMobil)** is flagged as "Oversale" despite only a marginal dip, potentially presenting a tactical entry point if the oversale status is robust.
+
+*   **Actionable Strategy**: Consider accumulating positions in precious metals (e.g., SI=F, GC=F) to capitalize on their strong upward momentum and perceived safe-haven status. For XOM, a speculative buy with a tight stop-loss might be considered, while for Tech and Finance, a "Wait & Watch" strategy is prudent until clearer positive catalysts emerge.
+----------------------------------------
+
 ### 📊 USA Market Update - 27/11/2026 19:01:32
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -996,37 +1030,5 @@ Here is an analysis of the provided market data:
 }
 )*
 
-----------------------------------------
-
-### 📊 USA Market Update - 26/11/2026 12:01:27
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $599.24 | +2.15% | Stable 🟢 |
-| Military | **RTX** | $196.19 | +0.44% | Stable 🟢 |
-| Military | **NOC** | $555.79 | +0.90% | Stable 🟢 |
-| Energy | **XOM** | $158.08 | -0.09% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $210.95 | +1.06% | Stable 🟢 |
-| Energy | **COP** | $135.02 | +0.28% | Stable 🟢 |
-| Tech | **TSLA** | $380.14 | -1.18% | Stable 🔴 |
-| Tech | **AAPL** | $355.58 | +0.43% | Stable 🟢 |
-| Tech | **MSFT** | $489.93 | -1.25% | Stable 🔴 |
-| Tech | **GOOGL** | $273.10 | -2.13% | Stable 🔴 |
-| Tech | **NVDA** | $149.30 | -3.91% | Stable 🔴 |
-| Finance | **JPM** | $316.74 | -0.11% | Stable 🔴 |
-| Finance | **BAC** | $48.54 | -0.04% | Stable 🔴 |
-| Finance | **GS** | $801.03 | -0.62% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,623.70 | +2.49% | Stable 🟢 |
-| Precious Metals | **SI=F** | $42.17 | +5.28% | Stable 🟢 |
-| Precious Metals | **GOLD** | $38.85 | +5.11% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is your market analysis:
-
-1.  **Market Trend**: Capital is clearly flowing into defensive and commodity-linked assets, with Precious Metals and Military sectors showing strong positive momentum. Conversely, Technology and Finance sectors are experiencing broad declines, indicating a risk-off sentiment among investors.
-2.  **Key Tickers to Watch**: **SI=F** and **GOLD** are notable for their significant surges (+5.28% and +5.11% respectively), pointing to robust demand for precious metals. On the other hand, **NVDA**'s substantial -3.91% drop highlights significant selling pressure within the technology sector.
-3.  **Actionable Strategy**: Accumulate positions in Precious Metals (e.g., **GC=F, SI=F, GOLD**) to capitalize on their strong upward trend. For the Technology sector, adopt a Wait & Watch approach, particularly for tickers like **NVDA**, as current significant declines suggest potential further downside or a need for market re-evaluation.
 ----------------------------------------
 
