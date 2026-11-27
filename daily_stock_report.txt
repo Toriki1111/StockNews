@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 27/11/2026 15:01:24
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $599.24 | +2.15% | Stable 🟢 |
+| Military | **RTX** | $196.19 | +0.44% | Stable 🟢 |
+| Military | **NOC** | $555.79 | +0.90% | Stable 🟢 |
+| Energy | **XOM** | $158.08 | -0.09% | ✅ Oversale 🔴 |
+| Energy | **CVX** | $210.95 | +1.06% | Stable 🟢 |
+| Energy | **COP** | $135.02 | +0.28% | Stable 🟢 |
+| Tech | **TSLA** | $380.14 | -1.18% | Stable 🔴 |
+| Tech | **AAPL** | $355.58 | +0.43% | Stable 🟢 |
+| Tech | **MSFT** | $489.93 | -1.25% | Stable 🔴 |
+| Tech | **GOOGL** | $273.10 | -2.13% | Stable 🔴 |
+| Tech | **NVDA** | $149.30 | -3.91% | Stable 🔴 |
+| Finance | **JPM** | $316.74 | -0.11% | Stable 🔴 |
+| Finance | **BAC** | $48.54 | -0.04% | Stable 🔴 |
+| Finance | **GS** | $801.03 | -0.62% | Stable 🔴 |
+| Precious Metals | **GC=F** | $3,692.80 | +4.44% | Stable 🟢 |
+| Precious Metals | **SI=F** | $44.63 | +11.44% | Stable 🟢 |
+| Precious Metals | **GOLD** | $38.85 | +5.11% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise market analysis:
+
+*   **Market Trend**: Capital is actively flowing into defensive sectors such as Military and, notably, Precious Metals, which are experiencing significant rallies. Conversely, the Technology and Finance sectors are broadly facing selling pressure, indicating a risk-off sentiment or profit-taking.
+*   **Key Tickers to Watch**: **SI=F (Silver Futures)** shows an exceptional 11.44% surge, signaling robust safe-haven demand, while **XOM (ExxonMobil)** is flagged as 'Oversale' after a minor dip, potentially setting it up for a rebound.
+*   **Actionable Strategy**: Consider taking partial profits in **Precious Metals** to de-risk positions, while **XOM** presents a potential accumulation opportunity given its 'Oversale' status. For the struggling Tech and Finance sectors, adopt a 'Wait & Watch' strategy for clearer entry signals.
+----------------------------------------
+
 ### 📊 USA Market Update - 27/11/2026 14:01:28
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -998,35 +1030,3 @@ Here is an analysis of the provided market data:
 3.  **Actionable Strategy**: Accumulate positions in Energy (XOM) and Precious Metals futures (SI=F) given their "Oversale" status combined with current positive momentum. For the Tech sector, adopt a "Wait & Watch" approach on NVDA until price action stabilizes, and consider taking profit or setting tight stop-losses on any existing long positions in underperforming tech or finance stocks like GS.
 ----------------------------------------
 
-### 📊 USA Market Update - 26/11/2026 07:01:31
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $599.24 | +2.15% | Stable 🟢 |
-| Military | **RTX** | $196.19 | +0.44% | Stable 🟢 |
-| Military | **NOC** | $555.79 | +0.90% | Stable 🟢 |
-| Energy | **XOM** | $158.08 | -0.09% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $210.95 | +1.06% | Stable 🟢 |
-| Energy | **COP** | $135.02 | +0.28% | Stable 🟢 |
-| Tech | **TSLA** | $380.14 | -1.18% | Stable 🔴 |
-| Tech | **AAPL** | $355.58 | +0.43% | Stable 🟢 |
-| Tech | **MSFT** | $489.93 | -1.25% | Stable 🔴 |
-| Tech | **GOOGL** | $273.10 | -2.13% | Stable 🔴 |
-| Tech | **NVDA** | $149.30 | -3.91% | Stable 🔴 |
-| Finance | **JPM** | $316.74 | -0.11% | Stable 🔴 |
-| Finance | **BAC** | $48.54 | -0.04% | Stable 🔴 |
-| Finance | **GS** | $801.03 | -0.62% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,607.70 | +1.29% | Stable 🟢 |
-| Precious Metals | **SI=F** | $41.69 | +2.27% | ✅ Oversale 🟢 |
-| Precious Metals | **GOLD** | $38.85 | +5.11% | Stable 🟢 |
-
-
-*(Connection Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=15))*
-
-----------------------------------------
-
-### 📊 USA Market Update - 26/11/2026 06:01:31
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $599.24 | +2.15% | Stable 🟢 |
-| Military | **RTX** | $196.19 | +0.44% | Stable 🟢 |
-| Military | **NOC** | $555.79 | +0.90% | Stable 🟢 |
