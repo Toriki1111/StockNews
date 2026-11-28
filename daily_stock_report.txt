@@ -1,3 +1,35 @@
+### 📊 USA Market Update - 28/11/2026 12:01:31
+
+| Sector | Ticker | Price (USD) | Change (%) | Status |
+| Military | **LMT** | $605.88 | +1.11% | Stable 🟢 |
+| Military | **RTX** | $198.48 | +1.17% | Stable 🟢 |
+| Military | **NOC** | $561.47 | +1.02% | Stable 🟢 |
+| Energy | **XOM** | $160.18 | +1.33% | Stable 🟢 |
+| Energy | **CVX** | $212.45 | +0.71% | Stable 🟢 |
+| Energy | **COP** | $136.80 | +1.32% | Stable 🟢 |
+| Tech | **TSLA** | $400.00 | +5.22% | Stable 🟢 |
+| Tech | **AAPL** | $358.54 | +0.83% | Stable 🟢 |
+| Tech | **MSFT** | $492.85 | +0.60% | Stable 🟢 |
+| Tech | **GOOGL** | $274.96 | +0.68% | Stable 🟢 |
+| Tech | **NVDA** | $150.49 | +0.80% | Stable 🟢 |
+| Finance | **JPM** | $322.96 | +1.96% | Stable 🟢 |
+| Finance | **BAC** | $49.07 | +1.09% | Stable 🟢 |
+| Finance | **GS** | $812.87 | +1.48% | Stable 🟢 |
+| Precious Metals | **GC=F** | $3,639.60 | +2.94% | Stable 🟢 |
+| Precious Metals | **SI=F** | $43.17 | +7.78% | Stable 🟢 |
+| Precious Metals | **GOLD** | $40.20 | +3.47% | Stable 🟢 |
+
+
+---
+### AI Financial Advisor:
+
+Here is your concise, actionable report:
+
+1.  **Market Trend**: Capital is heavily flowing into Precious Metals, which are leading all sectors with robust gains, particularly in Silver. Technology also shows significant strength, largely driven by TSLA's remarkable surge, while Finance, Military, and Energy sectors demonstrate consistent positive momentum.
+2.  **Key Tickers to Watch**: **SI=F (Silver Futures)** is flashing a major technical signal with an exceptional +7.78% surge, indicating strong bullish sentiment. **TSLA** also warrants close observation, having experienced a significant +5.22% price jump, potentially signaling a new upward trend or a short-term rally.
+3.  **Actionable Strategy**: Given the substantial gains in Precious Metals, particularly SI=F, consider taking partial profits to de-risk and rebalance portfolios. For TSLA, 'Wait & Watch' for the upcoming session to confirm sustained momentum or a potential pullback before accumulating new positions.
+----------------------------------------
+
 ### 📊 USA Market Update - 28/11/2026 11:01:30
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
@@ -989,38 +1021,6 @@ Here is your concise, actionable report:
 ----------------------------------------
 
 ### 📊 USA Market Update - 27/11/2026 03:01:25
-
-| Sector | Ticker | Price (USD) | Change (%) | Status |
-| Military | **LMT** | $599.24 | +2.15% | Stable 🟢 |
-| Military | **RTX** | $196.19 | +0.44% | Stable 🟢 |
-| Military | **NOC** | $555.79 | +0.90% | Stable 🟢 |
-| Energy | **XOM** | $158.08 | -0.09% | ✅ Oversale 🔴 |
-| Energy | **CVX** | $210.95 | +1.06% | Stable 🟢 |
-| Energy | **COP** | $135.02 | +0.28% | Stable 🟢 |
-| Tech | **TSLA** | $380.14 | -1.18% | Stable 🔴 |
-| Tech | **AAPL** | $355.58 | +0.43% | Stable 🟢 |
-| Tech | **MSFT** | $489.93 | -1.25% | Stable 🔴 |
-| Tech | **GOOGL** | $273.10 | -2.13% | Stable 🔴 |
-| Tech | **NVDA** | $149.30 | -3.91% | Stable 🔴 |
-| Finance | **JPM** | $316.74 | -0.11% | Stable 🔴 |
-| Finance | **BAC** | $48.54 | -0.04% | Stable 🔴 |
-| Finance | **GS** | $801.03 | -0.62% | Stable 🔴 |
-| Precious Metals | **GC=F** | $3,593.40 | +1.63% | Stable 🟢 |
-| Precious Metals | **SI=F** | $41.75 | +4.24% | Stable 🟢 |
-| Precious Metals | **GOLD** | $38.85 | +5.11% | Stable 🟢 |
-
-
----
-### AI Financial Advisor:
-
-Here is an analysis of the provided market data:
-
-1.  **Market Trend**: Capital is clearly rotating into defensive sectors like Precious Metals and Military, reflecting a flight to safety or inflation concerns. Concurrently, Technology and Finance sectors are experiencing noticeable outflows, indicating broader risk aversion.
-2.  **Key Tickers to Watch**: XOM is flagged as "Oversale" despite a marginal dip, potentially offering a strategic entry point for investors bullish on the energy sector. Concurrently, GOLD exhibits a strong surge of +5.11%, signaling robust demand for safe-haven assets amidst market uncertainty.
-3.  **Actionable Strategy**: Consider strategic accumulation in oversold energy assets like XOM for a potential rebound. For Precious Metals like GOLD, prudent investors might look to take partial profits or set protective stop-losses, while new entrants should wait for consolidation before initiating positions.
-----------------------------------------
-
-### 📊 USA Market Update - 27/11/2026 02:01:25
 
 | Sector | Ticker | Price (USD) | Change (%) | Status |
 | Military | **LMT** | $599.24 | +2.15% | Stable 🟢 |
